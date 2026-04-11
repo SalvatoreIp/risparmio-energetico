@@ -1,0 +1,53 @@
+baseURL = "https://TUODOMINIO.it/"
+languageCode = "it-IT"
+title = "RisparmioEnergetico.it"
+theme = "PaperMod"
+
+[params]
+    description = "Guide pratiche su fotovoltaico, smart home, pompe di calore e incentivi 2026 per risparmiare energia in casa"
+    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "incentivi", "guide"]
+
+    [params.homeInfoParams]
+        Title = "Risparmia Energia, Risparmia Denaro 💡"
+        Content = "Guide aggiornate su fotovoltaico, smart home, pompe di calore e tutti i bonus 2026."
+
+[[menu.main]]
+    identifier = "fotovoltaico"
+    name = "☀️ Fotovoltaico"
+    url = "/fotovoltaico/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "smart-home"
+    name = "🏠 Smart Home"
+    url = "/smart-home/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "riscaldamento"
+    name = "🔥 Riscaldamento"
+    url = "/riscaldamento/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "incentivi"
+    name = "💰 Incentivi"
+    url = "/incentivi/"
+    weight = 40
+
+[[menu.main]]
+    identifier = "guide"
+    name = "📖 Guide"
+    url = "/guide/"
+    weight = 50
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+canonifyURLs = false
+relativeURLs = false

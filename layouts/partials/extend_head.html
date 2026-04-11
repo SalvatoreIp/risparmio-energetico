@@ -1,0 +1,39 @@
+<style>
+#cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    z-index: 9999;
+    display: none;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
+}
+#cookie-banner.show { display: block; }
+#cookie-banner p { margin: 0 0 15px 0; font-size: 14px; line-height: 1.6; }
+#cookie-banner a { color: #3498db; text-decoration: underline; }
+#cookie-banner button { background: #27ae60; color: white; border: none; padding: 10px 25px; margin: 0 5px; cursor: pointer; border-radius: 5px; font-size: 14px; font-weight: 600; }
+#cookie-banner button:hover { background: #229954; }
+#cookie-banner .btn-secondary { background: #95a5a6; }
+#cookie-banner .btn-secondary:hover { background: #7f8c8d; }
+#cookie-settings { display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background: white; color: #2c3e50; padding: 30px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); z-index: 10000; max-width: 600px; width: 90%; max-height: 80vh; overflow-y: auto; }
+#cookie-settings.show { display: block; }
+#cookie-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.7); z-index: 9998; }
+#cookie-overlay.show { display: block; }
+.cookie-category { margin: 15px 0; padding: 15px; background: #ecf0f1; border-radius: 5px; }
+.cookie-category label { display: flex; align-items: center; cursor: pointer; font-weight: 600; }
+.cookie-category input[type="checkbox"] { margin-right: 10px; width: 20px; height: 20px; }
+.cookie-category p { margin: 10px 0 0 30px; font-size: 13px; color: #555; }
+</style>
+
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BNK67M8105"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BNK67M8105');
+</script>

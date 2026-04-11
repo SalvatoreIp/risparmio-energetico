@@ -1,0 +1,117 @@
+<!-- Cookie Banner HTML -->
+<div id="cookie-overlay"></div>
+
+<div id="cookie-banner">
+    <p>🍪 Questo sito utilizza cookie tecnici essenziali e, previo consenso, cookie analitici. 
+    <a href="/privacy" style="color: #3498db;">Leggi la Privacy Policy</a></p>
+    <button onclick="acceptAllCookies()">Accetta tutti</button>
+    <button class="btn-secondary" onclick="showCookieSettings()">Personalizza</button>
+    <button class="btn-secondary" onclick="rejectAllCookies()">Rifiuta</button>
+</div>
+
+<div id="cookie-settings">
+    <h2>⚙️ Impostazioni Cookie</h2>
+    <div class="cookie-category">
+        <label>
+            <input type="checkbox" id="cookie-necessary" checked disabled>
+            Cookie Tecnici (Obbligatori)
+        </label>
+        <p>Necessari per il funzionamento del sito. Non possono essere disabilitati.</p>
+    </div>
+    
+    <div class="cookie-category">
+        <label>
+            <input type="checkbox" id="cookie-analytics">
+            Cookie Analitici
+        </label>
+        <p>Ci aiutano a capire come i visitatori interagiscono con il sito.</p>
+    </div>
+    
+    <div class="cookie-category">
+        <label>
+            <input type="checkbox" id="cookie-marketing">
+            Cookie di Marketing
+        </label>
+        <p>Per mostrare contenuti personalizzati e misurare le performance.</p>
+    </div>
+    
+    <button onclick="saveCustomSettings()" style="background: #27ae60; color: white; border: none; padding: 10px 25px; margin: 10px 5px 0 0; cursor: pointer; border-radius: 5px;">Salva preferenze</button>
+    <button onclick="hideCookieSettings()" style="background: #95a5a6; color: white; border: none; padding: 10px 25px; margin: 10px 0 0 5px; cursor: pointer; border-radius: 5px;">Chiudi</button>
+</div>
+
+<script>
+// Cookie management functions
+function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+}
+
+function setCookie(name, value, days) {
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    document.cookie = `${name}=${value};expires=${date.toUTCString()};path=/;SameSite=Lax`;
+}
+
+function acceptAllCookies() {
+    setCookie('cookie_consent', 'all', 365);
+    setCookie('cookie_analytics', 'true', 365);
+    setCookie('cookie_marketing', 'true', 365);
+    document.getElementById('cookie-banner').classList.remove('show');
+    console.log('✅ Tutti i cookie accettati');
+}
+
+function rejectAllCookies() {
+    setCookie('cookie_consent', 'necessary', 365);
+    setCookie('cookie_analytics', 'false', 365);
+    setCookie('cookie_marketing', 'false', 365);
+    document.getElementById('cookie-banner').classList.remove('show');
+    console.log('❌ Solo cookie necessari');
+}
+
+function showCookieSettings() {
+    document.getElementById('cookie-settings').classList.add('show');
+    document.getElementById('cookie-overlay').classList.add('show');
+    document.getElementById('cookie-banner').classList.remove('show');
+    
+    // Carica preferenze salvate
+    document.getElementById('cookie-analytics').checked = getCookie('cookie_analytics') === 'true';
+    document.getElementById('cookie-marketing').checked = getCookie('cookie_marketing') === 'true';
+}
+
+function hideCookieSettings() {
+    document.getElementById('cookie-settings').classList.remove('show');
+    document.getElementById('cookie-overlay').classList.remove('show');
+}
+
+function saveCustomSettings() {
+    const analytics = document.getElementById('cookie-analytics').checked;
+    const marketing = document.getElementById('cookie-marketing').checked;
+    
+    setCookie('cookie_consent', 'custom', 365);
+    setCookie('cookie_analytics', analytics, 365);
+    setCookie('cookie_marketing', marketing, 365);
+    
+    hideCookieSettings();
+    console.log('✅ Preferenze salvate:', { analytics, marketing });
+}
+
+// Funzione globale per link footer
+window.openCookieSettings = function() {
+    showCookieSettings();
+};
+
+// Mostra banner se non ha già scelto
+window.addEventListener('load', function() {
+    const consent = getCookie('cookie_consent');
+    if (!consent) {
+        setTimeout(function() {
+            document.getElementById('cookie-banner').classList.add('show');
+        }, 500);
+    }
+    console.log('Cookie consent status:', consent);
+});
+
+// Chiudi modal cliccando overlay
+document.getElementById('cookie-overlay').addEventListener('click', hideCookieSettings);
+</script>
