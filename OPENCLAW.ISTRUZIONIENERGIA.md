@@ -89,7 +89,7 @@ MAI Browser Relay (siamo su VPS)
 - SEMPRE link Amazon con formato (https://amzn.to/PLACEHOLDER)
 - Dati prezzi: indicare sempre "Prezzo indicativo aprile 2026"
 - Dopo creazione file eseguire SEMPRE:
-  cd /home/salvatore/risparmio-energetico && hugo --minify && npx wrangler pages deploy public --project-name risparmio-energetico --commit-dirty=true && git add . && git commit -m "TITOLO" && git push
+  cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify && npx wrangler pages deploy public --project-name risparmio-energetico --commit-dirty=true && git add . && git commit -m "TITOLO" && git push
 - MAI creare post di test, prova o placeholder
 
 ## FRONTMATTER OBBLIGATORIO
