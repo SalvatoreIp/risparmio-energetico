@@ -47,7 +47,8 @@ Ogni esecuzione:
 
 ### I migliori modelli del 2026
 [Tabella markdown: Nome | Prezzo | Pro | Contro | Link]
-[Link formato: [Nome Prodotto](https://amzn.to/PLACEHOLDER)]
+[Link formato: [Nome Prodotto](https://www.amazon.it/dp/ASIN/?tag=audiobookit-21)]
+[OpenClaw: cerca il prodotto su Amazon.it, trova l'ASIN nell'URL e costruisci il link]
 
 ### Quanto si risparmia davvero
 [Calcolo concreto in euro - dati reali]
@@ -88,7 +89,7 @@ MAI Browser Relay (siamo su VPS)
 - SEMPRE link Amazon con formato (https://amzn.to/PLACEHOLDER)
 - Dati prezzi: indicare sempre "Prezzo indicativo aprile 2026"
 - Dopo creazione file eseguire SEMPRE:
-  cd /home/salvatore/risparmio-energetico && hugo --minify && git add . && git commit -m "TITOLO" && git push
+  cd /home/salvatore/risparmio-energetico && hugo --minify && npx wrangler pages deploy public --project-name risparmio-energetico --commit-dirty=true && git add . && git commit -m "TITOLO" && git push
 - MAI creare post di test, prova o placeholder
 
 ## FRONTMATTER OBBLIGATORIO
