@@ -104,3 +104,4 @@ cover:
   image: "/immagini/slug.jpg"
   alt: "Descrizione immagine"
 ---
+- IMPORTANTE: Inserire link Amazon SOLO per prodotti sotto €500 effettivamente venduti su Amazon.it. Per impianti costosi (pompe di calore, caldaie) linkare pagine informative o comparatori, NON inventare ASIN.
