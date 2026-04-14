@@ -6,7 +6,7 @@ description: "Guida completa ai prezzi del fotovoltaico da tetto nel 2026: costi
 categories: ["illuminazione"]
 tags: ["fotovoltaico", "tetto", "installazione", "prezzi", "energia solare", "risparmio"]
 cover:
-  image: "/immagini/fotovoltaico-tetto-prezzi-2026.jpg"
+  image: "/immagini/fotovoltaico-tetto-prezzi.jpg"
   alt: "Tetto residenziale con pannelli solari installati e illuminazione LED naturale"
 ---
 
