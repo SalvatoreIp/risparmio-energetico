@@ -53,3 +53,5 @@ canonifyURLs = false
 relativeURLs = false
 
 disableKinds = ["taxonomy", "term"]
+
+disableKinds = ["taxonomy", "term"]
