@@ -1,6 +1,6 @@
 baseURL = "https://guida-energia.com/"
 languageCode = "it-IT"
-title = "RisparmioEnergetico.it"
+title = "Guida Energia"
 theme = "PaperMod"
 
 [params]
@@ -51,3 +51,5 @@ theme = "PaperMod"
 
 canonifyURLs = false
 relativeURLs = false
+
+disableKinds = ["taxonomy", "term"]
