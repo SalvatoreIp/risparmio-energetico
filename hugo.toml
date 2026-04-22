@@ -30,6 +30,12 @@ theme = "PaperMod"
     weight = 30
 
 [[menu.main]]
+    identifier = "illuminazione"
+    name = "💡 Illuminazione"
+    url = "/illuminazione/"
+    weight = 35
+
+[[menu.main]]
     identifier = "incentivi"
     name = "💰 Incentivi"
     url = "/incentivi/"
