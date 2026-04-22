@@ -61,3 +61,11 @@ relativeURLs = false
 
 
 disableKinds = ["taxonomy", "term"]
+
+[permalinks]
+  fotovoltaico = "/fotovoltaico/:slug/"
+  smart-home = "/smart-home/:slug/"
+  riscaldamento = "/riscaldamento/:slug/"
+  illuminazione = "/illuminazione/:slug/"
+  incentivi = "/incentivi/:slug/"
+  guide = "/guide/:slug/"
