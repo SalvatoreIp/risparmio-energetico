@@ -1,4 +1,5 @@
 baseURL = "https://guida-energia.com/"
+removePathAccents = true
 languageCode = "it-IT"
 title = "Guida Energia"
 theme = "PaperMod"
