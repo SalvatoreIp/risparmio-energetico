@@ -1,5 +1,4 @@
 name = "risparmio-energetico"
-pages_build_output_dir = "public"
 
 [vars]
-HUGO_VERSION = "extended_0.146.0"
+HUGO_VERSION = "0.146.0"
