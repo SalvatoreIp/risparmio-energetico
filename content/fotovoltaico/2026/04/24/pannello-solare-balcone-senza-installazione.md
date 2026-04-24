@@ -120,13 +120,13 @@ Ecco una comparazione dei migliori pannelli solari plug and play disponibili sul
 - **Produzione stimata**: 360-440 kWh/anno
 - **Ideale per**: Chi cerca qualità europea e affidabilità
 
-🔗 **Dove acquistare** (link placeholder - cerca su Amazon.it per ASIN):
-- [EcoFlow SunJack 400W](https://www.amazon.it/dp/B0XXXXXXX/?tag=audiobookit-21)
-- [Robe Energy Balcony 400W](https://www.amazon.it/dp/B0XXXXXXX/?tag=audiobookit-21)
-- [TerraSolar Balcony 300W](https://www.amazon.it/dp/B0XXXXXXX/?tag=audiobookit-21)
-- [SunPower Mini 350W](https://www.amazon.it/dp/B0XXXXXXX/?tag=audiobookit-21)
-- [LG Chem Balcony 400W](https://www.amazon.it/dp/B0XXXXXXX/?tag=audiobookit-21)
-- [Fronius Balcony 350W](https://www.amazon.it/dp/B0XXXXXXX/?tag=audiobookit-21)
+🔗 **Dove acquistare** (prezzi e disponibilità aggiornati aprile 2026):
+- [XINPUGUANG 300W Plug & Play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21) - 299€
+- [XINPUGUANG 300W Kit Completo](https://www.amazon.it/dp/B0BP7G1ZWZ/?tag=audiobookit-21) - 319€
+- [EcoFlow 60W Portatile](https://www.amazon.it/dp/B0C994ZSSQ/?tag=audiobookit-21) - 349€
+- [MAPLES Solar 800W Kit](https://www.amazon.it/dp/B0C5Y3S4GR/?tag=audiobookit-21) - 399€
+
+*Nota: Cerca su Amazon.it per verificare disponibilità e offerte del momento. Cerca anche i marchi Robe Energy, TerraSolar, SunPower, LG Chem, Fronius nelle categorie "Pannelli Solari da Balcone" o "Fotovoltaico Plug & Play".*
 
 ## **QUANTO SI RISPARMIA DAVVERO CON UN PANNELLO DA BALCONE**
 
