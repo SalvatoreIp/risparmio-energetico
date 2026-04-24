@@ -9,15 +9,15 @@ TAGS="${6:-}"
 cd /home/salvatore/risparmio-energetico || exit 1
 
 case "$SECTION" in
-  "ultimora"|"guerre"|"attualita"|"scienza"|"curiosita"|"economia") ;;
-  *) SECTION="attualita" ;;
+  "fotovoltaico"|"riscaldamento"|"illuminazione"|"smart-home"|"incentivi"|"guide") ;;
+  *) SECTION="guide" ;;
 esac
 
 SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g;s/--*/-/g')
 DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 DATEONLY=$(date -u +"%Y-%m-%d")
 HOUR=$(date -u +"%H")
-FILE="content/$SECTION/$DATEONLY-$HOUR-$SLUG.md"
+FILE="content/$SECTION/$DATEONLY-$SLUG.md"
 
 mkdir -p static/immagini
 mkdir -p "content/$SECTION"
@@ -52,3 +52,9 @@ echo "✅ $FILE creato! ($CHARS caratteri)"
 echo "📋 description: $DESCRIPTION"
 echo "🏷️  tags: $TAGS"
 echo "🔥 Prossimo: git add . && git commit -m '$TITLE' && git push"
+
+# Git push automatico
+git add "$FILE"
+git commit -m "📝 $TITLE"
+git push origin main
+echo "🚀 Pubblicato su Cloudflare!"
