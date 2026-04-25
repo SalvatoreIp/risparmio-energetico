@@ -9,7 +9,7 @@ TAGS="${6:-}"
 cd /home/salvatore/risparmio-energetico || exit 1
 
 case "$SECTION" in
-  "fotovoltaico"|"riscaldamento"|"illuminazione"|"smart-home"|"incentivi"|"guide") ;;
+  "fotovoltaico"|"riscaldamento"|"illuminazione"|"smart-home"|"incentivi"|"guide"|"idroponica") ;;
   *) SECTION="guide" ;;
 esac
 
@@ -42,6 +42,12 @@ cover:
 ---
 
 $BODY_REAL
+
+---
+
+🔔 **Vuoi ricevere ogni giorno le migliori offerte su prodotti per il risparmio energetico, smart home e fotovoltaico?**
+
+👉 [Unisciti al canale Telegram Guida Energia](https://t.me/guidaenergia) — offerte Amazon selezionate ogni giorno!
 MD
 
 chmod 644 "$FILE"
