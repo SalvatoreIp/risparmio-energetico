@@ -70,3 +70,9 @@ disableKinds = ["taxonomy", "term"]
   illuminazione = "/illuminazione/:slug/"
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
+
+[[menu.main]]
+    identifier = "idroponica"
+    name = "🌱 Idroponica"
+    url = "/idroponica/"
+    weight = 45
