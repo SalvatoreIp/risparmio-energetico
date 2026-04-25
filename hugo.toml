@@ -5,8 +5,8 @@ title = "Guida Energia"
 theme = "PaperMod"
 
 [params]
-    description = "Guide pratiche su fotovoltaico, smart home, pompe di calore e incentivi 2026 per risparmiare energia in casa"
-    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "incentivi", "guide"]
+    description = "Guide pratiche su fotovoltaico, smart home, pompe di calore, idroponica, incentivi 2026 per risparmiare energia in casa"
+    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide"]
 
     [params.homeInfoParams]
         Title = "Risparmia Energia, Risparmia Denaro 💡"
@@ -68,6 +68,7 @@ disableKinds = ["taxonomy", "term"]
   smart-home = "/smart-home/:slug/"
   riscaldamento = "/riscaldamento/:slug/"
   illuminazione = "/illuminazione/:slug/"
+  idroponica = "/idroponica/:slug/"
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
 
@@ -75,4 +76,4 @@ disableKinds = ["taxonomy", "term"]
     identifier = "idroponica"
     name = "🌱 Idroponica"
     url = "/idroponica/"
-    weight = 45
+    weight = 40
