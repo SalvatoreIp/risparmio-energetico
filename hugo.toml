@@ -65,10 +65,6 @@ theme = "PaperMod"
 canonifyURLs = false
 relativeURLs = false
 
-
-
-disableKinds = ["taxonomy", "term"]
-
 [permalinks]
   fotovoltaico = "/fotovoltaico/:slug/"
   smart-home = "/smart-home/:slug/"
@@ -78,9 +74,3 @@ disableKinds = ["taxonomy", "term"]
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
   mobilita-sostenibile = "/mobilita-sostenibile/:slug/"
-
-[[menu.main]]
-    identifier = "idroponica"
-    name = "🌱 Idroponica"
-    url = "/idroponica/"
-    weight = 40

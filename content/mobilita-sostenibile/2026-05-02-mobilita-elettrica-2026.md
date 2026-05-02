@@ -1,6 +1,6 @@
 ---
 title: "Mobilità Elettrica 2026: Guida Completa Auto e Colonnine"
-date: 2026-05-02T23:00:00Z
+date: 2026-05-02T23:00:00+02:00
 draft: false
 description: "Guida alla mobilità elettrica 2026: migliori auto elettriche, colonnine domestiche, costi ricarica e incentivi. Scopri quanto risparmi davvero."
 categories: ["mobilita-sostenibile"]
@@ -16,7 +16,7 @@ Passare all'elettrico nel 2026 significa **risparmiare oltre 1.500€ all'anno**
 
 ## Cos'è e come funziona la mobilità elettrica
 
-L'auto elettrica si alimenta esclusivamente con energia elettrica immagazzinata in batterie al litio. Puoi ricaricarla **a casa** con una wallbox, **lavoro** con colonnine dedicate, o **in pubblico** sulle rete di ricarica rapida.
+L'auto elettrica si alimenta esclusivamente con energia elettrica immagazzinata in batterie al litio. Puoi ricaricarla **a casa** con una wallbox, **lavoro** con colonnine dedicate, o **in pubblico** sulla rete di ricarica rapida.
 
 Il vantaggio principale? **Costi di ricarica fino al 70% inferiori** alla benzina, meno manutenzione (niente olio motore, candele, cinghie) e **zero emissioni locali**. Inoltre, dal 2026 molti comuni italiani concedono **accesso ZTL gratuito** e **parcheggio gratuito** per i veicoli elettrici.
 
