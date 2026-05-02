@@ -6,7 +6,7 @@ theme = "PaperMod"
 
 [params]
     description = "Guide pratiche su fotovoltaico, smart home, pompe di calore, idroponica, incentivi 2026 per risparmiare energia in casa"
-    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide"]
+    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide", "mobilita-sostenibile"]
 
     [params.homeInfoParams]
         Title = "Risparmia Energia, Risparmia Denaro 💡"
@@ -48,6 +48,12 @@ theme = "PaperMod"
     url = "/guide/"
     weight = 50
 
+[[menu.main]]
+    identifier = "mobilita-sostenibile"
+    name = "🚗 Mobilità Sostenibile"
+    url = "/mobilita-sostenibile/"
+    weight = 60
+
 [outputs]
     home = ["HTML", "RSS", "JSON"]
 
@@ -71,6 +77,7 @@ disableKinds = ["taxonomy", "term"]
   idroponica = "/idroponica/:slug/"
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
+  mobilita-sostenibile = "/mobilita-sostenibile/:slug/"
 
 [[menu.main]]
     identifier = "idroponica"
