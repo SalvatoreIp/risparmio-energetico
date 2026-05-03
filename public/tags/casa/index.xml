@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Casa on Guida Energia</title><link>https://guida-energia.com/tags/casa/</link><description>Recent content in Casa on Guida Energia</description><generator>Hugo</generator><language>it-IT</language><lastBuildDate>Fri, 01 May 2026 05:00:00 +0000</lastBuildDate><atom:link href="https://guida-energia.com/tags/casa/index.xml" rel="self" type="application/rss+xml"/><item><title>Idroponica in casa: costi, benefici e risparmio energetico nel 2026</title><link>https://guida-energia.com/guide/idroponica-in-casa-costi-benefici-e-risparmio-energetico-nel-2026/</link><pubDate>Fri, 01 May 2026 05:00:00 +0000</pubDate><guid>https://guida-energia.com/guide/idroponica-in-casa-costi-benefici-e-risparmio-energetico-nel-2026/</guid><description>Scopri come l&amp;#39;idroponica in casa può farti risparmiare sull&amp;#39;acquisto di ortaggi freschi. Guida completa a costi, benefici energetici e sistemi da 2026.</description></item><item><title>Luci LED: il risparmio più semplice che puoi fare oggi stesso</title><link>https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/</link><pubDate>Wed, 22 Apr 2026 06:40:00 +0000</pubDate><guid>https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/</guid><description>Sostituire una lampadina tradizionale con una LED ti fa risparmiare l&amp;#39;80% di energia. Scopri i costi, i tempi di ritorno e i migliori modelli del 2026.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Casa on Guida Energia</title>
+    <link>https://guida-energia.com/tags/casa/</link>
+    <description>Recent content in Casa on Guida Energia</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Fri, 01 May 2026 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://guida-energia.com/tags/casa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idroponica in casa: costi, benefici e risparmio energetico nel 2026</title>
+      <link>https://guida-energia.com/guide/idroponica-in-casa-costi-benefici-e-risparmio-energetico-nel-2026/</link>
+      <pubDate>Fri, 01 May 2026 05:00:00 +0000</pubDate>
+      <guid>https://guida-energia.com/guide/idroponica-in-casa-costi-benefici-e-risparmio-energetico-nel-2026/</guid>
+      <description>Scopri come l&amp;#39;idroponica in casa può farti risparmiare sull&amp;#39;acquisto di ortaggi freschi. Guida completa a costi, benefici energetici e sistemi da 2026.</description>
+    </item>
+    <item>
+      <title>Luci LED: il risparmio più semplice che puoi fare oggi stesso</title>
+      <link>https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/</link>
+      <pubDate>Wed, 22 Apr 2026 06:40:00 +0000</pubDate>
+      <guid>https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/</guid>
+      <description>Sostituire una lampadina tradizionale con una LED ti fa risparmiare l&amp;#39;80% di energia. Scopri i costi, i tempi di ritorno e i migliori modelli del 2026.</description>
+    </item>
+  </channel>
+</rss>

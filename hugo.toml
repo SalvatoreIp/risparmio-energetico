@@ -57,6 +57,11 @@ theme = "PaperMod"
 [outputs]
     home = ["HTML", "RSS", "JSON"]
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 [sitemap]
     changefreq = "weekly"
     filename = "sitemap.xml"
@@ -71,6 +76,6 @@ relativeURLs = false
   riscaldamento = "/riscaldamento/:slug/"
   illuminazione = "/illuminazione/:slug/"
   idroponica = "/idroponica/:slug/"
+  mobilita-sostenibile = "/mobilita-sostenibile/:slug/"
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
-  mobilita-sostenibile = "/mobilita-sostenibile/:slug/"
