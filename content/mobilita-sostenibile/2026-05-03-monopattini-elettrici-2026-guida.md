@@ -16,9 +16,9 @@ cover:
 
 <p>I monopattini elettrici sono veicoli a due ruote alimentati da batteria agli ioni di litio, con un motore elettrico che si aziona tramite acceleratore o pedalata. Con una ricarica completa, i modelli moderni percorrono dai 30 ai 60 chilometri, sufficiente per gli spostamenti quotidiani in città.</p>
 
-<p>Il funzionamento è semplice: si sale sul pianale, si attiva l'interruttore principale e si preme il gas per accelerare. La frenata avviene tramite freno a disco, tamburo o elettromagnetico, mentre la batteria si ricarica in 4-6 ore tramite la presa domestica standard. La velocità massima è limitata a 25 km/h per legge, ma molti modelli offrono modalità "turismo" fino a 35-45 km/h.</p>
+<p>Il funzionamento è semplice: si sale sul pianale, si attiva l'interruttore principale e si preme il gas per accelerare. La frenata avviene tramite freno a disco, tamburo o elettromagnetico, mentre la batteria si ricarica in 4-6 ore tramite la presa domestica standard. La velocità massima è limitata a 25 km/h per legge, ma molti modelli offrono modalità turismo fino a 35-45 km/h.</p>
 
-<p>Il costo per ricarica è irrisorio: circa 0,03-0,05 euro per 40 km di autonomia. Confrontato con l'auto (0,15-0,25€/km) o i taxi (1,50-2,00€/km), il risparmio è evidente.</p>
+<p>Il costo per ricarica è irrisorio: circa 0,03-0,05 euro per 40 km di autonomia. Confrontato con l'auto (0,15-0,25 euro/km) o i taxi (1,50-2,00 euro/km), il risparmio è evidente.</p>
 
 <h2>I migliori monopattini elettrici del 2026</h2>
 
@@ -40,28 +40,28 @@ cover:
 <td>549 euro</td>
 <td>Batteria 450Wh, autonomia 55km, display color, IP54</td>
 <td>Pesante (20kg), prezzo medio</td>
-<td><a href="https://www.amazon.it/dp/B0B8YQT6MK?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://amzn.to/42x7Rel" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Ninebot Max G2E</td>
 <td>899 euro</td>
-<td>Autonomia 100km, ruote 10", sospensioni, ricarica veloce</td>
+<td>Autonomia 100km, ruote 10 pollici, sospensioni, ricarica veloce</td>
 <td>Peso elevato, dimensioni</td>
-<td><a href="https://www.amazon.it/dp/B0B3RVP56K?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://amzn.to/4dkQsLU" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Ninebot F25</td>
 <td>299 euro</td>
 <td>Leggero (12,5kg), economico, pieghevole</td>
 <td>Autonomia limitata (35km), potenza inferiore</td>
-<td><a href="https://www.amazon.it/dp/B0B3S15HFB?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://amzn.to/4uLGN7d" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Segway Ninebot F25E II</td>
 <td>399 euro</td>
 <td>Prezzo competitivo, 25km/h, IPX5</td>
 <td>Autonomia 45km, batteria non rimovibile</td>
-<td><a href="https://www.amazon.it/dp/B0B3S166BX?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://amzn.to/4eZEBnI" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -73,8 +73,8 @@ cover:
 <p>Calcoliamo il risparmio concreto su un anno:</p>
 
 <ul>
-<li><strong>Auto urbana:</strong> 10.000 km/anno × 0,20€/km = 2.000 euro (carburante + manutenzione + parcheggio)</li>
-<li><strong>Monopattino:</strong> 10.000 km/anno × 0,001€/km = 10 euro (elettricità) + 20 euro/anno (manutenzione) = 30 euro</li>
+<li><strong>Auto urbana:</strong> 10.000 km/anno x 0,20 euro/km = 2.000 euro (carburante + manutenzione + parcheggio)</li>
+<li><strong>Monopattino:</strong> 10.000 km/anno x 0,001 euro/km = 10 euro (elettricità) + 20 euro/anno (manutenzione) = 30 euro</li>
 <li><strong>Risparmio annuo:</strong> 2.000 euro - 30 euro = 1.970 euro</li>
 </ul>
 
@@ -86,8 +86,8 @@ cover:
 
 <ul>
 <li><strong>Rimborso del 60%</strong> sull'acquisto di monopattini elettrici fino a 1.000 euro (massimo 600 euro di rimborso)</li>
-<li><strong>Condizioni:</strong> reddito ISEE ≤ 30.000 euro, acquisto tra gennaio-dicembre 2026, fattura con Partita IVA del venditore</li>
-<li><strong>Procedura:</strong> acquistare dal sito, ricevere fattura, inviare domanda su "Mobilità Sostenibile" entro 90 giorni dall'acquisto</li>
+<li><strong>Condizioni:</strong> reddito ISEE inferiore a 30.000 euro, acquisto tra gennaio-dicembre 2026, fattura con Partita IVA del venditore</li>
+<li><strong>Procedura:</strong> acquistare dal sito, ricevere fattura, inviare domanda su Mobilità Sostenibile entro 90 giorni dall'acquisto</li>
 </ul>
 
 <p>Con il bonus, un monopattino da 549 euro costa solo 219,60 euro. Il risparmio si ottiene in 2-3 mesi!</p>
@@ -98,4 +98,4 @@ cover:
 
 <p>Se fai almeno 15 km al giorno in città, un monopattino elettrico non è solo un modo per risparmiare, ma una soluzione pratica, ecologica e divertente per spostarti senza stress.</p>
 
-<p class="fonti">*Fonti: <a href="https://www.fanpage.it/innovazione/shopping-news/migliori-monopattini-elettrici/" target="_blank">Fanpage</a>, <a href="https://www.tuttotek.it/motori/guide-motori/migliori-monopattini-elettrici" target="_blank">Tuttotek</a>, <a href="https://www.top-yacht.it/nautica-mobilita-e-collezionismo/2026/04/26/bonus-monopattino-2026-guida-aggiornata-agli-incentivi-per-la-mobilita-sostenibi/" target="_blank">Top Yacht</a></p>
+<p class="fonti">Fonti: <a href="https://www.fanpage.it/innovazione/shopping-news/migliori-monopattini-elettrici/" target="_blank">Fanpage</a>, <a href="https://www.tuttotek.it/motori/guide-motori/migliori-monopattini-elettrici" target="_blank">Tuttotek</a>, <a href="https://www.top-yacht.it/nautica-mobilita-e-collezionismo/2026/04/26/bonus-monopattino-2026-guida-aggiornata-agli-incentivi-per-la-mobilita-sostenibi/" target="_blank">Top Yacht</a></p>
