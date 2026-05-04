@@ -1,0 +1,84 @@
+baseURL = "https://guida-energia.com/"
+removePathAccents = true
+languageCode = "it-IT"
+title = "Guida Energia"
+theme = "PaperMod"
+
+[params]
+    description = "Guide pratiche su fotovoltaico, smart home, pompe di calore, idroponica, incentivi 2026 per risparmiare energia in casa"
+    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide", "mobilita-sostenibile"]
+
+    [params.homeInfoParams]
+        Title = "Risparmia Energia, Risparmia Denaro 💡"
+        Content = "Guide aggiornate su fotovoltaico, smart home, pompe di calore e tutti i bonus 2026."
+
+[[menu.main]]
+    identifier = "fotovoltaico"
+    name = "☀️ Fotovoltaico"
+    url = "/fotovoltaico/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "smart-home"
+    name = "🏠 Smart Home"
+    url = "/smart-home/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "riscaldamento"
+    name = "🔥 Riscaldamento"
+    url = "/riscaldamento/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "illuminazione"
+    name = "💡 Illuminazione"
+    url = "/illuminazione/"
+    weight = 35
+
+[[menu.main]]
+    identifier = "incentivi"
+    name = "💰 Incentivi"
+    url = "/incentivi/"
+    weight = 40
+
+[[menu.main]]
+    identifier = "guide"
+    name = "📖 Guide"
+    url = "/guide/"
+    weight = 50
+
+[[menu.main]]
+    identifier = "mobilita-sostenibile"
+    name = "🚗 Mobilità Sostenibile"
+    url = "/mobilita-sostenibile/"
+    weight = 60
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+canonifyURLs = false
+relativeURLs = false
+
+[permalinks]
+  fotovoltaico = "/fotovoltaico/:slug/"
+  smart-home = "/smart-home/:slug/"
+  riscaldamento = "/riscaldamento/:slug/"
+  illuminazione = "/illuminazione/:slug/"
+  idroponica = "/idroponica/:slug/"
+  mobilita-sostenibile = "/mobilita-sostenibile/:slug/"
+  incentivi = "/incentivi/:slug/"
+  guide = "/guide/:slug/"
+
+[markup.goldmark.renderer]
+unsafe = true

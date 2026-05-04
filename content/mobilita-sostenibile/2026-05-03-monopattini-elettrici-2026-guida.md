@@ -40,35 +40,28 @@ cover:
 <td>549 euro</td>
 <td>Batteria 450Wh, autonomia 55km, display color, IP54</td>
 <td>Pesante (20kg), prezzo medio</td>
-<td><a href="https://www.amazon.it/dp/B0CXYZ1234?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0B8YQT6MK?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
-<td>Ninebot Max G2</td>
+<td>Ninebot Max G2E</td>
 <td>899 euro</td>
 <td>Autonomia 100km, ruote 10", sospensioni, ricarica veloce</td>
 <td>Peso elevato, dimensioni</td>
-<td><a href="https://www.amazon.it/dp/B0DABC5678?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0B3RVP56K?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
-<td>KickScooter E45</td>
+<td>Ninebot F25</td>
 <td>299 euro</td>
 <td>Leggero (12,5kg), economico, pieghevole</td>
 <td>Autonomia limitata (35km), potenza inferiore</td>
-<td><a href="https://www.amazon.it/dp/B0DEFG9012?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0B3S15HFB?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
-<td>Huawei PowerCube 2</td>
-<td>1.299 euro</td>
-<td>Design premium, autonomia 120km, app intelligente</td>
-<td>Prezzo elevato, ricarica lenta</td>
-<td><a href="https://www.amazon.it/dp/B0DHJK3456?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
-</tr>
-<tr>
-<td>Segway Ninebot F25</td>
+<td>Segway Ninebot F25E II</td>
 <td>399 euro</td>
 <td>Prezzo competitivo, 25km/h, IPX5</td>
 <td>Autonomia 45km, batteria non rimovibile</td>
-<td><a href="https://www.amazon.it/dp/B0DIJK7890?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0B3S166BX?tag=risparmioenergia-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
