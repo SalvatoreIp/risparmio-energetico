@@ -34,7 +34,7 @@ Ogni esecuzione:
 2. Ricerca dati aggiornati (prezzi reali, modelli 2026, normative)
 3. Scarica immagine con Pixabay (keyword in INGLESE)
 4. Scrivi articolo originale italiano 800-1200 parole
-5. Includi SEMPRE tabella prodotti con link Amazon placeholder
+5. Includi SEMPRE tabella prodotti con link Amazon REALI cercati su Amazon.it
 6. Esegui scripts/publish_post.sh poi git push
 
 ## STRUTTURA ARTICOLO OBBLIGATORIA
@@ -47,8 +47,8 @@ Ogni esecuzione:
 
 ### I migliori modelli del 2026
 [Tabella markdown: Nome | Prezzo | Pro | Contro | Link]
-[Link formato: [Nome Prodotto](https://www.amazon.it/dp/ASIN/?tag=audiobookit-21)]
-[OpenClaw: cerca il prodotto su Amazon.it, trova l'ASIN nell'URL e costruisci il link]
+[Link formato: [Nome Prodotto](https://amzn.to/CODICE?tag=risparmioenergia-21)]
+[OpenClaw: cerca il prodotto su Amazon.it, trova il link reale dalla pagina prodotto e usalo. MAI inventare ASIN o codici. Se il prodotto non e trovabile su Amazon.it ometti il link.]
 
 ### Quanto si risparmia davvero
 [Calcolo concreto in euro - dati reali]
@@ -86,8 +86,8 @@ MAI Browser Relay (siamo su VPS)
 - Virgolette doppie nel frontmatter, MAI apostrofi singoli
 - MAI creare cartelle non elencate sopra
 - SEMPRE almeno un calcolo concreto di risparmio in euro
-- SEMPRE link Amazon con formato (https://amzn.to/PLACEHOLDER)
-- Dati prezzi: indicare sempre "Prezzo indicativo aprile 2026"
+- Link Amazon: cerca SEMPRE il prodotto reale su Amazon.it e usa il link trovato. MAI inventare ASIN o link. Se non trovi il prodotto su Amazon.it ometti il link piuttosto che inventarlo.
+- Dati prezzi: indicare sempre "Prezzo indicativo maggio 2026"
 - Dopo creazione file eseguire SEMPRE:
   cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify && npx wrangler pages deploy public --project-name risparmio-energetico --commit-dirty=true && git add . && git commit -m "TITOLO" && git push
 - MAI creare post di test, prova o placeholder
@@ -104,4 +104,4 @@ cover:
   image: "/immagini/slug.jpg"
   alt: "Descrizione immagine"
 ---
-- IMPORTANTE: Inserire link Amazon SOLO per prodotti sotto €500 effettivamente venduti su Amazon.it. Per impianti costosi (pompe di calore, caldaie) linkare pagine informative o comparatori, NON inventare ASIN.
+- IMPORTANTE: Inserire link Amazon SOLO per prodotti effettivamente trovati su Amazon.it. Per impianti costosi (pompe di calore, caldaie) linkare pagine informative o comparatori. MAI inventare ASIN o link.
