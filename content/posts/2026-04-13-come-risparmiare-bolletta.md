@@ -1,6 +1,6 @@
 ---
 title: "Come risparmiare sulla bolletta: 15 consigli pratici per ridurre i consumi"
-date: 2026-04-13T12:05:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa per risparmiare sulla bolletta: 15 consigli pratici, tecnologie smart, incentivi e strategie concrete per ridurre i consumi energetici fino al 40%."
 categories: ["guide"]

@@ -1,6 +1,6 @@
 ---
 title: "Lampade e faretti da esterno LED: illuminazione efficiente e risparmio energetico"
-date: 2026-05-08T17:02:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa a lampade e faretti da esterno LED: confronto Philips Hue, Govee, faretti solari. Come funzionano, costi, risparmio energetico reale e installazione fai-da-te."
 categories: ["illuminazione"]

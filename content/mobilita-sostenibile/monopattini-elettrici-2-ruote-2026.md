@@ -1,6 +1,6 @@
 ---
 title: "Monopattini elettrici 2 ruote: mobilità sostenibile e risparmio per ogni tasca"
-date: 2026-05-08T09:23:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai monopattini elettrici 2 ruote con ruote grandi: confronto Segway-Ninebot, Xiaomi, Ducati. Come funzionano, costi, risparmio reale e normativa 2026."
 categories: ["mobilita-sostenibile"]

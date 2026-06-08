@@ -1,6 +1,6 @@
 ---
 title: "Fotovoltaico 2026: bonus Ecobonus 50% e prezzi in rialzo. Guida all'installazione"
-date: 2026-04-23T12:34:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 slug: "fotovoltaico-2026-ecobonus-guida-installazione"
 description: "Nel 2026 i prezzi dei pannelli solari aumentano del 20%, ma l'Ecobonus 50% rende l'investimento comunque conveniente. Scopri costi, incentivi e tempi di ritorno."

@@ -1,6 +1,6 @@
 ---
 title: "Raffrescamento estivo casa: soluzioni, costi e bonus 2026 per un estate fresca"
-date: 2026-04-25T05:13:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri le migliori soluzioni per il raffrescamento estivo: pompe di calore, condizionatori, ventilatori. Costi, installazione e bonus 2026 per risparmiare energia."
 categories: ["riscaldamento"]

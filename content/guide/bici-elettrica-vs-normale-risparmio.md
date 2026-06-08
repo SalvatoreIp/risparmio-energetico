@@ -1,6 +1,6 @@
 ---
 title: "Bici elettrica vs normale: qual è il miglior risparmio?"
-date: 2026-05-05T09:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Confronto completo tra bici elettrica e bici muscolare: costi reali, risparmio annuale, manutenzione e incentivi 2026 per scegliere la migliore!"
 categories: ["guide"]

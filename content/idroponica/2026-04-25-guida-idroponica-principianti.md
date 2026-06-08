@@ -1,6 +1,6 @@
 ---
 title: "Guida Idroponica per Principianti"
-date: 2026-04-25T10:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Coltiva senza terra con l idroponica."
 categories: ["idroponica"]

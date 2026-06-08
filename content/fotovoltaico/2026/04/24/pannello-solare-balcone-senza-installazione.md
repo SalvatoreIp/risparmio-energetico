@@ -1,6 +1,6 @@
 ---
 title: "Pannello solare balcone senza installazione: la soluzione plug and play del 2026"
-date: 2026-04-24T14:16:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri i pannelli solari da balcone senza installazione: installazione in 30 minuti, nessun permesso, 300-400W di produzione. Risparmia fino a 120€/anno."
 categories: ["fotovoltaico"]

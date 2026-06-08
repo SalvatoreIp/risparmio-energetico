@@ -1,6 +1,6 @@
 ---
 title: "Grow box idroponica indoor: kit completi LED per coltivazione professionale in casa"
-date: 2026-04-26T08:40:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri i kit grow box idroponiche completi con LED per coltivazione indoor professionale. Costi, dimensioni, rendimento e guida all'installazione passo-passo."
 categories: ["idroponica"]

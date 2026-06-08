@@ -1,6 +1,6 @@
 ---
 title: "Pannello Solare Balcone Senza Installazione: Guida Completa 2026"
-date: 2026-04-12T08:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Pannello solare balcone senza installazione: guida completa 2026 su kit plug & play, prezzi, risparmio e incentivi per il tuo mini impianto fotovoltaico"
 categories: ["fotovoltaico"]

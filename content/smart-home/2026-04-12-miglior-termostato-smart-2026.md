@@ -1,6 +1,6 @@
 ---
 title: "Miglior termostato smart 2026: guida completa e confronto"
-date: 2026-04-12T16:10:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri i migliori termostati smart del 2026: confronto dettagliato, prezzi, funzionalità e risparmio reale per ogni modello disponibile sul mercato."
 categories: ["smart-home"]

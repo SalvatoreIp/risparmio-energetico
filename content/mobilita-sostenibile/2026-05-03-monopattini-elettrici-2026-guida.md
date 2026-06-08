@@ -1,6 +1,6 @@
 ---
 title: "Monopattini elettrici 2026: guida completa al risparmio"
-date: 2026-05-03T19:45:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida ai migliori monopattini elettrici 2026: prezzi, risparmio e bonus mobilità. Risparmia fino a 500€/anno sui trasporti urbani!"
 categories: ["mobilita-sostenibile"]

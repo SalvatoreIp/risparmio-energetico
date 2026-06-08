@@ -1,6 +1,6 @@
 ---
 title: "Fotovoltaico da tetto prezzi 2026: guida completa a costi e installazione"
-date: 2026-04-14T12:20:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai prezzi del fotovoltaico da tetto nel 2026: costi installazione, incentivi, potenza e risparmio reale per ogni tipologia di impianto."
 categories: ["fotovoltaico"]

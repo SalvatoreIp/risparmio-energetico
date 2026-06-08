@@ -1,6 +1,6 @@
 ---
 title: "Bonus Fotovoltaico 2026: Ecobonus 50% e incentivi attivi"
-date: 2026-04-29T13:13:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Bonus fotovoltaico 2026: detrazione 50% prima casa, 36% seconde case, massimali 96.000€. Come richiedere incentivi, documenti necessari e tempistiche."
 categories: ["fotovoltaico"]

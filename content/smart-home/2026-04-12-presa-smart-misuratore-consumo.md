@@ -1,6 +1,6 @@
 ---
 title: "Presa smart con misuratore consumo: guida completa 2026 e modelli migliori"
-date: 2026-04-12T10:03:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri le migliori prese smart con misuratore di consumo energetico: confronto modelli, prezzi e risparmio possibile monitorando i consumi in tempo reale."
 categories: ["smart-home"]

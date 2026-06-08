@@ -1,6 +1,6 @@
 ---
 title: "Idroponica in casa: costi, benefici e risparmio energetico nel 2026"
-date: 2026-05-01T05:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri come l'idroponica in casa può farti risparmiare sull'acquisto di ortaggi freschi. Guida completa a costi, benefici energetici e sistemi da 2026."
 categories: ["guide"]

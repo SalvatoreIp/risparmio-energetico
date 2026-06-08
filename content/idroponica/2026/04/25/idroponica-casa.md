@@ -1,6 +1,6 @@
 ---
 title: "Idroponica in casa: coltiva le tue verdure senza terra, risparmia e mangia sano"
-date: 2026-04-25T09:25:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri l'idroponica domestica: sistemi economici per coltivare verdure fresche in casa. Costi, bonus e guida passo-passo per iniziare."
 categories: ["idroponica"]

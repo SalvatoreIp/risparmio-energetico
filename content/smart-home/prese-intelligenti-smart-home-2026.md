@@ -1,6 +1,6 @@
 ---
 title: "Prese intelligenti smart home: risparmio energetico e automazione per ogni tasca"
-date: 2026-05-07T09:11:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa alle prese intelligenti smart home: confronto Meross, Tapo, Sonoff, Amazon Basics. Come funzionano, costi, risparmio energetico reale e installazione fai-da-te."
 categories: ["smart-home"]

@@ -1,6 +1,6 @@
 ---
 title: "Presa smart con monitoraggio consumi: riduci la bolletta fino a 200€ l'anno"
-date: 2026-04-19T06:39:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri le migliori prese smart per monitorare i consumi elettrici in tempo reale e risparmiare fino a 200€ annui sulla bolletta."
 categories: ["smart-home"]

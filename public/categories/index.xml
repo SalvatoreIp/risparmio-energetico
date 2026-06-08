@@ -6,27 +6,41 @@
     <description>Recent content in Categories on Guida Energia</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 05 May 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:10:00 +0000</lastBuildDate>
     <atom:link href="https://guida-energia.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Guide</title>
-      <link>https://guida-energia.com/categories/guide/</link>
-      <pubDate>Fri, 01 May 2026 05:00:00 +0000</pubDate>
-      <guid>https://guida-energia.com/categories/guide/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Mobilita-Sostenibile</title>
       <link>https://guida-energia.com/categories/mobilita-sostenibile/</link>
-      <pubDate>Sun, 03 May 2026 19:45:00 +0000</pubDate>
+      <pubDate>Sat, 09 May 2026 22:10:00 +0000</pubDate>
       <guid>https://guida-energia.com/categories/mobilita-sostenibile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illuminazione</title>
+      <link>https://guida-energia.com/categories/illuminazione/</link>
+      <pubDate>Fri, 08 May 2026 17:02:00 +0000</pubDate>
+      <guid>https://guida-energia.com/categories/illuminazione/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart-Home</title>
+      <link>https://guida-energia.com/categories/smart-home/</link>
+      <pubDate>Thu, 07 May 2026 09:11:00 +0000</pubDate>
+      <guid>https://guida-energia.com/categories/smart-home/</guid>
       <description></description>
     </item>
     <item>
       <title>Fotovoltaico</title>
       <link>https://guida-energia.com/categories/fotovoltaico/</link>
-      <pubDate>Wed, 29 Apr 2026 13:13:00 +0000</pubDate>
+      <pubDate>Wed, 06 May 2026 17:02:00 +0000</pubDate>
       <guid>https://guida-energia.com/categories/fotovoltaico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>https://guida-energia.com/categories/guide/</link>
+      <pubDate>Tue, 05 May 2026 09:00:00 +0000</pubDate>
+      <guid>https://guida-energia.com/categories/guide/</guid>
       <description></description>
     </item>
     <item>
@@ -41,20 +55,6 @@
       <link>https://guida-energia.com/categories/riscaldamento/</link>
       <pubDate>Sat, 25 Apr 2026 05:13:00 +0000</pubDate>
       <guid>https://guida-energia.com/categories/riscaldamento/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Illuminazione</title>
-      <link>https://guida-energia.com/categories/illuminazione/</link>
-      <pubDate>Wed, 22 Apr 2026 06:40:00 +0000</pubDate>
-      <guid>https://guida-energia.com/categories/illuminazione/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Smart-Home</title>
-      <link>https://guida-energia.com/categories/smart-home/</link>
-      <pubDate>Sun, 19 Apr 2026 06:39:00 +0000</pubDate>
-      <guid>https://guida-energia.com/categories/smart-home/</guid>
       <description></description>
     </item>
     <item>

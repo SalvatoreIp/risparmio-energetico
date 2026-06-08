@@ -1,6 +1,6 @@
 ---
 title: "Pompa di calore prezzi 2026: costi, incentivi e risparmio reale"
-date: 2026-04-13T12:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai prezzi delle pompe di calore nel 2026: costi d'acquisto, installazione, incentivi fiscali e calcolo concreto del risparmio annuo sulla bolletta."
 categories: ["riscaldamento"]

@@ -1,6 +1,6 @@
 ---
 title: "Termostato smart WiFi per caldaia: confronto 2026 e risparmio energetico"
-date: 2026-04-12T11:05:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai termostati smart WiFi per controllo caldaia: modelli migliori, prezzi, integrazione domotica e risparmio reale in bolletta nel 2026."
 categories: ["smart-home"]

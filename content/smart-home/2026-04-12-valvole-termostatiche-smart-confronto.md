@@ -1,6 +1,6 @@
 ---
 title: "Valvole termostatiche smart: confronto completo 2026 e risparmi possibili"
-date: 2026-04-12T09:55:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Confronto dettagliato delle migliori valvole termostatiche smart per riscaldamento a radiatori: costi, funzionalità e risparmio energetico per ogni modello."
 categories: ["smart-home"]

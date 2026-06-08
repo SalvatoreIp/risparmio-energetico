@@ -1,6 +1,6 @@
 ---
 title: "Bonus efficienza energetica 2026: tutte le detrazioni fiscali e come richiederle"
-date: 2026-04-12T15:05:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida aggiornata al 2026 su tutte le detrazioni fiscali per efficienza energetica: bonus casa, ecobonus, bonus caldaia, bonus mobili e come richiederli passo dopo passo."
 categories: ["incentivi"]

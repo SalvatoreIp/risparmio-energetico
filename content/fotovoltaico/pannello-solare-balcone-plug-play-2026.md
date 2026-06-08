@@ -1,6 +1,6 @@
 ---
 title: "Pannello solare balcone plug & play: guida completa 2026"
-date: 2026-05-06T17:02:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai pannelli solari plug & play per balcone: confronto EcoFlow, XINPUGUANG, Renogy. Come funzionano, costi, risparmio reale e incentivi 2026."
 categories: ["fotovoltaico"]

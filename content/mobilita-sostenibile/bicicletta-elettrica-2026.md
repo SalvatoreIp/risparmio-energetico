@@ -1,6 +1,6 @@
 ---
 title: "Bicicletta elettrica: risparmio, benefici e confronto modelli 2026"
-date: 2026-05-09T22:10:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa alle biciclette elettriche: confronto Bafang, Shimano, Xiaomi. Come funzionano, costi, risparmio energetico reale, normative 2026 e incentivi."
 categories: ["mobilita-sostenibile"]

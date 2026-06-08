@@ -1,6 +1,6 @@
 ---
 title: "Luci LED: il risparmio più semplice che puoi fare oggi stesso"
-date: 2026-04-22T06:40:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Sostituire una lampadina tradizionale con una LED ti fa risparmiare l'80% di energia. Scopri i costi, i tempi di ritorno e i migliori modelli del 2026."
 categories: ["illuminazione"]

@@ -1,6 +1,6 @@
 ---
 title: "Pannello solare balcone guida completa: installazione, prezzi e risparmi 2026"
-date: 2026-04-12T16:55:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa all'installazione, ai prezzi aggiornati e ai risparmi reali dei pannelli solari per balcone nel 2026. Scopri i modelli migliori e come risparmiare sulla bolletta."
 categories: ["fotovoltaico"]
