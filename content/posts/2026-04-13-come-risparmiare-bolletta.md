@@ -34,31 +34,31 @@ Questi interventi combinati possono ridurre i consumi totali del 30-50% mantenen
 Programmazione automatica della temperatura, rilevamento presenza, controllo da smartphone.
 - **Risparmio:** €150-€250/anno
 - **Ritorno:** 6-12 mesi
-- [Termostato smart WiFi](https://www.amazon.it/dp/B089DR29T6/?tag=audiobookit-21)
+- [Termostato smart WiFi](https://www.amazon.it/dp/B089DR29T6/?tag=audiobook-21)
 
 #### 2. **Valvole termostatiche** (€15-€30 a pezzo)
 Controllo temperatura stanza per stanza, spegnimento automatico finestre aperte.
 - **Risparmio:** €200-€300/anno (per casa intera)
 - **Ritorno:** 1-2 anni
-- [Kit valvole termostatiche](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobookit-21)
+- [Kit valvole termostatiche](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobook-21)
 
 #### 3. **Illuminazione LED** (€2-€10 a lampadina)
 Sostituzione lampadine a incandescenza con LED, consumo fino al 80% inferiore.
 - **Risparmio:** €50-€100/anno
 - **Ritorno:** 6-12 mesi
-- [Pacchetto 10 LED](https://www.amazon.it/dp/B07DGR3KWF/?tag=audiobookit-21)
+- [Pacchetto 10 LED](https://www.amazon.it/dp/B07DGR3KWF/?tag=audiobook-21)
 
 #### 4. **Presa smart con misuratore** (€25-€40)
 Monitoraggio consumi in tempo reale, programmazione accensione/spegnimento.
 - **Risparmio:** €30-€60/anno
 - **Ritorno:** 6-12 mesi
-- [Presa smart misuratore](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobookit-21)
+- [Presa smart misuratore](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobook-21)
 
 #### 5. **Fotovoltaico balcone** (€200-€500)
 Kit plug & play da 300-400W, produzione 300-400 kWh/anno.
 - **Risparmio:** €60-€90/anno
 - **Ritorno:** 3-5 anni
-- [Kit 300W plug & play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21)
+- [Kit 300W plug & play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobook-21)
 
 #### 6. **Guarnizioni finestre** (€20-€50)
 Sigillare spifferi con guarnizioni adesive o silicone.

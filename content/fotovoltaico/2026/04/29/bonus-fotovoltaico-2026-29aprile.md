@@ -235,19 +235,19 @@ Il **Superbonus 110%** ha subito importanti modifiche nel 2026.
 - **Opzione**: Impianto base 3 kW
 - **Fornitori economici**: Offerte promozionali
 - **Tempo ritorno**: 6-7 anni
-- **Link**: [Vedi impianti base](https://www.amazon.it/s?k=impianto+fotovoltaico+3kW&tag=audiobookit-21)
+- **Link**: [Vedi impianti base](https://www.amazon.it/s?k=impianto+fotovoltaico+3kW&tag=audiobook-21)
 
 #### **Budget medio (8.000-15.000€):**
 - **Opzione**: Impianto standard 4-5 kW
 - **Fornitori**: Aziende certificate
 - **Tempo ritorno**: 5-6 anni
-- **Link**: [Vedi impianti standard](https://www.amazon.it/s?k=impianto+fotovoltaico+5kW&tag=audiobookit-21)
+- **Link**: [Vedi impianti standard](https://www.amazon.it/s?k=impianto+fotovoltaico+5kW&tag=audiobook-21)
 
 #### **Budget alto (15.000-25.000€):**
 - **Opzione**: Impianto avanzato + accumulo
 - **Fornitori**: Top di gamma
 - **Tempo ritorno**: 5-6 anni
-- **Link**: [Vedi impianti con accumulo](https://www.amazon.it/s?k=batteria+accumulo+fotovoltaico&tag=audiobookit-21)
+- **Link**: [Vedi impianti con accumulo](https://www.amazon.it/s?k=batteria+accumulo+fotovoltaico&tag=audiobook-21)
 
 ## **CONSIGLI DEL VETERINARIO**
 

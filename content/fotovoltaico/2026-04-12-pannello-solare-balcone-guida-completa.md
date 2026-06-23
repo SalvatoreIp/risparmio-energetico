@@ -24,11 +24,11 @@ La scelta del kit giusto dipende dalle tue esigenze di potenza, dal budget e dal
 
 | Nome Prodotto | Potenza | Prezzo | Pro | Contro | Link |
 |---|---|---|---|---|---|
-| [XINPUGUANG 300W Plug & Play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21) | 300W | €279.99 | Facile installazione, buon rapporto qualità-prezzo | Potenza limitata, pannelli rigidi | [Vedi su Amazon](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21) |
-| [Balcony Power Station 300W](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobookit-21) | 300W | €204.90 | Prezzo più basso, kit completo | Recensioni non eccezionali, microinverter non Wi-Fi | [Vedi su Amazon](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobookit-21) |
-| [BigBlue Balcony Station](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobookit-21) | 400W | €499.99 | Batteria integrata, possibilità di stoccaggio energia, resistente a basse temperature | Prezzo elevato, dimensioni maggiori | [Vedi su Amazon](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobookit-21) |
-| [Aenergya Plug&Play 350W](https://www.amazon.it/dp/B0GMWQPP4G/?tag=audiobookit-21) | 350W | €515.00 | Potenza elevata, pannelli flessibili e leggeri | Prezzo più alto, microinverter più costoso | [Vedi su Amazon](https://www.amazon.it/dp/B0GMWQPP4G/?tag=audiobookit-21) |
-| [EcoFlow Photovoltaic Kit](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobookit-21) | 600W | €1,329.00 | Sistema completo con batteria, alta potenza, monitoraggio app | Investimento molto elevato, complessità maggiore | [Vedi su Amazon](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobookit-21) |
+| [XINPUGUANG 300W Plug & Play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobook-21) | 300W | €279.99 | Facile installazione, buon rapporto qualità-prezzo | Potenza limitata, pannelli rigidi | [Vedi su Amazon](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobook-21) |
+| [Balcony Power Station 300W](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobook-21) | 300W | €204.90 | Prezzo più basso, kit completo | Recensioni non eccezionali, microinverter non Wi-Fi | [Vedi su Amazon](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobook-21) |
+| [BigBlue Balcony Station](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobook-21) | 400W | €499.99 | Batteria integrata, possibilità di stoccaggio energia, resistente a basse temperature | Prezzo elevato, dimensioni maggiori | [Vedi su Amazon](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobook-21) |
+| [Aenergya Plug&Play 350W](https://www.amazon.it/dp/B0GMWQPP4G/?tag=audiobook-21) | 350W | €515.00 | Potenza elevata, pannelli flessibili e leggeri | Prezzo più alto, microinverter più costoso | [Vedi su Amazon](https://www.amazon.it/dp/B0GMWQPP4G/?tag=audiobook-21) |
+| [EcoFlow Photovoltaic Kit](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobook-21) | 600W | €1,329.00 | Sistema completo con batteria, alta potenza, monitoraggio app | Investimento molto elevato, complessità maggiore | [Vedi su Amazon](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobook-21) |
 
 *Prezzo indicativo aprile 2026*
 

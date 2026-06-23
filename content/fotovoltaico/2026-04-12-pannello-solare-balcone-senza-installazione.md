@@ -38,12 +38,12 @@ Ecco i kit più venduti e recensiti sul mercato italiano:
 
 | Prodotto | Potenza | Prezzo | Pro | Contro | Link |
 |----------|---------|--------|-----|--------|------|
-| [Balcony Power Station 300W Complete](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobookit-21) | 210W | €204,90 | Prezzo basso, completo di tutto | 2 pannelli fissi | [Vedi su Amazon](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobookit-21) |
-| [XINPUGUANG 300W Plug & Play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21) | 2x150W | €279,99 | Monocristallino, efficiente, 3.8★ | Spedizioni lunghe | [Vedi su Amazon](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21) |
-| [ECO-WORTHY 400W Flessibile](https://www.amazon.it/dp/B0FMJJ5MHV/?tag=audiobookit-21) | 400W | €229,99 | Leggero, adattabile superfici irregolari | Flessibile meno durevole | [Vedi su Amazon](https://www.amazon.it/dp/B0FMJJ5MHV/?tag=audiobookit-21) |
-| [BigBlue Balcony Power Station](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobookit-21) | 3 MPPT | €499,99 | Batteria integrata, app control, -20°C | Prezzo alto | [Vedi su Amazon](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobookit-21) |
-| [Solidspark 400W Plug & Play](https://www.amazon.it/dp/B0DYVK24M8/?tag=audiobookit-21) | 400W | €401,73 | Montaggio 30min, Tuya app, 5.0★ | Spedizione €21,81 | [Vedi su Amazon](https://www.amazon.it/dp/B0DYVK24M8/?tag=audiobookit-21) |
-| [EcoFlow STREAM MAX](https://www.amazon.it/dp/B0FDK6VGNZ/?tag=audiobookit-21) | 2x400W+Battery | €1.099 | Batteria 1.92KWh, app AI, 1800W input | Premium price | [Vedi su Amazon](https://www.amazon.it/dp/B0FDK6VGNZ/?tag=audiobookit-21) |
+| [Balcony Power Station 300W Complete](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobook-21) | 210W | €204,90 | Prezzo basso, completo di tutto | 2 pannelli fissi | [Vedi su Amazon](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobook-21) |
+| [XINPUGUANG 300W Plug & Play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobook-21) | 2x150W | €279,99 | Monocristallino, efficiente, 3.8★ | Spedizioni lunghe | [Vedi su Amazon](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobook-21) |
+| [ECO-WORTHY 400W Flessibile](https://www.amazon.it/dp/B0FMJJ5MHV/?tag=audiobook-21) | 400W | €229,99 | Leggero, adattabile superfici irregolari | Flessibile meno durevole | [Vedi su Amazon](https://www.amazon.it/dp/B0FMJJ5MHV/?tag=audiobook-21) |
+| [BigBlue Balcony Power Station](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobook-21) | 3 MPPT | €499,99 | Batteria integrata, app control, -20°C | Prezzo alto | [Vedi su Amazon](https://www.amazon.it/dp/B0CQQ93YZH/?tag=audiobook-21) |
+| [Solidspark 400W Plug & Play](https://www.amazon.it/dp/B0DYVK24M8/?tag=audiobook-21) | 400W | €401,73 | Montaggio 30min, Tuya app, 5.0★ | Spedizione €21,81 | [Vedi su Amazon](https://www.amazon.it/dp/B0DYVK24M8/?tag=audiobook-21) |
+| [EcoFlow STREAM MAX](https://www.amazon.it/dp/B0FDK6VGNZ/?tag=audiobook-21) | 2x400W+Battery | €1.099 | Batteria 1.92KWh, app AI, 1800W input | Premium price | [Vedi su Amazon](https://www.amazon.it/dp/B0FDK6VGNZ/?tag=audiobook-21) |
 
 **Nota**: I prezzi sono indicativi aprile 2026 e possono variare. Verifica sempre il prezzo aggiornato su Amazon.
 

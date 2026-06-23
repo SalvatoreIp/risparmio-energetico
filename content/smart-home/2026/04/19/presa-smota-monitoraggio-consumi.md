@@ -32,10 +32,10 @@ Ecco la classifica delle prese smart con monitoraggio consumatori più affidabil
 
 | Modello | Prezzo | Pro | Contro | Link |
 |---------|--------|-----|--------|------|
-| **Tapo P125M Matter** | 29,99€ | Certificato Matter, app completa, compatibilità universale | Solo WiFi (no Bluetooth) | [Acquista su Amazon](https://www.amazon.it/Tapo-Monitoraggio-Intelligente-Compatibile-Preselezione/dp/B0CHFJ7V3J?th=1&psc=1&tag=audiobookit-21) |
-| **Tapo P110** | 24,99€ | Compatto, affidabile, app semplice, monitoraggio consumi | Nessuna Matter, solo WiFi 2.4GHz | [Acquista su Amazon](https://www.amazon.it/TP-Link-Intelligente-Monitoraggio-Tapo-P110/dp/B09BFT7NZJ?th=1&psc=1&tag=audiobookit-21) |
-| **Meross Smart WiFi Socket** | 27,99€ | Monitoraggio consumi, compatibile Alexa/Google | App básica, nessun Matter | [Acquista su Amazon](https://www.amazon.it/intelligente-controllo-compatibile-Assistant-meross/dp/B07GSVQBMY?th=1&psc=1&tag=audiobookit-21) |
-| **Tapo P105A** | 19,99€ | Formato ultra-compatto, controllo vocale, prezzo basso | Nessuno monitoraggio consumi | [Acquista su Amazon](https://www.amazon.it/Tapo-Intelligente-Elettrica-Controllo-P105A/dp/B0D9KJF4RT?th=1&psc=1&tag=audiobookit-21) |
+| **Tapo P125M Matter** | 29,99€ | Certificato Matter, app completa, compatibilità universale | Solo WiFi (no Bluetooth) | [Acquista su Amazon](https://www.amazon.it/Tapo-Monitoraggio-Intelligente-Compatibile-Preselezione/dp/B0CHFJ7V3J?th=1&psc=1&tag=audiobook-21) |
+| **Tapo P110** | 24,99€ | Compatto, affidabile, app semplice, monitoraggio consumi | Nessuna Matter, solo WiFi 2.4GHz | [Acquista su Amazon](https://www.amazon.it/TP-Link-Intelligente-Monitoraggio-Tapo-P110/dp/B09BFT7NZJ?th=1&psc=1&tag=audiobook-21) |
+| **Meross Smart WiFi Socket** | 27,99€ | Monitoraggio consumi, compatibile Alexa/Google | App básica, nessun Matter | [Acquista su Amazon](https://www.amazon.it/intelligente-controllo-compatibile-Assistant-meross/dp/B07GSVQBMY?th=1&psc=1&tag=audiobook-21) |
+| **Tapo P105A** | 19,99€ | Formato ultra-compatto, controllo vocale, prezzo basso | Nessuno monitoraggio consumi | [Acquista su Amazon](https://www.amazon.it/Tapo-Intelligente-Elettrica-Controllo-P105A/dp/B0D9KJF4RT?th=1&psc=1&tag=audiobook-21) |
 
 **Nota:** Prezzi indicativi aprile 2026, soggetti a variazioni.
 

@@ -116,11 +116,11 @@ Il **grow box idroponico** è una struttura chiusa e isolata che crea l'ambiente
 - **Ideale per**: Piccoli produttori, attività commerciali
 
 🔗 **Dove acquistare** (prezzi e disponibilità aggiornati aprile 2026):
-- [Kit Grow Box 60x60x160 LED 120W](https://www.amazon.it/s?k=grow+box+idroponica+60x60x160&tag=audiobookit-21) - da 299€
-- [Kit Grow Box 80x80x180 LED 180W](https://www.amazon.it/s?k=grow+box+idroponica+80x80x180&tag=audiobookit-21) - da 449€
-- [Kit Grow Box 100x100x200 LED 240W](https://www.amazon.it/s?k=grow+box+idroponica+100x100x200&tag=audiobookit-21) - da 649€
-- [Kit Grow Box 120x120x220 LED 320W](https://www.amazon.it/s?k=grow+box+idroponica+120x120x220&tag=audiobookit-21) - da 899€
-- [Kit Grow Box Pro 120x120x240 LED 480W](https://www.amazon.it/s?k=grow+box+idroponica+professionale&tag=audiobookit-21) - da 1.499€
+- [Kit Grow Box 60x60x160 LED 120W](https://www.amazon.it/s?k=grow+box+idroponica+60x60x160&tag=audiobook-21) - da 299€
+- [Kit Grow Box 80x80x180 LED 180W](https://www.amazon.it/s?k=grow+box+idroponica+80x80x180&tag=audiobook-21) - da 449€
+- [Kit Grow Box 100x100x200 LED 240W](https://www.amazon.it/s?k=grow+box+idroponica+100x100x200&tag=audiobook-21) - da 649€
+- [Kit Grow Box 120x120x220 LED 320W](https://www.amazon.it/s?k=grow+box+idroponica+120x120x220&tag=audiobook-21) - da 899€
+- [Kit Grow Box Pro 120x120x240 LED 480W](https://www.amazon.it/s?k=grow+box+idroponica+professionale&tag=audiobook-21) - da 1.499€
 
 *Nota: Cerca "grow box idroponica" su Amazon.it per verificare disponibilità e offerte aggiornate. I prezzi indicati sono per kit completi con tutte le componenti necessarie.*
 

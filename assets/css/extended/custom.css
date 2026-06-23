@@ -1,0 +1,14 @@
+.cta-box { text-align: center; margin: 25px 0; }
+.cta-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #ff9900, #ff7700);
+  color: #fff !important;
+  font-weight: 700;
+  font-size: 1.1em;
+  padding: 14px 32px;
+  border-radius: 8px;
+  text-decoration: none !important;
+  box-shadow: 0 4px 12px rgba(255,140,0,0.35);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.cta-button:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(255,140,0,0.5); }
