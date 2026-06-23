@@ -1,5 +1,6 @@
 ---
 title: "Fotovoltaico plug and play: come funziona e quali sono i migliori modelli 2026"
+slug: "2026-04-12-fotovoltaico-plug-and-play-come-funziona"
 date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri come funziona il fotovoltaico plug and play per il balcone, i risparmi possibili e i migliori kit disponibili nel 2026 con prezzi aggiornati."
