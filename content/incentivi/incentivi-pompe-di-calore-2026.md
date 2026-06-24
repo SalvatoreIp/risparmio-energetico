@@ -11,6 +11,10 @@ cover:
 
 <p class="lead">Nel 2026 gli incentivi per le pompe di calore sono tra i più convenienti mai offerti. Ecobonus al 65%, Conto Termico 3.0 fino al 65% di rimborso immediato. Scopri come risparmiare fino a 15.000 euro sull'installazione.</p>
 
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=pompa+di+calore+aria+acqua&tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta prezzi e modelli di pompe di calore su Amazon</a>
+</div>
+
 ## Panorama degli incentivi 2026: tre opzioni principali
 
 Nel 2026 hai a disposizione **tre strumenti di incentivo** per l'acquisto e installazione di una pompa di calore:
