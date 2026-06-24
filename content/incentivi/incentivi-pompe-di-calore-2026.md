@@ -1,5 +1,6 @@
 ---
 title: "Incentivi pompe di calore 2026: tutti i bonus e quanto puoi risparmiare"
+slug: "incentivi-pompe-di-calore-2026"
 date: 2026-06-24T08:10:00+02:00
 draft: false
 description: "Incentivi pompe di calore 2026: guida completa agli incentivi fiscali. Ecobonus, Conto Termico 3.0, Bonus Ristrutturazioni. Quanto si risparmia e come richiedere."
