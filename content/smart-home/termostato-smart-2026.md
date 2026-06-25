@@ -11,11 +11,11 @@ cover:
   alt: "Termostato smart WiFi moderno installato su muro casa"
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B0FSD3PQ3P?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
-
 <p class="lead">Un termostato smart può farti risparmiare fino al 30% sulla bolletta del riscaldamento. Compatibile con la maggior parte delle caldaie, si installa da solo e ti permette di controllare la temperatura da smartphone. Scopri cosa fare per risparmiare davvero.</p>
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=termostato+smart+wifi&tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i migliori termostati smart su Amazon</a>
+</div>
 
 ## Cos'è e come funziona un termostato smart
 
@@ -196,12 +196,6 @@ Un **termostato smart** (o cronotermostato intelligente) è un dispositivo che g
 
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B0B8SDLTKC?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
-
----
-
 ### **2. Netatmo NTH01-EF**
 
 **Prezzo:** €220  
@@ -242,12 +236,6 @@ Un **termostato smart** (o cronotermostato intelligente) è un dispositivo che g
   <a href="https://www.amazon.it/dp/B0CC67PYHY?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
-
----
-
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B0CC67PYHY?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
 
 ---
 
@@ -294,12 +282,6 @@ Un **termostato smart** (o cronotermostato intelligente) è un dispositivo che g
 
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B09S3V2ZNK?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
-
----
-
 ### **4. Bticino SXW8002 Smarther2**
 
 **Prezzo:** €180  
@@ -340,12 +322,6 @@ Un **termostato smart** (o cronotermostato intelligente) è un dispositivo che g
   <a href="https://www.amazon.it/dp/B086NL5ZHF?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
-
----
-
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B086NL5ZHF?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
 
 ---
 
