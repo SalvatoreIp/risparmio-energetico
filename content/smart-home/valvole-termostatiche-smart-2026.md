@@ -11,11 +11,11 @@ cover:
   alt: "Valvola termostatica smart installata su radiatore moderno"
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B0CWPDXWHP?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
-
 <p class="lead">Le valvole termostatiche smart possono farti risparmiare fino al 30% sulla bolletta del riscaldamento. Controllo temperatura per stanza, programmazione da app, rilevamento finestre aperte. Scopri come installarle e quanto risparmi davvero.</p>
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=valvole+termostatiche+smart&tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le migliori valvole termostatiche su Amazon</a>
+</div>
 
 ## Cosa sono e come funzionano
 
@@ -208,12 +208,6 @@ Molti produttori includono adattatori nella confezione:
 
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B07Z2JG1V4?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
-
----
-
 ### **2. Tado° Smart Starter Kit**
 
 **Prezzo:** €249 (3 valvole + bridge)  
@@ -252,12 +246,6 @@ Molti produttori includono adattatori nella confezione:
   <a href="https://www.amazon.it/dp/B0CWPHCWK6?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
-
----
-
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B0CWPHCWK6?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
 
 ---
 
@@ -302,12 +290,6 @@ Molti produttori includono adattatori nella confezione:
 
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B08H2HK6YS?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
-
----
-
 ### **4. Govee TH01**
 
 **Prezzo:** €59 a valvola  
@@ -346,12 +328,6 @@ Molti produttori includono adattatori nella confezione:
   <a href="https://www.amazon.it/dp/B0CC9WG42V?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
-
----
-
-<div class="cta-box">
-<a href="https://www.amazon.it/dp/B0CC9WG42V?tag=audiobook-21" target="_blank">Amazon</a>
-</div>
 
 ---
 
