@@ -1,6 +1,7 @@
 baseURL = "https://guida-energia.com/"
 removePathAccents = true
 languageCode = "it-IT"
+defaultContentLanguage = "it"
 title = "Guida Energia"
 theme = "PaperMod"
 
@@ -59,8 +60,6 @@ theme = "PaperMod"
 
 [markup]
     [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true
 
 [sitemap]
     changefreq = "weekly"
@@ -80,5 +79,8 @@ relativeURLs = false
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
 
+
+
 [markup.goldmark.renderer]
 unsafe = true
+

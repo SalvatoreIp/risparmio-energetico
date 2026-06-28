@@ -32,6 +32,12 @@ theme = "PaperMod"
     weight = 30
 
 [[menu.main]]
+    identifier = "raffrescamento"
+    name = "❄️ Raffrescamento"
+    url = "/raffrescamento/"
+    weight = 35
+
+[[menu.main]]
     identifier = "illuminazione"
     name = "💡 Illuminazione"
     url = "/illuminazione/"
