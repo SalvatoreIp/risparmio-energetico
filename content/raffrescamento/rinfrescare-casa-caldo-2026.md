@@ -13,6 +13,10 @@ cover:
 
 <p class="lead">Con le temperature che superano i 35°C e le notti tropicali, la bolletta dell'aria condizionata ti fa paura? Un ventilatore costa 0,01 euro all'ora, un climatizzatore portatile 0,28 euro. Scopri come scegliere la soluzione giusta per il tuo portafoglio.</p>
 
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=ventilatore+silenzioso&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi i ventilatori più venduti su Amazon</a>
+</div>
+
 ## Il problema reale: caldo in casa e bolletta che schizza alle stelle
 
 **Oggi a Roma si registrano 38°C, Milano 36°C, Torino 35°C.** Le previsioni parlano di ondate di calore che si protrarranno fino a fine luglio, con picchi che potrebbero superare i 40°C in alcune regioni del nord Italia.
