@@ -6,7 +6,6 @@ title = "Guida Energia"
 theme = "PaperMod"
 
 [params]
-  googleAnalytics = "G-Y61B1XFD66"
     description = "Guide pratiche su fotovoltaico, smart home, pompe di calore, idroponica, incentivi 2026 per risparmiare energia in casa"
     mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide", "mobilita-sostenibile"]
 
