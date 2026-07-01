@@ -30,10 +30,10 @@
 </style>
 
 <!-- Google Analytics 4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y61B1XFD66"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BNK67M8105"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-Y61B1XFD66');
+  gtag('config', 'G-BNK67M8105');
 </script>
