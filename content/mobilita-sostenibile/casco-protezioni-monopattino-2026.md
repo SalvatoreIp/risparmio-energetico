@@ -27,83 +27,6 @@ Se cerchi un casco per metterti in regola **subito**, ecco la risposta diretta: 
 
 Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evitare e il confronto dettagliato dei modelli.
 
-## Il problema reale: multe da 50 a 250 euro, assicurazione obbligatoria, targa già scattata
-
-**Se pensi che il monopattino sia come una bicicletta, stai sbagliando.** Dal 2026 il Codice della Strada italiano lo tratta come un veicolo a tutti gli effetti, con obblighi precisi e sanzioni esatte.
-
-**Le novità che contano:**
-
-| Obbligo | Data entrata in vigore | Sanzione | Stato |
-|---------|----------------------|----------|-------|
-| **Casco omologato** | 14 dicembre 2024 | €50-€250 | ✅ Obbligatorio |
-| **Targa identificativa** | 16 maggio 2026 | €82-€328 | ✅ Scattato |
-| **Assicurazione RC** | 16 luglio 2026 | €166-€664 | ⏳ Da 16 luglio |
-
-**La sorpresa:** molti pensano che l'assicurazione parta dal 2027. Invece no. **Scatta il 16 luglio 2026**, tra poche settimane.
-
-**E il casco?** Non basta più un casco da bici economico. Deve rispettare la **norma UNI EN 1078** o **UNI EN 1080** (per i più piccoli). Senza l'etichetta di omologazione, sei in violazione e rischi la multa.
-
-**La domanda è:** come riconoscere un casco a norma, quanto costa, e quali protezioni servono davvero?
-
-**Risposta:** caschi da €25-€60, protezioni da €15-€50, e un'assicurazione da €30-€60/anno.
-
----
-
-## Tabella riassuntiva: obblighi e sanzioni per il monopattino elettrico 2026
-
-| Obbligo | Norma/Standard | Data di entrata in vigore | Sanzione minima | Sanzione massima |
-|---------|---------------|--------------------------|-----------------|------------------|
-| **Casco** | UNI EN 1078 o UNI EN 1080 | 14 dicembre 2024 | €50 | €250 |
-| **Targa identificativa** | Decreto MIT n.123/2025 | 16 maggio 2026 | €82 | €328 |
-| **Assicurazione RC** | Codice della Strada art. 193 | 16 luglio 2026 | €166 | €664 |
-| **Velocità massima** | 25 km/h (20 in città) | Da sempre | €50 | €250 |
-| **Niente passeggeri** | Codice della Strada | Da sempre | €166 | €664 |
-| **Niente telefoni alla guida** | Codice della Strada | Da sempre | €166 | €664 |
-| **Niente marciapiedi** | Codice della Strada | Da sempre | €166 | €664 |
-
-**Nota:** le sanzioni per casco, targa e assicurazione si accumulano. Se circoli **senza casco, senza targa e senza assicurazione**, rischi **€300-€1.242** in un'unica multa.
-
----
-
-## Casco obbligatorio: cosa significa norma UNI EN 1078
-
-**La norma UNI EN 1078** è lo standard europeo per i caschi da ciclismo e monopattini elettrici. Garantisce che il casco sia stato testato per:
-
-1. **Assorbimento urti:** la calotta non deve frantumarsi a impatti fino a 7 m/s
-2. **Stabilità:** la fibbia deve rimanere chiusa sotto sforzo
-3. **Protezione laterale:** la calotta copre anche le tempie, non solo la testa
-4. **Materiali ignifughi:** non deve prendere fuoco facilmente
-5. **Marcatura CE:** il marchio deve essere visibile e leggibile
-
-**Cosa significa in pratica:**
-
-- **Caschi economici da €10-€15:** spesso NON omologati, solo "adatti a bici" (ma senza etichetta CE)
-- **Caschi da €25-€40:** omologati UNI EN 1078, testati e sicuri
-- **Caschi premium da €60-€120:** materiali migliori, ventilazione ottimizzata, luce integrata
-
-**Come riconoscere un casco a norma:**
-
-1. **Cerca l'etichetta:** deve dire "UNI EN 1078" o "UNI EN 1080"
-2. **Verifica il marchio CE:** il simbolo CE deve essere stampato sulla calotta
-3. **Controlla il produttore:** nomi noti (Bell, Giro, Pro-Tec, ecc.) = garanzia
-4. **Evita caschi senza etichetta:** se non c'è scritto "UNI EN 1078", non è a norma
-
-**Attenzione:** i caschi da sci, skate o pattini NON sono omologati per il monopattino. Devi usare specificamente caschi **UNI EN 1078** (adulti) o **UNI EN 1080** (bambini 10-16 anni).
-
----
-
-## Tabella: differenza tra UNI EN 1078 e UNI EN 1080
-
-| Standard | Per chi è | Età consigliata | Tipo di protezione | Prezzo medio |
-|----------|-----------|------------------|-------------------|-------------|
-| **UNI EN 1078** | Adulti, biciclette, monopattini | 16+ anni | Testa + tempie + nuca | €25-€60 |
-| **UNI EN 1080** | Bambini, biciclette, monopattini | 5-15 anni | Testa + nuca + orecchie | €30-€70 |
-| **Nessuno** | Caschi da skate, sci, pattini | Vari | Solo impatto frontale | €15-€30 |
-
-**Conclusione:** per il monopattino elettrico, usa SEMPRE **UNI EN 1078** (adulti) o **UNI EN 1080** (bambini). Niente altro.
-
----
-
 ## Prodotti consigliati
 
 ### **1. Casco omologato economico Cecotec Ciudad BrainGuard**
@@ -241,6 +164,83 @@ Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evit
   <a href="https://www.amazon.it/dp/B0GL2JC1JH?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
+
+---
+
+## Il problema reale: multe da 50 a 250 euro, assicurazione obbligatoria, targa già scattata
+
+**Se pensi che il monopattino sia come una bicicletta, stai sbagliando.** Dal 2026 il Codice della Strada italiano lo tratta come un veicolo a tutti gli effetti, con obblighi precisi e sanzioni esatte.
+
+**Le novità che contano:**
+
+| Obbligo | Data entrata in vigore | Sanzione | Stato |
+|---------|----------------------|----------|-------|
+| **Casco omologato** | 14 dicembre 2024 | €50-€250 | ✅ Obbligatorio |
+| **Targa identificativa** | 16 maggio 2026 | €82-€328 | ✅ Scattato |
+| **Assicurazione RC** | 16 luglio 2026 | €166-€664 | ⏳ Da 16 luglio |
+
+**La sorpresa:** molti pensano che l'assicurazione parta dal 2027. Invece no. **Scatta il 16 luglio 2026**, tra poche settimane.
+
+**E il casco?** Non basta più un casco da bici economico. Deve rispettare la **norma UNI EN 1078** o **UNI EN 1080** (per i più piccoli). Senza l'etichetta di omologazione, sei in violazione e rischi la multa.
+
+**La domanda è:** come riconoscere un casco a norma, quanto costa, e quali protezioni servono davvero?
+
+**Risposta:** caschi da €25-€60, protezioni da €15-€50, e un'assicurazione da €30-€60/anno.
+
+---
+
+## Tabella riassuntiva: obblighi e sanzioni per il monopattino elettrico 2026
+
+| Obbligo | Norma/Standard | Data di entrata in vigore | Sanzione minima | Sanzione massima |
+|---------|---------------|--------------------------|-----------------|------------------|
+| **Casco** | UNI EN 1078 o UNI EN 1080 | 14 dicembre 2024 | €50 | €250 |
+| **Targa identificativa** | Decreto MIT n.123/2025 | 16 maggio 2026 | €82 | €328 |
+| **Assicurazione RC** | Codice della Strada art. 193 | 16 luglio 2026 | €166 | €664 |
+| **Velocità massima** | 25 km/h (20 in città) | Da sempre | €50 | €250 |
+| **Niente passeggeri** | Codice della Strada | Da sempre | €166 | €664 |
+| **Niente telefoni alla guida** | Codice della Strada | Da sempre | €166 | €664 |
+| **Niente marciapiedi** | Codice della Strada | Da sempre | €166 | €664 |
+
+**Nota:** le sanzioni per casco, targa e assicurazione si accumulano. Se circoli **senza casco, senza targa e senza assicurazione**, rischi **€300-€1.242** in un'unica multa.
+
+---
+
+## Casco obbligatorio: cosa significa norma UNI EN 1078
+
+**La norma UNI EN 1078** è lo standard europeo per i caschi da ciclismo e monopattini elettrici. Garantisce che il casco sia stato testato per:
+
+1. **Assorbimento urti:** la calotta non deve frantumarsi a impatti fino a 7 m/s
+2. **Stabilità:** la fibbia deve rimanere chiusa sotto sforzo
+3. **Protezione laterale:** la calotta copre anche le tempie, non solo la testa
+4. **Materiali ignifughi:** non deve prendere fuoco facilmente
+5. **Marcatura CE:** il marchio deve essere visibile e leggibile
+
+**Cosa significa in pratica:**
+
+- **Caschi economici da €10-€15:** spesso NON omologati, solo "adatti a bici" (ma senza etichetta CE)
+- **Caschi da €25-€40:** omologati UNI EN 1078, testati e sicuri
+- **Caschi premium da €60-€120:** materiali migliori, ventilazione ottimizzata, luce integrata
+
+**Come riconoscere un casco a norma:**
+
+1. **Cerca l'etichetta:** deve dire "UNI EN 1078" o "UNI EN 1080"
+2. **Verifica il marchio CE:** il simbolo CE deve essere stampato sulla calotta
+3. **Controlla il produttore:** nomi noti (Bell, Giro, Pro-Tec, ecc.) = garanzia
+4. **Evita caschi senza etichetta:** se non c'è scritto "UNI EN 1078", non è a norma
+
+**Attenzione:** i caschi da sci, skate o pattini NON sono omologati per il monopattino. Devi usare specificamente caschi **UNI EN 1078** (adulti) o **UNI EN 1080** (bambini 10-16 anni).
+
+---
+
+## Tabella: differenza tra UNI EN 1078 e UNI EN 1080
+
+| Standard | Per chi è | Età consigliata | Tipo di protezione | Prezzo medio |
+|----------|-----------|------------------|-------------------|-------------|
+| **UNI EN 1078** | Adulti, biciclette, monopattini | 16+ anni | Testa + tempie + nuca | €25-€60 |
+| **UNI EN 1080** | Bambini, biciclette, monopattini | 5-15 anni | Testa + nuca + orecchie | €30-€70 |
+| **Nessuno** | Caschi da skate, sci, pattini | Vari | Solo impatto frontale | €15-€30 |
+
+**Conclusione:** per il monopattino elettrico, usa SEMPRE **UNI EN 1078** (adulti) o **UNI EN 1080** (bambini). Niente altro.
 
 ---
 
