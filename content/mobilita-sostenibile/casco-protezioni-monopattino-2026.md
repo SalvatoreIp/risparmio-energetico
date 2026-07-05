@@ -17,6 +17,16 @@ cover:
   <a href="https://www.amazon.it/s?k=casco+protezioni+monopattino&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi le migliori offerte su Amazon</a>
 </div>
 
+## Quali caschi sono a norma per il monopattino (e dove comprarli)
+
+Se cerchi un casco per metterti in regola **subito**, ecco la risposta diretta: servono caschi certificati **UNI EN 1078**, la norma europea obbligatoria per monopattini e biciclette. Trovi l'etichetta di omologazione all'interno del casco. Questi tre modelli sono a norma e tra i più venduti:
+
+- **Casco omologato economico (circa 25€)** — leggero e certificato EN 1078, ideale per l'uso quotidiano in città. [Vedi prezzo su Amazon](https://www.amazon.it/s?k=casco+monopattino+omologato+en+1078&tag=audiobookit-21)
+- **Casco con luce LED integrata (circa 40€)** — aggiunge visibilità serale, utile per chi rientra col buio. [Vedi prezzo su Amazon](https://www.amazon.it/s?k=casco+monopattino+led&tag=audiobookit-21)
+- **Casco premium con sistema MIPS (circa 70€)** — massima protezione contro gli impatti rotazionali. [Vedi prezzo su Amazon](https://www.amazon.it/s?k=casco+monopattino+mips&tag=audiobookit-21)
+
+Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evitare e il confronto dettagliato dei modelli.
+
 ## Il problema reale: multe da 50 a 250 euro, assicurazione obbligatoria, targa già scattata
 
 **Se pensi che il monopattino sia come una bicicletta, stai sbagliando.** Dal 2026 il Codice della Strada italiano lo tratta come un veicolo a tutti gli effetti, con obblighi precisi e sanzioni esatte.
