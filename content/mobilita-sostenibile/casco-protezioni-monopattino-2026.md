@@ -21,9 +21,18 @@ cover:
 
 Se cerchi un casco per metterti in regola **subito**, ecco la risposta diretta: servono caschi certificati **UNI EN 1078**, la norma europea obbligatoria per monopattini e biciclette. Trovi l'etichetta di omologazione all'interno del casco. Questi tre modelli sono a norma e tra i più venduti:
 
-- **Casco omologato economico (circa 25€)** — leggero e certificato EN 1078, ideale per l'uso quotidiano in città. [Vedi prezzo su Amazon](https://www.amazon.it/s?k=casco+monopattino+omologato+en+1078&tag=audiobookit-21)
-- **Casco con luce LED integrata (circa 40€)** — aggiunge visibilità serale, utile per chi rientra col buio. [Vedi prezzo su Amazon](https://www.amazon.it/s?k=casco+monopattino+led&tag=audiobookit-21)
-- **Casco premium con sistema MIPS (circa 70€)** — massima protezione contro gli impatti rotazionali. [Vedi prezzo su Amazon](https://www.amazon.it/s?k=casco+monopattino+mips&tag=audiobookit-21)
+- **Casco omologato economico (circa 25€)** — leggero e certificato EN 1078, ideale per l'uso quotidiano in città.
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=casco+monopattino+omologato+en+1078&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+- **Casco con luce LED integrata (circa 40€)** — aggiunge visibilità serale, utile per chi rientra col buio.
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=casco+monopattino+led&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+- **Casco premium con sistema MIPS (circa 70€)** — massima protezione contro gli impatti rotazionali.
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=casco+monopattino+mips&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
 
 Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evitare e il confronto dettagliato dei modelli.
 
