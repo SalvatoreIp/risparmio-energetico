@@ -1,7 +1,7 @@
 ---
 title: "Guida Idroponica per Principianti"
 date: 2026-06-07T17:50:00+02:00
-draft: false
+draft: true
 description: "Coltiva senza terra con l idroponica."
 categories: ["idroponica"]
 tags: ["idroponica", "growbox"]

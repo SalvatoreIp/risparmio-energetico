@@ -288,3 +288,7 @@ La **bicicletta elettrica** è l'investimento più intelligente per chi vive in 
 **Ricorda**: il risparmio non è solo economico. Eviti traffico, parcheggi costosi, stress e inquinamento. Il vero guadagno è la qualità della vita, la salute fisica e il tempo risparmiato.
 
 <p class="fonti">*Fonti: test pratici 2026, dati produttori, normativa italiana mobilità elettrica, report risparmio trasporti urbani*</p>
+
+## Sicurezza prima di tutto: il casco giusto
+
+Anche in bici la protezione conta, e molti caschi omologati valgono sia per e-bike che per monopattino, dove dal 2026 è diventato obbligatorio. Trovi i modelli conformi nella nostra guida ai [migliori caschi omologati](/mobilita-sostenibile/casco-protezioni-monopattino-2026/).

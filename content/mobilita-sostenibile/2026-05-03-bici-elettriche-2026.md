@@ -137,3 +137,7 @@ La bici elettrica nel 2026 è **conveniente, pratica e divertente**. Con un risp
 3. 🚴 Prova una bici elettrica in negozio prima di acquistare
 
 *Hai domande sulle bici elettriche? Scrivici nei commenti!*
+
+## Sicurezza prima di tutto: il casco giusto
+
+Anche in bici la protezione conta, e molti caschi omologati valgono sia per e-bike che per monopattino, dove dal 2026 è diventato obbligatorio. Trovi i modelli conformi nella nostra guida ai [migliori caschi omologati](/mobilita-sostenibile/casco-protezioni-monopattino-2026/).

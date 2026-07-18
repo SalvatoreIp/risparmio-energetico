@@ -247,3 +247,7 @@ Il **monopattino elettrico** è l'investimento più intelligente per chi vive in
 **Ricorda**: il risparmio non è solo economico. Eviti traffico, parcheggi costosi, stress e inquinamento. Il vero guadagno è la qualità della vita.
 
 <p class="fonti">*Fonti: test pratici 2026, dati produttori, normativa italiana mobilità sostenibile, report risparmio trasporti urbani*</p>
+
+## Non dimenticare il casco: è obbligatorio
+
+Dal 2026 il casco è obbligatorio per chi guida un monopattino elettrico. Se non ti sei ancora messo in regola, consulta la nostra guida ai [migliori caschi omologati per monopattino](/mobilita-sostenibile/casco-protezioni-monopattino-2026/) con i modelli conformi alla normativa.

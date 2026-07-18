@@ -99,3 +99,7 @@ cover:
 <p>Se fai almeno 15 km al giorno in città, un monopattino elettrico non è solo un modo per risparmiare, ma una soluzione pratica, ecologica e divertente per spostarti senza stress.</p>
 
 <p class="fonti">Fonti: <a href="https://www.fanpage.it/innovazione/shopping-news/migliori-monopattini-elettrici/" target="_blank">Fanpage</a>, <a href="https://www.tuttotek.it/motori/guide-motori/migliori-monopattini-elettrici" target="_blank">Tuttotek</a>, <a href="https://www.top-yacht.it/nautica-mobilita-e-collezionismo/2026/04/26/bonus-monopattino-2026-guida-aggiornata-agli-incentivi-per-la-mobilita-sostenibi/" target="_blank">Top Yacht</a></p>
+
+## Non dimenticare il casco: è obbligatorio
+
+Dal 2026 il casco è obbligatorio per chi guida un monopattino elettrico. Se non ti sei ancora messo in regola, consulta la nostra guida ai [migliori caschi omologati per monopattino](/mobilita-sostenibile/casco-protezioni-monopattino-2026/) con i modelli conformi alla normativa.
