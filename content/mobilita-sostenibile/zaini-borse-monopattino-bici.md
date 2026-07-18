@@ -327,3 +327,6 @@ cover:
 ---
 
 *Fonti: Decathlon, Ortlieb, Osprey, Wildman, Ideal.it, Trovaprezzi (dati 2026)*
+## Non dimenticare il casco: è obbligatorio
+
+Dal 2026 il casco è obbligatorio per chi guida un monopattino elettrico. Se non ti sei ancora messo in regola, consulta la nostra guida ai [migliori caschi omologati per monopattino](/mobilita-sostenibile/casco-protezioni-monopattino-2026/) con i modelli conformi alla normativa.
