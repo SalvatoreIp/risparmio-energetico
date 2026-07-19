@@ -9,6 +9,9 @@ tags: ["termostato smart", "risparmio energetico", "smart home", "caldaia", "wif
 cover:
   image: /immagini/termostato-smart-2026.jpg
   alt: "Termostato smart WiFi moderno installato su muro casa"
+aliases:
+  - /smart-home/miglior-termostato-smart-2026-guida-completa-e-confronto/
+  - /smart-home/termostato-smart-wifi-per-caldaia-confronto-2026-e-risparmio-energetico/
 ---
 
 <p class="lead">Un termostato smart può farti risparmiare fino al 30% sulla bolletta del riscaldamento. Compatibile con la maggior parte delle caldaie, si installa da solo e ti permette di controllare la temperatura da smartphone. Scopri cosa fare per risparmiare davvero.</p>

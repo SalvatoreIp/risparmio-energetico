@@ -9,6 +9,8 @@ tags: ["valvole termostatiche", "risparmio energetico", "smart home", "radiatori
 cover:
   image: /immagini/valvole-termostatiche-smart-2026.jpg
   alt: "Valvola termostatica smart installata su radiatore moderno"
+aliases:
+  - /smart-home/valvole-termostatiche-smart-confronto-completo-2026-e-risparmi-possibili/
 ---
 
 <p class="lead">Le valvole termostatiche smart possono farti risparmiare fino al 30% sulla bolletta del riscaldamento. Controllo temperatura per stanza, programmazione da app, rilevamento finestre aperte. Scopri come installarle e quanto risparmi davvero.</p>

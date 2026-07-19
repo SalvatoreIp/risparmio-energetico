@@ -9,6 +9,10 @@ tags: ["presa smart", "misuratore consumo", "risparmio energetico", "smart home"
 cover:
   image: /immagini/prese-smart-misuratore-consumo-2026.jpg
   alt: "Presa smart WiFi con display LED che mostra consumo energetico"
+aliases:
+  - /smart-home/presa-smart-con-misuratore-consumo-guida-completa-2026-e-modelli-migliori/
+  - /smart-home/presa-smart-con-monitoraggio-consumi-riduci-la-bolletta-fino-a-200-lanno/
+  - /smart-home/prese-intelligenti-smart-home-risparmio-energetico-e-automazione-per-ogni-tasca/
 ---
 
 <p class="lead">Le prese smart con misuratore di consumo ti permettono di monitorare l'energia degli elettrodomestici e identificare gli sprechi. Con un investimento di €50-€150, puoi risparmiare fino al 15% in bolletta individuando i dispositivi energivori e ottimizzando i consumi.</p>
