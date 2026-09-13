@@ -15,6 +15,10 @@ cover:
 
 Non serve rifare l'impianto e passare al pavimento radiante per installare una pompa di calore: dal 2024 esistono modelli "alta temperatura" pensati apposta per essere collegati ai radiatori che hai già in casa. Nell'esempio di un appartamento di 100 mq che sostituisce una vecchia caldaia, il risparmio reale in bolletta va da circa 450 euro l'anno (se prima usavi il gas metano) fino a oltre 1.500 euro l'anno (se prima usavi il gasolio), con un contributo a fondo perduto che può coprire fino al 65% della spesa.
 
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=pompa+di+calore+aria+acqua+alta+temperatura&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le pompe di calore su Amazon</a>
+</div>
+
 ### Cos'è e come funziona
 
 I radiatori tradizionali sono stati progettati per funzionare con acqua calda a 65-80°C, mentre le pompe di calore "standard" arrivano al massimo a 55°C circa: una temperatura pensata per il riscaldamento a pavimento, non per i vecchi termosifoni in ghisa o acciaio. Per questo esistono due strade.
@@ -27,15 +31,15 @@ Molti modelli ad alta temperatura integrano anche la produzione di acqua calda s
 
 ### I migliori modelli del 2026
 
-Le pompe di calore sono impianti costosi (oltre 5.000 euro), quindi non è possibile inserire link Amazon diretti: di seguito le pagine informative ufficiali dei produttori.
+Sono impianti costosi che richiedono installazione professionale: il nome del modello rimanda alla scheda tecnica ufficiale del produttore, il link in fondo alla riga alla pagina Amazon dove trovi unità, accessori o kit compatibili.
 
-| Modello | Temperatura massima | Potenza | Prezzo indicativo (con installazione) | Pro | Contro |
-|---|---|---|---|---|---|
-| [Daikin Altherma 3 H HT](https://www.daikin.it/it_IT/home/product-group/air-to-water-heat-pump-high-temperature/daikin-altherma-3h-ht.html) | 80°C | 14-18 kW | €10.300-€14.000 | Compatibile anche con radiatori molto datati, ACS integrata | Prezzo elevato, ingombro unità interna |
-| [Viessmann Vitocal 250-A / 252-A](https://www.viessmann.it/it/prodotti/pompa-di-calore/vitocal-250-a.html) | 70°C | 2,6-18,5 kW | €11.000-€14.000 | Gas refrigerante R290 a basso impatto, ottimo COP per la sua fascia | Costo iniziale medio-alto |
-| [Hitachi Yutaki S80](https://www.hitachiaircon.com/it/prodotti/riscaldamento/yutaki-s80) | 80°C | 11-16 kW | €14.000-€18.000 | Massima temperatura disponibile sul mercato, adatta a impianti molto vecchi | Investimento importante |
-| [Mitsubishi Electric Ecodan R32](https://climatizzazione.mitsubishielectric.it/it/prodotti-soluzioni/soluzioni-casa/pompe-di-calore/pompe-di-calore-multi/ecodan-multi-comfort) | 60°C | 4-14 kW | €7.500-€11.000 | Prezzo più accessibile, buona diffusione assistenza in Italia | Temperatura massima inferiore, adatta a radiatori non troppo datati |
-| [Bosch Compress 7000i AW](https://www.bosch-homecomfort.com/it/it/ocs/residenziale/pompa-di-calore-compress-7000i-aw-792437-p/) | 62°C | 4-17 kW | €8.000-€12.000 | Disponibile anche in versione ibrida con caldaia a condensazione | Non adatta a radiatori che richiedono oltre 62°C |
+| Modello | Temperatura massima | Potenza | Prezzo indicativo (con installazione) | Pro | Contro | Link |
+|---|---|---|---|---|---|---|
+| [Daikin Altherma 3 H HT](https://www.daikin.it/it_IT/home/product-group/air-to-water-heat-pump-high-temperature/daikin-altherma-3h-ht.html) | 80°C | 14-18 kW | €10.300-€14.000 | Compatibile anche con radiatori molto datati, ACS integrata | Prezzo elevato, ingombro unità interna | [Amazon](https://www.amazon.it/dp/B0CMHVN78P?tag=audiobookit-21) |
+| [Viessmann Vitocal 250-A / 252-A](https://www.viessmann.it/it/prodotti/pompa-di-calore/vitocal-250-a.html) | 70°C | 2,6-18,5 kW | €11.000-€14.000 | Gas refrigerante R290 a basso impatto, ottimo COP per la sua fascia | Costo iniziale medio-alto | [Amazon](https://www.amazon.it/s?k=Viessmann+Vitocal+250-A&tag=audiobookit-21) |
+| [Hitachi Yutaki S80](https://www.hitachiaircon.com/it/prodotti/riscaldamento/yutaki-s80) | 80°C | 11-16 kW | €14.000-€18.000 | Massima temperatura disponibile sul mercato, adatta a impianti molto vecchi | Investimento importante | [Amazon](https://www.amazon.it/s?k=Hitachi+Yutaki+S80&tag=audiobookit-21) |
+| [Mitsubishi Electric Ecodan R32](https://climatizzazione.mitsubishielectric.it/it/prodotti-soluzioni/soluzioni-casa/pompe-di-calore/pompe-di-calore-multi/ecodan-multi-comfort) | 60°C | 4-14 kW | €7.500-€11.000 | Prezzo più accessibile, buona diffusione assistenza in Italia | Temperatura massima inferiore, adatta a radiatori non troppo datati | [Amazon](https://www.amazon.it/s?k=Mitsubishi+Ecodan+R32&tag=audiobookit-21) |
+| [Bosch Compress 7000i AW](https://www.bosch-homecomfort.com/it/it/ocs/residenziale/pompa-di-calore-compress-7000i-aw-792437-p/) | 62°C | 4-17 kW | €8.000-€12.000 | Disponibile anche in versione ibrida con caldaia a condensazione | Non adatta a radiatori che richiedono oltre 62°C | [Amazon](https://www.amazon.it/s?k=Bosch+Compress+7000i+AW&tag=audiobookit-21) |
 
 *Prezzi indicativi settembre 2026, comprensivi di installazione base; variano in base a potenza, accumulo ACS integrato e complessità del cantiere.*
 
