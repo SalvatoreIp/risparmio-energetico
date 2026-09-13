@@ -115,3 +115,19 @@ window.addEventListener('load', function() {
 // Chiudi modal cliccando overlay
 document.getElementById('cookie-overlay').addEventListener('click', hideCookieSettings);
 </script>
+
+<!-- Contatore click Amazon: evento GA4 dedicato per monitorare il volume giornaliero
+     di click verso Amazon (soglia per la richiesta di riattivazione affiliazione) -->
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest('a[href*="amazon.it"], a[href*="amzn.to"]');
+  if (!link) return;
+  if (typeof gtag === 'function') {
+    gtag('event', 'amazon_click', {
+      link_url: link.href,
+      link_text: (link.textContent || '').trim().slice(0, 100),
+      page_path: window.location.pathname
+    });
+  }
+}, true);
+</script>
