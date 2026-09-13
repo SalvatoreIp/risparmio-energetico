@@ -1,5 +1,6 @@
 ---
 title: "Pergole Bioclimatiche 2026: Guida Completa a Costi, Vantaggi e Migliori Modelli"
+slug: "pergole-bioclimatiche-2026"
 date: 2026-06-08T17:54:00+02:00
 draft: false
 description: "Guida completa alle pergole bioclimatiche 2026: prezzi, vantaggi, installazione e confronto migliori modelli sul mercato italiano. Risparmio energetico e comfort."

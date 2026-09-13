@@ -8,7 +8,7 @@ theme = "PaperMod"
 [params]
   googleAnalytics = "G-Y61B1XFD66"
     description = "Guide pratiche su fotovoltaico, smart home, pompe di calore, idroponica, incentivi 2026 per risparmiare energia in casa"
-    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide", "mobilita-sostenibile", "raffrescamento"]
+    mainSections = ["fotovoltaico", "smart-home", "riscaldamento", "illuminazione", "idroponica", "incentivi", "guide", "mobilita-sostenibile", "raffrescamento", "terrazzi"]
 
     [params.homeInfoParams]
         Title = "Risparmia Energia, Risparmia Denaro 💡"
@@ -62,6 +62,12 @@ theme = "PaperMod"
     url = "/mobilita-sostenibile/"
     weight = 60
 
+[[menu.main]]
+    identifier = "terrazzi"
+    name = "🏡 Terrazzi"
+    url = "/terrazzi/"
+    weight = 65
+
 [outputs]
     home = ["HTML", "RSS", "JSON"]
 
@@ -85,6 +91,7 @@ relativeURLs = false
   mobilita-sostenibile = "/mobilita-sostenibile/:slug/"
   incentivi = "/incentivi/:slug/"
   guide = "/guide/:slug/"
+  terrazzi = "/terrazzi/:slug/"
 
 
 
