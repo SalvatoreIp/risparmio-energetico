@@ -27,7 +27,7 @@ La prima è usare una pompa di calore **ad alta temperatura**, capace di raggiun
 
 La seconda è usare una pompa di calore standard, più efficiente, ma solo se la casa è ben isolata e i radiatori sono già sovradimensionati rispetto al reale fabbisogno: in questo caso bastano temperature più basse per scaldare l'ambiente, e a volte è sufficiente sostituire solo i radiatori delle stanze più fredde. Un tecnico verifica questa possibilità con un calcolo del fabbisogno termico stanza per stanza.
 
-Molti modelli ad alta temperatura integrano anche la produzione di acqua calda sanitaria in un unico apparecchio, sostituendo così anche lo scaldabagno. Per chi vive in zone molto fredde o non vuole rinunciare del tutto alla caldaia, esistono infine sistemi ibridi che abbinano pompa di calore e caldaia a condensazione, usata solo nei giorni più rigidi.
+Molti modelli ad alta temperatura integrano anche la produzione di acqua calda sanitaria in un unico apparecchio, sostituendo così anche lo scaldabagno. Se invece ti serve solo sostituire il boiler senza toccare il riscaldamento, una soluzione più economica e mirata è lo [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/) dedicato. Per chi vive in zone molto fredde o non vuole rinunciare del tutto alla caldaia, esistono infine sistemi ibridi che abbinano pompa di calore e caldaia a condensazione, usata solo nei giorni più rigidi.
 
 ### I migliori modelli del 2026
 
@@ -72,6 +72,8 @@ Chi arriva da un impianto a gasolio o GPL ha quindi un ritorno economico molto p
 **Ecobonus:** detrazione fiscale del 50% per la prima casa e del 36% per le altre, recuperata in 10 rate annuali, con tetto di spesa di 30.000 euro. Non è cumulabile con il Conto Termico sulla stessa spesa.
 
 **IVA agevolata al 10%** invece del 22% per gli interventi di riqualificazione energetica.
+
+Per un confronto dettagliato tra Ecobonus e Conto Termico 3.0 in base a potenza e capienza fiscale, vedi la [guida agli incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/); per un confronto tra marche e modelli anche al di fuori del caso "termosifoni esistenti", vedi la [guida ai prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
 
 ### Conclusione
 

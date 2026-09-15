@@ -63,16 +63,20 @@ Inoltre, molte pompe di calore possono fornire anche raffrescamento estivo, elim
 
 ### Incentivi disponibili 2026
 
-**Ecobonus 65%:** Detrazione fiscale del 65% sull'importo speso, ripartita in 10 anni. Per un investimento di €12.000, ricevi €7.800 di detrazione, quindi il costo effettivo è €4.200.
+**Ecobonus:** detrazione fiscale del 50% per la prima casa (36% per le altre unità immobiliari), ripartita in 10 rate annuali. Per un investimento di €12.000 sulla prima casa, la detrazione vale €6.000, quindi il costo effettivo spalmato in 10 anni è €6.000.
 
-**Conto Termico 2.0:** Contributo a fondo perduto per sostituzione impianti tradizionali. Le pompe di calore aria-acqua ricevono €1.500-€3.000 a seconda della classe energetica.
+**Conto Termico 3.0:** contributo a fondo perduto erogato dal GSE, fino al 65% della spesa ammissibile (75% con componenti prodotti in UE). Per potenze fino a 35 kW la spesa massima riconosciuta è 700 €/kW: per una pompa da 10 kW, ad esempio, il contributo massimo è di circa 4.550-5.250 euro.
 
 **IVA agevolata al 10%:** Invece del 22% standard, per interventi di riqualificazione energetica.
 
 **Bonus ristrutturazione:** Se la pompa di calore è inserita in un intervento di ristrutturazione più ampio, puoi accedere anche a questa detrazione del 50%.
 
+Per un confronto caso per caso tra Ecobonus e Conto Termico 3.0 (quale conviene in base a potenza dell'impianto e capienza fiscale), vedi la [guida agli incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
+
 ### Conclusione
 
 Per la maggior parte delle abitazioni, la pompa di calore aria-acqua è l'investimento migliore per il riscaldamento moderno: efficienza, risparmio e comfort in un'unica soluzione. Le marche più affidabili come Viessmann, Vaillant e Panasonic offrono garanzia e assistenza diffusa, mentre per chi cerca il miglior rapporto qualità-prezzo, Gree e Alpha Innotec sono ottime alternative. Con gli incentivi 2026 e il ritorno dell'investimento in 3-7 anni, la pompa di calore è una scelta intelligente per ridurre la bolletta e l'impatto ambientale.
 
-*Fonti: [GSE - Gestore Servizi Energetici](https://www.gse.it), [Klimaenergie](https://www.klimaenergie.it)*
+Se hai già i termosifoni e vuoi sapere se una pompa di calore è compatibile senza rifare l'impianto, leggi la guida dedicata [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/); se invece ti serve solo sostituire il boiler dell'acqua calda, la soluzione più economica è lo [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/).
+
+*Fonti: [GSE - Gestore Servizi Energetici](https://www.gse.it), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it)*

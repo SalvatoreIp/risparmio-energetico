@@ -10,7 +10,7 @@ cover:
   alt: "Impianto pompa di calore installato con cartellino sconto"
 ---
 
-<p class="lead">Nel 2026 gli incentivi per le pompe di calore sono tra i più convenienti mai offerti. Ecobonus al 65%, Conto Termico 3.0 fino al 65% di rimborso immediato. Scopri come risparmiare fino a 15.000 euro sull'installazione.</p>
+<p class="lead">Nel 2026 gli incentivi per le pompe di calore restano tra i più convenienti disponibili. Ecobonus al 50% (36% per le seconde case), Conto Termico 3.0 fino al 65% di rimborso diretto dal GSE. Scopri come scegliere il più conveniente per la tua situazione.</p>
 
 <div class="cta-box">
   <a href="https://www.amazon.it/s?k=pompa+di+calore+aria+acqua&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta prezzi e modelli di pompe di calore su Amazon</a>
@@ -32,13 +32,13 @@ Ognuno ha caratteristiche diverse che li rendono più o meno vantaggiosi in base
 
 ### **Come funziona**
 
-L'Ecobonus è una **detrazione fiscale IRPEF** del 65% sulle spese sostenute per la sostituzione degli impianti di climatizzazione invernale con pompe di calore ad alta efficienza.
+L'Ecobonus è una **detrazione fiscale IRPEF** sulle spese sostenute per la sostituzione degli impianti di climatizzazione invernale con pompe di calore ad alta efficienza.
 
 ### **Percentuale e durata**
 
-- **Detrazione:** 65% della spesa
+- **Detrazione:** 50% della spesa per l'abitazione principale, 36% per le altre unità immobiliari
 - **Durata:** 10 anni (quote annuali di pari importo)
-- **Massimale:** 110.000 euro per unità immobiliare
+- **Massimale:** 96.000 euro per unità immobiliare (dal 2027 l'aliquota scende al 30%)
 
 ### **Spese ammesse**
 
@@ -50,18 +50,18 @@ L'Ecobonus è una **detrazione fiscale IRPEF** del 65% sulle spese sostenute per
 
 ### **Esempio pratico**
 
-**Spesa totale:** 15.000 euro (pompa di calore + installazione)
+**Spesa totale:** 15.000 euro (pompa di calore + installazione, abitazione principale)
 
 | Anno | Detrazione annuale |
 |------|-------------------|
-| 2027 | 975 euro |
-| 2028 | 975 euro |
-| 2029 | 975 euro |
+| 2027 | 750 euro |
+| 2028 | 750 euro |
+| 2029 | 750 euro |
 | ... | ... |
-| 2036 | 975 euro |
-| **Totale** | **9.750 euro** |
+| 2036 | 750 euro |
+| **Totale** | **7.500 euro** |
 
-**Risparmio netto reale:** 15.000 - 9.750 = **5.250 euro**
+**Costo netto reale (spalmato in 10 anni):** 15.000 - 7.500 = **7.500 euro**
 
 ### **Chi può accedervi**
 
@@ -84,7 +84,7 @@ L'Ecobonus è una **detrazione fiscale IRPEF** del 65% sulle spese sostenute per
 3. **Documentazione:** Conserva fattura, ricevuta di pagamento bonifico parlante
 4. **Comunicazione GSE:** Entro 90 giorni, invia comunicazione all'ente
 5. **Detrazione:** Inserisci nella dichiarazione dei redditi (730 o Modello Redditi)
-6. **Bonifico parlante:** Usa bonifico specificando "Bonifico per detrazione fiscale 65% spese energetiche"
+6. **Bonifico parlante:** Usa bonifico specificando "Bonifico per detrazione fiscale spese di riqualificazione energetica"
 
 ### **Errori da evitare**
 
@@ -114,26 +114,23 @@ Il GSE (Gestore dei Servizi Energetici) eroga un incentivo economico **direttame
 
 ### **Importo massimo dell'incentivo**
 
-| Potenza pompa di calore | Massimale spesa | Incentivo massimo |
-|------------------------|----------------|------------------|
-| Fino a 35 kW | 30.000 euro | 19.500 euro |
-| 35-100 kW | 50.000 euro | 32.500 euro |
-| Oltre 100 kW | 100.000 euro | 65.000 euro |
+Per potenze fino a 35 kW, la spesa massima riconosciuta ai fini del calcolo è di **700 euro/kW**. Il contributo copre il 65% di questa spesa ammissibile (75% se i componenti principali sono prodotti nell'Unione Europea) — non il 65% dell'intera spesa sostenuta, se questa supera il massimale per kW.
+
+| Potenza pompa di calore | Spesa massima ammissibile | Incentivo (65%) | Incentivo (75%, componenti UE) |
+|------------------------|----------------|------------------|------------------|
+| 6 kW | 4.200 euro | 2.730 euro | 3.150 euro |
+| 10 kW | 7.000 euro | 4.550 euro | 5.250 euro |
+| 16 kW | 11.200 euro | 7.280 euro | 8.400 euro |
 
 ### **Esempio pratico**
 
-**Spesa totale:** 15.000 euro (pompa di calore + installazione, potenza 10 kW)
+**Spesa totale:** 12.000 euro (pompa di calore aria-acqua da 10 kW, installazione inclusa)
 
-| Anno | Rimborso |
-|------|----------|
-| 2027 | 6.500 euro |
-| 2028 | 6.500 euro |
-| 2029 | 6.500 euro |
-| **Totale** | **19.500 euro** |
+- Spesa massima ammissibile (10 kW × 700 €/kW): 7.000 euro
+- Contributo Conto Termico 3.0 (65%): 4.550 euro
+- **Costo netto reale:** 12.000 - 4.550 = **7.450 euro**
 
-**Risparmio netto reale:** 15.000 - 19.500 = **-4.500 euro** (guadagno!)
-
-> ⚠️ **Nota:** Questo è un esempio con massimali massimi. L'importo effettivo dipende dalla tipologia di utente e dalla potenza dell'impianto.
+> ⚠️ **Nota:** l'incentivo si calcola sulla spesa ammissibile per potenza (fino al massimale per kW), non sull'intera spesa se questa lo supera. Per potenze superiori a 35 kW valgono massimali diversi, tipicamente riservati a utenze non residenziali.
 
 ### **Chi può accedervi**
 
@@ -203,7 +200,7 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 
 ### **Limitazioni**
 
-- **Meno vantaggioso** rispetto a Ecobonus 65% per la sola pompa di calore
+- **Stessa aliquota dell'Ecobonus** (50%/36%) per la sola pompa di calore, quindi conviene solo se hai già altri lavori di ristrutturazione da inquadrare nella stessa pratica
 - **Solo se ristrutturazione completa:** Non per semplice sostituzione caldaia
 - **Cumulo limitato:** Non puoi detrarre due volte la stessa spesa
 
@@ -215,57 +212,57 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 
 | Incentivo | Vantaggio | Ideale per |
 |-----------|-----------|------------|
-| **Ecobonus 65%** | Detrazione 65% in 10 anni | Chi ha buona capienza fiscale |
-| **Conto Termico 3.0** | Rimborso immediato in 2-3 anni | Chi vuole liquidità subito |
+| **Ecobonus 50%** | Detrazione su tutta la spesa, in 10 anni | Chi ha buona capienza fiscale e vuole detrarre l'intero importo |
+| **Conto Termico 3.0** | Rimborso diretto fino al 65%, ma solo sulla spesa ammissibile per kW | Chi vuole liquidità più rapida e ha un impianto di potenza contenuta |
 
-**Consiglio:** Se hai buona capienza fiscale (IRPEF ≥ 35%), **Ecobonus è spesso più vantaggioso**. Se hai bisogno di liquidità immediata, **Conto Termico 3.0**.
+**Consiglio:** per impianti di potenza medio-bassa, dove la spesa ammissibile del Conto Termico copre gran parte del costo reale, il Conto Termico 3.0 è spesso più conveniente in valore assoluto. Per impianti più costosi o di potenza elevata, dove il tetto per kW limita il rimborso, l'Ecobonus (calcolato sull'intera spesa) può recuperare di più, sebbene in 10 anni anziché subito. Non sono cumulabili sulla stessa spesa: vanno confrontati caso per caso.
 
 ### **Scenario B: Pompa di calore in ristrutturazione completa**
 
 | Incentivo | Vantaggio | Ideale per |
 |-----------|-----------|------------|
-| **Ecobonus 65%** | Solo sulla parte impianto | Interventi specifici energia |
-| **Bonus Ristrutturazioni 50%** | Su tutta la ristrutturazione | Ristrutturazioni complete |
+| **Ecobonus 50%** | Detrazione dedicata solo alla parte impianto | Interventi specifici di efficientamento energetico |
+| **Bonus Ristrutturazioni 50%** | Copre tutta la ristrutturazione (impianto incluso) | Ristrutturazioni complete con più interventi |
 
-**Consiglio:** Usa **Ecobonus per la pompa di calore** e **Bonus Ristrutturazioni per gli altri lavori**. Non cumulabili per la stessa spesa.
+**Consiglio:** le due misure condividono di fatto la stessa aliquota per la prima casa (50%): la differenza è nel perimetro di spesa coperto. Se stai ristrutturando casa, conviene inquadrare tutto sotto un'unica pratica di Bonus Ristrutturazioni; se sostituisci solo la caldaia, l'Ecobonus è la via più diretta. Non cumulabili sulla stessa spesa.
 
 ---
 
 ## Calcolo risparmio concreto: esempi reali
 
-### **Caso 1: Appartamento 100 mq con caldaia a gas**
+### **Caso 1: Appartamento 100 mq con caldaia a gas, pompa di calore da 10 kW**
 
 **Situazione attuale:**
 - Spesa gas: 1.800 euro/anno
 - Pompa di calore costata: 12.000 euro
 
-**Con Ecobonus 65%:**
-- Detrazione: 7.800 euro (12.000 × 65%)
-- Risparmio 10 anni: 7.800 euro
-- **Costo reale:** 4.200 euro
-- **ROI:** 4 anni e 8 mesi
+**Con Ecobonus 50% (prima casa):**
+- Detrazione: 6.000 euro (12.000 × 50%), recuperata in 10 rate annuali da 600 euro
+- **Costo netto spalmato in 10 anni:** 6.000 euro
 
 **Con Conto Termico 3.0:**
-- Rimborso: 7.800 euro
-- **Costo reale:** 4.200 euro
-- **ROI:** 2 anni e 4 mesi (rimborso più veloce)
+- Spesa ammissibile (10 kW × 700 €/kW): 7.000 euro
+- Rimborso (65%): 4.550 euro, erogato dal GSE in tempi brevi (mesi, non anni)
+- **Costo netto:** 7.450 euro
 
-### **Caso 2: Casa indipendente 200 mq con caldaia a gasolio**
+**Consiglio:** qui l'Ecobonus recupera di più in valore assoluto (6.000 contro 4.550), ma il Conto Termico arriva molto prima. Chi ha poca capienza fiscale IRPEF trova comunque nel Conto Termico l'opzione più semplice da incassare per intero.
+
+### **Caso 2: Casa indipendente 200 mq con caldaia a gasolio, pompa di calore da 16 kW**
 
 **Situazione attuale:**
 - Spesa gasolio: 3.500 euro/anno
 - Pompa di calore costata: 20.000 euro
 
-**Con Ecobonus 65%:**
-- Detrazione: 13.000 euro
-- Risparmio 10 anni: 13.000 euro
-- **Costo reale:** 7.000 euro
-- **ROI:** 2 anni
+**Con Ecobonus 50% (prima casa):**
+- Detrazione: 10.000 euro (20.000 × 50%), recuperata in 10 rate annuali da 1.000 euro
+- **Costo netto spalmato in 10 anni:** 10.000 euro
 
 **Con Conto Termico 3.0:**
-- Rimborso: 13.000 euro
-- **Costo reale:** 7.000 euro
-- **ROI:** 1 anno e 8 mesi
+- Spesa ammissibile (16 kW × 700 €/kW): 11.200 euro
+- Rimborso (65%): 7.280 euro
+- **Costo netto:** 12.720 euro
+
+**Consiglio:** su impianti di questa taglia l'Ecobonus resta più conveniente in valore assoluto; il Conto Termico ha senso soprattutto per chi non ha capienza fiscale sufficiente a sfruttare l'intera detrazione.
 
 ---
 
@@ -454,7 +451,7 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 
 ## Conclusione
 
-Gli incentivi per le pompe di calore nel 2026 sono **straordinariamente vantaggiosi**. Con Ecobonus al 65% o Conto Termico 3.0 fino al 65%, puoi recuperare fino al **65% della spesa totale** per acquisto e installazione.
+Gli incentivi per le pompe di calore nel 2026 restano vantaggiosi, ma vanno scelti con attenzione: l'Ecobonus recupera il 50% (36% per le seconde case) dell'intera spesa in 10 anni, mentre il Conto Termico 3.0 rimborsa più in fretta ma solo fino al 65% di una spesa ammissibile limitata a 700 €/kW.
 
 **Il mio consiglio:**
 - **Confronta le opzioni:** Ecobonus vs Conto Termico
@@ -467,6 +464,8 @@ Gli incentivi per le pompe di calore nel 2026 sono **straordinariamente vantaggi
 
 **La scelta migliore per te:** Dipende dalla tua situazione fiscale, tempistiche e preferenze. Ma una cosa è certa: nel 2026, **è il momento migliore per investire in pompe di calore**.
 
+**Guide pratiche collegate:** [prezzi e confronto modelli](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) · [pompa di calore con termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/)
+
 ---
 
-*Fonti: Studi economici 2026, GSE, ENPAL, Vaillant, Bosch Home Comfort, InformaEdilizia*
+*Fonti: [GSE - Gestore Servizi Energetici, Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it)*

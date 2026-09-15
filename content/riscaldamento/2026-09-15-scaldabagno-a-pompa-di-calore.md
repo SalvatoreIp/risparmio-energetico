@@ -62,6 +62,8 @@ Chi invece sostituisce un boiler a gas (meno diretto, perché cambia il vettore 
 
 **IVA agevolata al 10%** invece del 22% per l'installazione in interventi di ristrutturazione o riqualificazione energetica.
 
+Per un confronto più ampio tra Ecobonus e Conto Termico 3.0 anche per il riscaldamento (non solo l'acqua calda), vedi la [guida agli incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/). Se invece ti serve anche sostituire la caldaia mantenendo i termosifoni esistenti, leggi la guida dedicata alla [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/).
+
 ### Conclusione
 
 Lo scaldabagno a pompa di calore è oggi uno degli interventi di risparmio energetico con il ritorno più rapido: costa quanto un buon boiler elettrico di fascia alta, ma dimezza (o più) la voce acqua calda in bolletta, e con il Conto Termico 3.0 il rientro economico può avvenire in un solo anno. Va bene soprattutto a chi ha già un boiler elettrico e un locale tecnico sufficientemente areato (cantina, lavanderia, garage); chi parte da un boiler a gas risparmia meno in euro ma guadagna comunque in sicurezza e manutenzione. Prima di acquistare, verifica sempre lo spazio disponibile e chiedi a un installatore una stima precisa dei consumi in base al numero di persone in famiglia.
