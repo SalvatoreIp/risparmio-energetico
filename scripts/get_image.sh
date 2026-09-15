@@ -2,7 +2,7 @@
 KEYWORD="${1:-news}"
 SLUG="${2:-articolo}"
 
-cd /home/salvatore/risparmio-energetico || exit 1
+cd "$(dirname "$0")/.." || exit 1
 
 PIXABAY_KEY=$(grep PIXABAY_API_KEY .env | cut -d= -f2)
 RESPONSE=$(wget -qO- "https://pixabay.com/api/?key=$PIXABAY_KEY&q=$KEYWORD&image_type=photo&orientation=horizontal&per_page=10&page=$((RANDOM % 3 + 1))" 2>/dev/null)
