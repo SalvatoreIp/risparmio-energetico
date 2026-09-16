@@ -1,0 +1,28 @@
+Sei incaricato di pubblicare UN nuovo articolo oggi sul blog Hugo in questo repository (guida-energia.com). Leggi prima CLAUDE.md nella root del repo: contiene TUTTE le regole editoriali obbligatorie (struttura articolo, frontmatter, regole sui link Amazon, slug, lunghezza 800-1200 parole, ecc.) e il comando esatto del ciclo di pubblicazione. Seguile alla lettera.
+
+SCOPE: oggi modifichi SOLO due cose — (1) un nuovo file in content/<sezione>/ per il nuovo articolo, con la sua immagine di copertina in static/immagini/, e (2) content-queue.md per segnare l'argomento come fatto. Non toccare altri articoli, hugo.toml, layouts/, scripts/ o altri file, anche se noti problemi: segnalali nel messaggio finale invece di correggerli.
+
+PASSO 1 — Scegli l'argomento:
+Apri content-queue.md nella root del repo. Prendi il primo elemento non ancora pubblicato nella sezione "Da pubblicare" (checkbox `- [ ]`). Se la lista è vuota, segui le istruzioni nella sezione "Quando la coda è vuota" dello stesso file.
+
+Prima di scrivere, controlla i titoli/slug esistenti in content/<sezione>/ (e nelle sezioni correlate) per assicurarti che il nuovo articolo non cannibalizzi una query già coperta da un articolo esistente — se l'argomento scelto è troppo simile a uno già pubblicato, scegli l'elemento successivo in coda o adatta l'angolo dell'articolo per differenziarlo chiaramente (come già fatto in passato: es. "impianto fotovoltaico con accumulo" vs "fotovoltaico da tetto prezzi" sono stati deliberatamente differenziati e collegati con link incrociati).
+
+PASSO 2 — Ricerca fatti reali:
+Usa WebSearch per verificare prezzi attuali, modelli/prodotti reali, e la normativa/incentivi 2026 aggiornata (Conto Termico 3.0, Ecobonus 50%/36%, Bonus Ristrutturazioni — NON usare mai percentuali a memoria, verificale sempre: in passato articoli di questo sito hanno riportato un Ecobonus errato al 65% invece del 50%/36% corretto, causando una correzione successiva). Per i link Amazon nella tabella "I migliori modelli", cerca il prodotto reale su Amazon.it (tramite WebSearch, query tipo "site:amazon.it <nome prodotto>") e usa solo link reali trovati così, con lo stesso tag affiliato già usato nel resto del sito (cercalo in un articolo esistente recente, es. content/riscaldamento/2026-09-15-scaldabagno-a-pompa-di-calore.md, campo "tag=" nei link Amazon). Se non trovi un prodotto reale su Amazon, ometti il link o linka una pagina informativa/comparativa reale, mai un link inventato.
+
+PASSO 3 — Scrivi l'articolo:
+Segui esattamente la struttura obbligatoria di CLAUDE.md (Introduzione → Cos'è e come funziona → I migliori modelli → Quanto si risparmia davvero → Incentivi disponibili → Conclusione → *Fonti: ...*), 800-1200 parole, frontmatter con virgolette doppie, categorie/tag coerenti con le sezioni già registrate in hugo.toml. Includi almeno un calcolo di risparmio concreto in euro, con prezzi datati (es. "prezzo indicativo [mese] 2026"). Aggiungi 2-3 link interni verso articoli correlati già pubblicati sul sito (cerca articoli sullo stesso argomento/sezione con grep sui titoli in content/) per rinforzare il collegamento interno, sul modello di quanto già fatto nel cluster "pompe di calore" (incentivi-pompe-di-calore-2026, pompa-di-calore-prezzi-2026, pompa-di-calore-per-termosifoni, scaldabagno-a-pompa-di-calore si linkano tutti a vicenda).
+
+Scarica un'immagine di copertina reale con `bash scripts/get_image.sh "<keyword inglese>" "<slug>"` (usa una keyword inglese pertinente; se PIXABAY_API_KEY non è configurata lo script usa automaticamente un fallback su picsum.photos, va bene comunque).
+
+PASSO 4 — Verifica prima di pubblicare:
+- Conta le parole del corpo (esclusi frontmatter) e conferma che siano tra 800 e 1200.
+- Esegui il ciclo di build/deploy ESATTO descritto in CLAUDE.md sotto "Commands" (rm -rf public/ && hugo --minify && npx wrangler pages deploy public --project-name risparmio-energetico --commit-dirty=true && git add . && git commit -m "..." && git push). NON usare scripts/publish_post.sh.
+- Prima di eseguire hugo, verifica che il build non dia errori. Se hugo o wrangler falliscono, NON fare git push: fermati e scrivi nel riepilogo finale cosa è andato storto, così la persona può intervenire. Non lasciare il repository con modifiche a metà: se il deploy fallisce dopo il build ma prima del push, valuta se fare comunque il push del solo codice sorgente (senza il deploy live) o annullare le modifiche, spiegando la scelta.
+- Verifica che la pagina generata esista davvero in public/<sezione>/<slug>/index.html prima di considerare il lavoro riuscito.
+
+PASSO 5 — Aggiorna la coda e commit:
+In content-queue.md, segna l'elemento pubblicato come `- [x]` (o rimuovilo) e sposta eventuali note utili. Includi content-queue.md nello stesso commit dell'articolo. Il messaggio di commit deve seguire lo stile già usato nel repo (titolo breve "Aggiunto: <titolo articolo>", corpo con contesto su keyword/volume target, e terminare con la riga:
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+
+Al termine, scrivi un riepilogo breve: quale articolo hai pubblicato, l'URL live, la parola chiave target con volume/difficoltà (se disponibili), e qualunque problema incontrato (build fallita, coda vuota, prodotto Amazon non trovato, ecc.).
