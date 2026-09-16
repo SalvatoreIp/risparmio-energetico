@@ -1,3 +1,4 @@
 .env
 .hugo_build.lock
 blocco4-setup.sh
+logs/
