@@ -9,7 +9,7 @@ git pull --ff-only origin main
 
 PROMPT="$(cat scripts/daily_publish_prompt.txt)"
 
-claude -p "$PROMPT" \
+/home/salvatore/.local/bin/claude -p "$PROMPT" \
   --model claude-sonnet-5 \
   --allowedTools "Bash Read Write Edit Glob Grep WebSearch" \
   --permission-mode bypassPermissions
