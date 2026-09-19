@@ -52,6 +52,12 @@ These are the standing content rules this site has been built under (see `OPENCL
 - Italian, 800–1200 words, original text only (never copy from sources).
 - Mandatory structure: Introduzione → Cos'è e come funziona → I migliori modelli (Markdown product table) → Quanto si risparmia davvero → Incentivi disponibili → Conclusione → `*Fonti: ...*`.
 - Every article needs at least one concrete savings calculation in euros.
+- Immediately after the Introduzione (before "Cos'è e come funziona"), every article must have the orange CTA button block, linking to an Amazon.it search for the article's product category (or the official product page for big-ticket items), with the affiliate tag used elsewhere on the site:
+  ```html
+  <div class="cta-box">
+    <a href="https://www.amazon.it/s?k=parole+chiave&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta ... su Amazon</a>
+  </div>
+  ```
 - Amazon links: only use a real link found by searching the actual product on Amazon.it — never fabricate an ASIN or URL. If the product isn't found, omit the link (or link an informational/comparison page for big-ticket items like heat pumps/boilers).
 - Slug: lowercase + hyphens only, no apostrophes or accented characters.
 - One category per article; double quotes in frontmatter, never single/apostrophes.

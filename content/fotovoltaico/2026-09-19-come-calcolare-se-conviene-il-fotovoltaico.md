@@ -15,6 +15,10 @@ cover:
 
 "Quanto ci mette a ripagarsi?" è la domanda che decide davvero se un impianto fotovoltaico conviene, molto più della potenza in kW o del marchio dei pannelli. La risposta dipende da poche variabili misurabili — quanto consumi, quando lo consumi, quanto costa l'impianto al netto degli incentivi — che si combinano in una formula semplice. In questa guida vediamo la formula passo per passo e un esempio numerico completo: una famiglia con consumo di 2.800 kWh l'anno e un impianto da 4 kW senza batteria, che rientra dell'investimento in circa 4-5 anni.
 
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=misuratore+consumo+energia+elettrica+wifi&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i misuratori di consumo elettrico su Amazon</a>
+</div>
+
 ### Cos'è e come funziona il calcolo di convenienza
 
 Il calcolo si basa su due numeri: quanto risparmi ogni anno e quanto ti costa l'impianto al netto degli incentivi. Il rapporto tra i due dà il **tempo di rientro** (payback period):
