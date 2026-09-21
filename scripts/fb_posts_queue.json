@@ -1,0 +1,185 @@
+{
+  "_nota": "Coda dei post Facebook standalone (senza link al sito). Consumata da scripts/fb_standalone_post.sh, due al giorno (13:30 e 19:30). Lo stato di pubblicazione NON sta qui ma in /home/salvatore/output/fb_standalone_state.json, cosi' questo file resta pulito in git. Prezzo energia usato nei conti: 0,28 EUR/kWh, indicativo settembre 2026.",
+  "posts": [
+    {
+      "id": 1,
+      "tema": "consumi fantasma",
+      "immagine": "consumi-fantasma-casa",
+      "testo": "🔌 In questo momento, in casa tua, ci sono apparecchi accesi che non stai usando.\n\nSi chiamano consumi fantasma: TV in standby, decoder, router, caricabatterie attaccati a vuoto, il microonde con l'orologio sempre illuminato.\n\nSembrano briciole. Invece valgono il 5-10% della bolletta elettrica di una famiglia: su 600 € l'anno di luce sono 30-60 € spesi per tenere accese delle lucine rosse.\n\n🔍 Come scoprirli in 2 minuti: stacca tutto tranne frigo e congelatore, poi guarda il contatore. Se continua a girare, qualcosa sta ancora consumando.\n\n💡 La soluzione costa 10 €: una ciabatta con interruttore dietro il mobile della TV. Un clic la sera e hai chiuso.\n\nQuante lucine rosse vedi in salotto in questo momento? 👇"
+    },
+    {
+      "id": 2,
+      "tema": "forno calore residuo",
+      "immagine": "come-risparmiare-bolletta",
+      "testo": "🍕 Il forno elettrico è tra gli elettrodomestici più affamati di casa: 2-2,5 kW mentre scalda.\n\nUn'ora di cottura sono circa 2 kWh, cioè 0,55 € (a 0,28 €/kWh, prezzo indicativo settembre 2026).\n\nTre accorgimenti che non cambiano niente nel piatto:\n\n🔸 Spegnilo 10 minuti prima. Il calore residuo finisce la cottura e non te ne accorgi.\n🔸 Salta il preriscaldamento per le cose lunghe: arrosti, patate, verdure. Serve davvero solo per lievitati e dolci.\n🔸 Non aprire lo sportello per controllare. Ogni apertura fa perdere 20-25°C e il forno riparte a piena potenza.\n\nCon una trentina di cotture al mese parliamo di 20-25 € l'anno, senza rinunciare a nulla.\n\nTu preriscaldi sempre o hai già smesso? 👇"
+    },
+    {
+      "id": 3,
+      "tema": "lavatrice temperatura",
+      "immagine": "bonus-efficienza-energetica",
+      "testo": "🧺 Nella lavatrice il 90% dell'energia se ne va per scaldare l'acqua. Il cestello che gira costa quasi niente.\n\nEcco perché la temperatura è l'unica manopola che conta davvero:\n\n🔸 90°C → circa 2,0 kWh a lavaggio\n🔸 60°C → circa 1,1 kWh\n🔸 30°C → circa 0,4 kWh\n\nScendere da 60 a 30 gradi taglia i consumi di due terzi. Con 4 lavaggi a settimana sono circa 145 kWh l'anno: 40 € (a 0,28 €/kWh, settembre 2026).\n\n🧴 I detersivi di oggi sono formulati per lavorare a freddo: il bucato di tutti i giorni a 30°C viene pulito uguale. I 60°C tienili per lenzuola, asciugamani e quando in casa c'è qualcuno influenzato.\n\nTu a che temperatura lavi di solito? 👇"
+    },
+    {
+      "id": 4,
+      "tema": "router sempre acceso",
+      "immagine": "presa-smart-misuratore",
+      "testo": "📶 Il router di casa è probabilmente l'apparecchio che resta acceso più a lungo in assoluto: 24 ore al giorno, 365 giorni all'anno. Non lo spegne quasi nessuno.\n\nConsuma poco per volta, 8-12 watt, ma moltiplicato per 8.760 ore fa circa 85 kWh l'anno: 24 € (a 0,28 €/kWh, settembre 2026).\n\nNon stiamo dicendo di spegnerlo — la connessione serve, e spegnerlo ogni notte accorcia la vita dell'apparecchio più di quanto faccia risparmiare.\n\n💡 Il punto è un altro: se un aggeggio da 10 watt sempre acceso ti costa 24 € l'anno, immagina quanti altri ne hai in casa che non hai mai contato. Decoder, allarme, videocamere, vecchio PC, ciabatte piene.\n\nIl conto vero non è mai il singolo apparecchio: è la somma.\n\nQuanti apparecchi hai accesi 24 ore su 24? 👇"
+    },
+    {
+      "id": 5,
+      "tema": "frigorifero",
+      "immagine": "prese-smart-misuratore-consumo-2026",
+      "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
+    },
+    {
+      "id": 6,
+      "tema": "termosifoni coperti",
+      "immagine": "valvole-termostatiche-smart",
+      "testo": "🔥 Stagione di riscaldamento alle porte, e questo è l'errore più diffuso in assoluto: coprire i termosifoni.\n\nUn radiatore scalda per convezione: prende aria fredda in basso, la scalda e la rimanda in alto. Se davanti c'è un divano, una tenda lunga o una mensola, quel movimento si blocca e il calore resta intrappolato lì.\n\nRisultato: fino al 20% di calore che non arriva in stanza. Tu alzi il termostato, la caldaia lavora di più, e la bolletta la paghi lo stesso.\n\n✅ Cosa serve davvero:\n🔸 Tende che finiscono sopra il radiatore, non davanti\n🔸 Almeno 10 cm liberi tra mobile e termosifone\n🔸 Niente panni ad asciugare sopra (e niente copritermosifone decorativo)\n\nÈ il risparmio più a buon mercato che esista: costa zero e si fa in cinque minuti.\n\nHai un termosifone coperto in casa? 👇"
+    },
+    {
+      "id": 7,
+      "tema": "spurgare radiatori",
+      "immagine": "pompa-di-calore-per-termosifoni",
+      "testo": "🔧 Se il termosifone è caldo sotto e freddo sopra, non è rotto: dentro c'è aria.\n\nSuccede a tutti gli impianti dopo un'estate ferma. L'aria si accumula nella parte alta, prende il posto dell'acqua calda e quella porzione di radiatore smette di scaldare. Tu senti freddo, alzi la caldaia, e paghi per scaldare un termosifone che lavora a metà.\n\n🛠️ Come si sistema, prima di accendere:\n1️⃣ Spegni la caldaia e aspetta che l'impianto si raffreddi\n2️⃣ Metti una bacinella sotto la valvolina di sfiato (in alto, di lato)\n3️⃣ Apri piano con la chiavetta o un cacciavite: senti uscire l'aria\n4️⃣ Quando esce acqua, richiudi\n5️⃣ Alla fine controlla la pressione in caldaia: deve stare tra 1 e 1,5 bar\n\nDieci minuti per tutta la casa, zero euro, e i radiatori tornano caldi fino in cima.\n\nLi hai già sfiatati quest'anno? 👇"
+    },
+    {
+      "id": 8,
+      "tema": "programmazione oraria riscaldamento",
+      "immagine": "termostato-smart-2026",
+      "testo": "⏰ Scaldare una casa vuota è il modo più silenzioso di buttare soldi.\n\nSe uscite alle 8 e rientrate alle 18, per dieci ore al giorno la caldaia sta scaldando stanze in cui non c'è nessuno. Su una stagione sono mesi di riscaldamento regalati alle pareti.\n\n🕗 Come si imposta una programmazione che funziona:\n🔸 Un'ora prima della sveglia → temperatura piena\n🔸 Quando esci → giù di 3-4 gradi, non spento del tutto\n🔸 Un'ora prima del rientro → risale\n🔸 Di notte → giù di 3-4 gradi\n\n❗ Attenzione all'errore classico: spegnere completamente. Una casa che si raffredda del tutto richiede più energia per tornare in temperatura di quanta ne serva a mantenerla tiepida. Abbassare sì, azzerare no.\n\nUn cronotermostato base costa 30-50 €, uno smart da 60-100 € (prezzi indicativi settembre 2026) e si ripaga nella prima stagione.\n\nIl tuo riscaldamento è programmato o va a manopola? 👇"
+    },
+    {
+      "id": 9,
+      "tema": "caldaia condensazione mandata",
+      "immagine": "miglior-termostato-smart-2026",
+      "testo": "🌡️ Hai una caldaia a condensazione? Allora c'è un numero, nascosto nel menu, che decide quanto spendi: la temperatura di mandata.\n\nÈ la temperatura dell'acqua che la caldaia manda ai termosifoni. Di fabbrica spesso è impostata a 70-75°C. E lì sta il problema.\n\nUna caldaia a condensazione recupera calore dai fumi condensando il vapore acqueo. Ma quel fenomeno avviene solo se l'acqua di ritorno è abbastanza fredda — indicativamente sotto i 55°C. Se la mandata è a 75°C, la condensazione non parte mai e la caldaia lavora come una normale caldaia di vent'anni fa.\n\n✅ Provare a scendere a 55-60°C è gratis. I termosifoni scalderanno un po' più lentamente ma più a lungo, e il recupero vale un 10-15% di gas in meno.\n\n⚠️ Se l'impianto ha radiatori piccoli potrebbe non bastare: si prova, si vive una settimana, si decide.\n\nSai a che temperatura è impostata la tua? 👇"
+    },
+    {
+      "id": 10,
+      "tema": "asciugatrice",
+      "immagine": "bonus-efficienza-energetica",
+      "testo": "🌀 L'asciugatrice è l'elettrodomestico che più spesso fa saltare all'occhio la bolletta d'inverno. Ed è anche quello dove la differenza tra due modelli è più grande.\n\n🔸 Asciugatrice a condensazione tradizionale: 3,5-4 kWh a ciclo\n🔸 Asciugatrice a pompa di calore: 1,5-2 kWh a ciclo\n\nCon 3 cicli a settimana la prima costa circa 160 € l'anno, la seconda circa 75 € (a 0,28 €/kWh, settembre 2026). Sono 85 € di differenza ogni anno, per la stessa identica operazione.\n\n💡 E prima ancora dell'asciugatrice c'è la centrifuga: portarla a 1.400 giri invece di 800 toglie molta più acqua e accorcia l'asciugatura del 20-30%. Costa pochi centesimi in più di lavatrice e ne fa risparmiare parecchi dopo.\n\nD'inverno l'asciugatrice è comoda, nessuno lo nega. Ma sapere quanto costa un ciclo cambia il modo di usarla.\n\nTu ce l'hai o stendi e basta? 👇"
+    },
+    {
+      "id": 11,
+      "tema": "LED vs alogene",
+      "immagine": "led-energia-22aprile",
+      "testo": "💡 Le giornate si accorciano e le luci restano accese molte più ore. È il momento dell'anno in cui cambiare le lampadine rende di più.\n\nPer fare la stessa luce:\n🔸 Vecchia lampadina a incandescenza: 60 W\n🔸 Alogena: 42 W\n🔸 LED: 8-9 W\n\nStessa luce, un settimo del consumo.\n\n🧮 Il conto, se in casa hai ancora 10 punti luce alogeni accesi 3 ore al giorno: passando ai LED risparmi circa 360 kWh l'anno, cioè circa 100 € (a 0,28 €/kWh, settembre 2026). Le lampadine si pagano in due-tre mesi.\n\n⚠️ Due cose da guardare sulla confezione, non i watt:\n🔸 I lumen, che sono la luce vera (800 lm ≈ vecchia da 60 W)\n🔸 I kelvin: 2700 K luce calda per soggiorno e camere, 4000 K neutra per cucina e bagno\n\nIn casa tua è rimasta qualche alogena? 👇"
+    },
+    {
+      "id": 12,
+      "tema": "induzione vs gas",
+      "immagine": "come-risparmiare-bolletta",
+      "testo": "🍳 Domanda che sembra banale ma non lo è: costa di più cucinare a gas o a induzione?\n\nLa differenza sta in quanta energia finisce davvero nella pentola.\n\n🔥 Fornello a gas: 40-55%. Gran parte della fiamma scalda l'aria intorno alla pentola, non il fondo. Basta guardare le fiammelle che escono dai lati.\n⚡ Piano a induzione: 85-90%. Il campo magnetico scalda direttamente il fondo della pentola, non il piano.\n\nÈ per questo che un litro d'acqua bolle in 3-4 minuti sull'induzione e in 7-8 sul gas.\n\n💰 Sul costo finale i due si equivalgono più di quanto si pensi, perché il gas costa meno del kWh elettrico: dipende dalle tariffe del momento. Ma se hai il fotovoltaico l'induzione vince nettamente, perché cucini con energia che hai prodotto tu.\n\n🍲 Il trucco che vale su entrambi: il coperchio. Tenerlo sulla pentola taglia tempi e consumi di circa un terzo. È il gesto più sottovalutato che esista in cucina.\n\nTu cucini a gas o a induzione? 👇"
+    },
+    {
+      "id": 13,
+      "tema": "microonde vs forno",
+      "immagine": "come-risparmiare-bolletta",
+      "testo": "♨️ Riscaldare un piatto di pasta avanzata: forno o microonde?\n\nNon è nemmeno una gara.\n\n🔸 Forno elettrico: deve portare in temperatura tutta la cavità, il vetro, le griglie. Per un singolo piatto sono 15 minuti a 2 kW, circa 0,5 kWh.\n🔸 Microonde: scalda direttamente l'acqua contenuta nel cibo, niente intorno. Due minuti a 800 W, circa 0,03 kWh.\n\nSedici volte meno energia per lo stesso piatto caldo.\n\n💡 La regola generale: più piccola è la porzione, più il microonde conviene. Il forno ha senso quando riempi tutti i ripiani — se devi infornare qualcosa, infornane tanto in una volta sola.\n\n🥘 E se puoi, cucina in quantità e congela: riscaldare una porzione costa una frazione di quanto costa cucinarla da zero ogni volta.\n\nQuante volte accendi il forno per una cosa sola? 👇"
+    },
+    {
+      "id": 14,
+      "tema": "bollitore e acqua calda",
+      "immagine": "come-risparmiare-bolletta",
+      "testo": "☕ Scaldare l'acqua è una delle cose che facciamo più spesso in casa, e quasi sempre nel modo meno efficiente.\n\nPer portare a bollore un litro d'acqua:\n🔸 Pentola sul gas, senza coperchio: circa 8-10 minuti\n🔸 Pentola sul gas, con coperchio: circa 6-7 minuti\n🔸 Bollitore elettrico: 3 minuti, circa 0,11 kWh\n\nIl bollitore vince perché la resistenza è immersa nell'acqua: non si disperde quasi niente.\n\n💡 Ma il vero risparmio è un altro, e vale per tutti: metti solo l'acqua che ti serve. Riempire il bollitore fino all'orlo per una tazza di tè significa scaldare mezzo litro d'acqua che poi butti. Moltiplicato per tre volte al giorno, tutto l'anno.\n\n🍝 Stesso discorso per la pasta: non servono 5 litri per 200 grammi. Bastano 2-2,5 litri, con il coperchio fino al bollore. Meno acqua, meno gas, meno tempo di attesa.\n\nTu riempi il bollitore a occhio o dosi? 👇"
+    },
+    {
+      "id": 15,
+      "tema": "doccia acqua calda",
+      "immagine": "scaldabagno-a-pompa-di-calore",
+      "testo": "🚿 L'acqua calda sanitaria è la seconda voce di consumo di una casa, subito dopo il riscaldamento. E la doccia è la parte più grossa.\n\nUn soffione tradizionale butta 12-15 litri al minuto. Una doccia da 8 minuti sono oltre 100 litri, che vanno scaldati da 15 a 40 gradi: circa 3 kWh di energia ogni volta.\n\nPer una famiglia di quattro persone, una doccia a testa al giorno, sono più di 4.000 kWh l'anno solo per lavarsi.\n\n✅ Le due cose che funzionano davvero:\n🔸 Soffione aerato a basso flusso: porta la portata a 6-8 litri al minuto mischiando aria all'acqua. La sensazione sotto il getto resta piena, il consumo si dimezza. Costa 15-30 € (prezzi indicativi settembre 2026) e si monta a mano in due minuti.\n🔸 Due minuti in meno sotto l'acqua: ogni minuto risparmiato sono circa 0,4 kWh.\n\nNiente docce fredde, niente sacrifici: solo meno litri che scorrono via.\n\nQuanto dura la tua doccia, sinceramente? 👇"
+    },
+    {
+      "id": 16,
+      "tema": "scaldabagno elettrico timer",
+      "immagine": "scaldabagno-a-pompa-di-calore",
+      "testo": "🔥 Se hai uno scaldabagno elettrico, c'è una cosa che probabilmente sta facendo in questo momento: scaldare acqua che nessuno userà per ore.\n\nUn boiler da 80 litri assorbe 1,2-1,5 kW quando lavora. Il problema non è quando lo usi, è che si riaccende da solo ogni volta che l'acqua dentro si raffredda — anche alle tre di notte, anche mentre sei al lavoro.\n\n⏱️ La soluzione più semplice è un timer: fai scaldare l'acqua solo nelle due ore prima di quando serve davvero, in genere la sera. Il resto del tempo resta spento e l'acqua nel serbatoio si mantiene calda comunque per ore.\n\nUn timer meccanico da presa costa 10-15 €, uno smart 20-30 € (prezzi indicativi settembre 2026).\n\n🌡️ E un'altra cosa: imposta il termostato a 50-55°C. Più su non serve — ti costringe solo a miscelare più acqua fredda al rubinetto — e sotto i 50 aumenta il rischio di legionella.\n\nIl tuo scaldabagno sta acceso 24 ore su 24? 👇"
+    },
+    {
+      "id": 17,
+      "tema": "tapparelle e tende di notte",
+      "immagine": "rinfrescare-casa-senza-condizionatore",
+      "testo": "🌙 Il punto più debole di qualsiasi casa, d'inverno, sono le finestre. Un vetro disperde 5-10 volte più calore di un muro.\n\nEcco perché un gesto da tre secondi conta più di quanto sembri: abbassare tapparelle e chiudere le tende quando cala il buio.\n\nL'aria ferma intrappolata tra vetro e tapparella funziona da isolante. Non è teoria: riduce la dispersione dalle finestre di un 10-20%, e nelle case con infissi vecchi anche di più.\n\n☀️ Al contrario, di giorno tienile aperte sui lati esposti al sole. Anche a novembre il sole che entra dai vetri scalda gratis — è il riscaldamento più economico che esista.\n\n🪟 Se poi senti aria passare dai serramenti, una guarnizione adesiva costa 5-8 € a finestra (prezzi indicativi settembre 2026) e si applica senza attrezzi. Gli spifferi sono una delle poche cose in casa dove spendi pochissimo e senti la differenza il giorno stesso.\n\nTu le abbassi tutte le sere o solo in camera? 👇"
+    },
+    {
+      "id": 18,
+      "tema": "condizionatore in modalita riscaldamento",
+      "immagine": "climatizzatore-inverter-9000-12000-btu",
+      "testo": "❄️➡️🔥 Curiosità che sorprende quasi tutti: quel condizionatore che hai usato in estate, con ogni probabilità, d'inverno scalda. E spesso costa meno dei termosifoni.\n\nSe è un modello inverter con pompa di calore — praticamente tutti quelli venduti negli ultimi quindici anni — basta il tasto con il simbolo del sole sul telecomando.\n\n⚙️ Perché costa poco: non produce calore, lo sposta. Prende energia termica dall'aria esterna e la porta dentro. Con 1 kWh di elettricità ne consegna 3-4 di calore. Una stufetta elettrica, per confronto, con 1 kWh ne dà 1.\n\n🧮 Per scaldare una stanza dove passi la serata, accendere lo split invece di alzare la caldaia per tutta la casa può costare la metà.\n\n⚠️ Due avvertenze oneste: sotto i 2-3 gradi esterni il rendimento cala, e il getto d'aria va orientato verso il basso, altrimenti il caldo resta a soffitto.\n\nLo sapevi che il tuo condizionatore scalda? 👇"
+    },
+    {
+      "id": 19,
+      "tema": "pompa di calore COP",
+      "immagine": "incentivi-pompe-di-calore-2026",
+      "testo": "🔄 C'è un numero che spiega perché le pompe di calore stanno sostituendo le caldaie: si chiama COP.\n\nÈ il rapporto tra il calore che ottieni e l'energia che spendi. Un COP di 4 significa che con 1 kWh di elettricità ottieni 4 kWh di calore in casa.\n\nSembra magia, non lo è: la pompa di calore non brucia niente. Prende calore dall'aria esterna — che ce n'è anche a 5 gradi — e lo concentra dentro casa. Esattamente come fa un frigorifero, ma al contrario.\n\n📊 Per confronto:\n🔸 Stufetta elettrica: 1 kWh speso → 1 kWh di calore\n🔸 Caldaia a gas a condensazione: rendimento intorno al 95-105%\n🔸 Pompa di calore: 1 kWh speso → 3-4 kWh di calore\n\n⚠️ Il rovescio: rende al meglio con impianti a bassa temperatura (pavimento radiante, ventilconvettori) e perde efficienza col freddo intenso. Su vecchi termosifoni ad alta temperatura il vantaggio si assottiglia.\n\nCi hai mai pensato per casa tua? 👇"
+    },
+    {
+      "id": 20,
+      "tema": "fotovoltaico autoconsumo",
+      "immagine": "impianto-fotovoltaico-con-accumulo",
+      "testo": "☀️ L'errore più comune di chi valuta il fotovoltaico è guardare quanta energia produce. Il numero che conta davvero è un altro: quanta ne consumi mentre la produci.\n\nSi chiama autoconsumo, ed è la differenza tra un impianto che si ripaga in 6 anni e uno che ci mette 12.\n\n💡 Il motivo è semplice: l'energia che usi nel momento in cui il pannello la produce ti vale il prezzo pieno che pagheresti in bolletta, circa 0,28 €/kWh (settembre 2026). Quella che immetti in rete perché in casa non c'è nessuno ti viene remunerata molto meno.\n\n🕐 Tradotto in pratica: spostare lavatrice, lavastoviglie e asciugatrice nelle ore centrali della giornata non è un dettaglio, è metà del rendimento dell'impianto. Una famiglia che sta fuori tutto il giorno autoconsuma il 25-30%; una che programma gli elettrodomestici di giorno arriva al 50-60%.\n\n🔋 È anche il vero motivo per cui si valuta una batteria: non produce niente, sposta la produzione del pomeriggio alla sera.\n\nCe l'hai o lo stai valutando? 👇"
+    },
+    {
+      "id": 21,
+      "tema": "quanto produce 1 kWp",
+      "immagine": "fotovoltaico-tetto-prezzi",
+      "testo": "📐 \"Quanto produce un impianto fotovoltaico?\" La risposta sta in un numero che vale la pena conoscere prima di chiedere qualsiasi preventivo.\n\nIn Italia, 1 kWp di pannelli ben esposto a sud produce mediamente in un anno:\n🔸 Nord: 1.100-1.200 kWh\n🔸 Centro: 1.250-1.350 kWh\n🔸 Sud e isole: 1.400-1.500 kWh\n\n🧮 Con questo puoi farti i conti da solo. Una famiglia che consuma 3.000 kWh l'anno, al centro Italia, ha bisogno indicativamente di un impianto da 2,5-3 kWp per coprire il proprio fabbisogno su base annua.\n\n⚠️ Attenzione però: \"su base annua\" non vuol dire \"sempre\". D'estate produrrai molto più di quanto consumi, d'inverno il contrario. È normale, e nessun impianto domestico sfugge a questa stagionalità.\n\n🧭 L'esposizione pesa parecchio: est o ovest tolgono il 10-15%, il nord non ha senso, e un'ombra anche parziale su una stringa di pannelli può costare molto più di quanto si immagini.\n\nSai quanti kWh consumi all'anno? Sono in bolletta. 👇"
+    },
+    {
+      "id": 22,
+      "tema": "pannello solare da balcone",
+      "immagine": "pannello-solare-balcone",
+      "testo": "🌇 Non tutti hanno un tetto. Ma un balcone sì — e da qualche anno ci si può mettere un pannello, con una procedura semplificata.\n\nSono i sistemi plug and play: un pannello (o due), un microinverter, una spina. Si collegano a una presa domestica e l'energia prodotta viene consumata dagli apparecchi accesi in quel momento.\n\n🔢 I numeri, in sintesi:\n🔸 Potenza tipica: 400-800 W\n🔸 Produzione realistica su un balcone: 400-800 kWh l'anno, molto dipende dall'esposizione\n🔸 Costo: 400-900 € a seconda della potenza (prezzi indicativi settembre 2026)\n\n💡 Quello che fa la differenza è il consumo di base della casa — frigorifero, router, standby, illuminazione — che c'è sempre, tutto il giorno. Un pannello da balcone copre proprio quello, e per questo l'autoconsumo è quasi totale.\n\n⚠️ Da verificare prima di comprare: regolamento condominiale, esposizione reale del balcone (a nord non ha senso) e fissaggio a norma, perché il vento sui piani alti non scherza.\n\nCi hai mai pensato per il tuo balcone? 👇"
+    },
+    {
+      "id": 23,
+      "tema": "batteria accumulo",
+      "immagine": "batteria-accumulo-fotovoltaico",
+      "testo": "🔋 La domanda che arriva sempre dopo il fotovoltaico: conviene aggiungere una batteria?\n\nPartiamo da cosa fa davvero. Una batteria non produce energia: prende quella che il tetto produce nel pomeriggio e te la ridà la sera, quando i pannelli sono fermi e la casa è piena di gente.\n\n📈 In pratica fa salire l'autoconsumo dal 30-35% al 70-80%. Il che significa comprare molta meno energia dalla rete.\n\n💰 Il punto delicato è il costo. Un accumulo domestico da 5-10 kWh costa indicativamente 4.000-8.000 € (settembre 2026), ha una vita di 10-15 anni, e i tempi di rientro senza incentivi sono lunghi: spesso vicini alla vita utile della batteria stessa.\n\n🎯 Quando ha più senso:\n🔸 Se consumi soprattutto la sera e sei fuori tutto il giorno\n🔸 Se ci sono detrazioni o incentivi attivi che ne abbattono il costo\n🔸 Se ti interessa la continuità in caso di blackout, che è un valore a sé\n\n🚫 Quando ha meno senso: se sei in casa di giorno e autoconsumi già tanto. In quel caso i soldi rendono di più investiti in altro.\n\nBatteria sì o no, secondo te? 👇"
+    },
+    {
+      "id": 24,
+      "tema": "presa smart misuratore",
+      "immagine": "prese-intelligenti-smart-home-2026",
+      "testo": "🔎 Il modo più veloce per smettere di fare supposizioni sui consumi di casa costa una ventina di euro.\n\nÈ una presa smart con misuratore: la infili nella presa a muro, ci attacchi l'apparecchio e sul telefono vedi quanti watt sta assorbendo in tempo reale e quanti kWh ha consumato in una settimana.\n\n💡 Perché cambia le cose: finché non misuri, sul consumo di un apparecchio puoi solo tirare a indovinare. E l'istinto sbaglia quasi sempre.\n\nLe sorprese tipiche quando la gente inizia a misurare:\n🔸 Il vecchio congelatore in cantina che consuma quanto il frigo nuovo in cucina\n🔸 Il PC fisso lasciato acceso che vale più della TV\n🔸 La ciabatta dietro il mobile che assorbe anche a tutto spento\n🔸 Lo scaldabagno che riparte di notte\n\n💰 Costo: 15-25 € a presa (prezzi indicativi settembre 2026). Ne basta una: la sposti di apparecchio in apparecchio una settimana per volta e in un mese hai la mappa dei consumi di casa tua.\n\nQual è l'apparecchio che sospetti di più? 👇"
+    },
+    {
+      "id": 25,
+      "tema": "potenza impegnata contatore",
+      "immagine": "presa-smota-monitoraggio-consumi",
+      "testo": "⚡ Salta la corrente quando accendi forno e lavatrice insieme? Non è un guasto: è la potenza impegnata del contatore.\n\nLa maggior parte delle case italiane ha 3 kW. Il contatore tollera un piccolo sforamento per qualche minuto, poi stacca.\n\n🔢 Ecco perché si arriva al limite in fretta:\n🔸 Forno elettrico: 2.000-2.500 W\n🔸 Ferro da stiro: 2.000-2.400 W\n🔸 Asciugacapelli: 1.800-2.200 W\n🔸 Lavatrice (fase di riscaldamento): 2.000 W\n🔸 Piano a induzione, una zona: 1.500-2.000 W\n🔸 Bollitore: 2.000-2.200 W\n\nBastano due di questi insieme e sei fuori.\n\n✅ Due strade:\n🔸 Gratis: sfasare gli apparecchi più affamati. Quasi tutti hanno la partenza ritardata, e serve proprio a questo.\n🔸 A pagamento: alzare la potenza a 4,5 o 6 kW. Comporta un costo una tantum e una quota fissa più alta in bolletta tutti i mesi, quindi ha senso solo se il problema è quotidiano.\n\nA te quante volte salta in un mese? 👇"
+    },
+    {
+      "id": 26,
+      "tema": "leggere la bolletta",
+      "immagine": "come-risparmiare-bolletta",
+      "testo": "🧾 Confessione collettiva: quasi nessuno legge davvero la bolletta. Si guarda il totale e si paga.\n\nPeccato, perché lì dentro c'è l'unica informazione che serve per capire se stai spendendo troppo: il consumo annuo in kWh.\n\n📊 Per orientarsi, consumi tipici di una famiglia senza riscaldamento elettrico:\n🔸 1 persona: 1.500-2.000 kWh l'anno\n🔸 2 persone: 2.000-2.700 kWh\n🔸 3-4 persone: 2.700-3.500 kWh\n\nSe sei molto sopra la fascia della tua famiglia, non è questione di tariffe: c'è qualcosa in casa che consuma più del dovuto, e cambiare fornitore non lo risolverà.\n\n💡 L'altra cosa che vale la pena guardare è la divisione tra quota fissa e quota consumo. La quota fissa la paghi anche se stai un mese fuori casa: è lì che le offerte si assomigliano molto meno di quanto sembri.\n\n🔍 Il confronto onesto tra due offerte si fa su un anno intero e sul tuo consumo reale, non sul prezzo del kWh in prima pagina.\n\nSai quanti kWh consumi all'anno? 👇"
+    },
+    {
+      "id": 27,
+      "tema": "bici elettrica costi",
+      "immagine": "bici-elettrica-vs-normale",
+      "testo": "🚴 Quanto costa davvero ricaricare una bici elettrica? Molto meno di quanto quasi tutti immaginano.\n\nUna batteria tipica da e-bike è da 400-500 Wh. Una ricarica completa consuma poco più di mezzo kWh: circa 0,15 € (a 0,28 €/kWh, settembre 2026).\n\n🛣️ Con quella carica fai 50-80 km a seconda del livello di assistenza, del peso e delle salite.\n\n🧮 Tradotto: circa 0,25 € ogni 100 chilometri.\n\nPer confronto, un'auto a benzina che fa 15 km con un litro spende sui 10-11 € per gli stessi 100 km. Cinquanta volte tanto.\n\n💡 Ovviamente non sono la stessa cosa e non servono agli stessi viaggi. Ma per il tragitto casa-lavoro sotto i 10 km, che in Italia è la maggioranza degli spostamenti quotidiani, il confronto è impietoso — e non abbiamo nemmeno contato parcheggio, bollo, assicurazione e tagliandi.\n\n🔋 Un consiglio sulla batteria: tenerla tra il 20% e l'80% quando non la usi per settimane allunga la vita parecchio. Lasciarla scarica per mesi è il modo migliore per rovinarla.\n\nLa useresti per andare al lavoro? 👇"
+    },
+    {
+      "id": 28,
+      "tema": "elettrodomestici classe energetica",
+      "immagine": "bonus-efficienza-energetica",
+      "testo": "🏷️ Sull'etichetta energetica degli elettrodomestici c'è una cosa che confonde parecchie persone: dal 2021 la scala è cambiata.\n\nSono spariti A+, A++ e A+++. Si è tornati alla scala semplice da A a G — ma più severa. Un frigorifero che prima era A+++ oggi può essere classificato C o D. Non è peggiorato: è cambiato il metro.\n\n📊 Questo significa due cose pratiche:\n🔸 Le classi A e B oggi sono rarissime, lasciate apposta libere per i modelli futuri. Una C è già un ottimo prodotto.\n🔸 Non puoi confrontare l'etichetta di un elettrodomestico comprato nel 2018 con una di oggi. Sono due scale diverse.\n\n💡 Il numero che conta davvero non è la lettera, è il consumo annuo in kWh scritto sotto. Quello è confrontabile sempre, tra qualsiasi modello e qualsiasi anno.\n\n🧮 Esempio concreto: tra due lavatrici che dichiarano 150 e 220 kWh l'anno ci sono 70 kWh di differenza, cioè circa 20 € l'anno (a 0,28 €/kWh, settembre 2026). Su dieci anni di vita sono 200 €, che spesso valgono più della differenza di prezzo in negozio.\n\nGuardi la lettera o i kWh? 👇"
+    },
+    {
+      "id": 29,
+      "tema": "umidita e percezione del freddo",
+      "immagine": "termostato-smart-wifi",
+      "testo": "💧 Curiosità che d'inverno torna utile: in una casa umida hai più freddo a parità di gradi sul termostato.\n\nIl motivo è fisico. L'aria umida conduce il calore meglio dell'aria secca, quindi il tuo corpo lo cede più in fretta. In un ambiente al 70% di umidità a 20°C si sta peggio che al 45% alla stessa temperatura.\n\n🌡️ L'umidità ideale in casa sta tra il 40% e il 60%. Sopra il 60% non è solo questione di comfort: si formano condensa sui vetri e muffa negli angoli delle pareti esterne.\n\n✅ Cosa funziona:\n🔸 Arieggiare poco e bene: 5 minuti a finestre spalancate, due volte al giorno. L'aria si cambia in fretta e i muri non fanno in tempo a raffreddarsi. Tenere una finestra socchiusa un'ora è il modo peggiore: raffredda le pareti e cambia poca aria.\n🔸 Cappa accesa quando cucini e ventola in bagno dopo la doccia: lì si produce la maggior parte del vapore\n🔸 Non stendere il bucato in casa senza ricambio d'aria\n\n💡 Un igrometro costa 8-12 € (settembre 2026) e ti dice se il problema è quello o no.\n\nHai condensa sui vetri la mattina? 👇"
+    },
+    {
+      "id": 30,
+      "tema": "valvole termostatiche",
+      "immagine": "valvole-termostatiche-smart-2026",
+      "testo": "🎛️ Nella maggior parte delle case si scalda tutto allo stesso modo: la camera degli ospiti dove non entra nessuno, lo studio usato mezz'ora al giorno, il corridoio.\n\nLe valvole termostatiche servono esattamente a questo: dare a ogni stanza la temperatura che le serve.\n\nSi avvitano al posto della manopola del termosifone e regolano il flusso in base alla temperatura della stanza. Quando è arrivata al punto impostato, chiudono. Nessun cavo, nessun impianto da rifare.\n\n🔢 I numeri indicativi (settembre 2026):\n🔸 Valvola manuale: 15-25 € l'una\n🔸 Valvola smart programmabile: 40-70 € l'una\n🔸 Montaggio: fattibile da soli su impianti autonomi, con l'impianto freddo\n\n🌡️ Le temperature che hanno senso stanza per stanza:\n🔸 Soggiorno: 20°C\n🔸 Camere da letto: 17-18°C, si dorme anche meglio\n🔸 Bagno: 22°C ma solo nelle ore di utilizzo\n🔸 Stanze inutilizzate: 15-16°C, mai spente del tutto, altrimenti umidità e muffa\n\n💰 In un appartamento con riscaldamento autonomo si parla in genere di un 10-20% di gas in meno. Si ripagano in una stagione o due.\n\nLe hai già o vai ancora a manopola? 👇"
+    }
+  ]
+}
