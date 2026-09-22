@@ -113,14 +113,11 @@ d["pubblicati"].append({"id": pid, "tema": tema, "fb_post_id": fbid,
 json.dump(d, open(path, "w"), ensure_ascii=False, indent=2)
 PY
 
-# --- verifica indipendente: il sub-agente dichiara successo anche quando fallisce ---
-VER="$($OPENCLAW agent --agent main --json --timeout 180 --message "Usa il tool FACEBOOK_GET_PAGE_POSTS sulla pagina page_id $PAGE_ID e rispondi SOLO con l'id del post piu' recente, nient'altro. Non inventare: riporta quello che restituisce il tool." 2>&1)"
-ULTIMO="$(echo "$VER" | grep -oE "${PAGE_ID}_[0-9]+" | head -1)"
-if [ "$ULTIMO" = "$FB_ID" ]; then
-  log "verifica OK: il post piu' recente sulla pagina e' $FB_ID"
-else
-  log "ATTENZIONE: verifica non confermata (atteso $FB_ID, pagina riporta '${ULTIMO:-nulla}'). Controllare a mano."
-fi
+# Qui stava una "verifica indipendente" via FACEBOOK_GET_PAGE_POSTS, rimossa il 2026-09-22:
+# quella lettura richiede lo scope OAuth 'pages_read_engagement' che la connessione Composio
+# non ha, quindi non poteva funzionare. Falliva in silenzio e l'agente rispondeva con l'ID che
+# aveva appena visto nel proprio contesto, producendo un "verifica OK" che confermava il nulla.
+log "NOTA: l'ID sopra e' quello dichiarato dall'agente; non e' verificabile via API finche' manca lo scope pages_read_engagement"
 
 if [ "$((RESTANTI-1))" -le 6 ]; then
   log "AVVISO: restano solo $((RESTANTI-1)) post in coda (meno di 3 giorni). Rifornire $QUEUE."
