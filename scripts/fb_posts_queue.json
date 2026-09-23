@@ -38,6 +38,12 @@
       "testo": "📶 Il router di casa è probabilmente l'apparecchio che resta acceso più a lungo in assoluto: 24 ore al giorno, 365 giorni all'anno. Non lo spegne quasi nessuno.\n\nConsuma poco per volta, 8-12 watt, ma moltiplicato per 8.760 ore fa circa 85 kWh l'anno: 24 € (a 0,28 €/kWh, settembre 2026).\n\nNon stiamo dicendo di spegnerlo — la connessione serve, e spegnerlo ogni notte accorcia la vita dell'apparecchio più di quanto faccia risparmiare.\n\n💡 Il punto è un altro: se un aggeggio da 10 watt sempre acceso ti costa 24 € l'anno, immagina quanti altri ne hai in casa che non hai mai contato. Decoder, allarme, videocamere, vecchio PC, ciabatte piene.\n\nIl conto vero non è mai il singolo apparecchio: è la somma.\n\nQuanti apparecchi hai accesi 24 ore su 24? 👇"
     },
     {
+      "id": 1002,
+      "tema": "blackout nel quartiere (meme)",
+      "immagine": "meme-blackout-nel-quartiere",
+      "testo": "🔦 Blackout nel quartiere. Tutti al buio, tutti a guardare il frigo e a contare le ore.\n\nTranne chi ha pannelli e batteria... giusto? Non sempre. Ed è una delle sorprese più amare per chi ha appena installato un impianto.\n\n⚠️ Un impianto fotovoltaico collegato alla rete, quando la corrente salta, si spegne da solo. Anche a mezzogiorno col sole pieno. È una protezione obbligatoria: serve a non mandare corrente sulla linea mentre i tecnici ci lavorano sopra.\n\n🔋 Per avere luce durante un blackout servono due cose: una batteria e un inverter con la funzione di backup (spesso chiamata EPS). Con quella, la casa si stacca dalla rete e continua ad andare con l'energia accumulata. Senza, hai pannelli e batteria ma resti al buio come i vicini.\n\nSe stai valutando un impianto, questa è la domanda da fare all'installatore prima di firmare.\n\nE a te, all'ultimo blackout, cosa è mancato di più? 👇"
+    },
+    {
       "id": 5,
       "tema": "frigorifero",
       "immagine": "fb-frigorifero",
