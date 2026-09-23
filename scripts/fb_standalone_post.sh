@@ -19,6 +19,7 @@ QUEUE="$REPO/scripts/fb_posts_queue.json"
 STATE="/home/salvatore/output/fb_standalone_state.json"
 PAGE_ID="101206045148755"
 BASE_IMG="https://guida-energia.com/immagini"
+BASE_VIDEO="https://guida-energia.com/video"
 OPENCLAW="/home/salvatore/.npm-global/bin/openclaw"
 
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"; }
@@ -37,8 +38,9 @@ if not restanti:
     print("__CODA_VUOTA__")
     sys.exit(0)
 p = restanti[0]
-print(json.dumps({"id": p["id"], "tema": p["tema"], "immagine": p["immagine"],
-                  "testo": p["testo"], "restanti": len(restanti)}, ensure_ascii=False))
+print(json.dumps({"id": p["id"], "tema": p["tema"], "immagine": p.get("immagine", ""),
+                  "video": p.get("video", ""), "testo": p["testo"],
+                  "restanti": len(restanti)}, ensure_ascii=False))
 PY
 )"
 
@@ -50,28 +52,36 @@ fi
 POST_ID="$(echo "$NEXT"  | python3 -c 'import json,sys; print(json.load(sys.stdin)["id"])')"
 TEMA="$(echo "$NEXT"     | python3 -c 'import json,sys; print(json.load(sys.stdin)["tema"])')"
 IMG="$(echo "$NEXT"      | python3 -c 'import json,sys; print(json.load(sys.stdin)["immagine"])')"
+VIDEO="$(echo "$NEXT"    | python3 -c 'import json,sys; print(json.load(sys.stdin)["video"])')"
 RESTANTI="$(echo "$NEXT" | python3 -c 'import json,sys; print(json.load(sys.stdin)["restanti"])')"
 echo "$NEXT" | python3 -c 'import json,sys; sys.stdout.write(json.load(sys.stdin)["testo"])' > /tmp/fb_caption_$$.txt
 
-IMG_URL="$BASE_IMG/$IMG.jpg"
-log "post #$POST_ID ($TEMA) - immagine $IMG - restanti in coda dopo questo: $((RESTANTI-1))"
+# Un post con "video" (slug di static/video/<slug>.mp4) esce come video, altrimenti come foto
+if [ -n "$VIDEO" ]; then
+  TIPO="video"
+  MEDIA_URL="$BASE_VIDEO/$VIDEO.mp4"
+else
+  TIPO="immagine"
+  MEDIA_URL="$BASE_IMG/$IMG.jpg"
+fi
+log "post #$POST_ID ($TEMA) - $TIPO $MEDIA_URL - restanti in coda dopo questo: $((RESTANTI-1))"
 
-# --- l'immagine deve essere raggiungibile, altrimenti Facebook rifiuta il post ---
-HTTP="$(curl -s -o /dev/null -w '%{http_code}' -m 20 "$IMG_URL")"
+# --- il file deve essere raggiungibile, altrimenti Facebook rifiuta il post ---
+HTTP="$(curl -s -o /dev/null -w '%{http_code}' -m 20 "$MEDIA_URL")"
 if [ "$HTTP" != "200" ]; then
-  log "ERRORE: immagine non raggiungibile ($HTTP) $IMG_URL - post NON pubblicato, riprovo al prossimo slot"
+  log "ERRORE: $TIPO non raggiungibile ($HTTP) $MEDIA_URL - post NON pubblicato, riprovo al prossimo slot"
   rm -f /tmp/fb_caption_$$.txt
   exit 1
 fi
 
-log "immagine raggiungibile (HTTP 200)"
+log "$TIPO raggiungibile (HTTP 200)"
 
 if [ "$PROVA" = "1" ]; then
   log "MODALITA' PROVA: non pubblico. Testo che sarebbe uscito:"
   echo "----------------------------------------"
   cat /tmp/fb_caption_$$.txt
   echo "----------------------------------------"
-  log "immagine: $IMG_URL"
+  log "$TIPO: $MEDIA_URL"
   log "lo stato NON e' stato modificato: il post #$POST_ID resta il prossimo in coda"
   rm -f /tmp/fb_caption_$$.txt
   exit 0
@@ -79,12 +89,24 @@ fi
 
 # --- pubblicazione ---
 CAP="$(cat /tmp/fb_caption_$$.txt)"
-OUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "Pubblica ORA un post con foto sulla pagina Facebook Guida Energia Italia.
+if [ "$TIPO" = "video" ]; then
+  ISTRUZIONI="Pubblica ORA un post con video sulla pagina Facebook Guida Energia Italia.
+
+Usa il tool FACEBOOK_CREATE_VIDEO_POST con questi parametri esatti:
+- page_id: $PAGE_ID
+- file_url: $MEDIA_URL
+- description: il testo qui sotto, copiato IDENTICO senza aggiungere o togliere nulla, emoji e a capo compresi.
+
+Non usare il parametro video, non aggiungere title, link o targeting. Se la risposta contiene unsuccessful=true consideralo un errore e NON riprovare (si creerebbero doppioni)."
+else
+  ISTRUZIONI="Pubblica ORA un post con foto sulla pagina Facebook Guida Energia Italia.
 
 Usa il tool FACEBOOK_CREATE_PHOTO_POST con questi parametri esatti:
 - page_id: $PAGE_ID
-- image url: $IMG_URL
-- caption: il testo qui sotto, copiato IDENTICO senza aggiungere o togliere nulla, emoji e a capo compresi.
+- image url: $MEDIA_URL
+- caption: il testo qui sotto, copiato IDENTICO senza aggiungere o togliere nulla, emoji e a capo compresi."
+fi
+OUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "$ISTRUZIONI
 
 Non aggiungere link, non accorciare, non riscrivere, non chiedere conferma. Pubblicalo subito (published=true) e rispondi con l'ID del post.
 

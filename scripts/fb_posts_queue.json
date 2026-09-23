@@ -1,5 +1,5 @@
 {
-  "_nota": "Coda dei post Facebook standalone (senza link al sito). Consumata da scripts/fb_standalone_post.sh, due al giorno (13:30 e 19:30). Lo stato di pubblicazione NON sta qui ma in /home/salvatore/output/fb_standalone_state.json, cosi' questo file resta pulito in git. Prezzo energia usato nei conti: 0,28 EUR/kWh, indicativo settembre 2026.",
+  "_nota": "Coda dei post Facebook standalone (senza link al sito). Consumata da scripts/fb_standalone_post.sh, due al giorno (13:30 e 19:30). Lo stato di pubblicazione NON sta qui ma in /home/salvatore/output/fb_standalone_state.json, cosi' questo file resta pulito in git. Prezzo energia usato nei conti: 0,28 EUR/kWh, indicativo settembre 2026. Per un post video aggiungere \"video\": \"<slug>\" (file in static/video/<slug>.mp4, pubblicato con FACEBOOK_CREATE_VIDEO_POST); senza quel campo esce come foto da \"immagine\".",
   "posts": [
     {
       "id": 1,
