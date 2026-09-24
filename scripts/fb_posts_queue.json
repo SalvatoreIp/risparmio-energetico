@@ -50,16 +50,34 @@
       "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
     },
     {
+      "id": 1003,
+      "tema": "insalata idroponica sul balcone (meme)",
+      "immagine": "meme-insalata-idroponica",
+      "testo": "🥬 Hai mai fatto caso a quanto costa una busta di insalata? Due, tre euro per un cespo che dopo tre giorni in frigo è già da buttare.\n\nIntanto, su sempre più balconi italiani, spuntano torri bianche piene di lattuga, basilico e fragole. È l'idroponica: le piante crescono senza terra, con le radici bagnate da acqua e nutrienti che una piccola pompa fa girare in continuazione. Una lattuga è pronta da raccogliere in 4-6 settimane.\n\n⚡ E la corrente? Meno di quanto si pensi. La pompa di una torre da balcone assorbe di solito 10-20 W e lavora a intervalli: 20 W per 6 ore al giorno fanno circa 44 kWh l'anno, cioè una dozzina di euro (a 0,28 €/kWh). Con un pannellino solare anche meno. Attenzione però: in casa, senza sole, servono le lampade LED di coltivazione, e lì i consumi salgono parecchio.\n\n🧮 Se compri una busta a settimana a 2-3,50 €, sono 100-180 € l'anno solo di insalata (prezzi indicativi settembre 2026). E il sapore di una lattuga raccolta cinque minuti prima non si compra.\n\nTu hai mai provato a coltivare qualcosa sul balcone? 👇"
+    },
+    {
       "id": 6,
       "tema": "termosifoni coperti",
       "immagine": "fb-termosifone",
       "testo": "🔥 Stagione di riscaldamento alle porte, e questo è l'errore più diffuso in assoluto: coprire i termosifoni.\n\nUn radiatore scalda per convezione: prende aria fredda in basso, la scalda e la rimanda in alto. Se davanti c'è un divano, una tenda lunga o una mensola, quel movimento si blocca e il calore resta intrappolato lì.\n\nRisultato: fino al 20% di calore che non arriva in stanza. Tu alzi il termostato, la caldaia lavora di più, e la bolletta la paghi lo stesso.\n\n✅ Cosa serve davvero:\n🔸 Tende che finiscono sopra il radiatore, non davanti\n🔸 Almeno 10 cm liberi tra mobile e termosifone\n🔸 Niente panni ad asciugare sopra (e niente copritermosifone decorativo)\n\nÈ il risparmio più a buon mercato che esista: costa zero e si fa in cinque minuti.\n\nHai un termosifone coperto in casa? 👇"
     },
     {
+      "id": 1004,
+      "tema": "quando piove, cisterna per l'orto (meme)",
+      "immagine": "meme-quando-piove-cisterna",
+      "testo": "🌧️ Quando piove c'è chi impreca contro il tempo... e chi corre a controllare la cisterna.\n\nFacciamo due conti. Su un tetto di 50 m², un temporale da 20 mm porta giù in teoria 1.000 litri d'acqua. In pratica, tra gronde, evaporazione e il primo lavaggio del tetto da scartare, se ne recuperano circa 800.\n\n🍅 Quanto dura? D'estate un orto di 20 m² beve circa 3-5 litri al metro quadro al giorno, quindi 60-100 litri. Una cisterna da 1.000 litri piena copre 10-15 giorni di secca, e l'acqua piovana non ha cloro e non è calcarea: alle piante piace di più di quella del rubinetto.\n\n💶 Onestamente, in euro il risparmio è piccolo: l'acqua di rete costa in media intorno ai 2 € al metro cubo, con grandi differenze da comune a comune. Il vero vantaggio è un altro: avere acqua per l'orto e per gli animali anche quando c'è siccità e arrivano i divieti di innaffiare.\n\nTu raccogli l'acqua piovana o finisce tutta nel tombino? 👇"
+    },
+    {
       "id": 7,
       "tema": "spurgare radiatori",
       "immagine": "pompa-di-calore-per-termosifoni",
       "testo": "🔧 Se il termosifone è caldo sotto e freddo sopra, non è rotto: dentro c'è aria.\n\nSuccede a tutti gli impianti dopo un'estate ferma. L'aria si accumula nella parte alta, prende il posto dell'acqua calda e quella porzione di radiatore smette di scaldare. Tu senti freddo, alzi la caldaia, e paghi per scaldare un termosifone che lavora a metà.\n\n🛠️ Come si sistema, prima di accendere:\n1️⃣ Spegni la caldaia e aspetta che l'impianto si raffreddi\n2️⃣ Metti una bacinella sotto la valvolina di sfiato (in alto, di lato)\n3️⃣ Apri piano con la chiavetta o un cacciavite: senti uscire l'aria\n4️⃣ Quando esce acqua, richiudi\n5️⃣ Alla fine controlla la pressione in caldaia: deve stare tra 1 e 1,5 bar\n\nDieci minuti per tutta la casa, zero euro, e i radiatori tornano caldi fino in cima.\n\nLi hai già sfiatati quest'anno? 👇"
+    },
+    {
+      "id": 1005,
+      "tema": "arriva la bolletta, prima e dopo (meme)",
+      "immagine": "meme-arriva-la-bolletta",
+      "testo": "📬 C'è chi apre la bolletta seduto, per sicurezza. E c'è chi si accorge che è arrivata solo una settimana dopo.\n\nMa si può davvero passare da una bolletta da incubo a qualche decina di euro? Sì, con due avvertenze.\n\n☀️ I conti: una famiglia che consuma 3.500 kWh l'anno, con un impianto fotovoltaico da 4-5 kWp e una batteria da 10 kWh, può coprire con l'energia prodotta in casa il 70% circa dei propri consumi. Sono circa 2.450 kWh che non compri più: a 0,28 €/kWh, quasi 700 € l'anno.\n\n⚠️ Le avvertenze: la bolletta non si azzera mai, perché restano le quote fisse e l'energia prelevata la sera d'inverno, quando il sole non basta. E l'impianto va dimensionato sui tuoi consumi reali, non su quelli del vicino.\n\nTu come apri la bolletta: seduto o in piedi? 👇"
     },
     {
       "id": 8,
