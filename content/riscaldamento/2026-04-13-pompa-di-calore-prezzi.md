@@ -7,7 +7,7 @@ categories: ["riscaldamento"]
 tags: ["pompa di calore", "riscaldamento", "incentivi", "risparmio energetico", "bolletta"]
 cover:
   image: "/immagini/pompa-di-calore-prezzi-2026.jpg"
-  alt: "Pompa di calore aria-acqua installata esternamente su casa residenziale."
+  alt: "Unità esterna di una pompa di calore aria-acqua accanto a una casa con persiane verdi"
 ---
 
 ### Introduzione

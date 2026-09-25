@@ -8,7 +8,7 @@ categories: ["fotovoltaico"]
 tags: ["fotovoltaico", "calcolo risparmio fotovoltaico", "tempo di rientro fotovoltaico", "autoconsumo", "bonus ristrutturazioni"]
 cover:
   image: "/immagini/come-calcolare-se-conviene-il-fotovoltaico.jpg"
-  alt: "Persona che calcola i consumi energetici con calcolatrice e bollette davanti a pannelli fotovoltaici."
+  alt: "Bolletta elettrica, calcolatrice e quaderno con i conti su un tavolo, con pannelli fotovoltaici fuori dalla finestra"
 ---
 
 ### Introduzione

@@ -8,7 +8,7 @@ categories: ["riscaldamento"]
 tags: ["scaldabagno", "pompa di calore", "acqua calda sanitaria", "conto termico", "risparmio energetico"]
 cover:
   image: "/immagini/scaldabagno-a-pompa-di-calore.jpg"
-  alt: "Scaldabagno a pompa di calore installato a parete in un locale tecnico."
+  alt: "Scaldabagno a pompa di calore installato in una stanza con finestra sulla campagna"
 ---
 
 ### Introduzione

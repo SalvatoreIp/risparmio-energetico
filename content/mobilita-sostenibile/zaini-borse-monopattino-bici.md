@@ -8,7 +8,7 @@ categories: ["mobilita-sostenibile"]
 tags: ["zaino impermeabile", "borsa manubrio", "monopattino", "bici elettrica", "sicurezza", "2026"]
 cover:
   image: /immagini/zaini-borse-monopattino-bici.jpg
-  alt: "Zaino impermeabile con elementi riflettenti per bici elettrica e monopattino"
+  alt: "Bici elettrica con borse posteriori e monopattino elettrico con zaino su una pista ciclabile"
 ---
 
 <p class="lead">Chi si sposta in monopattino o bici elettrica ha bisogno di portare con sé laptop, cambio, spesa, ma senza sbilanciarsi o bagnare tutto quando piove. Zaini impermeabili da €25-€60, borse da manubrio da €15-€40, portapacchi da €35-€80: ecco le soluzioni migliori con dati concreti su capacità, peso e impermeabilità.</p>

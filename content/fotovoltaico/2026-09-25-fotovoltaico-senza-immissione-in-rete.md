@@ -8,7 +8,7 @@ categories: ["fotovoltaico"]
 tags: ["fotovoltaico", "zero immissione", "impianto fotovoltaico", "autoconsumo", "off-grid"]
 cover:
   image: "/immagini/fotovoltaico-senza-immissione-in-rete.jpg"
-  alt: "Pannelli fotovoltaici su balcone con centralina di controllo per la gestione dell'energia senza immissione in rete."
+  alt: "Casa di campagna con pannelli fotovoltaici, batteria e inverter a parete e orto davanti"
 ---
 
 ### Introduzione

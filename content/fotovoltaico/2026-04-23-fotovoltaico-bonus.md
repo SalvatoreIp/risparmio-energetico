@@ -8,7 +8,7 @@ categories: ["fotovoltaico"]
 tags: ["fotovoltaico", "Ecobonus", "incentivi", "pannelli solari", "risparmio", "installazione", "2026"]
 cover:
   image: /immagini/fotovoltaico-bonus-23aprile.jpg
-  alt: "Impianto fotovoltaico su tetto residenziale"
+  alt: "Installatori che montano pannelli fotovoltaici su un tetto in coppi"
 ---
 
 **PREZZI IN AUMENTO, MA GLI INCENTIVI C'ANCORA** – Il 2026 sta portando una **turbolenza nei prezzi del fotovoltaico**, con un aumento medio del **20%** rispetto al 2025. Nonostante ciò, l'**Ecobonus 50%** rimane disponibile, rendendo l'installazione di pannelli solari ancora uno degli investimenti energetici più convenienti.

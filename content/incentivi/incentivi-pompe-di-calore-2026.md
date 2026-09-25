@@ -7,7 +7,7 @@ description: "Incentivi pompe di calore 2026: guida completa agli incentivi fisc
 tags: ["pompa di calore", "incentivi", "detrazioni", "conto termico", "ecobonus", "efficienza energetica", "2026"]
 cover:
   image: /immagini/incentivi-pompe-di-calore-2026.jpg
-  alt: "Impianto pompa di calore installato con cartellino sconto"
+  alt: "Tecnico che completa l'installazione di una pompa di calore accanto a una casa con pannelli fotovoltaici"
 ---
 
 <p class="lead">Nel 2026 gli incentivi per le pompe di calore restano tra i più convenienti disponibili. Ecobonus al 50% (36% per le seconde case), Conto Termico 3.0 fino al 65% di rimborso diretto dal GSE. Scopri come scegliere il più conveniente per la tua situazione.</p>

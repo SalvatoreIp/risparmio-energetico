@@ -8,7 +8,7 @@ categories: ["raffrescamento"]
 tags: ["caldo", "senza condizionatore", "risparmio energetico", "casa fresca", "trucchi", "2026"]
 cover:
   image: /immagini/rinfrescare-casa-senza-condizionatore.jpg
-  alt: "Finestra con tende chiuse e ventilatore che soffia"
+  alt: "Soggiorno fresco d'estate con persiane socchiuse, tende di lino e ventilatore a soffitto"
 ---
 
 <p class="lead">Le notti sono diventate tropicali: ti svegli sudato alle 4 del mattino con le pareti ancora calde del giorno prima. L'aria è ferma, il caldo percepito è 39°C ma senza un condizionatore sembra impossibile dormire. Ecco 8 trucchi che abbassano la temperatura reale fino a 8°C, a partire da 12 euro.</p>

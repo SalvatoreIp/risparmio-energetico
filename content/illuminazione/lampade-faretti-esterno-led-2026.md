@@ -7,7 +7,7 @@ categories: ["illuminazione"]
 tags: ["lampade esterno", "faretti LED", "illuminazione esterna", "risparmio energetico", "solar"]
 cover:
   image: /immagini/lampade-faretti-esterno-led-2026.jpg
-  alt: "Illuminazione da esterno LED: lampade e faretti efficienti per giardino e terrazzo"
+  alt: "Giardino di sera illuminato da faretti LED lungo il vialetto e un ulivo illuminato dal basso"
 ---
 
 <p class="lead">Sostituire le vecchie lampade alogene con LED da esterno significa risparmiare fino al 90% sui costi energetici: da €120/anno a €12/anno, con 2000 ore di illuminazione annuale.</p>

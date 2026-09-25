@@ -16,7 +16,7 @@ PROMPT="$(cat scripts/daily_publish_prompt.txt)"
 
 /home/salvatore/.local/bin/claude -p "$PROMPT" \
   --model claude-sonnet-5 \
-  --allowedTools "Bash Read Write Edit Glob Grep WebSearch" \
+  --allowedTools "Bash Read Write Edit Glob Grep WebSearch ToolSearch mcp__claude_ai_ElevenLabs__creative_add_flow_node mcp__claude_ai_ElevenLabs__creative_run_flow_nodes mcp__claude_ai_ElevenLabs__creative_get_flow_run_status" \
   --permission-mode bypassPermissions
 
 # Post Facebook (solo se e' stato pubblicato un nuovo articolo)

@@ -7,7 +7,7 @@ categories: ["guide"]
 tags: ["idroponica", "risparmio", "coltivazione", "casa", "energetico", "orto"]
 cover:
   image: "/immagini/idroponica-casa-costi-benefici.jpg"
-  alt: "Sistema idroponico domestico su balcone"
+  alt: "Torri idroponiche con lattuga, basilico e fragole in cucina sotto luci LED di coltivazione"
 ---
 
 ## Introduzione

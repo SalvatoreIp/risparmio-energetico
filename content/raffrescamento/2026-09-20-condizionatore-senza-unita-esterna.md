@@ -8,7 +8,7 @@ categories: ["raffrescamento"]
 tags: ["condizionatore senza unità esterna", "monoblocco", "climatizzatore", "raffrescamento", "risparmio energetico"]
 cover:
   image: "/immagini/condizionatore-senza-unita-esterna.jpg"
-  alt: "Condizionatore monoblocco a parete in un soggiorno, senza unità esterna"
+  alt: "Condizionatore monoblocco senza unità esterna installato a parete in un soggiorno"
 ---
 
 ### Introduzione

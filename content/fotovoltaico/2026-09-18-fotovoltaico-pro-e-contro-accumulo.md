@@ -8,7 +8,7 @@ categories: ["fotovoltaico"]
 tags: ["fotovoltaico con accumulo", "accumulo fotovoltaico", "fotovoltaico", "batteria fotovoltaico", "bonus ristrutturazioni"]
 cover:
   image: "/immagini/fotovoltaico-pro-e-contro-accumulo.jpg"
-  alt: "Pannelli fotovoltaici su tetto con impianto di accumulo domestico."
+  alt: "Tecnico che controlla una batteria di accumulo e un inverter ibrido in un locale tecnico di casa"
 ---
 
 ### Introduzione

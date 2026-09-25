@@ -8,7 +8,7 @@ categories: ["idroponica"]
 tags: ["idroponica", "illuminazione LED", "grow light", "risparmio energetico", "consumi elettrici", "2026"]
 cover:
   image: /immagini/lampade-led-idroponica.jpg
-  alt: "Lampada LED da coltivazione accesa sopra piante in un sistema idroponico indoor"
+  alt: "Scaffale di coltivazione indoor con lattuga e microgreens sotto barre LED a spettro completo"
 ---
 
 <div class="cta-box">

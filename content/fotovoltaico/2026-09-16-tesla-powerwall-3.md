@@ -8,7 +8,7 @@ categories: ["fotovoltaico"]
 tags: ["tesla powerwall 3", "accumulo fotovoltaico", "batteria fotovoltaico", "fotovoltaico", "bonus ristrutturazioni"]
 cover:
   image: "/immagini/tesla-powerwall-3.jpg"
-  alt: "Tesla Powerwall 3 installato a parete in un locale tecnico residenziale."
+  alt: "Batteria di accumulo domestica bianca installata a parete all'esterno di una villa con pannelli fotovoltaici"
 ---
 
 ### Introduzione

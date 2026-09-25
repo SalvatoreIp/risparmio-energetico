@@ -8,7 +8,7 @@ categories: ["fotovoltaico"]
 tags: ["impianto fotovoltaico", "accumulo fotovoltaico", "prezzi fotovoltaico", "fotovoltaico chiavi in mano", "bonus ristrutturazioni"]
 cover:
   image: "/immagini/impianto-fotovoltaico-con-accumulo.jpg"
-  alt: "Impianto fotovoltaico su tetto residenziale con batteria di accumulo installata."
+  alt: "Casa con pannelli fotovoltaici sul tetto e batteria di accumulo con inverter ibrido installati in garage"
 ---
 
 ### Introduzione

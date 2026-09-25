@@ -18,6 +18,7 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
 
 - Local preview: `hugo server -D`
 - `scripts/publish_post.sh "$TITLE" "$BODY" "$SECTION" "$IMAGE_PATH" "$DESCRIPTION" "$TAGS"` — scaffolds a new article file under `content/$SECTION/YYYY-MM-DD-slug.md` from args, then runs `git add/commit/push` itself. Only handles the six sections hardcoded in its `case` statement (falls back to `guide` otherwise) — new sections (idroponica, mobilita-sostenibile, raffrescamento, terrazzi) must be created by hand.
+- `scripts/salva_immagine.py URL SLUG` — saves an ElevenLabs-generated image (the signed `master_url`, expires in ~2h) as `static/immagini/SLUG.jpg` at 1280px. Since 2026-09-25 article covers are generated with ElevenLabs `gpt-image-2` (16:9, 1K, quality medium, `generations_count: 1`, ~185 credits; flow "Copertine articoli" `qKLpGDKvK3eEh1mO8Z6I`) — see `scripts/daily_publish_prompt.txt` for the exact procedure. Pixabay is only the fallback.
 - `scripts/get_image.sh KEYWORD SLUG` — fetches a Pixabay photo (English keyword) into `static/immagini/SLUG.jpg`, falling back to picsum.photos if Pixabay returns nothing. Requires `PIXABAY_API_KEY` in `.env`.
 - There is no test suite, linter, or build step beyond `hugo --minify`; correctness is "does `hugo` build without errors and does the page look right."
 

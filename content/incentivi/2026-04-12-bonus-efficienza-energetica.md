@@ -7,7 +7,7 @@ categories: ["incentivi"]
 tags: ["bonus efficienza", "detrazioni fiscali", "ecobonus", "bonus casa", "ristrutturazione energetica", "risparmio energetico"]
 cover:
   image: "/immagini/bonus-efficienza-energetica.jpg"
-  alt: "Infografica con icone di case verdi, euro e simboli di risparmio energetico."
+  alt: "Palazzina ristrutturata con cappotto termico, finestre nuove e pannelli fotovoltaici sul tetto"
 ---
 
 ### Quanto puoi risparmiare con i bonus energetici

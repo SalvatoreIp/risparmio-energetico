@@ -7,7 +7,7 @@ categories: ["mobilita-sostenibile"]
 tags: ["bici elettriche", "e-bike", "mobilità sostenibile", "risparmio", "incentivi 2026"]
 cover:
   image: /immagini/bici-elettriche-2026.jpg
-  alt: "Bici elettrica pieghevole in città"
+  alt: "Bici elettrica con batteria integrata parcheggiata in una via lastricata di un centro storico"
 ---
 
 ## Introduzione

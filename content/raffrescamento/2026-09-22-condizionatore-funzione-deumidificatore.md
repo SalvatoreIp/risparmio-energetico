@@ -8,7 +8,7 @@ categories: ["raffrescamento"]
 tags: ["deumidificatore", "condizionatore", "modalità dry", "raffrescamento", "risparmio energetico"]
 cover:
   image: "/immagini/condizionatore-funzione-deumidificatore.jpg"
-  alt: "Pannello di controllo del condizionatore con icona a goccia della modalità deumidificatore"
+  alt: "Condizionatore split in camera da letto accanto a un deumidificatore portatile con serbatoio"
 ---
 
 ### Introduzione
