@@ -44,30 +44,47 @@ def fit_font(draw, text, max_w, size):
     return ImageFont.truetype(FONT, size)
 
 
+def fit_lines(draw, text, max_w, size):
+    """Testo su una riga se ci sta ad almeno il 75% della dimensione, altrimenti su due righe."""
+    f = fit_font(draw, text, max_w, size)
+    words = text.split()
+    if f.size >= size * 0.75 or len(words) < 2:
+        return [text], f
+    # spezza nel punto che rende le due righe il piu' possibile uguali
+    cut = min(range(1, len(words)), key=lambda k: abs(len(" ".join(words[:k])) - len(" ".join(words[k:]))))
+    lines = [" ".join(words[:cut]), " ".join(words[cut:])]
+    return lines, fit_font(draw, max(lines, key=len), max_w, size)
+
+
 def title_png(w, text, path):
-    band = int(w * 0.2)
+    d = ImageDraw.Draw(Image.new("RGBA", (1, 1)))
+    lines, f = fit_lines(d, text, w * 0.92, int(w * 0.12))
+    band = int(len(lines) * f.size * 1.15 + w * 0.06)
     im = Image.new("RGBA", (w, band), (0, 0, 0, 255))
     d = ImageDraw.Draw(im)
-    f = fit_font(d, text, w * 0.92, int(band * 0.6))
-    d.text((w / 2, band / 2), text, font=f, fill=(255, 255, 255), anchor="mm")
+    d.multiline_text((w / 2, band / 2), "\n".join(lines), font=f, fill=(255, 255, 255),
+                     anchor="mm", align="center", spacing=int(f.size * 0.15))
     im.save(path)
     return band
 
 
 def label_png(w, text, color, path):
-    im = Image.new("RGBA", (w, int(w * 0.2)), (0, 0, 0, 0))
+    im = Image.new("RGBA", (w, int(w * 0.3)), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     if color == "fumetto":
-        f = fit_font(d, text, w * 0.8, int(w * 0.075))
-        tw = d.textlength(text, font=f)
+        lines, f = fit_lines(d, text, w * 0.8, int(w * 0.075))
+        tw = max(d.textlength(t, font=f) for t in lines)
         pad = w * 0.04
-        box = [w / 2 - tw / 2 - pad, 10, w / 2 + tw / 2 + pad, 10 + f.size + 2 * pad * 0.8]
+        th = len(lines) * f.size * 1.2
+        box = [w / 2 - tw / 2 - pad, 10, w / 2 + tw / 2 + pad, 10 + th + 2 * pad * 0.8]
         d.rounded_rectangle(box, radius=int(pad), fill=(255, 255, 255, 245), outline=(0, 0, 0), width=5)
-        d.text((w / 2, (box[1] + box[3]) / 2), text, font=f, fill=(0, 0, 0), anchor="mm")
+        d.multiline_text((w / 2, (box[1] + box[3]) / 2), "\n".join(lines), font=f, fill=(0, 0, 0),
+                         anchor="mm", align="center", spacing=int(f.size * 0.2))
     else:
-        f = fit_font(d, text, w * 0.9, int(w * 0.085))
-        d.text((w / 2, im.height / 2), text, font=f, fill=COLORS[color], anchor="mm",
-               stroke_width=max(4, f.size // 9), stroke_fill=(0, 0, 0))
+        lines, f = fit_lines(d, text, w * 0.9, int(w * 0.085))
+        d.multiline_text((w / 2, im.height * 0.4), "\n".join(lines), font=f, fill=COLORS[color],
+                         anchor="mm", align="center", spacing=int(f.size * 0.15),
+                         stroke_width=max(4, f.size // 9), stroke_fill=(0, 0, 0))
     im.save(path)
 
 

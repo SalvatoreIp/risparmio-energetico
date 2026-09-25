@@ -97,16 +97,37 @@
       "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
     },
     {
+      "id": 1007,
+      "tema": "finalmente esce il sole, elettrodomestici col fotovoltaico (reel ElevenLabs)",
+      "immagine": "reel-finalmente-esce-il-sole",
+      "testo": "☀️ Dopo una settimana di pioggia finalmente esce il sole. E chi ha i pannelli sul tetto fa partire tutto: lavatrice, lavastoviglie, asciugatrice.\n\nNon è una fissazione, sono conti. L'energia che produci e usi subito vale quanto quella che non compri, circa 0,28 €/kWh. Quella che mandi in rete te la pagano molto meno, circa 0,10 €/kWh.\n\n🧺 Facciamo i conti: lavatrice e lavastoviglie consumano circa 1 kWh a lavaggio. Se ne sposti 8 a settimana nelle ore di sole, sono circa 400 kWh l'anno usati direttamente dal tetto. Ogni kWh ti fa guadagnare 0,18 € in più: circa 70 € l'anno risparmiati solo cambiando orario, senza spendere niente.\n\n📱 Con la partenza ritardata degli elettrodomestici o con l'app dell'inverter, che ti dice quanto stai producendo, diventa un'abitudine.\n\nPrezzi indicativi settembre 2026.\n\nE tu, quando esce il sole, cosa accendi per primo? 👇",
+      "video": "reel-finalmente-esce-il-sole"
+    },
+    {
       "id": 9,
       "tema": "caldaia condensazione mandata",
       "immagine": "miglior-termostato-smart-2026",
       "testo": "🌡️ Hai una caldaia a condensazione? Allora c'è un numero, nascosto nel menu, che decide quanto spendi: la temperatura di mandata.\n\nÈ la temperatura dell'acqua che la caldaia manda ai termosifoni. Di fabbrica spesso è impostata a 70-75°C. E lì sta il problema.\n\nUna caldaia a condensazione recupera calore dai fumi condensando il vapore acqueo. Ma quel fenomeno avviene solo se l'acqua di ritorno è abbastanza fredda — indicativamente sotto i 55°C. Se la mandata è a 75°C, la condensazione non parte mai e la caldaia lavora come una normale caldaia di vent'anni fa.\n\n✅ Provare a scendere a 55-60°C è gratis. I termosifoni scalderanno un po' più lentamente ma più a lungo, e il recupero vale un 10-15% di gas in meno.\n\n⚠️ Se l'impianto ha radiatori piccoli potrebbe non bastare: si prova, si vive una settimana, si decide.\n\nSai a che temperatura è impostata la tua? 👇"
     },
     {
+      "id": 1008,
+      "tema": "il sabato mattina, orto e galline (reel ElevenLabs)",
+      "immagine": "reel-il-sabato-mattina",
+      "testo": "🧺 Il sabato mattina. C'è chi è in coda al parcheggio del centro commerciale e c'è chi raccoglie pomodori e uova in giardino.\n\nMa un piccolo pollaio conviene davvero? Facciamo due conti con 4 galline ovaiole.\n\n🥚 Quattro galline fanno circa 800 uova l'anno (in media 200 a testa, meno d'inverno). Le uova bio da galline allevate all'aperto costano circa 0,40 € l'una: sono circa 320 € l'anno.\n\n🌾 Le spese: circa 160 kg di mangime l'anno a 0,60 €/kg, cioè circa 100 €. Restano circa 220 € l'anno. In più gli avanzi di cucina diventano uova e la pollina concima l'orto.\n\n⚠️ Prima di iniziare: controlla il regolamento del tuo Comune, perché alcuni limitano gli animali da cortile nei centri abitati, e chiedi all'ASL come registrare il pollaio, anche se è piccolo e per uso familiare. E ricorda che le galline vanno accudite ogni giorno, anche quando sei in vacanza.\n\nPrezzi indicativi settembre 2026.\n\nTu il sabato mattina dove sei: in coda o nell'orto? 👇",
+      "video": "reel-il-sabato-mattina"
+    },
+    {
       "id": 10,
       "tema": "asciugatrice",
       "immagine": "fb-asciugatrice",
       "testo": "🌀 L'asciugatrice è l'elettrodomestico che più spesso fa saltare all'occhio la bolletta d'inverno. Ed è anche quello dove la differenza tra due modelli è più grande.\n\n🔸 Asciugatrice a condensazione tradizionale: 3,5-4 kWh a ciclo\n🔸 Asciugatrice a pompa di calore: 1,5-2 kWh a ciclo\n\nCon 3 cicli a settimana la prima costa circa 160 € l'anno, la seconda circa 75 € (a 0,28 €/kWh, settembre 2026). Sono 85 € di differenza ogni anno, per la stessa identica operazione.\n\n💡 E prima ancora dell'asciugatrice c'è la centrifuga: portarla a 1.400 giri invece di 800 toglie molta più acqua e accorcia l'asciugatura del 20-30%. Costa pochi centesimi in più di lavatrice e ne fa risparmiare parecchi dopo.\n\nD'inverno l'asciugatrice è comoda, nessuno lo nega. Ma sapere quanto costa un ciclo cambia il modo di usarla.\n\nTu ce l'hai o stendi e basta? 👇"
+    },
+    {
+      "id": 1009,
+      "tema": "scaffali vuoti al supermercato, dispensa di conserve (reel ElevenLabs)",
+      "immagine": "reel-scaffali-vuoti-dispensa",
+      "testo": "🥫 Scaffali vuoti al supermercato. Chi l'ha vissuto se lo ricorda bene. Chi ha una dispensa piena, invece, sta tranquillo.\n\nMa fare le conserve in casa conviene? Prendiamo la passata di pomodoro.\n\n🍅 Con 50 kg di pomodori comprati ad agosto dal produttore, a circa 1 €/kg, si fanno circa 30 litri di passata: una sessantina di bottiglie da mezzo litro. Al supermercato una buona passata costa circa 1,50 € la bottiglia, quindi circa 90 €. Tu spendi circa 50 € di pomodori e 10 € tra tappi ed energia: risparmi circa 30 €. Se i pomodori vengono dal tuo orto, il risparmio sale a circa 80 €.\n\nIl vero guadagno però è un altro: sai cosa c'è dentro e hai scorte per tutto l'inverno.\n\n☀️ Se hai il fotovoltaico, sterilizza e pastorizza i barattoli a mezzogiorno con il piano a induzione: l'energia arriva dal tetto.\n\n⚠️ Sicurezza prima di tutto: segui le linee guida del Ministero della Salute sulle conserve fatte in casa (barattoli sterilizzati, giusta acidità, pastorizzazione) per evitare il rischio di botulino.\n\nPrezzi indicativi settembre 2026.\n\nTu che conserve hai in dispensa? 👇",
+      "video": "reel-scaffali-vuoti-dispensa"
     },
     {
       "id": 11,
