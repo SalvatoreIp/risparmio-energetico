@@ -24,14 +24,17 @@ FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 COLORS = {"bianco": (255, 255, 255), "verde": (90, 220, 60)}
 
 
-def probe_size(path):
+def probe(path):
+    """Restituisce (larghezza, altezza, durata in secondi) del video."""
     out = subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(), "-hide_banner", "-i", path],
                          capture_output=True, text=True).stderr
+    hh, mm, ss = out.split("Duration: ")[1].split(",")[0].split(":")
+    dur = int(hh) * 3600 + int(mm) * 60 + float(ss)
     for tok in out.split():
         tok = tok.rstrip(",")
         if "x" in tok and tok.replace("x", "").isdigit():
             w, h = tok.split("x")
-            return int(w), int(h)
+            return int(w), int(h), dur
     raise SystemExit("dimensioni del video non trovate")
 
 
@@ -90,7 +93,7 @@ def label_png(w, text, color, path):
 
 def main():
     src, out, title, *labels = sys.argv[1:]
-    w, h = probe_size(src)
+    w, h, dur = probe(src)
     tmp = tempfile.mkdtemp()
     inputs, filters = ["-i", src], []
     band = title_png(w, title, f"{tmp}/title.png")
@@ -106,7 +109,10 @@ def main():
         filters.append(f"[{last}][{k + 2}:v]overlay=0:{y}:enable='between(t,{t0},{t1})'[v{k + 2}]")
         last = f"v{k + 2}"
     subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(), "-y", "-loglevel", "error", *inputs,
-                    "-filter_complex", ";".join(filters), "-map", f"[{last}]", "-map", "0:a?",
+                    # audio sfumato ai due capi: il reel riparte in loop senza "scatto" sonoro
+                    "-filter_complex", ";".join(filters + [
+                        f"[0:a]afade=t=in:d=0.15,afade=t=out:st={dur - 0.35:.2f}:d=0.35[a]"]),
+                    "-map", f"[{last}]", "-map", "[a]",
                     "-c:v", "libx264", "-crf", "20", "-pix_fmt", "yuv420p", "-c:a", "aac",
                     "-b:a", "160k", "-movflags", "+faststart", out], check=True)
     print("OK", out)
