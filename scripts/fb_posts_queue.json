@@ -45,16 +45,11 @@
       "video": "meme-blackout-nel-quartiere"
     },
     {
-      "id": 5,
-      "tema": "frigorifero",
-      "immagine": "fb-frigorifero",
-      "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
-    },
-    {
       "id": 1003,
       "tema": "insalata idroponica sul balcone (meme)",
       "immagine": "meme-insalata-idroponica",
-      "testo": "🥬 Hai mai fatto caso a quanto costa una busta di insalata? Due, tre euro per un cespo che dopo tre giorni in frigo è già da buttare.\n\nIntanto, su sempre più balconi italiani, spuntano torri bianche piene di lattuga, basilico e fragole. È l'idroponica: le piante crescono senza terra, con le radici bagnate da acqua e nutrienti che una piccola pompa fa girare in continuazione. Una lattuga è pronta da raccogliere in 4-6 settimane.\n\n⚡ E la corrente? Meno di quanto si pensi. La pompa di una torre da balcone assorbe di solito 10-20 W e lavora a intervalli: 20 W per 6 ore al giorno fanno circa 44 kWh l'anno, cioè una dozzina di euro (a 0,28 €/kWh). Con un pannellino solare anche meno. Attenzione però: in casa, senza sole, servono le lampade LED di coltivazione, e lì i consumi salgono parecchio.\n\n🧮 Se compri una busta a settimana a 2-3,50 €, sono 100-180 € l'anno solo di insalata (prezzi indicativi settembre 2026). E il sapore di una lattuga raccolta cinque minuti prima non si compra.\n\nTu hai mai provato a coltivare qualcosa sul balcone? 👇"
+      "testo": "🥬 Hai mai fatto caso a quanto costa una busta di insalata? Due, tre euro per un cespo che dopo tre giorni in frigo è già da buttare.\n\nIntanto, su sempre più balconi italiani, spuntano torri bianche piene di lattuga, basilico e fragole. È l'idroponica: le piante crescono senza terra, con le radici bagnate da acqua e nutrienti che una piccola pompa fa girare in continuazione. Una lattuga è pronta da raccogliere in 4-6 settimane.\n\n⚡ E la corrente? Meno di quanto si pensi. La pompa di una torre da balcone assorbe di solito 10-20 W e lavora a intervalli: 20 W per 6 ore al giorno fanno circa 44 kWh l'anno, cioè una dozzina di euro (a 0,28 €/kWh). Con un pannellino solare anche meno. Attenzione però: in casa, senza sole, servono le lampade LED di coltivazione, e lì i consumi salgono parecchio.\n\n🧮 Se compri una busta a settimana a 2-3,50 €, sono 100-180 € l'anno solo di insalata (prezzi indicativi settembre 2026). E il sapore di una lattuga raccolta cinque minuti prima non si compra.\n\nTu hai mai provato a coltivare qualcosa sul balcone? 👇",
+      "video": "meme-insalata-idroponica"
     },
     {
       "id": 6,
@@ -79,13 +74,20 @@
       "id": 1005,
       "tema": "arriva la bolletta, prima e dopo (meme)",
       "immagine": "meme-arriva-la-bolletta",
-      "testo": "📬 C'è chi apre la bolletta seduto, per sicurezza. E c'è chi si accorge che è arrivata solo una settimana dopo.\n\nMa si può davvero passare da una bolletta da incubo a qualche decina di euro? Sì, con due avvertenze.\n\n☀️ I conti: una famiglia che consuma 3.500 kWh l'anno, con un impianto fotovoltaico da 4-5 kWp e una batteria da 10 kWh, può coprire con l'energia prodotta in casa il 70% circa dei propri consumi. Sono circa 2.450 kWh che non compri più: a 0,28 €/kWh, quasi 700 € l'anno.\n\n⚠️ Le avvertenze: la bolletta non si azzera mai, perché restano le quote fisse e l'energia prelevata la sera d'inverno, quando il sole non basta. E l'impianto va dimensionato sui tuoi consumi reali, non su quelli del vicino.\n\nTu come apri la bolletta: seduto o in piedi? 👇"
+      "testo": "📬 C'è chi apre la bolletta seduto, per sicurezza. E c'è chi si accorge che è arrivata solo una settimana dopo.\n\nMa si può davvero passare da una bolletta da incubo a qualche decina di euro? Sì, con due avvertenze.\n\n☀️ I conti: una famiglia che consuma 3.500 kWh l'anno, con un impianto fotovoltaico da 4-5 kWp e una batteria da 10 kWh, può coprire con l'energia prodotta in casa il 70% circa dei propri consumi. Sono circa 2.450 kWh che non compri più: a 0,28 €/kWh, quasi 700 € l'anno.\n\n⚠️ Le avvertenze: la bolletta non si azzera mai, perché restano le quote fisse e l'energia prelevata la sera d'inverno, quando il sole non basta. E l'impianto va dimensionato sui tuoi consumi reali, non su quelli del vicino.\n\nTu come apri la bolletta: seduto o in piedi? 👇",
+      "video": "meme-arriva-la-bolletta"
     },
     {
       "id": 8,
       "tema": "programmazione oraria riscaldamento",
       "immagine": "termostato-smart-2026",
       "testo": "⏰ Scaldare una casa vuota è il modo più silenzioso di buttare soldi.\n\nSe uscite alle 8 e rientrate alle 18, per dieci ore al giorno la caldaia sta scaldando stanze in cui non c'è nessuno. Su una stagione sono mesi di riscaldamento regalati alle pareti.\n\n🕗 Come si imposta una programmazione che funziona:\n🔸 Un'ora prima della sveglia → temperatura piena\n🔸 Quando esci → giù di 3-4 gradi, non spento del tutto\n🔸 Un'ora prima del rientro → risale\n🔸 Di notte → giù di 3-4 gradi\n\n❗ Attenzione all'errore classico: spegnere completamente. Una casa che si raffredda del tutto richiede più energia per tornare in temperatura di quanta ne serva a mantenerla tiepida. Abbassare sì, azzerare no.\n\nUn cronotermostato base costa 30-50 €, uno smart da 60-100 € (prezzi indicativi settembre 2026) e si ripaga nella prima stagione.\n\nIl tuo riscaldamento è programmato o va a manopola? 👇"
+    },
+    {
+      "id": 5,
+      "tema": "frigorifero",
+      "immagine": "fb-frigorifero",
+      "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
     },
     {
       "id": 9,

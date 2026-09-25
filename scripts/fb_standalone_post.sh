@@ -116,6 +116,11 @@ $CAP
 rm -f /tmp/fb_caption_$$.txt
 
 FB_ID="$(echo "$OUT" | grep -oE "${PAGE_ID}_[0-9]+" | head -1)"
+# FACEBOOK_CREATE_VIDEO_POST restituisce solo l'id del video (15-20 cifre, senza "PAGEID_"):
+# senza questo il 25/09 il reel era uscito ma lo script l'ha creduto fallito e l'ha ritentato
+if [ -z "$FB_ID" ] && [ -n "$VIDEO" ]; then
+  FB_ID="$(echo "$OUT" | grep -oE "\b[0-9]{15,20}\b" | grep -v "^${PAGE_ID}$" | head -1)"
+fi
 
 if [ -z "$FB_ID" ]; then
   log "ERRORE: nessun ID post restituito, il post #$POST_ID resta in coda e verra' ritentato"
