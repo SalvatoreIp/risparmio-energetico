@@ -84,6 +84,13 @@
       "testo": "⏰ Scaldare una casa vuota è il modo più silenzioso di buttare soldi.\n\nSe uscite alle 8 e rientrate alle 18, per dieci ore al giorno la caldaia sta scaldando stanze in cui non c'è nessuno. Su una stagione sono mesi di riscaldamento regalati alle pareti.\n\n🕗 Come si imposta una programmazione che funziona:\n🔸 Un'ora prima della sveglia → temperatura piena\n🔸 Quando esci → giù di 3-4 gradi, non spento del tutto\n🔸 Un'ora prima del rientro → risale\n🔸 Di notte → giù di 3-4 gradi\n\n❗ Attenzione all'errore classico: spegnere completamente. Una casa che si raffredda del tutto richiede più energia per tornare in temperatura di quanta ne serva a mantenerla tiepida. Abbassare sì, azzerare no.\n\nUn cronotermostato base costa 30-50 €, uno smart da 60-100 € (prezzi indicativi settembre 2026) e si ripaga nella prima stagione.\n\nIl tuo riscaldamento è programmato o va a manopola? 👇"
     },
     {
+      "id": 1006,
+      "tema": "arriva il primo freddo, caldaia vs pompa di calore (reel ElevenLabs)",
+      "immagine": "reel-arriva-il-primo-freddo",
+      "testo": "🥶 Arriva il primo freddo. C'è chi accende la caldaia e guarda il contatore del gas girare. E c'è chi resta in maglietta.\n\nMa una pompa di calore conviene davvero rispetto alla caldaia? Facciamo due conti su una casa che consuma circa 1.000 metri cubi di gas l'anno per scaldarsi.\n\n🔥 Con la caldaia a gas: 1.000 m³ a circa 1,10 €/m³ fanno circa 1.100 € l'anno.\n\n♨️ Con la pompa di calore: per lo stesso calore servono circa 2.900 kWh di elettricità (ogni kWh consumato ne restituisce 3-3,5 di calore). A 0,28 €/kWh fanno circa 810 € l'anno. Sono quasi 300 € risparmiati, e di più se una parte dell'elettricità arriva dai tuoi pannelli.\n\n⚠️ Due avvertenze: in inverno il fotovoltaico produce poco, quindi non aspettarti che copra tutto il riscaldamento. E la pompa di calore rende al meglio con i termosifoni a bassa temperatura o il riscaldamento a pavimento, in una casa non troppo disperdente.\n\nPrezzi indicativi settembre 2026.\n\nTu hai già acceso il riscaldamento quest'anno? 👇",
+      "video": "reel-arriva-il-primo-freddo"
+    },
+    {
       "id": 5,
       "tema": "frigorifero",
       "immagine": "fb-frigorifero",
