@@ -45,6 +45,19 @@
       "video": "meme-blackout-nel-quartiere"
     },
     {
+      "id": 1010,
+      "tema": "la gallina esce dal post, scarti che diventano risorse (reel 3D)",
+      "immagine": "reel-il-sabato-mattina",
+      "video": "prova-reel-3d-gallina",
+      "testo": "🐔 Attenzione: questa signora è appena uscita dal post. E ha qualcosa da dirti.\n\nLei non paga bollette, non compra concime e non butta via niente. Si mangia gli avanzi della cucina, ti restituisce uova fresche e la sua pollina, dopo il compostaggio, nutre l'orto. Il tetto coi pannelli solari fa il resto.\n\n♻️ È il principio dell'autosufficienza: quello che in casa è uno scarto, da un'altra parte diventa una risorsa. Gli avanzi diventano uova, il sole diventa corrente, la pioggia diventa acqua per l'orto.\n\nTu cosa butti via oggi che domani potrebbe diventare una risorsa? 👇"
+    },
+    {
+      "id": 6,
+      "tema": "termosifoni coperti",
+      "immagine": "fb-termosifoni-coperti",
+      "testo": "🔥 Stagione di riscaldamento alle porte, e questo è l'errore più diffuso in assoluto: coprire i termosifoni.\n\nUn radiatore scalda per convezione: prende aria fredda in basso, la scalda e la rimanda in alto. Se davanti c'è un divano, una tenda lunga o una mensola, quel movimento si blocca e il calore resta intrappolato lì.\n\nRisultato: fino al 20% di calore che non arriva in stanza. Tu alzi il termostato, la caldaia lavora di più, e la bolletta la paghi lo stesso.\n\n✅ Cosa serve davvero:\n🔸 Tende che finiscono sopra il radiatore, non davanti\n🔸 Almeno 10 cm liberi tra mobile e termosifone\n🔸 Niente panni ad asciugare sopra (e niente copritermosifone decorativo)\n\nÈ il risparmio più a buon mercato che esista: costa zero e si fa in cinque minuti.\n\nHai un termosifone coperto in casa? 👇"
+    },
+    {
       "id": 1003,
       "tema": "insalata idroponica sul balcone (meme)",
       "immagine": "meme-insalata-idroponica",
@@ -52,10 +65,10 @@
       "video": "meme-insalata-idroponica"
     },
     {
-      "id": 6,
-      "tema": "termosifoni coperti",
-      "immagine": "fb-termosifoni-coperti",
-      "testo": "🔥 Stagione di riscaldamento alle porte, e questo è l'errore più diffuso in assoluto: coprire i termosifoni.\n\nUn radiatore scalda per convezione: prende aria fredda in basso, la scalda e la rimanda in alto. Se davanti c'è un divano, una tenda lunga o una mensola, quel movimento si blocca e il calore resta intrappolato lì.\n\nRisultato: fino al 20% di calore che non arriva in stanza. Tu alzi il termostato, la caldaia lavora di più, e la bolletta la paghi lo stesso.\n\n✅ Cosa serve davvero:\n🔸 Tende che finiscono sopra il radiatore, non davanti\n🔸 Almeno 10 cm liberi tra mobile e termosifone\n🔸 Niente panni ad asciugare sopra (e niente copritermosifone decorativo)\n\nÈ il risparmio più a buon mercato che esista: costa zero e si fa in cinque minuti.\n\nHai un termosifone coperto in casa? 👇"
+      "id": 7,
+      "tema": "spurgare radiatori",
+      "immagine": "fb-spurgare-termosifone",
+      "testo": "🔧 Se il termosifone è caldo sotto e freddo sopra, non è rotto: dentro c'è aria.\n\nSuccede a tutti gli impianti dopo un'estate ferma. L'aria si accumula nella parte alta, prende il posto dell'acqua calda e quella porzione di radiatore smette di scaldare. Tu senti freddo, alzi la caldaia, e paghi per scaldare un termosifone che lavora a metà.\n\n🛠️ Come si sistema, prima di accendere:\n1️⃣ Spegni la caldaia e aspetta che l'impianto si raffreddi\n2️⃣ Metti una bacinella sotto la valvolina di sfiato (in alto, di lato)\n3️⃣ Apri piano con la chiavetta o un cacciavite: senti uscire l'aria\n4️⃣ Quando esce acqua, richiudi\n5️⃣ Alla fine controlla la pressione in caldaia: deve stare tra 1 e 1,5 bar\n\nDieci minuti per tutta la casa, zero euro, e i radiatori tornano caldi fino in cima.\n\nLi hai già sfiatati quest'anno? 👇"
     },
     {
       "id": 1004,
@@ -65,10 +78,10 @@
       "video": "meme-quando-piove-cisterna"
     },
     {
-      "id": 7,
-      "tema": "spurgare radiatori",
-      "immagine": "fb-spurgare-termosifone",
-      "testo": "🔧 Se il termosifone è caldo sotto e freddo sopra, non è rotto: dentro c'è aria.\n\nSuccede a tutti gli impianti dopo un'estate ferma. L'aria si accumula nella parte alta, prende il posto dell'acqua calda e quella porzione di radiatore smette di scaldare. Tu senti freddo, alzi la caldaia, e paghi per scaldare un termosifone che lavora a metà.\n\n🛠️ Come si sistema, prima di accendere:\n1️⃣ Spegni la caldaia e aspetta che l'impianto si raffreddi\n2️⃣ Metti una bacinella sotto la valvolina di sfiato (in alto, di lato)\n3️⃣ Apri piano con la chiavetta o un cacciavite: senti uscire l'aria\n4️⃣ Quando esce acqua, richiudi\n5️⃣ Alla fine controlla la pressione in caldaia: deve stare tra 1 e 1,5 bar\n\nDieci minuti per tutta la casa, zero euro, e i radiatori tornano caldi fino in cima.\n\nLi hai già sfiatati quest'anno? 👇"
+      "id": 8,
+      "tema": "programmazione oraria riscaldamento",
+      "immagine": "fb-programmazione-riscaldamento",
+      "testo": "⏰ Scaldare una casa vuota è il modo più silenzioso di buttare soldi.\n\nSe uscite alle 8 e rientrate alle 18, per dieci ore al giorno la caldaia sta scaldando stanze in cui non c'è nessuno. Su una stagione sono mesi di riscaldamento regalati alle pareti.\n\n🕗 Come si imposta una programmazione che funziona:\n🔸 Un'ora prima della sveglia → temperatura piena\n🔸 Quando esci → giù di 3-4 gradi, non spento del tutto\n🔸 Un'ora prima del rientro → risale\n🔸 Di notte → giù di 3-4 gradi\n\n❗ Attenzione all'errore classico: spegnere completamente. Una casa che si raffredda del tutto richiede più energia per tornare in temperatura di quanta ne serva a mantenerla tiepida. Abbassare sì, azzerare no.\n\nUn cronotermostato base costa 30-50 €, uno smart da 60-100 € (prezzi indicativi settembre 2026) e si ripaga nella prima stagione.\n\nIl tuo riscaldamento è programmato o va a manopola? 👇"
     },
     {
       "id": 1005,
@@ -78,10 +91,10 @@
       "video": "meme-arriva-la-bolletta"
     },
     {
-      "id": 8,
-      "tema": "programmazione oraria riscaldamento",
-      "immagine": "fb-programmazione-riscaldamento",
-      "testo": "⏰ Scaldare una casa vuota è il modo più silenzioso di buttare soldi.\n\nSe uscite alle 8 e rientrate alle 18, per dieci ore al giorno la caldaia sta scaldando stanze in cui non c'è nessuno. Su una stagione sono mesi di riscaldamento regalati alle pareti.\n\n🕗 Come si imposta una programmazione che funziona:\n🔸 Un'ora prima della sveglia → temperatura piena\n🔸 Quando esci → giù di 3-4 gradi, non spento del tutto\n🔸 Un'ora prima del rientro → risale\n🔸 Di notte → giù di 3-4 gradi\n\n❗ Attenzione all'errore classico: spegnere completamente. Una casa che si raffredda del tutto richiede più energia per tornare in temperatura di quanta ne serva a mantenerla tiepida. Abbassare sì, azzerare no.\n\nUn cronotermostato base costa 30-50 €, uno smart da 60-100 € (prezzi indicativi settembre 2026) e si ripaga nella prima stagione.\n\nIl tuo riscaldamento è programmato o va a manopola? 👇"
+      "id": 5,
+      "tema": "frigorifero",
+      "immagine": "fb-frigorifero",
+      "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
     },
     {
       "id": 1006,
@@ -91,10 +104,10 @@
       "video": "reel-arriva-il-primo-freddo"
     },
     {
-      "id": 5,
-      "tema": "frigorifero",
-      "immagine": "fb-frigorifero",
-      "testo": "❄️ Il frigorifero è l'unico elettrodomestico che non spegni mai. Da solo vale il 15-20% della bolletta elettrica.\n\nDue cose che quasi nessuno controlla:\n\n🌡️ La temperatura. Il punto giusto è 4-5°C nel frigo e -18°C nel congelatore. Ogni grado in meno aumenta i consumi di circa il 5%: tenerlo a 2°C \"per sicurezza\" costa il 10-15% in più tutto l'anno, senza conservare meglio niente.\n\n🕸️ La serpentina dietro. È quella griglia nera sul retro: se è coperta di polvere il frigo fatica a smaltire calore e consuma fino al 10-15% in più. Una passata con l'aspirapolvere una volta l'anno, e basta.\n\nAggiungi 10 cm di spazio dal muro e non metterlo accanto al forno: sono gratis.\n\nQuand'è l'ultima volta che hai guardato dietro il frigo? 👇"
+      "id": 9,
+      "tema": "caldaia condensazione mandata",
+      "immagine": "fb-caldaia-condensazione",
+      "testo": "🌡️ Hai una caldaia a condensazione? Allora c'è un numero, nascosto nel menu, che decide quanto spendi: la temperatura di mandata.\n\nÈ la temperatura dell'acqua che la caldaia manda ai termosifoni. Di fabbrica spesso è impostata a 70-75°C. E lì sta il problema.\n\nUna caldaia a condensazione recupera calore dai fumi condensando il vapore acqueo. Ma quel fenomeno avviene solo se l'acqua di ritorno è abbastanza fredda — indicativamente sotto i 55°C. Se la mandata è a 75°C, la condensazione non parte mai e la caldaia lavora come una normale caldaia di vent'anni fa.\n\n✅ Provare a scendere a 55-60°C è gratis. I termosifoni scalderanno un po' più lentamente ma più a lungo, e il recupero vale un 10-15% di gas in meno.\n\n⚠️ Se l'impianto ha radiatori piccoli potrebbe non bastare: si prova, si vive una settimana, si decide.\n\nSai a che temperatura è impostata la tua? 👇"
     },
     {
       "id": 1007,
@@ -104,10 +117,10 @@
       "video": "reel-finalmente-esce-il-sole"
     },
     {
-      "id": 9,
-      "tema": "caldaia condensazione mandata",
-      "immagine": "fb-caldaia-condensazione",
-      "testo": "🌡️ Hai una caldaia a condensazione? Allora c'è un numero, nascosto nel menu, che decide quanto spendi: la temperatura di mandata.\n\nÈ la temperatura dell'acqua che la caldaia manda ai termosifoni. Di fabbrica spesso è impostata a 70-75°C. E lì sta il problema.\n\nUna caldaia a condensazione recupera calore dai fumi condensando il vapore acqueo. Ma quel fenomeno avviene solo se l'acqua di ritorno è abbastanza fredda — indicativamente sotto i 55°C. Se la mandata è a 75°C, la condensazione non parte mai e la caldaia lavora come una normale caldaia di vent'anni fa.\n\n✅ Provare a scendere a 55-60°C è gratis. I termosifoni scalderanno un po' più lentamente ma più a lungo, e il recupero vale un 10-15% di gas in meno.\n\n⚠️ Se l'impianto ha radiatori piccoli potrebbe non bastare: si prova, si vive una settimana, si decide.\n\nSai a che temperatura è impostata la tua? 👇"
+      "id": 10,
+      "tema": "asciugatrice",
+      "immagine": "fb-asciugatrice",
+      "testo": "🌀 L'asciugatrice è l'elettrodomestico che più spesso fa saltare all'occhio la bolletta d'inverno. Ed è anche quello dove la differenza tra due modelli è più grande.\n\n🔸 Asciugatrice a condensazione tradizionale: 3,5-4 kWh a ciclo\n🔸 Asciugatrice a pompa di calore: 1,5-2 kWh a ciclo\n\nCon 3 cicli a settimana la prima costa circa 160 € l'anno, la seconda circa 75 € (a 0,28 €/kWh, settembre 2026). Sono 85 € di differenza ogni anno, per la stessa identica operazione.\n\n💡 E prima ancora dell'asciugatrice c'è la centrifuga: portarla a 1.400 giri invece di 800 toglie molta più acqua e accorcia l'asciugatura del 20-30%. Costa pochi centesimi in più di lavatrice e ne fa risparmiare parecchi dopo.\n\nD'inverno l'asciugatrice è comoda, nessuno lo nega. Ma sapere quanto costa un ciclo cambia il modo di usarla.\n\nTu ce l'hai o stendi e basta? 👇"
     },
     {
       "id": 1008,
@@ -117,10 +130,10 @@
       "video": "reel-il-sabato-mattina"
     },
     {
-      "id": 10,
-      "tema": "asciugatrice",
-      "immagine": "fb-asciugatrice",
-      "testo": "🌀 L'asciugatrice è l'elettrodomestico che più spesso fa saltare all'occhio la bolletta d'inverno. Ed è anche quello dove la differenza tra due modelli è più grande.\n\n🔸 Asciugatrice a condensazione tradizionale: 3,5-4 kWh a ciclo\n🔸 Asciugatrice a pompa di calore: 1,5-2 kWh a ciclo\n\nCon 3 cicli a settimana la prima costa circa 160 € l'anno, la seconda circa 75 € (a 0,28 €/kWh, settembre 2026). Sono 85 € di differenza ogni anno, per la stessa identica operazione.\n\n💡 E prima ancora dell'asciugatrice c'è la centrifuga: portarla a 1.400 giri invece di 800 toglie molta più acqua e accorcia l'asciugatura del 20-30%. Costa pochi centesimi in più di lavatrice e ne fa risparmiare parecchi dopo.\n\nD'inverno l'asciugatrice è comoda, nessuno lo nega. Ma sapere quanto costa un ciclo cambia il modo di usarla.\n\nTu ce l'hai o stendi e basta? 👇"
+      "id": 11,
+      "tema": "LED vs alogene",
+      "immagine": "fb-lampadine-led",
+      "testo": "💡 Le giornate si accorciano e le luci restano accese molte più ore. È il momento dell'anno in cui cambiare le lampadine rende di più.\n\nPer fare la stessa luce:\n🔸 Vecchia lampadina a incandescenza: 60 W\n🔸 Alogena: 42 W\n🔸 LED: 8-9 W\n\nStessa luce, un settimo del consumo.\n\n🧮 Il conto, se in casa hai ancora 10 punti luce alogeni accesi 3 ore al giorno: passando ai LED risparmi circa 360 kWh l'anno, cioè circa 100 € (a 0,28 €/kWh, settembre 2026). Le lampadine si pagano in due-tre mesi.\n\n⚠️ Due cose da guardare sulla confezione, non i watt:\n🔸 I lumen, che sono la luce vera (800 lm ≈ vecchia da 60 W)\n🔸 I kelvin: 2700 K luce calda per soggiorno e camere, 4000 K neutra per cucina e bagno\n\nIn casa tua è rimasta qualche alogena? 👇"
     },
     {
       "id": 1009,
@@ -128,12 +141,6 @@
       "immagine": "reel-scaffali-vuoti-dispensa",
       "testo": "🥫 Scaffali vuoti al supermercato. Chi l'ha vissuto se lo ricorda bene. Chi ha una dispensa piena, invece, sta tranquillo.\n\nMa fare le conserve in casa conviene? Prendiamo la passata di pomodoro.\n\n🍅 Con 50 kg di pomodori comprati ad agosto dal produttore, a circa 1 €/kg, si fanno circa 30 litri di passata: una sessantina di bottiglie da mezzo litro. Al supermercato una buona passata costa circa 1,50 € la bottiglia, quindi circa 90 €. Tu spendi circa 50 € di pomodori e 10 € tra tappi ed energia: risparmi circa 30 €. Se i pomodori vengono dal tuo orto, il risparmio sale a circa 80 €.\n\nIl vero guadagno però è un altro: sai cosa c'è dentro e hai scorte per tutto l'inverno.\n\n☀️ Se hai il fotovoltaico, sterilizza e pastorizza i barattoli a mezzogiorno con il piano a induzione: l'energia arriva dal tetto.\n\n⚠️ Sicurezza prima di tutto: segui le linee guida del Ministero della Salute sulle conserve fatte in casa (barattoli sterilizzati, giusta acidità, pastorizzazione) per evitare il rischio di botulino.\n\nPrezzi indicativi settembre 2026.\n\nTu che conserve hai in dispensa? 👇",
       "video": "reel-scaffali-vuoti-dispensa"
-    },
-    {
-      "id": 11,
-      "tema": "LED vs alogene",
-      "immagine": "fb-lampadine-led",
-      "testo": "💡 Le giornate si accorciano e le luci restano accese molte più ore. È il momento dell'anno in cui cambiare le lampadine rende di più.\n\nPer fare la stessa luce:\n🔸 Vecchia lampadina a incandescenza: 60 W\n🔸 Alogena: 42 W\n🔸 LED: 8-9 W\n\nStessa luce, un settimo del consumo.\n\n🧮 Il conto, se in casa hai ancora 10 punti luce alogeni accesi 3 ore al giorno: passando ai LED risparmi circa 360 kWh l'anno, cioè circa 100 € (a 0,28 €/kWh, settembre 2026). Le lampadine si pagano in due-tre mesi.\n\n⚠️ Due cose da guardare sulla confezione, non i watt:\n🔸 I lumen, che sono la luce vera (800 lm ≈ vecchia da 60 W)\n🔸 I kelvin: 2700 K luce calda per soggiorno e camere, 4000 K neutra per cucina e bagno\n\nIn casa tua è rimasta qualche alogena? 👇"
     },
     {
       "id": 12,
