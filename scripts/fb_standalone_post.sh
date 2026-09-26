@@ -40,6 +40,7 @@ if not restanti:
 p = restanti[0]
 print(json.dumps({"id": p["id"], "tema": p["tema"], "immagine": p.get("immagine", ""),
                   "video": p.get("video", ""), "testo": p["testo"],
+                  "link_commento": p.get("link_commento", ""),
                   "restanti": len(restanti)}, ensure_ascii=False))
 PY
 )"
@@ -54,6 +55,7 @@ TEMA="$(echo "$NEXT"     | python3 -c 'import json,sys; print(json.load(sys.stdi
 IMG="$(echo "$NEXT"      | python3 -c 'import json,sys; print(json.load(sys.stdin)["immagine"])')"
 VIDEO="$(echo "$NEXT"    | python3 -c 'import json,sys; print(json.load(sys.stdin)["video"])')"
 RESTANTI="$(echo "$NEXT" | python3 -c 'import json,sys; print(json.load(sys.stdin)["restanti"])')"
+LINK_COMMENTO="$(echo "$NEXT" | python3 -c 'import json,sys; print(json.load(sys.stdin)["link_commento"])')"
 echo "$NEXT" | python3 -c 'import json,sys; sys.stdout.write(json.load(sys.stdin)["testo"])' > /tmp/fb_caption_$$.txt
 
 # Un post con "video" (slug di static/video/<slug>.mp4) esce come video, altrimenti come foto
@@ -145,6 +147,24 @@ PY
 # non ha, quindi non poteva funzionare. Falliva in silenzio e l'agente rispondeva con l'ID che
 # aveva appena visto nel proprio contesto, producendo un "verifica OK" che confermava il nulla.
 log "NOTA: l'ID sopra e' quello dichiarato dall'agente; non e' verificabile via API finche' manca lo scope pages_read_engagement"
+
+# --- primo commento con il link all'articolo (solo se il post ne ha uno) ---
+# Il link sta nel commento e non nel post perche' Facebook fa girare meno i post con link.
+# Un errore qui non tocca il post, che e' gia' uscito.
+if [ -n "$LINK_COMMENTO" ]; then
+  if [ "$(curl -s -o /dev/null -w '%{http_code}' -m 20 "$LINK_COMMENTO")" = "200" ]; then
+    COUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "Esegui UNA sola volta il tool FACEBOOK_CREATE_COMMENT con object_id \"$FB_ID\" e message esattamente questo testo, a capo compreso:
+📖 Se vuoi approfondire, qui trovi la guida completa con tutti i conti:
+$LINK_COMMENTO
+Non usare altri tool e non riprovare se fallisce. Rispondi con l'id del commento restituito dal tool oppure con l'errore esatto." 2>&1)"
+    C_ID="$(echo "$COUT" | grep -oE '"id\\?"?: *\\?"[0-9]+_[0-9]+' | grep -oE '[0-9]+_[0-9]+' | head -1)"
+    [ -z "$C_ID" ] && C_ID="$(echo "$COUT" | grep -oE '\b[0-9]{9,20}_[0-9]{9,20}\b' | grep -v "^$FB_ID$" | head -1)"
+    if [ -n "$C_ID" ]; then log "primo commento con link pubblicato: $C_ID ($LINK_COMMENTO)"
+    else log "ATTENZIONE: primo commento NON confermato ($LINK_COMMENTO)"; echo "$COUT" | tail -c 400; fi
+  else
+    log "ATTENZIONE: link del commento non raggiungibile, commento saltato: $LINK_COMMENTO"
+  fi
+fi
 
 if [ "$((RESTANTI-1))" -le 6 ]; then
   log "AVVISO: restano solo $((RESTANTI-1)) post in coda (meno di 3 giorni). Rifornire $QUEUE."
