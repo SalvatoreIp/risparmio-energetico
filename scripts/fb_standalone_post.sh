@@ -193,6 +193,16 @@ Non usare altri tool e non riprovare se fallisce. Rispondi con l'id del commento
   fi
 fi
 
+# --- i video (reel e meme animati) escono anche come storia: costo zero, la vedono i follower ---
+# Un errore qui non tocca il post, che e' gia' uscito; nessun nuovo tentativo per non fare doppioni.
+if [ -n "$VIDEO" ]; then
+  if SOUT="$(python3 "$REPO/scripts/fb_storia.py" "$MEDIA_URL" 2>&1)"; then
+    log "storia pubblicata: $SOUT"
+  else
+    log "ATTENZIONE: storia NON confermata: $SOUT"
+  fi
+fi
+
 if [ "$((RESTANTI-1))" -le 6 ]; then
   log "AVVISO: restano solo $((RESTANTI-1)) post in coda (meno di 3 giorni). Rifornire $QUEUE."
 fi
