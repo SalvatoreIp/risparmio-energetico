@@ -5,7 +5,7 @@ soggetto che si muove viene scontornato fotogramma per fotogramma e disegnato SO
 cornice, cosi' quando avanza sembra uscire dal post verso chi guarda.
 
 Uso:
-  /home/salvatore/venv-reel/bin/python scripts/reel_fuori_cornice.py IN.mp4 OUT.mp4 "Testo del post" [--top 520] [--bottom 1300]
+  /home/salvatore/venv-reel/bin/python scripts/reel_fuori_cornice.py IN.mp4 OUT.mp4 "Testo del post" [--top 520] [--bottom 1300] [--pagina energia|pets]
 
 --top/--bottom/--margine: bordi della finestra-foto sulla tela 1080x1920 (il video viene
 scalato a tutta tela; fuori da quella finestra si vede solo il soggetto).
@@ -25,19 +25,23 @@ W, H = 1080, 1920
 BG = (240, 242, 245)
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-PAGE = "Guida Energia Italia"
+PAGINE = {  # nome, sigla nel logo tondo, colore del logo
+    "energia": ("Guida Energia Italia", "GE", (46, 160, 67)),
+    "pets": ("Guida Pets", "GP", (230, 126, 34)),
+}
 
 
-def cornice(testo, top, bottom):
+def cornice(testo, top, bottom, pagina="energia"):
     """Disegna il finto post (tutto tranne la foto) e restituisce l'immagine RGB."""
+    nome, sigla, colore = PAGINE[pagina]
     im = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(im)
     card_top = top - 330
     d.rectangle([0, card_top, W, bottom + 170], fill=(255, 255, 255))
     # intestazione: logo tondo, nome pagina, "Adesso"
-    d.ellipse([40, card_top + 40, 150, card_top + 150], fill=(46, 160, 67))
-    d.text((95, card_top + 95), "GE", font=ImageFont.truetype(FONT_B, 44), fill="white", anchor="mm")
-    d.text((175, card_top + 50), PAGE, font=ImageFont.truetype(FONT_B, 40), fill=(5, 5, 5))
+    d.ellipse([40, card_top + 40, 150, card_top + 150], fill=colore)
+    d.text((95, card_top + 95), sigla, font=ImageFont.truetype(FONT_B, 44), fill="white", anchor="mm")
+    d.text((175, card_top + 50), nome, font=ImageFont.truetype(FONT_B, 40), fill=(5, 5, 5))
     d.text((175, card_top + 105), "Adesso", font=ImageFont.truetype(FONT, 32), fill=(101, 103, 107))
     d.text((W - 60, card_top + 80), "•••", font=ImageFont.truetype(FONT_B, 40), fill=(101, 103, 107), anchor="mm")
     # testo del post (max 3 righe)
@@ -53,12 +57,17 @@ def cornice(testo, top, bottom):
 
 
 def maschera(session, frame_rgb):
-    """Alpha 0-1 del soggetto principale (solo la componente connessa piu' grande)."""
+    """Alpha 0-1 del soggetto principale: la componente connessa piu' grande tra quelle che
+    arrivano nella meta' bassa del fotogramma (il soggetto poggia a terra). Senza questo filtro,
+    nei primi secondi quando l'animale e' ancora piccolo, rembg sceglieva la casa sullo sfondo
+    e la faceva "uscire" dal post (capretta, 27/09)."""
     a = np.asarray(remove(Image.fromarray(frame_rgb), session=session, only_mask=True)).astype(np.uint8)
     n, lab, stats, _ = cv2.connectedComponentsWithStats((a > 128).astype(np.uint8))
-    if n <= 1:
+    fondo = stats[1:, cv2.CC_STAT_TOP] + stats[1:, cv2.CC_STAT_HEIGHT]
+    area = np.where(fondo > 0.55 * a.shape[0], stats[1:, cv2.CC_STAT_AREA], 0)
+    if n <= 1 or area.max() == 0:
         return np.zeros(a.shape, np.float32)
-    big = 1 + int(np.argmax(stats[1:, cv2.CC_STAT_AREA]))
+    big = 1 + int(np.argmax(area))
     keep = cv2.dilate((lab == big).astype(np.uint8), np.ones((15, 15), np.uint8))
     return (a.astype(np.float32) / 255.0) * keep
 
@@ -70,10 +79,11 @@ def main():
     ap.add_argument("testo")
     ap.add_argument("--top", type=int, default=520)
     ap.add_argument("--bottom", type=int, default=1300)
+    ap.add_argument("--pagina", choices=sorted(PAGINE), default="energia")
     ap.add_argument("--margine", type=int, default=50, help="margine laterale della foto")
     args = ap.parse_args()
 
-    base = cornice(args.testo, args.top, args.bottom)
+    base = cornice(args.testo, args.top, args.bottom, args.pagina)
     fuori = np.ones((H, W, 1), np.float32)
     t, b, m = args.top, args.bottom, args.margine
     fuori[t:b, m:W - m] = 0.0  # 1 = fuori dalla finestra-foto

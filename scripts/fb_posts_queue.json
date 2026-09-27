@@ -1,5 +1,5 @@
 {
-  "_nota": "Coda dei post Facebook standalone (senza link al sito). Consumata da scripts/fb_standalone_post.sh, due al giorno (13:30 e 19:30). Lo stato di pubblicazione NON sta qui ma in /home/salvatore/output/fb_standalone_state.json, cosi' questo file resta pulito in git. Prezzo energia usato nei conti: 0,28 EUR/kWh, indicativo settembre 2026. Per un post video aggiungere \"video\": \"<slug>\" (file in static/video/<slug>.mp4, pubblicato con FACEBOOK_CREATE_VIDEO_POST); senza quel campo esce come foto da \"immagine\". Campo facoltativo \"link_commento\": URL di un articolo del sito che lo script aggiunge come PRIMO COMMENTO sotto il post appena pubblicato (FACEBOOK_CREATE_COMMENT); i post senza articolo pertinente non ce l'hanno.",
+  "_nota": "Coda dei post Facebook standalone (senza link al sito). Consumata da scripts/fb_standalone_post.sh, due al giorno (13:30 e 19:30). Lo stato di pubblicazione NON sta qui ma in /home/salvatore/output/fb_standalone_state.json, cosi' questo file resta pulito in git. Prezzo energia usato nei conti: 0,28 EUR/kWh, indicativo settembre 2026. Per un post video aggiungere \"video\": \"<slug>\" (file in static/video/<slug>.mp4, pubblicato con FACEBOOK_CREATE_VIDEO_POST); senza quel campo esce come foto da \"immagine\". Campo facoltativo \"link_commento\": URL di un articolo del sito che lo script aggiunge come PRIMO COMMENTO sotto il post appena pubblicato (FACEBOOK_CREATE_COMMENT); i post senza articolo pertinente non ce l'hanno. STRATEGIA REEL (27/09/2026): lo slot delle 13:30 e' per video (reel 3D 'fuori dal post' con Veo ~2.424 crediti, oppure meme animati gratis con scripts/anima_meme_*.py); le 19:30 per i post tecnici a foto. Budget: al massimo 2 reel 3D a settimana per Guida Energia (+1 per Guida Pets), negli altri giorni meme animati gratis.",
   "posts": [
     {
       "id": 1,
@@ -88,12 +88,11 @@
       "link_commento": "https://guida-energia.com/smart-home/termostato-smart-2026/"
     },
     {
-      "id": 1005,
-      "tema": "arriva la bolletta, prima e dopo (meme)",
-      "immagine": "meme-arriva-la-bolletta",
-      "testo": "📬 C'è chi apre la bolletta seduto, per sicurezza. E c'è chi si accorge che è arrivata solo una settimana dopo.\n\nMa si può davvero passare da una bolletta da incubo a qualche decina di euro? Sì, con due avvertenze.\n\n☀️ I conti: una famiglia che consuma 3.500 kWh l'anno, con un impianto fotovoltaico da 4-5 kWp e una batteria da 10 kWh, può coprire con l'energia prodotta in casa il 70% circa dei propri consumi. Sono circa 2.450 kWh che non compri più: a 0,28 €/kWh, quasi 700 € l'anno.\n\n⚠️ Le avvertenze: la bolletta non si azzera mai, perché restano le quote fisse e l'energia prelevata la sera d'inverno, quando il sole non basta. E l'impianto va dimensionato sui tuoi consumi reali, non su quelli del vicino.\n\nTu come apri la bolletta: seduto o in piedi? 👇",
-      "video": "meme-arriva-la-bolletta",
-      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/"
+      "id": 1011,
+      "tema": "la capretta esce dal post, il tosaerba che non consuma corrente (reel 3D)",
+      "immagine": "reel-il-sabato-mattina",
+      "video": "reel-3d-capretta",
+      "testo": "🐐 Ferma lì: questa capretta è appena scappata dal post. E ha un messaggio per chi ha un giardino.\n\nLei non ha bisogno di benzina, di batterie o di una presa di corrente. Tiene l'erba bassa, si mangia rovi e sterpaglie, e quello che lascia per terra, dopo il compostaggio, diventa concime per l'orto. Il tetto coi pannelli solari fa il resto.\n\n♻️ È il bello dell'autosufficienza: ogni cosa in casa ha più di un lavoro. L'erba diventa latte, gli scarti diventano concime, il sole diventa corrente.\n\nSe potessi avere un solo animale nel tuo orto, quale sceglieresti? 👇"
     },
     {
       "id": 5,
@@ -158,6 +157,14 @@
       "tema": "induzione vs gas",
       "immagine": "fb-induzione-gas",
       "testo": "🍳 Domanda che sembra banale ma non lo è: costa di più cucinare a gas o a induzione?\n\nLa differenza sta in quanta energia finisce davvero nella pentola.\n\n🔥 Fornello a gas: 40-55%. Gran parte della fiamma scalda l'aria intorno alla pentola, non il fondo. Basta guardare le fiammelle che escono dai lati.\n⚡ Piano a induzione: 85-90%. Il campo magnetico scalda direttamente il fondo della pentola, non il piano.\n\nÈ per questo che un litro d'acqua bolle in 3-4 minuti sull'induzione e in 7-8 sul gas.\n\n💰 Sul costo finale i due si equivalgono più di quanto si pensi, perché il gas costa meno del kWh elettrico: dipende dalle tariffe del momento. Ma se hai il fotovoltaico l'induzione vince nettamente, perché cucini con energia che hai prodotto tu.\n\n🍲 Il trucco che vale su entrambi: il coperchio. Tenerlo sulla pentola taglia tempi e consumi di circa un terzo. È il gesto più sottovalutato che esista in cucina.\n\nTu cucini a gas o a induzione? 👇",
+      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/"
+    },
+    {
+      "id": 1005,
+      "tema": "arriva la bolletta, prima e dopo (meme)",
+      "immagine": "meme-arriva-la-bolletta",
+      "testo": "📬 C'è chi apre la bolletta seduto, per sicurezza. E c'è chi si accorge che è arrivata solo una settimana dopo.\n\nMa si può davvero passare da una bolletta da incubo a qualche decina di euro? Sì, con due avvertenze.\n\n☀️ I conti: una famiglia che consuma 3.500 kWh l'anno, con un impianto fotovoltaico da 4-5 kWp e una batteria da 10 kWh, può coprire con l'energia prodotta in casa il 70% circa dei propri consumi. Sono circa 2.450 kWh che non compri più: a 0,28 €/kWh, quasi 700 € l'anno.\n\n⚠️ Le avvertenze: la bolletta non si azzera mai, perché restano le quote fisse e l'energia prelevata la sera d'inverno, quando il sole non basta. E l'impianto va dimensionato sui tuoi consumi reali, non su quelli del vicino.\n\nTu come apri la bolletta: seduto o in piedi? 👇",
+      "video": "meme-arriva-la-bolletta",
       "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/"
     },
     {
