@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Ripubblica un video (reel/meme animato) come STORIA della pagina Facebook Guida Energia Italia.
+"""Ripubblica un video (reel/meme animato) come STORIA di una pagina Facebook.
 
-Uso: fb_storia.py URL_VIDEO_MP4 [--prova]
+Uso: fb_storia.py URL_VIDEO_MP4 [--pagina ID_PAGINA] [--prova]
+     (senza --pagina: Guida Energia Italia; Guida Pets e' 1059884407213114)
 
 Composio non ha un tool per le storie: si passa dal suo sandbox (COMPOSIO_REMOTE_WORKBENCH),
 dove si ricava il token della pagina e si chiamano direttamente le API /video_stories.
@@ -53,11 +54,17 @@ print("ESITO_STORIA " + json.dumps(esito))
 
 
 def main():
-    args = [a for a in sys.argv[1:] if a != "--prova"]
-    prova = "--prova" in sys.argv
-    if len(args) != 1:
-        sys.exit("uso: fb_storia.py URL_VIDEO_MP4 [--prova]")
-    codice = CODICE % {"page": PAGE_ID, "url": args[0], "prova": prova}
+    args = sys.argv[1:]
+    prova = "--prova" in args
+    args = [a for a in args if a != "--prova"]
+    page = PAGE_ID
+    if "--pagina" in args:
+        i = args.index("--pagina")
+        page = args[i + 1]
+        del args[i:i + 2]
+    if len(args) != 1 or not page.isdigit():
+        sys.exit("uso: fb_storia.py URL_VIDEO_MP4 [--pagina ID_PAGINA] [--prova]")
+    codice = CODICE % {"page": page, "url": args[0], "prova": prova}
     out = subprocess.run(["node", COMPOSIO, "call", "COMPOSIO_REMOTE_WORKBENCH",
                           json.dumps({"code_to_execute": codice, "thought": "storia facebook da video"})],
                          capture_output=True, text=True, timeout=420).stdout
