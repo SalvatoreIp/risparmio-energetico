@@ -151,9 +151,36 @@ log "NOTA: l'ID sopra e' quello dichiarato dall'agente; non e' verificabile via 
 # --- primo commento con il link all'articolo (solo se il post ne ha uno) ---
 # Il link sta nel commento e non nel post perche' Facebook fa girare meno i post con link.
 # Un errore qui non tocca il post, che e' gia' uscito.
+# Per i video FB_ID e' l'id del VIDEO, non del post: commentandolo col solo id numerico Composio usa
+# il token della prima pagina gestita (Guida Pets) e il commento esce firmato Guida Pets (27/09).
+# Serve l'id del post nel formato PAGEID_POSTID: lo si legge come ultimo post della pagina.
+COMMENTA="$FB_ID"
+if [ -n "$LINK_COMMENTO" ] && [ "$FB_ID" = "${FB_ID#*_}" ]; then
+  COMMENTA=""
+  for _ in 1 2 3 4 5 6; do
+    COMMENTA="$(node /home/salvatore/assistente-pagine/composio.mjs call COMPOSIO_MULTI_EXECUTE_TOOL \
+      "{\"tools\":[{\"tool_slug\":\"FACEBOOK_GET_PAGE_POSTS\",\"arguments\":{\"page_id\":\"$PAGE_ID\",\"fields\":\"id,created_time\",\"limit\":1}}]}" 2>/dev/null \
+      | python3 -c '
+import sys, json, datetime
+raw = sys.stdin.read()
+try:
+    p = json.loads(raw[raw.index("{"):])["data"]["results"][0]["response"]["data"]["data"][0]
+    t = datetime.datetime.strptime(p["created_time"], "%Y-%m-%dT%H:%M:%S%z")
+    fresco = (datetime.datetime.now(datetime.timezone.utc) - t).total_seconds() < 900
+    print(p["id"] if fresco else "")
+except Exception:
+    print("")')"
+    [ -n "$COMMENTA" ] && break
+    sleep 20
+  done
+  if [ -z "$COMMENTA" ]; then
+    log "ATTENZIONE: id del post video non trovato, primo commento saltato per non firmarlo con un'altra pagina"
+    LINK_COMMENTO=""
+  fi
+fi
 if [ -n "$LINK_COMMENTO" ]; then
   if [ "$(curl -s -o /dev/null -w '%{http_code}' -m 20 "$LINK_COMMENTO")" = "200" ]; then
-    COUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "Esegui UNA sola volta il tool FACEBOOK_CREATE_COMMENT con object_id \"$FB_ID\" e message esattamente questo testo, a capo compreso:
+    COUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "Esegui UNA sola volta il tool FACEBOOK_CREATE_COMMENT con object_id \"$COMMENTA\" e message esattamente questo testo, a capo compreso:
 📖 Se vuoi approfondire, qui trovi la guida completa con tutti i conti:
 $LINK_COMMENTO
 Non usare altri tool e non riprovare se fallisce. Rispondi con l'id del commento restituito dal tool oppure con l'errore esatto." 2>&1)"
