@@ -2,9 +2,7 @@
 
 Uso interno per la routine di pubblicazione giornaliera (non è un articolo, non va pubblicato come pagina). Ogni riga è un gap di keyword verificato con dati reali (volume di ricerca mensile Italia, difficoltà SEO) tramite DataForSEO/OpenSEO il 2026-09-15. Quando un argomento viene pubblicato, la routine deve rimuoverlo da questa lista e committarla insieme all'articolo.
 
-**IMPORTANTE — rete nell'ambiente cloud:** l'agente cloud che esegue questa routine NON può raggiungere Cloudflare, Pixabay, Unsplash, Wikimedia o quasi nessun host esterno (policy di rete dell'ambiente, verificato il 2026-09-15) — solo api.anthropic.com, i registri npm/pypi/jsr, e i domini github.com/githubusercontent.com sono raggiungibili. Per questo:
-- **Immagini**: ogni riga sotto indica il file già pre-scaricato in `static/immagini/<slug>.jpg` (fatto in sessione locale). NON provare a lanciare `scripts/get_image.sh` o a scaricare immagini da internet: userà semplicemente il file già presente. Se un giorno la coda contiene un argomento senza immagine pre-scaricata, riusa il file immagine di un articolo esistente affine invece di provare a scaricarne uno nuovo (fallirebbe comunque per la policy di rete).
-- **Deploy**: NON lanciare `npx wrangler pages deploy` (fallirebbe: Cloudflare non è raggiungibile da questo ambiente). Limitati a `hugo --minify` per validare la build, poi `git add . && git commit && git push`. Il deploy su Cloudflare Pages avviene automaticamente lato Cloudflare tramite il collegamento a GitHub, non serve fare nulla lato routine.
+**Ambiente (aggiornato 2026-09-27):** la routine gira via cron sulla VPS (`scripts/daily_publish_vps.sh`, 09:05), non più nell'ambiente cloud. Quindi deploy con `npx wrangler pages deploy` e copertine generate con ElevenLabs funzionano normalmente (procedura in `scripts/daily_publish_prompt.txt`). Le vecchie note su "rete bloccata" e "immagini pre-scaricate" non valgono più.
 
 Formato: `- [ ] Titolo proposto | sezione | slug | immagine pre-scaricata | keyword target (volume/mese, difficoltà) | note`
 
@@ -25,10 +23,10 @@ Formato: `- [ ] Titolo proposto | sezione | slug | immagine pre-scaricata | keyw
 
 ## Quando la coda è vuota
 
-Non c'è accesso a OpenSEO/DataForSEO dall'agente cloud (nessun connettore MCP disponibile in quell'ambiente), quindi non è possibile rifare una ricerca keyword con dati di volume reali in automatico. Quando questa lista è vuota:
+OpenSEO/DataForSEO al momento ha 0 crediti (verificato il 2026-09-27), quindi in automatico non è possibile avere dati di volume reali. Quando questa lista è vuota:
 
 1. Leggi `hugo.toml` (`[params].mainSections`) e i titoli in `content/*/` per capire quali sezioni sono più scarne o quali argomenti mancano.
 2. Usa WebSearch per validare 2-3 idee plausibili (query tipo "domande frequenti [argomento] risparmio energetico 2026", "cosa cercano gli italiani su [argomento]") — non avrai dati di volume/difficoltà precisi, quindi preferisci argomenti con intento commerciale chiaro (prezzo, incentivi, confronto modelli) rispetto a quelli puramente informativi.
-3. Per l'immagine di copertina, riusa il file di un articolo esistente affine per argomento (non puoi scaricarne una nuova, vedi nota sulla rete in cima al file).
-4. Scegli l'argomento più solido, scrivilo, e NON aggiungerlo a questa coda (pubblica direttamente).
-5. Segnala nel messaggio di commit che la coda era vuota e la scelta è stata fatta senza dati di volume verificati, cosicché in una prossima sessione locale (con accesso OpenSEO) si possa rifare il rifornimento della coda con dati reali e pre-scaricare nuove immagini.
+3. Per la copertina segui la procedura ElevenLabs di `scripts/daily_publish_prompt.txt` (Pixabay solo come ripiego).
+4. Scegli l'argomento più solido, scrivilo, e segnalo in questa lista come `- [x]` con le note (argomento scelto senza dati di volume).
+5. Segnala nel messaggio di commit che la coda era vuota e la scelta è stata fatta senza dati di volume verificati, cosicché quando OpenSEO avrà di nuovo crediti si possa rifornire la coda con dati reali.

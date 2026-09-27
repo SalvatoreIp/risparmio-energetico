@@ -72,17 +72,16 @@ L'Ecobonus è una **detrazione fiscale IRPEF** sulle spese sostenute per la sost
 
 ### **Requisiti tecnici**
 
-- **Classe energetica:** Pompa di calore di classe A3+ o superiore
-- **Coefficiente di prestazione (COP):** Minimo 3,0 (inverno), 3,5 (estate)
+- **Prestazioni minime:** la pompa di calore deve rispettare i valori minimi di COP/GUE fissati dal DM 6 agosto 2020, che cambiano in base al tipo (aria-acqua, aria-aria, geotermica): vanno controllati nella scheda tecnica
 - **Certificazione:** Certificato di installazione e collaudo firmati da tecnico abilitato
-- **Comunicazione GSE:** Obbligatoria entro 90 giorni dalla fine lavori
+- **Comunicazione ENEA:** Obbligatoria entro 90 giorni dalla fine lavori
 
 ### **Come fare domanda**
 
 1. **Acquisto:** Acquista pompa di calore da fornitore autorizzato
 2. **Installazione:** Fai installare da tecnico abilitato (termoidraulico o ingegnere)
 3. **Documentazione:** Conserva fattura, ricevuta di pagamento bonifico parlante
-4. **Comunicazione GSE:** Entro 90 giorni, invia comunicazione all'ente
+4. **Comunicazione ENEA:** Entro 90 giorni dalla fine lavori, invia la comunicazione sul portale ENEA (bonusfiscali.enea.it)
 5. **Detrazione:** Inserisci nella dichiarazione dei redditi (730 o Modello Redditi)
 6. **Bonifico parlante:** Usa bonifico specificando "Bonifico per detrazione fiscale spese di riqualificazione energetica"
 
@@ -91,7 +90,7 @@ L'Ecobonus è una **detrazione fiscale IRPEF** sulle spese sostenute per la sost
 ❌ **Pagamento in contanti** (oltre 500 euro non è detraibile)  
 ❌ **Mancanza di bonifico parlante** (deve citare la destinazione)  
 ❌ **Installatore non abilitato** (la detrazione è nulla)  
-❌ **Comunicazione tardiva al GSE** (entro 90 giorni dalla fine lavori)  
+❌ **Comunicazione tardiva all'ENEA** (entro 90 giorni dalla fine lavori)  
 ❌ **Sconoscenza requisiti tecnici** (COP minimo non rispettato)
 
 ---
@@ -109,7 +108,7 @@ Il GSE (Gestore dei Servizi Energetici) eroga un incentivo economico **direttame
 ### **Percentuali e durata**
 
 - **Incentivo:** Fino al 65% della spesa
-- **Durata:** Pagamento in 2-3 anni (dipende dal tipo di intervento)
+- **Erogazione:** in un'unica rata se l'incentivo non supera 15.000 euro (il caso tipico di una casa), altrimenti in rate annuali
 - **Massimali:** Differenziati in base alla potenza installata
 
 ### **Importo massimo dell'incentivo**
@@ -143,19 +142,18 @@ Per potenze fino a 35 kW, la spesa massima riconosciuta ai fini del calcolo è d
 
 ### **Vantaggi rispetto all'Ecobonus**
 
-✅ **Rimborso immediato:** Entro 3-6 mesi dalla richiesta  
+✅ **Rimborso rapido:** In genere entro pochi mesi dall'accettazione della domanda  
 ✅ **Nessun impatto fiscale:** Non riduce la detrazione IRPEF  
 ✅ **Processo semplificato:** Tutto online sul sito GSE  
-✅ **Pre-notazione:** Puoi prenotare l'incentivo prima di iniziare  
+✅ **Niente capienza fiscale richiesta:** Il contributo arriva anche a chi paga poca IRPEF  
 
 ### **Come fare domanda**
 
-1. **Registrati sul sito GSE:** Crea l'account personale
-2. **Verifica i requisiti:** Potenza, tipologia, luogo
-3. **Presenta domanda:** Online, con tutti i documenti richiesti
-4. **In attesa:** Tempi medi di risposta 30-60 giorni
-5. **Prima erogazione:** Entro 90 giorni dalla domanda approvata
-6. **Saldo:** Entro 30 giorni dal secondo anno
+1. **Verifica i requisiti prima dei lavori:** Potenza, tipologia, prestazioni minime della pompa di calore
+2. **Fai installare l'impianto e paga con bonifico:** Conserva fatture e ricevute
+3. **Registrati sul Portaltermico del GSE:** Crea l'account personale
+4. **Presenta la domanda entro 90 giorni dalla fine lavori:** Online, con tutti i documenti richiesti
+5. **Erogazione:** Dopo l'accettazione, in un'unica rata fino a 15.000 euro di incentivo
 
 ### **Documenti necessari**
 
@@ -168,11 +166,11 @@ Per potenze fino a 35 kW, la spesa massima riconosciuta ai fini del calcolo è d
 
 ### **Errori da evitare**
 
-❌ **Presentare domanda troppo tardi** (entro 30 giorni dall'inizio lavori)  
+❌ **Presentare domanda troppo tardi** (per i privati il limite è 90 giorni dalla fine lavori)  
 ❌ **Mancanza di documentazione tecnica** (certificati obbligatori)  
 ❌ **Impianto non conforme** (normative VDE, UNI)  
 ❌ **Doppia domanda** (Ecobonus + Conto Termico per stesso intervento)  
-❌ **Dimenticanza della prima pratica** (la pre-notazione va fatta prima dell'inizio lavori)
+❌ **Conservare male i documenti** (fatture, bonifici e schede tecniche servono tutti per la domanda)
 
 ---
 
@@ -180,7 +178,7 @@ Per potenze fino a 35 kW, la spesa massima riconosciuta ai fini del calcolo è d
 
 ### **Quando conviene**
 
-Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci la vecchia caldaia con una pompa di calore** in contesto di ristrutturazione edilizia completa.
+Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci la vecchia caldaia con una pompa di calore**, sia come intervento a sé (rientra tra le opere di risparmio energetico ammesse) sia all'interno di una ristrutturazione più ampia. Conviene soprattutto in questo secondo caso, perché raccoglie tutti i lavori in un'unica pratica.
 
 ### **Percentuale**
 
@@ -201,8 +199,19 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 ### **Limitazioni**
 
 - **Stessa aliquota dell'Ecobonus** (50%/36%) per la sola pompa di calore, quindi conviene solo se hai già altri lavori di ristrutturazione da inquadrare nella stessa pratica
-- **Solo se ristrutturazione completa:** Non per semplice sostituzione caldaia
+- **Comunicazione ENEA:** Anche qui, per la pompa di calore va inviata entro 90 giorni dalla fine lavori
 - **Cumulo limitato:** Non puoi detrarre due volte la stessa spesa
+
+---
+
+## Attenzione: stufe e caldaie a pellet dal 3 agosto 2026
+
+Chi valuta un'alternativa alla pompa di calore deve sapere che dal **3 agosto 2026** (recepimento della direttiva europea RED III) le regole per le biomasse sono cambiate:
+
+- **Sostituire una caldaia a gas con una stufa o caldaia a pellet non dà più diritto a nessun incentivo:** niente Ecobonus, niente Bonus Ristrutturazioni, niente Conto Termico.
+- **Restano incentivati** solo il passaggio da un vecchio apparecchio a legna o pellet a uno nuovo più efficiente, oppure l'eliminazione di un impianto a carbone o gasolio, sempre con apparecchi certificati a 5 stelle.
+
+In pratica, per chi oggi scalda casa col metano, la pompa di calore resta l'unica strada per sostituire la caldaia **con un incentivo**. Costi e confronto completo nella nostra guida [stufa a pellet 2026: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/).
 
 ---
 
@@ -296,7 +305,7 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 
 - **Installatore qualificato:** Evita errori
 - **Progettista energetico:** Ottimizza il sistema
-- **Tecnico certificatore:** Gestione pratica GSE
+- **Tecnico certificatore:** Gestione pratiche ENEA e GSE
 
 ---
 
@@ -305,7 +314,7 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 ### **❌ NON valutare le opzioni**
 
 - **Ecobonus vs Conto Termico:** Confronta sempre
-- **Tempistiche:** Detrazione in 10 anni vs rimborso in 2-3 anni
+- **Tempistiche:** Detrazione in 10 anni vs rimborso in un'unica rata (fino a 15.000 euro)
 - **Capienza fiscale:** Hai abbastanza IRPEF per la detrazione?
 
 ### **❌ NON scegliere l'installatore sbagliato**
@@ -328,8 +337,8 @@ Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci
 
 ### **❌ NON dimenticare i tempi**
 
-- **Comunicazione GSE:** Entro 90 giorni
-- **Richiesta Conto Termico:** Entro 30 giorni lavori
+- **Comunicazione ENEA (Ecobonus/Bonus Ristrutturazioni):** Entro 90 giorni dalla fine lavori
+- **Richiesta Conto Termico:** Entro 90 giorni dalla fine lavori
 - **Dichiarazione dei redditi:** Entro termini fiscali
 
 ---
@@ -457,7 +466,7 @@ Gli incentivi per le pompe di calore nel 2026 restano vantaggiosi, ma vanno scel
 - **Confronta le opzioni:** Ecobonus vs Conto Termico
 - **Valuta la tua situazione:** Capienza fiscale, necessità liquidità
 - **Scegli professionisti qualificati:** Installatore certificato, progettista esperto
-- **Segui le scadenze:** Documentazione tempestiva al GSE
+- **Segui le scadenze:** 90 giorni dalla fine lavori sia per l'ENEA sia per il Conto Termico
 - **Monitora i risultati:** App e statistiche per verificare risparmi
 
 **Perché è importante:** Una pompa di calore non è solo un investimento energetico: è un **investimento economico** che si ripaga in 2-5 anni, dopo di che generi risparmio per 15-20 anni.
@@ -468,4 +477,4 @@ Gli incentivi per le pompe di calore nel 2026 restano vantaggiosi, ma vanno scel
 
 ---
 
-*Fonti: [GSE - Gestore Servizi Energetici, Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it)*
+*Fonti: [GSE - Gestore Servizi Energetici, Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it), [Ediltecnico - Bonus stufe e caldaie a biomassa dal 3 agosto](https://ediltecnico.it/bonus-stufe-cosa-cambia/), [Altroconsumo - Conto Termico 3.0](https://www.altroconsumo.it/casa-energia/elettricita-e-gas/news/conto-termico-30)*

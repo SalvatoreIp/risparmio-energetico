@@ -25,12 +25,13 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
 ## Content architecture
 
 - **Articles live in `content/<section>/`**, one Markdown file per article, named `YYYY-MM-DD-slug.md` (or `YYYY-MM-DD-HH-slug.md`). Each section has an `_index.md` for its listing page.
-- **URLs strip the date.** Permalinks (`hugo.toml` `[permalinks]`) are `/<section>/:slug/` — the leading `YYYY-MM-DD(-HH)-` in the filename is NOT part of the URL. E.g. `content/smart-home/2026-04-24-10-pompe-di-calore.md` → `https://guida-energia.com/smart-home/pompe-di-calore/`.
+- **URLs come from `slug:`.** Permalinks (`hugo.toml` `[permalinks]`) are `/<section>/:slug/` — the filename (with its `YYYY-MM-DD(-HH)-` prefix) is NOT used for the URL. With `slug: "pompe-di-calore"` the page is `https://guida-energia.com/smart-home/pompe-di-calore/`; without `slug:` Hugo falls back to the title (see below).
 - **Sections must be registered in three places** to fully work (nav menu, listing behavior, URL structure) — `hugo.toml`'s `[params].mainSections`, `[[menu.main]]` entries, and `[permalinks]`. `content/terrazzi/` currently exists on disk but is not registered in any of these — treat unregistered content directories as broken/orphaned until wired up.
 - Required frontmatter per article:
   ```yaml
   ---
   title: "..."
+  slug: "slug-dal-nome-file"
   date: YYYY-MM-DDTHH:MM:SSZ
   draft: false
   description: "..."
@@ -41,6 +42,8 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
     alt: "..."
   ---
   ```
+- **`slug:` is mandatory.** Without it Hugo builds the URL from the title (e.g. `/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/`), not from the filename. Older articles without `slug:` already live at those title-based URLs: don't add a slug to them (it would change an indexed URL), link to their real URL instead.
+- **Internal links must point to pages that exist.** Before committing, check every `](/sezione/pagina/)` link against `public/<sezione>/<pagina>/index.html` (on 2026-09-27 six articles had links to non-existent URLs because the target's slug had been guessed from its filename).
 - Cover/content images go in `static/immagini/`, referenced as `/immagini/<slug>.jpg`.
 - `hugo.toml` is the live config; `hugo.toml.bak*` are untracked-by-purpose scratch backups from past edits — don't treat them as alternate configs to merge from unless explicitly asked.
 - `layouts/partials/extend_head.html` / `extend_footer.html` override the PaperMod theme to inject Google Analytics (GA4) and a custom cookie-consent banner (sets `cookie_consent`/`cookie_analytics`/`cookie_marketing` cookies). This is the only custom layout code in the repo — everything else is the unmodified PaperMod submodule (`themes/PaperMod`).

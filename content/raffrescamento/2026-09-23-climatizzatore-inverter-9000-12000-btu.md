@@ -45,7 +45,7 @@ Facciamo un confronto reale su un 12000 BTU usato per **6 ore al giorno, per 90 
 - **On/off classe A datato (cicli continui a piena potenza)**: circa 1,4 kW → 6h × 1,4 kW = 8,4 kWh/giorno × 90 giorni = **756 kWh** → a €0,28/kWh = **€211,68/stagione**
 - **Risparmio stagionale**: circa **€60/anno** solo di energia, che nel giro di 5-6 stagioni ripaga da solo la differenza di prezzo tra i due modelli
 
-Il conto migliora ulteriormente se il climatizzatore vecchio viene usato anche in inverno come pompa di calore accessoria: un inverter reversibile A+++ moderno consuma sensibilmente meno di un impianto datato anche fuori stagione estiva. Per un confronto sui consumi di riscaldamento con pompa di calore vera e propria, vedi la guida a [pompa di calore prezzi 2026](/riscaldamento/pompa-di-calore-prezzi/).
+Il conto migliora ulteriormente se il climatizzatore vecchio viene usato anche in inverno come pompa di calore accessoria: un inverter reversibile A+++ moderno consuma sensibilmente meno di un impianto datato anche fuori stagione estiva. Per un confronto sui consumi di riscaldamento con pompa di calore vera e propria, vedi la guida a [pompa di calore prezzi 2026](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
 
 ### Incentivi disponibili 2026
 

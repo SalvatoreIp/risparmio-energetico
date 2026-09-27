@@ -37,7 +37,7 @@ Prezzi indicativi chiavi in mano, IVA agevolata al 10% inclusa per la prima casa
 | Standard | 6 kW + 10 kWh | €11.000-15.000 | 75-90% di un consumo di 4.000-5.000 kWh/anno | Famiglie di 4 persone, casa 100-150 mq, anche con pompa di calore | [Costi impianto 6 kW](https://innovasol.it/costi-impianto-fotovoltaico-6-kw/) |
 | Alto consumo | 10 kW + 10-15 kWh | €18.000-22.000 | 70-85% di un consumo di 6.000-8.000 kWh/anno | Case grandi, pompa di calore + auto elettrica, uffici in abitazione | [Costi impianto 10 kW](https://www.aforenergy.com/it/costo-impianto-fotovoltaico-10-kw-guida-completa-e-aggiornata/) |
 
-*Prezzi indicativi settembre 2026. Per il confronto dei singoli moduli batteria (Pylontech, Huawei, Tesla) vedi la [guida alle batterie di accumulo](/fotovoltaico/batteria-accumulo-fotovoltaico/); per il solo fotovoltaico senza batteria vedi la [guida ai prezzi del fotovoltaico da tetto](/fotovoltaico/fotovoltaico-tetto-prezzi-installazione/).*
+*Prezzi indicativi settembre 2026. Per il confronto dei singoli moduli batteria (Pylontech, Huawei, Tesla) vedi la [guida alle batterie di accumulo](/fotovoltaico/batteria-accumulo-fotovoltaico/); per il solo fotovoltaico senza batteria vedi la [guida ai prezzi del fotovoltaico da tetto](/fotovoltaico/fotovoltaico-da-tetto-prezzi-2026-guida-completa-a-costi-e-installazione/).*
 
 ### Quanto si risparmia davvero
 

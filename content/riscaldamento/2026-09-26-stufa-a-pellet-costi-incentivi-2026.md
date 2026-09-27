@@ -33,14 +33,14 @@ Il pellet certificato ENplus A1 ha un potere calorifico di circa 4,7 kWh al chil
 
 ### I migliori modelli del 2026
 
-Prezzi di mercato indicativi settembre 2026: una stufa ad aria parte da circa 800-1.500 euro, una canalizzata da 1.200 a 5.000, una idro da 1.500 a 4.000. L'installazione costa in genere 300-1.000 euro tra manodopera e canna fumaria. Su Amazon ho trovato questi prodotti reali; i prezzi cambiano spesso, quindi vanno controllati sulla scheda.
+Prezzi di mercato indicativi settembre 2026: una stufa ad aria parte da circa 800-1.500 euro, una canalizzata da 1.200 a 5.000, una idro da 1.500 a 4.000. L'installazione costa in genere 300-1.000 euro tra manodopera e canna fumaria. Su Amazon ho trovato questi prodotti reali; i prezzi in tabella sono indicativi (settembre 2026) e cambiano spesso, quindi vanno controllati sulla scheda.
 
 | Modello | Tipo e potenza | Prezzo indicativo | Pro | Contro | Link |
 |---|---|---|---|---|---|
-| Ravelli R70 | Ad aria, 7 kW | Verificare su Amazon | Marchio storico italiano, adatta a locali medio-piccoli | Riscalda solo la stanza in cui è installata | [Amazon](https://www.amazon.it/Stufa-pellet-ventilata-Ravelli-7-0/dp/B01C2TZ9PM?tag=audiobookit-21) |
-| San Marco Courmayeur | Canalizzata, 8,74 kW | Verificare su Amazon | Porta il calore in una seconda stanza, rendimento dichiarato 91% | La versione WiFi è indicata a 4 stelle: non dà accesso al Conto Termico | [Amazon](https://www.amazon.it/Stufa-pellet-Courmayeur-74-canalizzata/dp/B07WW7ZK2W?tag=audiobookit-21) |
-| Stufe a Pellet Italia Niagara | Ad aria, 9 kW | Verificare su Amazon | Rendimento dichiarato 91%, scalda fino a circa 80 m², autonomia 21 ore | Per gli incentivi va controllata la certificazione ambientale | [Amazon](https://www.amazon.it/STUFE-PELLET-ITALIA-Niagara-Programmabile/dp/B0BFG2B7KG?tag=audiobookit-21) |
-| Pellet ENplus A1, bancale da 70 sacchi da 15 kg | Combustibile | Verificare su Amazon | Comprare a fine primavera costa meno | Serve spazio asciutto per lo stoccaggio | [Amazon](https://www.amazon.it/Offerta-Bancale-Pellet-Sacchi-Certificazione/dp/B09DPQB7RT?tag=audiobookit-21) |
+| Ravelli R70 | Ad aria, 7 kW | circa 1.900-2.600 € (settembre 2026, varia molto tra rivenditori) | Marchio storico italiano, adatta a locali medio-piccoli | Riscalda solo la stanza in cui è installata | [Amazon](https://www.amazon.it/Stufa-pellet-ventilata-Ravelli-7-0/dp/B01C2TZ9PM?tag=audiobookit-21) |
+| San Marco Courmayeur | Canalizzata, 8,74 kW | circa 930 € (settembre 2026) | Porta il calore in una seconda stanza, rendimento dichiarato 91% | La versione WiFi è indicata a 4 stelle: non dà accesso al Conto Termico | [Amazon](https://www.amazon.it/Stufa-pellet-Courmayeur-74-canalizzata/dp/B07WW7ZK2W?tag=audiobookit-21) |
+| Stufe a Pellet Italia Niagara | Ad aria, 9 kW | circa 820-930 € (settembre 2026) | Rendimento dichiarato 91%, scalda fino a circa 80 m², autonomia 21 ore | Per gli incentivi va controllata la certificazione ambientale | [Amazon](https://www.amazon.it/STUFE-PELLET-ITALIA-Niagara-Programmabile/dp/B0BFG2B7KG?tag=audiobookit-21) |
+| Pellet ENplus A1, bancale da 70 sacchi da 15 kg | Combustibile | circa 300-500 € (settembre 2026, le offerte online partono da meno di 300 €, la media di mercato è intorno a 500 €) | Comprare a fine primavera costa meno | Serve spazio asciutto per lo stoccaggio | [Amazon](https://www.amazon.it/Offerta-Bancale-Pellet-Sacchi-Certificazione/dp/B09DPQB7RT?tag=audiobookit-21) |
 
 Prima di comprare, controlla sempre la certificazione ambientale nella scheda tecnica: senza le 5 stelle non si accede al Conto Termico.
 
@@ -64,7 +64,7 @@ Dal 3 agosto 2026, con l'entrata in vigore della direttiva europea RED III, le r
 
 Per chi rientra nelle condizioni, il **Conto Termico 3.0** può arrivare fino al 65% della spesa ammissibile: si tratta di un contributo in denaro dal GSE, calcolato con una formula che dipende da potenza, zona climatica e classe di emissioni, quindi non è una percentuale fissa. In alternativa c'è la detrazione fiscale del **50% per la prima casa e del 36% per le altre abitazioni** (Bonus Ristrutturazioni), recuperata in 10 anni, ma non si cumula con il Conto Termico sulla stessa spesa. Chiedi sempre all'installatore una verifica della tua situazione prima di firmare.
 
-Se stai valutando di abbandonare il gas, guarda i costi nella [guida ai prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi/), scopri se funziona con i tuoi caloriferi nella guida alla [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) e confronta gli aiuti nella pagina sugli [incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
+Se stai valutando di abbandonare il gas, guarda i costi nella [guida ai prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/), scopri se funziona con i tuoi caloriferi nella guida alla [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) e confronta gli aiuti nella pagina sugli [incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
 
 ### Conclusione
 
