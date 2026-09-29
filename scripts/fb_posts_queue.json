@@ -114,7 +114,29 @@
       "tema": "caldaia condensazione mandata",
       "immagine": "fb-caldaia-condensazione",
       "testo": "🌡️ Hai una caldaia a condensazione? Allora c'è un numero, nascosto nel menu, che decide quanto spendi: la temperatura di mandata.\n\nÈ la temperatura dell'acqua che la caldaia manda ai termosifoni. Di fabbrica spesso è impostata a 70-75°C. E lì sta il problema.\n\nUna caldaia a condensazione recupera calore dai fumi condensando il vapore acqueo. Ma quel fenomeno avviene solo se l'acqua di ritorno è abbastanza fredda — indicativamente sotto i 55°C. Se la mandata è a 75°C, la condensazione non parte mai e la caldaia lavora come una normale caldaia di vent'anni fa.\n\n✅ Provare a scendere a 55-60°C è gratis. I termosifoni scalderanno un po' più lentamente ma più a lungo, e il recupero vale un 10-15% di gas in meno.\n\n⚠️ Se l'impianto ha radiatori piccoli potrebbe non bastare: si prova, si vive una settimana, si decide.\n\nSai a che temperatura è impostata la tua? 👇",
-      "link_commento": "https://guida-energia.com/riscaldamento/pompa-di-calore-per-termosifoni/"
+      "link_commento": "https://guida-energia.com/riscaldamento/pompa-di-calore-per-termosifoni/",
+      "video_testi": {
+        "titolo": "Caldaia a condensazione? Controlla questo numero",
+        "schede": [
+          [
+            "Di fabbrica la mandata è spesso a 70-75°C",
+            "bianco"
+          ],
+          [
+            "Ma condensa solo se l'acqua torna sotto i 55°C",
+            "bianco"
+          ],
+          [
+            "Prova a scendere a 55-60°C: è gratis",
+            "verde"
+          ],
+          [
+            "10-15% di gas in meno",
+            "verde"
+          ]
+        ]
+      },
+      "video": "consiglio-fb-caldaia-condensazione"
     },
     {
       "id": 1007,
