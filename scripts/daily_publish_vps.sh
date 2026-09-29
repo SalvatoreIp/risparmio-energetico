@@ -35,4 +35,6 @@ if [ "$BEFORE" != "$AFTER" ]; then
       --message "Pubblica ORA sulla Pagina Facebook Guida Energia Italia (page_id 101206045148755) usando FACEBOOK_CREATE_POST un post in italiano, breve e accattivante, basato su questo articolo. Titolo: $TITLE. Descrizione: $DESC. Includi il link $URL come parametro link. Non chiedere conferma: pubblica direttamente e rispondi con l'ID del post." \
       | grep -o '"text": *"[^"]\{0,300\}' | tail -3
   fi
+  # Avvisa Bing & co. delle pagine nuove/cambiate (legge public/sitemap.xml appena deployata)
+  python3 scripts/indexnow.py
 fi
