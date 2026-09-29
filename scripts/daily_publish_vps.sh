@@ -32,7 +32,7 @@ if [ "$BEFORE" != "$AFTER" ]; then
     URL="https://guida-energia.com/$SECTION/$SLUG/"
     echo "Post Facebook per: $TITLE ($URL)"
     /home/salvatore/.npm-global/bin/openclaw agent --agent main --json --timeout 240 \
-      --message "Pubblica ORA sulla Pagina Facebook Guida Energia Italia (page_id 101206045148755) usando FACEBOOK_CREATE_POST un post in italiano, breve e accattivante, basato su questo articolo. Titolo: $TITLE. Descrizione: $DESC. Includi il link $URL come parametro link. Non chiedere conferma: pubblica direttamente e rispondi con l'ID del post." \
+      --message "Pubblica ORA sulla Pagina Facebook Guida Energia Italia (page_id 101206045148755) usando FACEBOOK_CREATE_POST un post in italiano basato su questo articolo: tono concreto e credibile, apri con il numero o il fatto principale (es. costo, risparmio in euro), 2-3 frasi, al massimo 1 emoji, niente punti esclamativi, niente frasi a effetto o linguaggio sognante. Titolo: $TITLE. Descrizione: $DESC. Includi il link $URL come parametro link. Non chiedere conferma: pubblica direttamente e rispondi con l'ID del post." \
       | grep -o '"text": *"[^"]\{0,300\}' | tail -3
   fi
   # Avvisa Bing & co. delle pagine nuove/cambiate (legge public/sitemap.xml appena deployata)

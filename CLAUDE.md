@@ -54,6 +54,7 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
 These are the standing content rules this site has been built under (see `OPENCLAW.ISTRUZIONIENERGIA.md` for the exhaustive version, including the current keyword backlog per section):
 
 - Italian, 800–1200 words, original text only (never copy from sources).
+- Tone: concrete and credible (Salvatore, 2026-09-29). Lead with the fact or the number, then what to do. No romantic/dreamy language ("sogno", "magia", "rivoluzione", "libertà", "incredibile"), no exclamation-driven hype. Also applies to Facebook texts.
 - Mandatory structure: Introduzione → Cos'è e come funziona → I migliori modelli (Markdown product table) → Quanto si risparmia davvero → Incentivi disponibili → Conclusione → `*Fonti: ...*`.
 - Every article needs at least one concrete savings calculation in euros.
 - Immediately after the Introduzione (before "Cos'è e come funziona"), every article must have the orange CTA button block, linking to an Amazon.it search for the article's product category (or the official product page for big-ticket items), with the affiliate tag used elsewhere on the site:
