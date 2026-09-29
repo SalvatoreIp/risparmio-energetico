@@ -85,6 +85,8 @@ I due incentivi non si possono sommare sulla stessa spesa. Confronto dettagliato
 
 ## Conclusione
 
+Per confrontarla con metano, pellet, gasolio e climatizzatore sulla stessa casa, vedi [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/).
+
 Con i termosifoni esistenti una pompa di calore ad alta temperatura funziona ed evita cantieri invasivi, ma non fa miracoli sul rendimento. Chi oggi scalda a gasolio rientra della spesa in 4-5 anni. Chi usa il metano risparmia circa 550 € l'anno e, prima di decidere, dovrebbe chiedere due preventivi, uno per un sistema ibrido e uno con la sostituzione dei radiatori più piccoli, confrontandoli sulla spesa annua e non sul prezzo. Per spendere meno con qualsiasi impianto aiutano anche le [valvole termostatiche](/smart-home/valvole-termostatiche-smart-2026/) sui radiatori e un [termostato programmabile](/smart-home/termostato-smart-2026/).
 
 *Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp)*

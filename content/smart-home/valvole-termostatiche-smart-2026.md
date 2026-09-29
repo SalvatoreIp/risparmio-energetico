@@ -349,6 +349,6 @@ Le valvole termostatiche smart sono **l'investimento più economico ed efficace*
 
 ---
 
-**Guide collegate:** [termostato smart](/smart-home/termostato-smart-2026/) · [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
+**Guide collegate:** [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/) · [termostato smart](/smart-home/termostato-smart-2026/) · [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
 
 *Fonti: Guide tecniche 2026, Aranzulla, SmartHomeGuida, Caleffi, IRSAP*

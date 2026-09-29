@@ -126,7 +126,7 @@ Una pompa di calore consuma meno se lavora a lungo a bassa potenza, senza contin
 
 Nel 2026 l'Ecobonus al 50% è l'incentivo che recupera di più per chi ha IRPEF sufficiente. Il Conto Termico 3.0 recupera un po' meno ma paga subito e anche a chi paga poche tasse. Dal 2027 l'Ecobonus sulla prima casa scende al 36%: chi deve cambiare l'impianto e ha già deciso ha un motivo concreto per non rimandare. I conti vanno fatti sul proprio caso: consumo di gas, stato della caldaia, tipo di radiatori e simulazione del GSE.
 
-Guide collegate: [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) · [pompa di calore con i termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) · [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/) · [stufa a pellet: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
+Guide collegate: [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/) · [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) · [pompa di calore con i termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) · [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/) · [stufa a pellet: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
 
 ---
 

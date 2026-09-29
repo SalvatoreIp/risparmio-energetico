@@ -344,6 +344,6 @@ Un termostato smart è uno degli investimenti domestici che dà il **ritorno pi�
 
 ---
 
-**Guide collegate:** [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/) · [incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
+**Guide collegate:** [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/) · [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/) · [incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
 
 *Fonti: Guide tecniche 2026, Tom's Hardware, Aranzulla, SmartHomeGuida*
