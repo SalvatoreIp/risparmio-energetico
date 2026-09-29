@@ -19,7 +19,7 @@ cover:
 <ul>
 <li><strong>Ecobonus:</strong> 50% sulla prima casa, 36% sulle altre, in 10 rate annuali. Detrazione massima 30.000 €. Dal 2027 scende al 36% e al 30%.</li>
 <li><strong>Conto Termico 3.0:</strong> contributo del GSE sul conto corrente, calcolato su potenza, efficienza e zona climatica. Per un impianto domestico da 10-12 kW di solito si ottengono tra 3.000 e 6.500 €.</li>
-<li><strong>Rientro della spesa:</strong> circa 9-11 anni se la caldaia funziona ancora, circa 4-5 anni se andava comunque cambiata.</li>
+<li><strong>Rientro della spesa:</strong> circa 9-11 anni se la caldaia a metano funziona ancora, circa 4-5 anni se andava comunque cambiata o se oggi usi il gasolio.</li>
 <li><strong>Da sapere:</strong> sostituire una caldaia a gas con un'altra caldaia a gas o con una stufa a pellet non dà più diritto a incentivi.</li>
 </ul>
 </div>
@@ -85,21 +85,21 @@ Ha le stesse aliquote dell'Ecobonus: 50% sulla prima casa e 36% sulle altre nel 
 
 ## Quanto si risparmia davvero: in quanti anni rientra la spesa
 
-I conti su una casa di 100 m² che oggi spende circa 1.800 € l'anno di metano (circa 1.600 m³ a 1,10 €/m³, prezzo indicativo di settembre 2026).
+I conti su una casa di 100 m² che consuma circa 1.250 m³ di metano l'anno. Con i prezzi di settembre 2026 (metano circa 1,44 €/m³ e luce circa 0,32 €/kWh tutto compreso, tariffe ARERA per i clienti vulnerabili) oggi spende circa 1.800 € l'anno.
 
-**Consumi con la pompa di calore:** quel gas produce circa 14.000 kWh di calore. Una pompa di calore con rendimento stagionale (SCOP) di 3,2 ne consuma circa 4.400 kWh di elettricità, che a 0,28 €/kWh costano circa 1.230 € l'anno. **Risparmio: circa 570 € l'anno.** Se una parte dell'elettricità arriva da un impianto fotovoltaico il risparmio sale, ma d'inverno i pannelli producono poco.
+**Consumi con la pompa di calore:** quel gas produce circa 11.000 kWh di calore. Una pompa di calore con rendimento stagionale (SCOP) di 3,2 consuma circa 3.450 kWh di elettricità, che a 0,32 €/kWh costano circa 1.100 € l'anno. **Risparmio: circa 700 € l'anno.** Se una parte dell'elettricità arriva da un impianto fotovoltaico il risparmio sale, ma d'inverno i pannelli producono poco.
 
 | | Ecobonus 50% | Conto Termico (stima) |
 |---|---|---|
 | Costo impianto | 12.000 € | 12.000 € |
 | Incentivo | 6.000 € in 10 anni | circa 4.500 € in pochi mesi |
 | Costo netto | 6.000 € | circa 7.500 € |
-| Anni per rientrare (570 €/anno) | circa 10-11 | circa 13 |
+| Anni per rientrare (700 €/anno) | circa 8-9 | circa 11 |
 
-Detta così, la pompa di calore non è un affare lampo. Il conto cambia molto in due casi:
+Detta così, la pompa di calore non si ripaga in fretta. Il conto cambia molto in due casi:
 
-- **La caldaia va cambiata comunque.** Una caldaia a condensazione nuova costa circa 2.500-3.500 € installata e non ha più incentivi. La vera differenza da recuperare è quindi di circa 3.000 € (con l'Ecobonus), che con 570 € l'anno di risparmio rientrano in **circa 5 anni**.
-- **Si scalda a gasolio o GPL.** Con una spesa di 3.500 € l'anno di gasolio, il risparmio passa i 1.800 € l'anno e un impianto da 20.000 € (10.000 € netti con l'Ecobonus) rientra in **5-6 anni**.
+- **La caldaia va cambiata comunque.** Una caldaia a condensazione nuova costa circa 2.500-3.500 € installata e non ha più incentivi. La vera differenza da recuperare è quindi di circa 3.000 € (con l'Ecobonus), che con 700 € l'anno di risparmio rientrano in **circa 4-5 anni**.
+- **Si scalda a gasolio.** Il gasolio da riscaldamento a settembre 2026 costa in media 2,03 € al litro, il 47% in più di un anno fa. Una casa più grande che spende 3.500 € l'anno di gasolio, con una pompa di calore spenderebbe circa 1.470 € di luce: il risparmio supera i 2.000 € l'anno e un impianto da 20.000 € (10.000 € netti con l'Ecobonus) rientra in **circa 5 anni**.
 
 C'è un limite tecnico da conoscere: la pompa di calore rende bene quando l'acqua dei termosifoni non deve superare i 50-55 °C. Con radiatori piccoli in una casa poco isolata lo SCOP scende e il risparmio si riduce. Ne parliamo nella guida sulla [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/).
 
@@ -130,4 +130,4 @@ Guide collegate: [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-p
 
 ---
 
-*Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Enpal - Conto Termico 3.0, esempio di calcolo](https://www.enpal.com/it/pompa-di-calore/conto-termico-3-0-incentivi-funzionamento), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it), [Ediltecnico - Bonus stufe e caldaie a biomassa](https://ediltecnico.it/bonus-stufe-cosa-cambia/)*
+*Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Enpal - Conto Termico 3.0, esempio di calcolo](https://www.enpal.com/it/pompa-di-calore/conto-termico-3-0-incentivi-funzionamento), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it), [Ediltecnico - Bonus stufe e caldaie a biomassa](https://ediltecnico.it/bonus-stufe-cosa-cambia/), [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp)*

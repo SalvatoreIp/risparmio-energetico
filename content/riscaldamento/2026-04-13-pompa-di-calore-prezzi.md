@@ -79,4 +79,6 @@ Per la maggior parte delle abitazioni, la pompa di calore aria-acqua è l'invest
 
 Se hai già i termosifoni e vuoi sapere se una pompa di calore è compatibile senza rifare l'impianto, leggi la guida dedicata [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/); se invece ti serve solo sostituire il boiler dell'acqua calda, la soluzione più economica è lo [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/).
 
+**Guide collegate:** [stufa a pellet: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/) · [termostato smart](/smart-home/termostato-smart-2026/) · [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/)
+
 *Fonti: [GSE - Gestore Servizi Energetici](https://www.gse.it), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it)*

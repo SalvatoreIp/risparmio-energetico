@@ -2,6 +2,7 @@
 title: "Pompa di calore per termosifoni: funziona? Guida 2026"
 slug: "pompa-di-calore-per-termosifoni"
 date: 2026-09-13T10:00:00+02:00
+lastmod: 2026-09-29T22:30:00+02:00
 draft: false
 description: "Pompa di calore con termosifoni esistenti: funziona davvero? Guida 2026 su compatibilità, modelli alta temperatura, costi e incentivi reali."
 categories: ["riscaldamento"]
@@ -11,15 +12,23 @@ cover:
   alt: "Manopola termostatica di un termosifone tradizionale."
 ---
 
-### Introduzione
+<p class="lead">Non serve rifare l'impianto e passare al pavimento radiante per installare una pompa di calore: esistono modelli "ad alta temperatura" che si collegano ai radiatori che hai già. Funzionano, ma il risparmio dipende molto da cosa usi oggi. Con i prezzi di settembre 2026, rispetto a una caldaia a gasolio si risparmiano circa 1.300 € l'anno; rispetto al metano, con i radiatori vecchi, circa 550 €. Qui trovi i conti, i modelli e quando conviene un sistema ibrido.</p>
 
-Non serve rifare l'impianto e passare al pavimento radiante per installare una pompa di calore: dal 2024 esistono modelli "alta temperatura" pensati apposta per essere collegati ai radiatori che hai già in casa. Nell'esempio di un appartamento di 100 mq che sostituisce una vecchia caldaia, il risparmio reale in bolletta va da circa 450 euro l'anno (se prima usavi il gas metano) fino a oltre 1.500 euro l'anno (se prima usavi il gasolio), con un contributo a fondo perduto che può coprire fino al 65% della spesa.
+<div class="in-breve">
+<strong>In breve (aggiornato a settembre 2026)</strong>
+<ul>
+<li><strong>Funziona con i termosifoni?</strong> Sì, con una pompa di calore ad alta temperatura (fino a 60-80 °C), oppure con una standard se la casa è ben isolata e i radiatori sono generosi.</li>
+<li><strong>Costo:</strong> circa 7.500-18.000 € installata, a seconda di potenza e marca.</li>
+<li><strong>Risparmio in un appartamento di 100 m²:</strong> circa 1.300 € l'anno se oggi usi il gasolio, circa 550 € se usi il metano.</li>
+<li><strong>Incentivi:</strong> Ecobonus al 50% sulla prima casa oppure Conto Termico 3.0 (di solito 3.000-6.500 €), non cumulabili.</li>
+</ul>
+</div>
 
 <div class="cta-box">
   <a href="https://www.amazon.it/s?k=pompa+di+calore+aria+acqua+alta+temperatura&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le pompe di calore su Amazon</a>
 </div>
 
-### Cos'è e come funziona
+## Cos'è e come funziona
 
 I radiatori tradizionali sono stati progettati per funzionare con acqua calda a 65-80°C, mentre le pompe di calore "standard" arrivano al massimo a 55°C circa: una temperatura pensata per il riscaldamento a pavimento, non per i vecchi termosifoni in ghisa o acciaio. Per questo esistono due strade.
 
@@ -29,7 +38,7 @@ La seconda è usare una pompa di calore standard, più efficiente, ma solo se la
 
 Molti modelli ad alta temperatura integrano anche la produzione di acqua calda sanitaria in un unico apparecchio, sostituendo così anche lo scaldabagno. Se invece ti serve solo sostituire il boiler senza toccare il riscaldamento, una soluzione più economica e mirata è lo [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/) dedicato. Per chi vive in zone molto fredde o non vuole rinunciare del tutto alla caldaia, esistono infine sistemi ibridi che abbinano pompa di calore e caldaia a condensazione, usata solo nei giorni più rigidi.
 
-### I migliori modelli del 2026
+## I migliori modelli del 2026
 
 Sono impianti costosi che richiedono installazione professionale: il nome del modello rimanda alla scheda tecnica ufficiale del produttore, il link in fondo alla riga alla pagina Amazon dove trovi unità, accessori o kit compatibili.
 
@@ -43,40 +52,39 @@ Sono impianti costosi che richiedono installazione professionale: il nome del mo
 
 *Prezzi indicativi settembre 2026, comprensivi di installazione base; variano in base a potenza, accumulo ACS integrato e complessità del cantiere.*
 
-### Quanto si risparmia davvero
+## Quanto si risparmia davvero
 
-Ipotesi: appartamento di 100 mq, pompa di calore alta temperatura da 12 kW installata al posto di una vecchia caldaia, radiatori esistenti mantenuti senza modifiche.
+Ipotesi: appartamento di 100 m² che ha bisogno di circa 10.000 kWh di calore l'anno, pompa di calore ad alta temperatura da 12 kW al posto di una vecchia caldaia, radiatori lasciati come sono. Con l'acqua a 60-65 °C il rendimento stagionale (SCOP) scende a circa 2,9, contro 3,5-4 di una pompa di calore a bassa temperatura. Prezzi di settembre 2026, tutto compreso: metano circa 1,44 €/m³ e luce circa 0,32 €/kWh (tariffe ARERA per i clienti vulnerabili), gasolio da riscaldamento circa 2,03 €/litro (media del Ministero).
 
-**Scenario 1: sostituzione caldaia a gas metano**
-- Bolletta gas precedente: circa €1.250/anno
-- Bolletta con pompa di calore alta temperatura (COP stagionale circa 2,8-3, più basso di una pompa standard proprio per le temperature elevate richieste dai radiatori): circa €750-800/anno
-- Risparmio annuo: €450-500
-- Costo impianto con installazione: circa €11.500
-- Contributo Conto Termico 3.0 (65% su una spesa ammissibile di 700€/kW × 12kW = €8.400): circa €5.460 a fondo perduto
-- Costo netto dopo l'incentivo: circa €6.040
-- Tempo di rientro calcolato sulla sola bolletta: 12-13 anni
+**Costo del riscaldamento con la pompa di calore:** 10.000 kWh ÷ 2,9 = circa 3.450 kWh di elettricità, cioè **circa 1.100 € l'anno**.
 
-**Scenario 2: sostituzione caldaia a gasolio**
-- Bolletta gasolio precedente: circa €2.400/anno
-- Bolletta con pompa di calore alta temperatura: circa €800-850/anno
-- Risparmio annuo: €1.550-1.600
-- Costo netto dopo il Conto Termico 3.0: circa €6.040
-- Tempo di rientro: circa 4 anni
+| | Da caldaia a metano | Da caldaia a gasolio |
+|---|---|---|
+| Spesa attuale | circa 1.650 €/anno (1.140 m³) | circa 2.400 €/anno (1.180 litri) |
+| Spesa con la pompa di calore | circa 1.100 €/anno | circa 1.100 €/anno |
+| **Risparmio annuo** | **circa 550 €** | **circa 1.300 €** |
+| Costo impianto installato | circa 11.500 € | circa 11.500 € |
+| Costo netto con Ecobonus 50% | 5.750 € | 5.750 € |
+| Anni per rientrare | circa 10-11 | circa 4-5 |
 
-Chi arriva da un impianto a gasolio o GPL ha quindi un ritorno economico molto più rapido; chi arriva dal gas metano risparmia comunque ogni anno, ma con tempi di rientro più lunghi se si guarda alla sola bolletta, senza contare il maggior valore dell'immobile e l'addio alla manutenzione della caldaia.
+**Cosa dicono questi numeri:**
 
-### Incentivi disponibili 2026
+- **Dal gasolio o dal GPL** la pompa di calore conviene nettamente, anche con i vecchi radiatori.
+- **Dal metano** il risparmio c'è ma è più contenuto, perché con l'acqua così calda la pompa di calore rende meno. Se la caldaia va cambiata comunque (una a condensazione costa circa 3.000 € e non ha incentivi), la differenza da recuperare scende a circa 2.750 € e il rientro a **circa 5 anni**.
+- **Per chi usa il metano ci sono due alternative da valutare.** Un **sistema ibrido** (pompa di calore più caldaia a condensazione, incentivato) lascia lavorare la pompa di calore nelle mezze stagioni e la caldaia nei giorni più freddi. Oppure si può chiedere a un tecnico se, sostituendo i 2-3 radiatori delle stanze più fredde, basta una pompa di calore standard: lo SCOP sale a 3,5 e il risparmio sale di conseguenza.
 
-**Conto Termico 3.0:** contributo a fondo perduto erogato dal GSE, fino al 65% della spesa ammissibile (75% con componenti prodotti in UE). Per potenze fino a 35 kW la spesa massima riconosciuta è 700 €/kW. Sotto i 15.000 euro di contributo viene versato in un'unica soluzione, senza passare dalla dichiarazione dei redditi.
+Con un impianto fotovoltaico una parte dell'elettricità costa meno, ma d'inverno la produzione è bassa: non va contata come se coprisse il riscaldamento.
 
-**Ecobonus:** detrazione fiscale del 50% per la prima casa e del 36% per le altre, recuperata in 10 rate annuali, con tetto di spesa di 30.000 euro. Non è cumulabile con il Conto Termico sulla stessa spesa.
+## Incentivi disponibili 2026
 
-**IVA agevolata al 10%** invece del 22% per gli interventi di riqualificazione energetica.
+**Ecobonus:** detrazione del 50% sulla prima casa e del 36% sulle altre, in 10 rate annuali. Detrazione massima 30.000 €. Dal 2027 scende al 36% e al 30%.
 
-Per un confronto dettagliato tra Ecobonus e Conto Termico 3.0 in base a potenza e capienza fiscale, vedi la [guida agli incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/); per un confronto tra marche e modelli anche al di fuori del caso "termosifoni esistenti", vedi la [guida ai prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
+**Conto Termico 3.0:** contributo del GSE sul conto corrente, calcolato in base all'energia che l'impianto produrrà (potenza, efficienza, zona climatica). Non può superare il 65% della spesa ammissibile, che per le pompe di calore aria-acqua fino a 35 kW ha un tetto di 700 € per kW. Per un impianto da 12 kW il contributo reale si colloca di solito tra 3.000 e 6.500 €. Fino a 15.000 € viene pagato in un'unica rata. Conviene soprattutto a chi paga poca IRPEF.
 
-### Conclusione
+I due incentivi non si possono sommare sulla stessa spesa. Confronto dettagliato, esempi e scadenze nella [guida agli incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/). Prezzi di altri modelli, anche non ad alta temperatura, nella [guida ai prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
 
-Se hai già i termosifoni e non vuoi rifare l'impianto, una pompa di calore ad alta temperatura è oggi una soluzione concreta, non solo un compromesso: costa il 20-30% in più di una pompa standard, ma evita cantieri invasivi e nella maggior parte dei casi la produzione di acqua calda sanitaria è già inclusa. Conviene soprattutto a chi sostituisce una caldaia a gasolio o GPL, dove il rientro è rapido; da un impianto a gas metano vale comunque la pena farla, ma prima chiedi a un tecnico se il tuo isolamento e i tuoi radiatori permettono di risparmiare ancora di più con una pompa di calore standard, più efficiente.
+## Conclusione
 
-*Fonti: [GSE - Gestore Servizi Energetici, Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it)*
+Con i termosifoni esistenti una pompa di calore ad alta temperatura funziona ed evita cantieri invasivi, ma non fa miracoli sul rendimento. Chi oggi scalda a gasolio rientra della spesa in 4-5 anni. Chi usa il metano risparmia circa 550 € l'anno e, prima di decidere, dovrebbe chiedere due preventivi, uno per un sistema ibrido e uno con la sostituzione dei radiatori più piccoli, confrontandoli sulla spesa annua e non sul prezzo. Per spendere meno con qualsiasi impianto aiutano anche le [valvole termostatiche](/smart-home/valvole-termostatiche-smart-2026/) sui radiatori e un [termostato programmabile](/smart-home/termostato-smart-2026/).
+
+*Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp)*

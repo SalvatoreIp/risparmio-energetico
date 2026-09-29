@@ -68,4 +68,6 @@ Per un confronto più ampio tra Ecobonus e Conto Termico 3.0 anche per il riscal
 
 Lo scaldabagno a pompa di calore è oggi uno degli interventi di risparmio energetico con il ritorno più rapido: costa quanto un buon boiler elettrico di fascia alta, ma dimezza (o più) la voce acqua calda in bolletta, e con il Conto Termico 3.0 il rientro economico può avvenire in un solo anno. Va bene soprattutto a chi ha già un boiler elettrico e un locale tecnico sufficientemente areato (cantina, lavanderia, garage); chi parte da un boiler a gas risparmia meno in euro ma guadagna comunque in sicurezza e manutenzione. Prima di acquistare, verifica sempre lo spazio disponibile e chiedi a un installatore una stima precisa dei consumi in base al numero di persone in famiglia.
 
+**Guide collegate:** [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) · [stufa a pellet: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/) · [termostato smart](/smart-home/termostato-smart-2026/)
+
 *Fonti: [GSE - Gestore Servizi Energetici, Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [ARERA - prezzi tutela energia elettrica](https://www.arera.it)*

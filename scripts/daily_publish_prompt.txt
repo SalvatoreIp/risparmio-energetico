@@ -7,6 +7,19 @@ Apri content-queue.md nella root del repo. Prendi il primo elemento non ancora p
 
 Prima di scrivere, controlla i titoli/slug esistenti in content/<sezione>/ (e nelle sezioni correlate) per assicurarti che il nuovo articolo non cannibalizzi una query già coperta da un articolo esistente — se l'argomento scelto è troppo simile a uno già pubblicato, scegli l'elemento successivo in coda o adatta l'angolo dell'articolo per differenziarlo chiaramente (come già fatto in passato: es. "impianto fotovoltaico con accumulo" vs "fotovoltaico da tetto prezzi" sono stati deliberatamente differenziati e collegati con link incrociati).
 
+PREZZI DI RIFERIMENTO PER I CALCOLI (verificati il 29/09/2026, tutto compreso): luce circa 0,32 €/kWh (ARERA, 3° trimestre 2026), metano circa 1,44 €/Smc (ARERA vulnerabili, settembre 2026), gasolio da riscaldamento circa 2,03 €/litro (media MASE settembre 2026). NON copiare i prezzi dagli articoli vecchi: molti usano ancora 0,28 €/kWh e 1,10-1,30 €/m³, valori superati. Se la data di oggi è più di un mese dopo il 29/09/2026, riverifica i tre prezzi con WebSearch prima di usarli e cita la fonte.
+
+TONO: concreto e credibile. Prima il fatto o il numero, poi cosa fare. Niente linguaggio sognante o enfatico ("sogno", "magia", "rivoluzione", "incredibile"), niente punti esclamativi, niente esperienze personali inventate. Nessuna promessa di rientro rapido non dimostrata dal calcolo.
+
+IN BREVE: subito dopo il paragrafo introduttivo `<p class="lead">` e PRIMA del box CTA metti un riassunto con 3-4 punti con i numeri chiave (costo, risparmio in €/anno, incentivo, per chi conviene), in questo formato:
+<div class="in-breve">
+<strong>In breve (aggiornato a <mese anno>)</strong>
+<ul>
+<li><strong>Costo:</strong> ...</li>
+<li><strong>Risparmio:</strong> ...</li>
+</ul>
+</div>
+
 PASSO 2 — Ricerca fatti reali:
 Usa WebSearch per verificare prezzi attuali, modelli/prodotti reali, e la normativa/incentivi 2026 aggiornata (Conto Termico 3.0, Ecobonus 50%/36%, Bonus Ristrutturazioni — NON usare mai percentuali a memoria, verificale sempre: in passato articoli di questo sito hanno riportato un Ecobonus errato al 65% invece del 50%/36% corretto, causando una correzione successiva). Per i link Amazon nella tabella "I migliori modelli", cerca il prodotto reale su Amazon.it (tramite WebSearch, query tipo "site:amazon.it <nome prodotto>") e usa solo link reali trovati così, con lo stesso tag affiliato già usato nel resto del sito (cercalo in un articolo esistente recente, es. content/riscaldamento/2026-09-15-scaldabagno-a-pompa-di-calore.md, campo "tag=" nei link Amazon). Se non trovi un prodotto reale su Amazon, ometti il link o linka una pagina informativa/comparativa reale, mai un link inventato.
 
