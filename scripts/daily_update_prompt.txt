@@ -1,0 +1,34 @@
+Oggi NON scrivi un articolo nuovo: AGGIORNI UN articolo già pubblicato sul blog Hugo in questo repository (guida-energia.com). Leggi prima CLAUDE.md nella root del repo: contiene le regole editoriali e il comando esatto del ciclo di pubblicazione. Seguile alla lettera.
+
+SCOPE: modifichi SOLO (1) il file dell'articolo da aggiornare in content/<sezione>/ (ed eventualmente la sua immagine di copertina se è fuori tema) e (2) content-queue.md. Non toccare altri articoli, hugo.toml, layouts/, scripts/: segnala eventuali problemi nel riepilogo finale.
+
+PASSO 1 — Scegli l'articolo: apri content-queue.md, sezione "## Da aggiornare", e prendi il primo elemento `- [ ]`. La riga indica il file e i problemi già noti. Se la lista è vuota, scegli tu l'articolo più vecchio (data nel frontmatter) che non ha ancora `lastmod:` né il box "In breve", e aggiungilo alla lista come fatto.
+
+PASSO 2 — Leggi l'articolo per intero e verifica i fatti con WebSearch: prezzi, percentuali e regole degli incentivi, dati tecnici, prodotti. Correggi tutto ciò che è sbagliato o superato. Rifai ogni calcolo in euro con i prezzi di riferimento qui sotto: quando cambi un prezzo, ricalcola anche tutti i numeri che ne derivano (totali, risparmi, anni per rientrare), non solo il prezzo. Controlla che i conti tornino (moltiplicazioni e somme).
+
+PREZZI DI RIFERIMENTO (verificati il 29/09/2026, tutto compreso): luce circa 0,32 €/kWh (ARERA, 3° trimestre 2026), metano circa 1,44 €/Smc (ARERA vulnerabili, settembre 2026), gasolio da riscaldamento circa 2,03 €/litro (media MASE settembre 2026), pellet circa 7 € al sacco da 15 kg, energia venduta in Ritiro Dedicato circa 0,10 €/kWh (stima prudente). Lo Scambio sul Posto è chiuso ai nuovi impianti: non presentarlo come opzione attuale. Se la data di oggi è più di un mese dopo il 29/09/2026, riverifica i prezzi con WebSearch prima di usarli e cita la fonte.
+
+PASSO 3 — Migliora senza stravolgere:
+- NON cambiare `slug:`, `date:`, il nome del file né l'URL della pagina. Se l'articolo non ha `slug:`, NON aggiungerlo (cambierebbe un URL già indicizzato). Il titolo si può ritoccare solo se contiene un errore.
+- Aggiungi (o aggiorna) nel frontmatter `lastmod:` con l'ora attuale presa con `date +%Y-%m-%dT%H:%M:%S%:z`.
+- Se manca, aggiungi subito dopo il paragrafo introduttivo e PRIMA del box CTA il riassunto con 3-4 punti con i numeri chiave:
+<div class="in-breve">
+<strong>In breve (aggiornato a <mese anno>)</strong>
+<ul>
+<li><strong>...:</strong> ...</li>
+</ul>
+</div>
+- Togli riempitivi, elenchi generici e frasi promozionali. Tono concreto e credibile: prima il fatto o il numero, poi cosa fare; niente linguaggio sognante o enfatico, niente punti esclamativi, niente promesse di rientro rapido non dimostrate dal calcolo.
+- Aggiungi 2-3 link interni verso articoli correlati esistenti (verifica il percorso reale con `ls public/<sezione>/` dopo il build) e una riga "**Guide collegate:**" prima delle fonti se manca. Per gli argomenti di riscaldamento linka l'articolo /riscaldamento/costo-riscaldamento-casa-2026/.
+- Aggiorna le fonti in fondo con quelle usate davvero.
+- Link Amazon: mantieni quelli esistenti; aggiungine solo se trovati davvero su Amazon.it (mai ASIN inventati), con tag audiobookit-21.
+
+PASSO 4 — Verifica e pubblica:
+- `set -a; . ./.env; set +a` e poi il ciclo ESATTO di CLAUDE.md (rm -rf public/ && hugo --minify && npx wrangler pages deploy public --project-name risparmio-energetico --commit-dirty=true && git add . && git commit && git push).
+- Prima del commit controlla che ogni link interno dell'articolo `](/sezione/pagina/)` esista in public/<sezione>/<pagina>/index.html.
+- Se hugo o wrangler falliscono NON fare push: fermati e spiega nel riepilogo.
+
+PASSO 5 — In content-queue.md segna l'elemento come `- [x]` con la data e una nota breve su cosa hai corretto, nello stesso commit. Messaggio di commit: "Aggiornato: <titolo>", corpo con l'elenco delle correzioni principali, e ultima riga:
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+
+Riepilogo finale breve: articolo aggiornato, URL live, errori corretti, problemi incontrati.
