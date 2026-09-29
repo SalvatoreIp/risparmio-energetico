@@ -3,7 +3,7 @@ title: "Quanto costa riscaldare casa nel 2026: metano, pompa di calore, pellet e
 slug: "costo-riscaldamento-casa-2026"
 date: 2026-09-29T21:01:48+02:00
 draft: false
-description: "Quanto costa un inverno di riscaldamento nel 2026 con metano, pompa di calore, pellet, gasolio, climatizzatore e stufa elettrica: i conti in euro su 100 m² con i prezzi di settembre 2026."
+description: "Pompa di calore o caldaia? Quanto costa un inverno di riscaldamento nel 2026 con metano, pompa di calore, pellet, gasolio, climatizzatore e stufa elettrica: i conti in euro su 100 m² con i prezzi di settembre 2026."
 categories: ["riscaldamento"]
 tags: ["costo riscaldamento", "pompa di calore", "caldaia a gas", "pellet", "gasolio", "bollette 2026"]
 cover:
@@ -80,6 +80,16 @@ Il risparmio annuo conta, ma va confrontato con quanto costa il cambio. Tre casi
 - un termostato programmabile evita di scaldare la casa vuota: la scelta è spiegata nella guida al [termostato smart](/smart-home/termostato-smart-2026/);
 - le [valvole termostatiche](/smart-home/valvole-termostatiche-smart-2026/) sui radiatori permettono di scaldare meno le camere;
 - nelle case più vecchie cambiare gli infissi riduce le dispersioni in modo stabile, con il [bonus infissi 2026](/incentivi/bonus-infissi-2026/).
+
+## Pompa di calore o caldaia: quale conviene?
+
+Con i prezzi del 2026 un kWh di calore costa circa 0,09-0,11 € con una pompa di calore e 0,16-0,18 € con una caldaia a metano. Sull'uso la pompa di calore vince sempre; la domanda vera è se il risparmio ripaga la differenza di prezzo d'acquisto.
+
+- **Caldaia a condensazione:** circa 3.000 € installata, nessun incentivo, circa 1.580 € l'anno di metano per il nostro appartamento.
+- **Pompa di calore:** circa 11.500 € installata, 5.750 € netti con l'Ecobonus al 50%, circa 915-1.100 € l'anno di elettricità.
+- **Differenza:** circa 2.750 € in più all'acquisto, recuperati con 480-665 € di risparmio l'anno, quindi in **4-6 anni**. Dopo, per il resto della vita dell'impianto (15-20 anni), è risparmio netto.
+
+La caldaia resta la scelta più sensata solo in pochi casi: casa molto poco isolata con radiatori piccoli che non si possono cambiare, impossibilità di installare l'unità esterna (vincoli condominiali o paesaggistici), oppure budget che non permette di anticipare la spesa. In questi casi c'è una via di mezzo: il sistema ibrido caldaia più pompa di calore, che è ancora incentivato.
 
 ## Incentivi disponibili
 
