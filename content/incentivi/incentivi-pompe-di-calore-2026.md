@@ -2,479 +2,132 @@
 title: "Incentivi pompe di calore 2026: tutti i bonus e quanto puoi risparmiare"
 slug: "incentivi-pompe-di-calore-2026"
 date: 2026-06-24T08:10:00+02:00
+lastmod: 2026-09-29T22:00:00+02:00
 draft: false
-description: "Incentivi pompe di calore 2026: guida completa agli incentivi fiscali. Ecobonus, Conto Termico 3.0, Bonus Ristrutturazioni. Quanto si risparmia e come richiedere."
+description: "Incentivi pompe di calore 2026: Ecobonus al 50%, Conto Termico 3.0 e Bonus Ristrutturazioni. Regole aggiornate, quanto si recupera davvero e in quanti anni rientra la spesa."
+categories: ["incentivi"]
 tags: ["pompa di calore", "incentivi", "detrazioni", "conto termico", "ecobonus", "efficienza energetica", "2026"]
 cover:
   image: /immagini/incentivi-pompe-di-calore-2026.jpg
   alt: "Tecnico che completa l'installazione di una pompa di calore accanto a una casa con pannelli fotovoltaici"
 ---
 
-<p class="lead">Nel 2026 gli incentivi per le pompe di calore restano tra i più convenienti disponibili. Ecobonus al 50% (36% per le seconde case), Conto Termico 3.0 fino al 65% di rimborso diretto dal GSE. Scopri come scegliere il più conveniente per la tua situazione.</p>
+<p class="lead">Nel 2026 chi sostituisce la caldaia con una pompa di calore può scegliere tra due strade: una detrazione del 50% in 10 anni (Ecobonus) oppure un contributo diretto del GSE che arriva in pochi mesi (Conto Termico 3.0). Non si sommano: bisogna sceglierne una. Qui trovi le regole aggiornate, i numeri veri e un calcolo di quanto tempo serve per rientrare della spesa.</p>
+
+<div class="in-breve">
+<strong>In breve (aggiornato a settembre 2026)</strong>
+<ul>
+<li><strong>Ecobonus:</strong> 50% sulla prima casa, 36% sulle altre, in 10 rate annuali. Detrazione massima 30.000 €. Dal 2027 scende al 36% e al 30%.</li>
+<li><strong>Conto Termico 3.0:</strong> contributo del GSE sul conto corrente, calcolato su potenza, efficienza e zona climatica. Per un impianto domestico da 10-12 kW di solito si ottengono tra 3.000 e 6.500 €.</li>
+<li><strong>Rientro della spesa:</strong> circa 9-11 anni se la caldaia funziona ancora, circa 4-5 anni se andava comunque cambiata.</li>
+<li><strong>Da sapere:</strong> sostituire una caldaia a gas con un'altra caldaia a gas o con una stufa a pellet non dà più diritto a incentivi.</li>
+</ul>
+</div>
 
 <div class="cta-box">
   <a href="https://www.amazon.it/s?k=pompa+di+calore+aria+acqua&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta prezzi e modelli di pompe di calore su Amazon</a>
 </div>
 
-## Panorama degli incentivi 2026: tre opzioni principali
+## Cos'è e come funziona: le tre strade disponibili
 
-Nel 2026 hai a disposizione **tre strumenti di incentivo** per l'acquisto e installazione di una pompa di calore:
+Per una pompa di calore che sostituisce l'impianto di riscaldamento esistente, nel 2026 ci sono tre incentivi:
 
-1. **Ecobonus** (detrazione IRPEF)
-2. **Conto Termico 3.0** (rimborso diretto dal GSE)
-3. **Bonus Ristrutturazioni** (se in contesto di ristrutturazione)
+1. **Ecobonus**: detrazione IRPEF per interventi di risparmio energetico.
+2. **Conto Termico 3.0**: contributo in denaro erogato dal GSE.
+3. **Bonus Ristrutturazioni**: detrazione per lavori edilizi, utile se la pompa di calore fa parte di una ristrutturazione più ampia.
 
-Ognuno ha caratteristiche diverse che li rendono più o meno vantaggiosi in base alla tua situazione.
+Sulla stessa spesa se ne può usare uno solo. La scelta dipende soprattutto da due cose: quante tasse paghi (la detrazione si recupera solo se hai IRPEF sufficiente da scalare) e se ti servono i soldi subito.
 
----
+## Ecobonus 2026
 
-## 1. Ecobonus 2026
+L'Ecobonus è una detrazione dall'IRPEF divisa in 10 rate annuali uguali.
 
-### **Come funziona**
+| | 2026 | 2027 |
+|---|---|---|
+| Abitazione principale | 50% | 36% |
+| Altre unità immobiliari | 36% | 30% |
 
-L'Ecobonus è una **detrazione fiscale IRPEF** sulle spese sostenute per la sostituzione degli impianti di climatizzazione invernale con pompe di calore ad alta efficienza.
+La Legge di Bilancio 2026 ha confermato le aliquote del 2025. Per la sostituzione dell'impianto di riscaldamento con una pompa di calore, **la detrazione massima è di 30.000 € per unità immobiliare**: un tetto che per una casa normale non si raggiunge mai.
 
-### **Percentuale e durata**
+**Esempio:** pompa di calore da 12.000 € installata, prima casa. Detrazione del 50% = 6.000 €, cioè 600 € l'anno per 10 anni sulla dichiarazione dei redditi. Chi paga meno di 600 € di IRPEF l'anno ne perde una parte.
 
-- **Detrazione:** 50% della spesa per l'abitazione principale, 36% per le altre unità immobiliari
-- **Durata:** 10 anni (quote annuali di pari importo)
-- **Massimale:** 96.000 euro per unità immobiliare (dal 2027 l'aliquota scende al 30%)
+**Cosa serve:**
+- una pompa di calore con prestazioni minime conformi al DM 6 agosto 2020 (i valori di COP sono nella scheda tecnica);
+- il pagamento con bonifico "parlante" per riqualificazione energetica;
+- la comunicazione all'ENEA entro 90 giorni dalla fine dei lavori, su bonusfiscali.enea.it.
 
-### **Spese ammesse**
+**Cosa non è più incentivato:** dal 2025 la sostituzione con caldaie alimentate solo a combustibili fossili (metano, GPL, gasolio) è esclusa da Ecobonus e Bonus Ristrutturazioni. Restano ammessi i sistemi ibridi, cioè caldaia a condensazione più pompa di calore.
 
-✅ **Costo della pompa di calore**
-✅ **Costo dell'installazione**
-✅ **Oneri per pratiche burocratiche** (Cened, ASL)
-✅ **Costo del controllo efficienza energetica**
-✅ **Costo del progetto energetico** (se necessario)
+## Conto Termico 3.0
 
-### **Esempio pratico**
+Il Conto Termico 3.0 è in vigore dal 25 dicembre 2025 e il nuovo Portaltermico del GSE è attivo dal 2 febbraio 2026. È un contributo in denaro, non una detrazione: arriva anche a chi paga poche tasse.
 
-**Spesa totale:** 15.000 euro (pompa di calore + installazione, abitazione principale)
+**Come si calcola:** il contributo non è semplicemente il 65% della fattura. Il GSE lo calcola con una formula basata sull'energia che la pompa di calore produrrà in un anno, che dipende da potenza, efficienza (SCOP) e zona climatica. Ci sono poi due tetti:
+- il contributo non può superare il 65% della spesa ammissibile;
+- per le pompe di calore aria-acqua fino a 35 kW la spesa ammissibile massima è di 700 € per kW (7.000 € per un impianto da 10 kW).
 
-| Anno | Detrazione annuale |
-|------|-------------------|
-| 2027 | 750 euro |
-| 2028 | 750 euro |
-| 2029 | 750 euro |
-| ... | ... |
-| 2036 | 750 euro |
-| **Totale** | **7.500 euro** |
+In pratica, per un impianto domestico da 10-12 kW il contributo si colloca di solito **tra 3.000 e 6.500 €**. In un esempio pubblicato da Enpal, una pompa di calore da 12 kW costata 20.300 € ha ricevuto 5.542 €, cioè il 27% del prezzo. La cifra esatta per il proprio caso si ottiene con il simulatore del GSE, e conviene farlo prima di firmare il preventivo.
 
-**Costo netto reale (spalmato in 10 anni):** 15.000 - 7.500 = **7.500 euro**
+**Tempi:** la domanda va presentata entro 90 giorni dalla fine dei lavori. Fino a 15.000 € il contributo è pagato in un'unica rata; per le pompe di calore fino a 35 kW gli importi più alti sono pagati in 2 rate annuali.
 
-### **Chi può accedervi**
+## Bonus Ristrutturazioni
 
-- **Persone fisiche** (soggetti IRPEF)
-- **Condomini** (per impianti di riscaldamento centralizzati)
-- **Piccole imprese** (se soggette IRPEF)
-- **Enti non commerciali**
+Ha le stesse aliquote dell'Ecobonus: 50% sulla prima casa e 36% sulle altre nel 2026, con un tetto di spesa di 96.000 € per unità immobiliare. Per la sola pompa di calore non dà nulla in più. Conviene quando la sostituzione fa parte di una ristrutturazione più ampia (bagno, impianti, pareti), perché tutto rientra in un'unica pratica.
 
-### **Requisiti tecnici**
+## Quale conviene: il confronto
 
-- **Prestazioni minime:** la pompa di calore deve rispettare i valori minimi di COP/GUE fissati dal DM 6 agosto 2020, che cambiano in base al tipo (aria-acqua, aria-aria, geotermica): vanno controllati nella scheda tecnica
-- **Certificazione:** Certificato di installazione e collaudo firmati da tecnico abilitato
-- **Comunicazione ENEA:** Obbligatoria entro 90 giorni dalla fine lavori
+| Situazione | Scelta più conveniente | Perché |
+|---|---|---|
+| Hai IRPEF sufficiente e puoi aspettare 10 anni | Ecobonus | Recupera il 50% dell'intera spesa, di solito più del Conto Termico |
+| Paghi poca IRPEF (pensione bassa, forfettario, incapiente) | Conto Termico | Il contributo arriva comunque, sul conto corrente |
+| Ti servono i soldi subito | Conto Termico | Pagamento in pochi mesi, non in 10 anni |
+| Stai ristrutturando casa | Bonus Ristrutturazioni | Un'unica pratica per tutti i lavori |
 
-### **Come fare domanda**
+## Quanto si risparmia davvero: in quanti anni rientra la spesa
 
-1. **Acquisto:** Acquista pompa di calore da fornitore autorizzato
-2. **Installazione:** Fai installare da tecnico abilitato (termoidraulico o ingegnere)
-3. **Documentazione:** Conserva fattura, ricevuta di pagamento bonifico parlante
-4. **Comunicazione ENEA:** Entro 90 giorni dalla fine lavori, invia la comunicazione sul portale ENEA (bonusfiscali.enea.it)
-5. **Detrazione:** Inserisci nella dichiarazione dei redditi (730 o Modello Redditi)
-6. **Bonifico parlante:** Usa bonifico specificando "Bonifico per detrazione fiscale spese di riqualificazione energetica"
+I conti su una casa di 100 m² che oggi spende circa 1.800 € l'anno di metano (circa 1.600 m³ a 1,10 €/m³, prezzo indicativo di settembre 2026).
 
-### **Errori da evitare**
+**Consumi con la pompa di calore:** quel gas produce circa 14.000 kWh di calore. Una pompa di calore con rendimento stagionale (SCOP) di 3,2 ne consuma circa 4.400 kWh di elettricità, che a 0,28 €/kWh costano circa 1.230 € l'anno. **Risparmio: circa 570 € l'anno.** Se una parte dell'elettricità arriva da un impianto fotovoltaico il risparmio sale, ma d'inverno i pannelli producono poco.
 
-❌ **Pagamento in contanti** (oltre 500 euro non è detraibile)  
-❌ **Mancanza di bonifico parlante** (deve citare la destinazione)  
-❌ **Installatore non abilitato** (la detrazione è nulla)  
-❌ **Comunicazione tardiva all'ENEA** (entro 90 giorni dalla fine lavori)  
-❌ **Sconoscenza requisiti tecnici** (COP minimo non rispettato)
+| | Ecobonus 50% | Conto Termico (stima) |
+|---|---|---|
+| Costo impianto | 12.000 € | 12.000 € |
+| Incentivo | 6.000 € in 10 anni | circa 4.500 € in pochi mesi |
+| Costo netto | 6.000 € | circa 7.500 € |
+| Anni per rientrare (570 €/anno) | circa 10-11 | circa 13 |
 
----
+Detta così, la pompa di calore non è un affare lampo. Il conto cambia molto in due casi:
 
-## 2. Conto Termico 3.0
+- **La caldaia va cambiata comunque.** Una caldaia a condensazione nuova costa circa 2.500-3.500 € installata e non ha più incentivi. La vera differenza da recuperare è quindi di circa 3.000 € (con l'Ecobonus), che con 570 € l'anno di risparmio rientrano in **circa 5 anni**.
+- **Si scalda a gasolio o GPL.** Con una spesa di 3.500 € l'anno di gasolio, il risparmio passa i 1.800 € l'anno e un impianto da 20.000 € (10.000 € netti con l'Ecobonus) rientra in **5-6 anni**.
 
-### **Novità del 2026**
+C'è un limite tecnico da conoscere: la pompa di calore rende bene quando l'acqua dei termosifoni non deve superare i 50-55 °C. Con radiatori piccoli in una casa poco isolata lo SCOP scende e il risparmio si riduce. Ne parliamo nella guida sulla [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/).
 
-Il **Conto Termico 3.0** è entrato in vigore il 25 dicembre 2025. La grande novità: **rimborso più veloce e maggiore percentuali** rispetto alle versioni precedenti.
+## Errori che fanno perdere l'incentivo
 
-### **Come funziona**
+- **Pagare con un bonifico normale o con carta** invece del bonifico parlante: l'Ecobonus è perso.
+- **Superare i 90 giorni**, sia per la comunicazione all'ENEA sia per la domanda al GSE.
+- **Scegliere un modello senza verificare i requisiti minimi di efficienza:** vanno controllati nella scheda tecnica prima dell'acquisto, non dopo.
+- **Chiedere due incentivi sulla stessa spesa:** la seconda domanda viene respinta e si rischia di dover restituire anche la prima.
+- **Firmare il preventivo senza simulare il Conto Termico:** la differenza tra "fino al 65%" e il contributo reale può valere migliaia di euro.
 
-Il GSE (Gestore dei Servizi Energetici) eroga un incentivo economico **direttamente sul conto corrente** per gli interventi di efficienza energetica.
+## Per spendere meno dopo l'installazione
 
-### **Percentuali e durata**
+Una pompa di calore consuma meno se lavora a lungo a bassa potenza, senza continui spegnimenti e riaccensioni. Due accessori aiutano:
 
-- **Incentivo:** Fino al 65% della spesa
-- **Erogazione:** in un'unica rata se l'incentivo non supera 15.000 euro (il caso tipico di una casa), altrimenti in rate annuali
-- **Massimali:** Differenziati in base alla potenza installata
-
-### **Importo massimo dell'incentivo**
-
-Per potenze fino a 35 kW, la spesa massima riconosciuta ai fini del calcolo è di **700 euro/kW**. Il contributo copre il 65% di questa spesa ammissibile (75% se i componenti principali sono prodotti nell'Unione Europea) — non il 65% dell'intera spesa sostenuta, se questa supera il massimale per kW.
-
-| Potenza pompa di calore | Spesa massima ammissibile | Incentivo (65%) | Incentivo (75%, componenti UE) |
-|------------------------|----------------|------------------|------------------|
-| 6 kW | 4.200 euro | 2.730 euro | 3.150 euro |
-| 10 kW | 7.000 euro | 4.550 euro | 5.250 euro |
-| 16 kW | 11.200 euro | 7.280 euro | 8.400 euro |
-
-### **Esempio pratico**
-
-**Spesa totale:** 12.000 euro (pompa di calore aria-acqua da 10 kW, installazione inclusa)
-
-- Spesa massima ammissibile (10 kW × 700 €/kW): 7.000 euro
-- Contributo Conto Termico 3.0 (65%): 4.550 euro
-- **Costo netto reale:** 12.000 - 4.550 = **7.450 euro**
-
-> ⚠️ **Nota:** l'incentivo si calcola sulla spesa ammissibile per potenza (fino al massimale per kW), non sull'intera spesa se questa lo supera. Per potenze superiori a 35 kW valgono massimali diversi, tipicamente riservati a utenze non residenziali.
-
-### **Chi può accedervi**
-
-- **Persone fisiche**
-- **Piccole imprese**
-- **Condomini**
-- **Enti pubblici**
-- **Scuole e università**
-- **Terzo settore**
-
-### **Vantaggi rispetto all'Ecobonus**
-
-✅ **Rimborso rapido:** In genere entro pochi mesi dall'accettazione della domanda  
-✅ **Nessun impatto fiscale:** Non riduce la detrazione IRPEF  
-✅ **Processo semplificato:** Tutto online sul sito GSE  
-✅ **Niente capienza fiscale richiesta:** Il contributo arriva anche a chi paga poca IRPEF  
-
-### **Come fare domanda**
-
-1. **Verifica i requisiti prima dei lavori:** Potenza, tipologia, prestazioni minime della pompa di calore
-2. **Fai installare l'impianto e paga con bonifico:** Conserva fatture e ricevute
-3. **Registrati sul Portaltermico del GSE:** Crea l'account personale
-4. **Presenta la domanda entro 90 giorni dalla fine lavori:** Online, con tutti i documenti richiesti
-5. **Erogazione:** Dopo l'accettazione, in un'unica rata fino a 15.000 euro di incentivo
-
-### **Documenti necessari**
-
-- **Dichiarazione sostitutiva** di atto notorio
-- **Certificato di efficienza energetica**
-- **Progetto tecnico** (se potenza > 35 kW)
-- **Fattura e ricevuta di pagamento**
-- **Documento di identità**
-- **Codice fiscale e partita IVA**
-
-### **Errori da evitare**
-
-❌ **Presentare domanda troppo tardi** (per i privati il limite è 90 giorni dalla fine lavori)  
-❌ **Mancanza di documentazione tecnica** (certificati obbligatori)  
-❌ **Impianto non conforme** (normative VDE, UNI)  
-❌ **Doppia domanda** (Ecobonus + Conto Termico per stesso intervento)  
-❌ **Conservare male i documenti** (fatture, bonifici e schede tecniche servono tutti per la domanda)
-
----
-
-## 3. Bonus Ristrutturazioni 2026
-
-### **Quando conviene**
-
-Il Bonus Ristrutturazioni (50% o 36%) può essere applicato quando **sostituisci la vecchia caldaia con una pompa di calore**, sia come intervento a sé (rientra tra le opere di risparmio energetico ammesse) sia all'interno di una ristrutturazione più ampia. Conviene soprattutto in questo secondo caso, perché raccoglie tutti i lavori in un'unica pratica.
-
-### **Percentuale**
-
-- **Prima casa:** 50% di detrazione
-- **Seconda casa:** 36% di detrazione
-- **Massimale:** 96.000 euro per unità immobiliare
-
-### **Come funziona**
-
-- **Durata:** 10 anni (quote annuali di pari importo)
-- **Spese ammesse:** Interventi di ristrutturazione che includono la sostituzione dell'impianto
-
-### **Vantaggi**
-
-- **Compatibilità:** Puoi cumulare con Ecobonus per parti diverse dell'intervento
-- **Flessibilità:** Si applica anche ad altri lavori (infissi, pavimenti, etc.)
-
-### **Limitazioni**
-
-- **Stessa aliquota dell'Ecobonus** (50%/36%) per la sola pompa di calore, quindi conviene solo se hai già altri lavori di ristrutturazione da inquadrare nella stessa pratica
-- **Comunicazione ENEA:** Anche qui, per la pompa di calore va inviata entro 90 giorni dalla fine lavori
-- **Cumulo limitato:** Non puoi detrarre due volte la stessa spesa
-
----
-
-## Attenzione: stufe e caldaie a pellet dal 3 agosto 2026
-
-Chi valuta un'alternativa alla pompa di calore deve sapere che dal **3 agosto 2026** (recepimento della direttiva europea RED III) le regole per le biomasse sono cambiate:
-
-- **Sostituire una caldaia a gas con una stufa o caldaia a pellet non dà più diritto a nessun incentivo:** niente Ecobonus, niente Bonus Ristrutturazioni, niente Conto Termico.
-- **Restano incentivati** solo il passaggio da un vecchio apparecchio a legna o pellet a uno nuovo più efficiente, oppure l'eliminazione di un impianto a carbone o gasolio, sempre con apparecchi certificati a 5 stelle.
-
-In pratica, per chi oggi scalda casa col metano, la pompa di calore resta l'unica strada per sostituire la caldaia **con un incentivo**. Costi e confronto completo nella nostra guida [stufa a pellet 2026: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/).
-
----
-
-## Confronto: quale incentivo scegliere?
-
-### **Scenario A: Pompa di calore per sostituzione caldaia**
-
-| Incentivo | Vantaggio | Ideale per |
-|-----------|-----------|------------|
-| **Ecobonus 50%** | Detrazione su tutta la spesa, in 10 anni | Chi ha buona capienza fiscale e vuole detrarre l'intero importo |
-| **Conto Termico 3.0** | Rimborso diretto fino al 65%, ma solo sulla spesa ammissibile per kW | Chi vuole liquidità più rapida e ha un impianto di potenza contenuta |
-
-**Consiglio:** per impianti di potenza medio-bassa, dove la spesa ammissibile del Conto Termico copre gran parte del costo reale, il Conto Termico 3.0 è spesso più conveniente in valore assoluto. Per impianti più costosi o di potenza elevata, dove il tetto per kW limita il rimborso, l'Ecobonus (calcolato sull'intera spesa) può recuperare di più, sebbene in 10 anni anziché subito. Non sono cumulabili sulla stessa spesa: vanno confrontati caso per caso.
-
-### **Scenario B: Pompa di calore in ristrutturazione completa**
-
-| Incentivo | Vantaggio | Ideale per |
-|-----------|-----------|------------|
-| **Ecobonus 50%** | Detrazione dedicata solo alla parte impianto | Interventi specifici di efficientamento energetico |
-| **Bonus Ristrutturazioni 50%** | Copre tutta la ristrutturazione (impianto incluso) | Ristrutturazioni complete con più interventi |
-
-**Consiglio:** le due misure condividono di fatto la stessa aliquota per la prima casa (50%): la differenza è nel perimetro di spesa coperto. Se stai ristrutturando casa, conviene inquadrare tutto sotto un'unica pratica di Bonus Ristrutturazioni; se sostituisci solo la caldaia, l'Ecobonus è la via più diretta. Non cumulabili sulla stessa spesa.
-
----
-
-## Calcolo risparmio concreto: esempi reali
-
-### **Caso 1: Appartamento 100 mq con caldaia a gas, pompa di calore da 10 kW**
-
-**Situazione attuale:**
-- Spesa gas: 1.800 euro/anno
-- Pompa di calore costata: 12.000 euro
-
-**Con Ecobonus 50% (prima casa):**
-- Detrazione: 6.000 euro (12.000 × 50%), recuperata in 10 rate annuali da 600 euro
-- **Costo netto spalmato in 10 anni:** 6.000 euro
-
-**Con Conto Termico 3.0:**
-- Spesa ammissibile (10 kW × 700 €/kW): 7.000 euro
-- Rimborso (65%): 4.550 euro, erogato dal GSE in tempi brevi (mesi, non anni)
-- **Costo netto:** 7.450 euro
-
-**Consiglio:** qui l'Ecobonus recupera di più in valore assoluto (6.000 contro 4.550), ma il Conto Termico arriva molto prima. Chi ha poca capienza fiscale IRPEF trova comunque nel Conto Termico l'opzione più semplice da incassare per intero.
-
-### **Caso 2: Casa indipendente 200 mq con caldaia a gasolio, pompa di calore da 16 kW**
-
-**Situazione attuale:**
-- Spesa gasolio: 3.500 euro/anno
-- Pompa di calore costata: 20.000 euro
-
-**Con Ecobonus 50% (prima casa):**
-- Detrazione: 10.000 euro (20.000 × 50%), recuperata in 10 rate annuali da 1.000 euro
-- **Costo netto spalmato in 10 anni:** 10.000 euro
-
-**Con Conto Termico 3.0:**
-- Spesa ammissibile (16 kW × 700 €/kW): 11.200 euro
-- Rimborso (65%): 7.280 euro
-- **Costo netto:** 12.720 euro
-
-**Consiglio:** su impianti di questa taglia l'Ecobonus resta più conveniente in valore assoluto; il Conto Termico ha senso soprattutto per chi non ha capienza fiscale sufficiente a sfruttare l'intera detrazione.
-
----
-
-## Come massimizzare il risparmio
-
-### **1. Scegli il momento giusto**
-
-- **Inizi a gennaio:** Tutto l'anno di detrazioni
-- **Fai i lavori prima di fine dicembre:** Per dedurre dal 2026
-- **Usa bonifico parlante:** Per detrazione certa
-
-### **2. Ottimizza la progettazione**
-
-- **Dimensionamento corretto:** Evita sovradimensionamenti costosi
-- **Pompa ibrida:** In alcuni casi più vantaggiosa
-- **Integrazione solare:** Massimizza efficienza e incentivi
-
-### **3. Accoppia con altri interventi**
-
-- **Fotovoltaico:** Autoconsumo e produzione elettricità
-- **Serramenti:** Migliora isolamento globale
-- **Isolamento termico:** Riduce fabbisogno energetico
-
-### **4. Scegli prodotti certificati**
-
-- **Marca certificata:** Garantisce efficienza
-- **COP dichiarato:** Verifica in schede tecniche
-- **Certificazioni:** CE, ErP, Ecodesign
-
-### **5. Coinvolgi professionisti esperti**
-
-- **Installatore qualificato:** Evita errori
-- **Progettista energetico:** Ottimizza il sistema
-- **Tecnico certificatore:** Gestione pratiche ENEA e GSE
-
----
-
-## Errori da evitare assolutamente
-
-### **❌ NON valutare le opzioni**
-
-- **Ecobonus vs Conto Termico:** Confronta sempre
-- **Tempistiche:** Detrazione in 10 anni vs rimborso in un'unica rata (fino a 15.000 euro)
-- **Capienza fiscale:** Hai abbastanza IRPEF per la detrazione?
-
-### **❌ NON scegliere l'installatore sbagliato**
-
-- **Non abilitato:** La detrazione è nulla
-- **Non serio:** Errori di installazione costano care
-- **Non certificato:** Mancanza documentazione
-
-### **❌ NON ignorare i requisiti tecnici**
-
-- **COP insufficiente:** Pompa non conforme, niente incentivo
-- **Dimensionamento errato:** Impianto inefficiente
-- **Documentazione incompleta:** Rifiuto pratica
-
-### **❌ NON confondere gli incentivi**
-
-- **Conto Termico + Ecobonus:** Non cumulabili per stesso intervento
-- **Bonus Ristrutturazioni:** Solo in contesti specifici
-- **Detrazioni multiple:** Una sola per spesa
-
-### **❌ NON dimenticare i tempi**
-
-- **Comunicazione ENEA (Ecobonus/Bonus Ristrutturazioni):** Entro 90 giorni dalla fine lavori
-- **Richiesta Conto Termico:** Entro 90 giorni dalla fine lavori
-- **Dichiarazione dei redditi:** Entro termini fiscali
-
----
-
-## Prodotti e soluzioni utili
-
-### **1. Termostato smart per pompa di calore**
-
-**Perché funziona:**
-- **Regolazione automatica:** Ottimizza accensione/spegnimento
-- **Programmazione:** Orari diversi per giorni feriali e weekend
-- **App mobile:** Controllo da remoto
-- **Statistiche:** Monitora consumi e risparmi
-
-**Cosa cercare:**
-- **Compatibilità:** Con la tua pompa di calore
-- **Protocollo:** Zigbee, Z-Wave, WiFi
-- **Funzioni:** Geolocalizzazione, integrazione vocale
-- **App:** Facile da usare, intuitiva
-
-**Come usare:**
-1. **Installa seguendo istruzioni** (o chiama tecnico)
-2. **Configura orari** in base alle tue abitudini
-3. **Ottimizza temperature:** 19-21°C di giorno, 17-19°C di notte
-4. **Monitora i consumi:** Usa l'app per verificare risparmi
-
+- **Un termostato programmabile o smart** tiene la temperatura costante e abbassa la notte o quando la casa è vuota. Confronto dei modelli nella guida al [termostato smart](/smart-home/termostato-smart-2026/).
+- **Le valvole termostatiche sui radiatori** evitano di scaldare le stanze che non usi. Quanto si risparmia è spiegato nella guida alle [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/).
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0F6LR2S9F?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=termostato+smart+pompa+di+calore&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta termostati smart su Amazon</a>
 </div>
-
-
----
-
-### **2. Valvole termostatiche per radiatori**
-
-**Perché funzionano:**
-- **Regolazione locale:** Ogni stanza con temperatura diversa
-- **Riduzione sprechi:** Solo le stanze usate sono riscaldate
-- **Risparmio energetico:** Fino al 20% sui consumi
-- **Comfort:** Temperatura ottimale in ogni stanza
-
-**Cosa cercare:**
-- **Compatibilità:** Con i tuoi radiatori (G3/4, G1/2)
-- **Precisione:** +/- 0,5°C
-- **Sensore remoto:** Per misurare temperatura ambiente
-- **Batterie:** Durata 3-5 anni
-
-**Come usare:**
-1. **Sostituisci vecchie valvole:** Con nuove termostatiche
-2. **Regola per stanza:** Zona giorno 20°C, camera 18°C
-3. **Programma orari:** Riduci temperature di notte/assenza
-4. **Manutenzione:** Controllo annuale batterie e funzion
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CNQZXNMG?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-### **3. Deumidificatore per locale tecnico**
-
-**Perché funziona:**
-- **Protezione pompa:** Evita ossidazione e corrosione
-- **Ottimizzazione efficienza:** Umidità controllata = COP migliore
-- **Durata impianto:** Allunga vita della pompa di calore
-- **Comfort:** Riduce muffe e condense
-
-**Cosa cercare:**
-- **Capacità:** 12-20 litri/giorno
-- **Serbatoio:** Rimovibile e lavabile
-- **Umidità regolabile:** 40-60% ottimale
-- **Bassa rumorosità:** Sotto i 45 dB
-
-**Come usare:**
-1. **Posiziona nel locale tecnico:** Vicino alla pompa
-2. **Imposta umidità:** 50-55% ottimale
-3. **Controlla regolarmente:** Filtri puliti ogni mese
-4. **Svuota serbatoio:** Ogni 2-3 giorni
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GQH25H2S?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-### **4. Accessori per pompe di calore**
-
-**Kit di manutenzione:**
-
-**Perché servono:**
-- **Manutenzione preventiva:** Allunga vita impianto
-- **Controllo efficienza:** COP sempre ottimale
-- **Prevenzione guasti:** Riduce costi riparazioni
-
-**Cosa includere:**
-- **Kit filtri:** Per pulizia periodica
-- **Guanti protezione:** Per manipolazione componenti
-- **Strumenti base:** Cacciavite, chiavi inglesi
-- **Manuale istruzioni:** Guida alla manutenzione
-
-**Come usare:**
-1. **Pulizia filtri:** Ogni 3-6 mesi
-2. **Controllo pressione:** Mensile
-3. **Verifica perdite:** Trimestrale
-4. **Manutenzione professionale:** Annuale
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0D33MY1SQ?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
 
 ## Conclusione
 
-Gli incentivi per le pompe di calore nel 2026 restano vantaggiosi, ma vanno scelti con attenzione: l'Ecobonus recupera il 50% (36% per le seconde case) dell'intera spesa in 10 anni, mentre il Conto Termico 3.0 rimborsa più in fretta ma solo fino al 65% di una spesa ammissibile limitata a 700 €/kW.
+Nel 2026 l'Ecobonus al 50% è l'incentivo che recupera di più per chi ha IRPEF sufficiente. Il Conto Termico 3.0 recupera un po' meno ma paga subito e anche a chi paga poche tasse. Dal 2027 l'Ecobonus sulla prima casa scende al 36%: chi deve cambiare l'impianto e ha già deciso ha un motivo concreto per non rimandare. I conti vanno fatti sul proprio caso: consumo di gas, stato della caldaia, tipo di radiatori e simulazione del GSE.
 
-**Il mio consiglio:**
-- **Confronta le opzioni:** Ecobonus vs Conto Termico
-- **Valuta la tua situazione:** Capienza fiscale, necessità liquidità
-- **Scegli professionisti qualificati:** Installatore certificato, progettista esperto
-- **Segui le scadenze:** 90 giorni dalla fine lavori sia per l'ENEA sia per il Conto Termico
-- **Monitora i risultati:** App e statistiche per verificare risparmi
-
-**Perché è importante:** Una pompa di calore non è solo un investimento energetico: è un **investimento economico** che si ripaga in 2-5 anni, dopo di che generi risparmio per 15-20 anni.
-
-**La scelta migliore per te:** Dipende dalla tua situazione fiscale, tempistiche e preferenze. Ma una cosa è certa: nel 2026, **è il momento migliore per investire in pompe di calore**.
-
-**Guide pratiche collegate:** [prezzi e confronto modelli](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) · [pompa di calore con termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/)
+Guide collegate: [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) · [pompa di calore con i termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) · [scaldabagno a pompa di calore](/riscaldamento/scaldabagno-a-pompa-di-calore/) · [stufa a pellet: costi e incentivi](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
 
 ---
 
-*Fonti: [GSE - Gestore Servizi Energetici, Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it), [Ediltecnico - Bonus stufe e caldaie a biomassa dal 3 agosto](https://ediltecnico.it/bonus-stufe-cosa-cambia/), [Altroconsumo - Conto Termico 3.0](https://www.altroconsumo.it/casa-energia/elettricita-e-gas/news/conto-termico-30)*
+*Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Enpal - Conto Termico 3.0, esempio di calcolo](https://www.enpal.com/it/pompa-di-calore/conto-termico-3-0-incentivi-funzionamento), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it), [Ediltecnico - Bonus stufe e caldaie a biomassa](https://ediltecnico.it/bonus-stufe-cosa-cambia/)*

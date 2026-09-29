@@ -12,3 +12,15 @@
   transition: transform 0.15s, box-shadow 0.15s;
 }
 .cta-button:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(255,140,0,0.5); }
+
+/* Box "In breve" in cima agli articoli: i numeri chiave in 3-4 righe */
+.in-breve {
+  border-left: 4px solid #ff8800;
+  background: var(--code-bg);
+  border-radius: 6px;
+  padding: 14px 18px;
+  margin: 20px 0;
+}
+.in-breve strong:first-child { display: block; margin-bottom: 6px; }
+.in-breve ul { margin: 0; padding-left: 20px; }
+.in-breve li { margin: 4px 0; }
