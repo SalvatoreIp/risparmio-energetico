@@ -130,7 +130,7 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 3. Posiziona un ventilatore dietro che spinge l'aria verso i lenzuoli
 4. Riempi con acqua fresca ogni 4-6 ore
 
-**Costo:** 0,10€/giorno (1,2 kWh × 0,26€/kWh per il ventilatore 40W × 8 ore)
+**Costo:** 0,10€/giorno (ventilatore da 40W per 8 ore = 0,32 kWh × 0,32€/kWh, prezzo medio tutto compreso settembre 2026)
 
 **Limiti:**
 - **Non funziona con umidità alta:** se fuori è già afoso, peggiora la situazione
@@ -153,8 +153,8 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 **Come funziona:** L'aria umida fa sembrare il caldo più forte perché il sudore non evapora. Rimuovendo l'umidità, il corpo si raffredda meglio.
 
 **Consumi reali:**
-- **300W:** 0,3 kWh/ora × 0,26€/kWh = **0,08€/ora**
-- **700W:** 0,7 kWh/ora × 0,26€/kWh = **0,18€/ora**
+- **300W:** 0,3 kWh/ora × 0,32€/kWh = **0,10€/ora**
+- **700W:** 0,7 kWh/ora × 0,32€/kWh = **0,22€/ora**
 - **5 ore/giorno:** 0,40-0,90€/giorno → **€12-€27/mese**
 
 **Perché sceglierlo:**

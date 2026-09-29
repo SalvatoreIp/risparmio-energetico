@@ -2,6 +2,7 @@
 title: "Come rinfrescare casa senza spendere una fortuna: ventilatori e alternative 2026"
 slug: "rinfrescare-casa-caldo-2026"
 date: 2026-06-28T07:48:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Come rinfrescare casa senza spendere una fortuna. Ventilatori, raffrescatori evaporativi e climatizzatori portatili: consumi, prezzi e confronto. Quanto costa davvero rinfrescare casa."
 categories: ["raffrescamento"]
@@ -11,7 +12,7 @@ cover:
   alt: "Vento che muove le foglie e ventilatore moderno su tavolo"
 ---
 
-<p class="lead">Con le temperature che superano i 35°C e le notti tropicali, la bolletta dell'aria condizionata ti fa paura? Un ventilatore costa 0,01 euro all'ora, un climatizzatore portatile 0,28 euro. Scopri come scegliere la soluzione giusta per il tuo portafoglio.</p>
+<p class="lead">Con le temperature che superano i 35°C e le notti tropicali, la bolletta dell'aria condizionata ti fa paura? Un ventilatore costa 0,01 euro all'ora, un climatizzatore portatile 0,32-0,38 euro. Scopri come scegliere la soluzione giusta per il tuo portafoglio.</p>
 
 <div class="cta-box">
   <a href="https://www.amazon.it/s?k=ventilatore+silenzioso&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi i ventilatori più venduti su Amazon</a>
@@ -34,7 +35,7 @@ Ecco il dilemma: stare al fresco con il condizionatore che "svuota il portafogli
 **Potenza:** 30-70W (media 40W)  
 **Costo per ora:** 0,01€ (1 centesimo)  
 **Costo 8 ore:** 0,09€ (9 centesimi)  
-**Costo 24 ore:** 0,30€ (1,2 kWh × 0,26€/kWh tariffa media 2026)
+**Costo 24 ore:** 0,38€ (1,2 kWh × 0,32€/kWh, prezzo medio tutto compreso settembre 2026)
 
 **Come funziona:** Muove l'aria creando un effetto "wind chill" che sulla pelle fa percepire una temperatura 3-4°C inferiore alla realtà. Non abbassa la temperatura della stanza, ma aumenta l'evaporazione del sudore.
 
@@ -71,7 +72,7 @@ Ecco il dilemma: stare al fresco con il condizionatore che "svuota il portafogli
 ### **CLIMATIZZATORE PORTATILE: la potenza massima**
 
 **Potenza:** 1000-1200W (1-1,2 kWh/ora)  
-**Costo per ora:** 0,26€ (1000W × 0,26€/kWh) - 0,31€ (1200W)  
+**Costo per ora:** 0,32€ (1000W × 0,32€/kWh) - 0,38€ (1200W)  
 **Costo 8 ore:** 2,08€ (1000W) - 2,48€ (1200W)  
 **Costo mensile (8h/giorno):** €60-€80
 
@@ -229,7 +230,7 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 **Perché questo modello:** 9000 BTU per stanze fino a 35mq, pompa di calore (riscalda d'inverno), classe energetica A, deumidificatore integrato, controllo WiFi da app
 
 **Perché sceglierlo:**  
-- Consumo: **0,26€/ora** (2,08€ per 8 ore)  
+- Consumo: **0,32€/ora** (2,56€ per 8 ore)  
 - Abbassamento reale fino a 10°C  
 - Funzione deumidificatore (2 litri/ora)  
 - Wifi + app per programmare da remoto  
@@ -250,7 +251,7 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 
 - **Ventilatore** (€18-€35): Per chi cerca il minimo consumo (0,01€/ora)  
 - **Raffrescatore evaporativo** (€89-€135): Per chi vuole abbassare temperatura reale senza spendere come un climatizzatore (0,02-0,03€/ora)  
-- **Climatizzatore portatile** (€240): Per chi ha bisogno di abbassamento reale e rapido, e budget non è un problema (0,26€/ora)
+- **Climatizzatore portatile** (€240): Per chi ha bisogno di abbassamento reale e rapido, e budget non è un problema (0,32-0,38€/ora)
 
 **Il mio consiglio:**
 - Se vivi in **clima secco** (lago, nord Italia): **raffrescatore evaporativo** → risparmio €2,00/ora rispetto al climatizzatore

@@ -2,6 +2,7 @@
 title: "Condizionatore portatile senza tubo: funziona davvero? Cosa sono e alternative nel 2026"
 slug: "condizionatore-portatile-senza-tubo"
 date: 2026-09-21T09:05:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Condizionatore portatile senza tubo: esiste davvero? Differenza tra raffrescatore evaporativo e climatizzatore, consumi in euro, modelli reali (De'Longhi, Olimpia Splendid) e alternative."
 categories: ["raffrescamento"]
@@ -44,13 +45,13 @@ Chi vuole davvero raffreddare senza unità esterna ha due strade: il portatile c
 
 ### Quanto si risparmia davvero
 
-Nessun portatile fa risparmiare rispetto a uno split: la differenza sta nel costo iniziale e nella semplicità. Ecco il confronto per una stanza da 25 mq con circa 400 ore di utilizzo l'anno, a 0,28 €/kWh (stima indicativa settembre 2026):
+Nessun portatile fa risparmiare rispetto a uno split: la differenza sta nel costo iniziale e nella semplicità. Ecco il confronto per una stanza da 25 mq con circa 400 ore di utilizzo l'anno, a 0,32 €/kWh (prezzo medio tutto compreso, settembre 2026):
 
-- **Portatile con tubo** (circa 1,1 kW assorbiti): 440 kWh × 0,28 = **circa 123 euro/anno**. I portatili assorbono in media circa il 20% in più di uno split di pari potenza, perché il tubo richiama aria calda dall'esterno.
-- **Split inverter** (circa 0,5 kW): 200 kWh × 0,28 = **circa 56 euro/anno**
-- **Raffrescatore evaporativo** (circa 65 W): 26 kWh × 0,28 = **circa 7 euro/anno**
+- **Portatile con tubo** (circa 1,1 kW assorbiti): 440 kWh × 0,32 = **circa 141 euro/anno**. I portatili assorbono in media circa il 20% in più di uno split di pari potenza, perché il tubo richiama aria calda dall'esterno.
+- **Split inverter** (circa 0,5 kW): 200 kWh × 0,32 = **circa 64 euro/anno**
+- **Raffrescatore evaporativo** (circa 65 W): 26 kWh × 0,32 = **circa 8 euro/anno**
 
-Il raffrescatore costa pochissimo da far funzionare, ma consuma poco proprio perché **raffredda poco**. Il portatile con tubo costa circa 67 euro l'anno in più dello split, ma se lo monti tu in cinque minuti e lo usi in una sola stanza, il conto complessivo (nessuna installazione, nessun permesso) può comunque tornare, soprattutto in affitto. Se lo userai ogni estate per più di qualche anno e puoi installare uno split, quest'ultimo si ripaga.
+Il raffrescatore costa pochissimo da far funzionare, ma consuma poco proprio perché **raffredda poco**. Il portatile con tubo costa circa 77 euro l'anno in più dello split, ma se lo monti tu in cinque minuti e lo usi in una sola stanza, il conto complessivo (nessuna installazione, nessun permesso) può comunque tornare, soprattutto in affitto. Se lo userai ogni estate per più di qualche anno e puoi installare uno split, quest'ultimo si ripaga.
 
 ### Incentivi disponibili
 

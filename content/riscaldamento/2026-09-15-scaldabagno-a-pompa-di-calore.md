@@ -2,6 +2,7 @@
 title: "Scaldabagno a pompa di calore: quanto si risparmia e i modelli migliori (Guida 2026)"
 slug: "scaldabagno-a-pompa-di-calore"
 date: 2026-09-15T10:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Scaldabagno a pompa di calore 2026: come funziona, quanto costa, modelli migliori (Ariston, Ferroli, Immergas) e quanto si risparmia davvero in bolletta."
 categories: ["riscaldamento"]
@@ -44,13 +45,13 @@ Il prezzo del prodotto non include l'installazione (collegamento idraulico ed el
 
 Ipotesi: famiglia di 3-4 persone, boiler elettrico tradizionale da 80 litri sostituito con uno scaldabagno a pompa di calore da 110 litri, consumo medio di acqua calda stimato in circa 3.500 kWh/anno equivalenti con il vecchio boiler elettrico.
 
-- Consumo con boiler elettrico tradizionale: circa 3.500 kWh/anno × €0,28/kWh (PUN + oneri, tariffa tutelata 2026) = **€980/anno**
-- Consumo con scaldabagno a pompa di calore (COP medio stagionale 3,2): circa 1.100 kWh/anno × €0,28/kWh = **€310/anno**
-- Risparmio annuo in bolletta: **circa €670**
+- Consumo con boiler elettrico tradizionale: circa 3.500 kWh/anno × €0,32/kWh (prezzo medio tutto compreso, settembre 2026) = **€1.120/anno**
+- Consumo con scaldabagno a pompa di calore (COP medio stagionale 3,2): circa 1.100 kWh/anno × €0,32/kWh = **€352/anno**
+- Risparmio annuo in bolletta: **circa €770**
 - Costo apparecchio + installazione: circa €1.300 (Ariston Nuos Evo 110L + posa in opera)
 - Contributo Conto Termico 3.0 (65% su una spesa ammissibile stimata di €1.000): circa €650 a fondo perduto
 - Costo netto dopo l'incentivo: circa €650
-- Tempo di rientro: **circa 1 anno**
+- Tempo di rientro: **meno di 1 anno**
 
 Chi invece sostituisce un boiler a gas (meno diretto, perché cambia il vettore energetico) deve confrontare il costo del gas risparmiato con la nuova spesa elettrica: il risparmio economico è generalmente più contenuto, mentre resta netto il vantaggio di eliminare una fiamma libera in casa e i relativi controlli di sicurezza sulla canna fumaria.
 

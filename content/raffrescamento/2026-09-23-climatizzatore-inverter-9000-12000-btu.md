@@ -2,6 +2,7 @@
 title: "Climatizzatore inverter 9000 e 12000 BTU: come scegliere e quali marche sono le migliori"
 slug: "climatizzatore-inverter-9000-12000-btu"
 date: 2026-09-23T09:05:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Climatizzatore inverter 9000 o 12000 BTU: come scegliere la taglia giusta, le marche migliori nel 2026, quanto si risparmia rispetto a un modello on/off e le detrazioni disponibili."
 categories: ["raffrescamento"]
@@ -41,9 +42,9 @@ I marchi premium — Daikin, Mitsubishi Electric, Samsung WindFree, LG DualCool 
 
 Facciamo un confronto reale su un 12000 BTU usato per **6 ore al giorno, per 90 giorni** (giugno-agosto), tra un modello inverter di classe A++ recente e un vecchio climatizzatore on/off di classe A, ancora comune nelle case italiane con più di 10-12 anni:
 
-- **Inverter A++ (potenza assorbita media in modulazione)**: circa 1,0 kW → 6h × 1,0 kW = 6 kWh/giorno × 90 giorni = **540 kWh** → a €0,28/kWh = **€151,20/stagione**
-- **On/off classe A datato (cicli continui a piena potenza)**: circa 1,4 kW → 6h × 1,4 kW = 8,4 kWh/giorno × 90 giorni = **756 kWh** → a €0,28/kWh = **€211,68/stagione**
-- **Risparmio stagionale**: circa **€60/anno** solo di energia, che nel giro di 5-6 stagioni ripaga da solo la differenza di prezzo tra i due modelli
+- **Inverter A++ (potenza assorbita media in modulazione)**: circa 1,0 kW → 6h × 1,0 kW = 6 kWh/giorno × 90 giorni = **540 kWh** → a €0,32/kWh (tutto compreso, settembre 2026) = **€172,80/stagione**
+- **On/off classe A datato (cicli continui a piena potenza)**: circa 1,4 kW → 6h × 1,4 kW = 8,4 kWh/giorno × 90 giorni = **756 kWh** → a €0,32/kWh = **€241,92/stagione**
+- **Risparmio stagionale**: circa **€70/anno** solo di energia, che nel giro di 5-6 stagioni ripaga da solo la differenza di prezzo tra i due modelli
 
 Il conto migliora ulteriormente se il climatizzatore vecchio viene usato anche in inverno come pompa di calore accessoria: un inverter reversibile A+++ moderno consuma sensibilmente meno di un impianto datato anche fuori stagione estiva. Per un confronto sui consumi di riscaldamento con pompa di calore vera e propria, vedi la guida a [pompa di calore prezzi 2026](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
 

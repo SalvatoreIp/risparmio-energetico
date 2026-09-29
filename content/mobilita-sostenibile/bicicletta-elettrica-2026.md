@@ -189,7 +189,7 @@ La bicicletta elettrica è uno degli investimenti più convenienti per la mobili
 
 ### Costo annuale bicicletta elettrica
 - **Acquisto**: €1.200-2.000 (amortizzabile in 5-7 anni = €170-400/anno)
-- **Ricarica**: 10 km × 0,015 kWh/km × €0,25/kWh × 300 giorni = **€11,25/anno**
+- **Ricarica**: 10 km × 0,015 kWh/km × €0,32/kWh × 300 giorni = **€14,40/anno**
 - **Assicurazione (opzionale)**: €50/anno
 - **Manutenzione**: €100/anno (pneumatici, catena, freni)
 

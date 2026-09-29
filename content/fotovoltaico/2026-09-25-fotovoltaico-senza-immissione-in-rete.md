@@ -2,6 +2,7 @@
 title: "Fotovoltaico senza immissione in rete: cos'è, come funziona e quando conviene (2026)"
 slug: "fotovoltaico-senza-immissione-in-rete"
 date: 2026-09-25T09:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Fotovoltaico senza immissione in rete nel 2026: differenza tra impianto a zero immissione e off-grid, migliori kit con smart plug e calcolo del risparmio reale."
 categories: ["fotovoltaico"]
@@ -40,9 +41,9 @@ Vanno distinte due configurazioni molto diverse tra loro, spesso confuse online.
 
 ### Quanto si risparmia davvero
 
-**Caso 1 — kit senza batteria (solo smart plug).** Due pannelli da 400W con microinverter, produzione stimata 700 kWh/anno (balcone esposto a sud, Nord Italia). Grazie al controllo zero immissione la produzione viene limitata al consumo istantaneo della casa, quindi l'autoconsumo è quasi totale ma il surplus nei momenti di bassi consumi va perso: stima realistica 600 kWh/anno effettivamente autoconsumati. Con un costo dell'energia di €0,28/kWh: 600 × 0,28 = **€168/anno di risparmio**. Costo del kit circa €700-800: rientro in **4-5 anni**.
+**Caso 1 — kit senza batteria (solo smart plug).** Due pannelli da 400W con microinverter, produzione stimata 700 kWh/anno (balcone esposto a sud, Nord Italia). Grazie al controllo zero immissione la produzione viene limitata al consumo istantaneo della casa, quindi l'autoconsumo è quasi totale ma il surplus nei momenti di bassi consumi va perso: stima realistica 600 kWh/anno effettivamente autoconsumati. Con un costo dell'energia di €0,32/kWh (prezzo medio tutto compreso, settembre 2026): 600 × 0,32 = **€192/anno di risparmio**. Costo del kit circa €700-800: rientro in **circa 4 anni**.
 
-**Caso 2 — stesso kit con batteria (es. Solarbank 2 o PowerStream con DELTA 2).** La batteria assorbe il surplus di mezzogiorno e lo restituisce alla sera: autoconsumo stimato 900 kWh/anno su una produzione di 1.000 kWh. Risparmio: 900 × 0,28 = **€252/anno**. Costo del kit circa €1.200: rientro in circa **5 anni**, ma con un impianto che copre una quota più stabile dei consumi serali, quando le tariffe sono più care.
+**Caso 2 — stesso kit con batteria (es. Solarbank 2 o PowerStream con DELTA 2).** La batteria assorbe il surplus di mezzogiorno e lo restituisce alla sera: autoconsumo stimato circa 670 kWh/anno sui 700 prodotti. Risparmio: 670 × 0,32 = **€214/anno**. Costo del kit circa €1.200: rientro in circa **5-6 anni**, ma con un impianto che copre una quota più stabile dei consumi serali, quando le tariffe sono più care.
 
 Per chi valuta invece un impianto tradizionale con immissione in rete e vendita del surplus, il confronto completo con i costi di un impianto chiavi in mano è nella guida [impianto fotovoltaico con accumulo](/fotovoltaico/impianto-fotovoltaico-con-accumulo/); per decidere tra le due strade vedi anche [fotovoltaico con accumulo: pro e contro](/fotovoltaico/fotovoltaico-pro-e-contro-accumulo/).
 

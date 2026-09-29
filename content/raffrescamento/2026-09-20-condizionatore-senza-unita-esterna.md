@@ -2,6 +2,7 @@
 title: "Condizionatore senza unità esterna: come funziona, svantaggi e modelli reali nel 2026"
 slug: "condizionatore-senza-unita-esterna"
 date: 2026-09-20T09:05:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Condizionatore senza unità esterna nel 2026: come funziona il monoblocco, svantaggi, consumi in euro rispetto allo split, modelli reali (Olimpia Splendid, Diloc, Innova) e detrazioni."
 categories: ["raffrescamento"]
@@ -48,12 +49,12 @@ Un condizionatore monoblocco solo freddo costa in genere 500-700 euro, mentre i 
 
 Il monoblocco non fa risparmiare in bolletta rispetto a uno split: costa di più da far funzionare. Il vantaggio è nel **costo di installazione** e nella possibilità stessa di installarlo. Facciamo i conti su una stanza da 25 mq con circa 400 ore di raffrescamento all'anno (stima prudente per il Centro-Nord) e 2,6 kW di potenza frigorifera:
 
-- **Monoblocco inverter** (EER ~2,6): assorbe circa 1 kW → 400 kWh × €0,28/kWh = **€112/anno**
-- **Split inverter A++** (EER ~5): assorbe circa 0,5 kW → 200 kWh × €0,28/kWh = **€56/anno**
-- **Differenza di consumo**: circa **€56/anno** in più con il monoblocco
+- **Monoblocco inverter** (EER ~2,6): assorbe circa 1 kW → 400 kWh × €0,32/kWh = **€128/anno**
+- **Split inverter A++** (EER ~5): assorbe circa 0,5 kW → 200 kWh × €0,32/kWh = **€64/anno**
+- **Differenza di consumo**: circa **€64/anno** in più con il monoblocco (luce a 0,32 €/kWh tutto compreso, settembre 2026)
 - **Installazione**: mediamente 150-300 euro per il monoblocco (due carotaggi) contro 500-900 euro per uno split con unità esterna e tubazioni (stima indicativa, dipende dal contesto)
 
-Su 10 anni il monoblocco costa circa 560 euro in più di energia, ma fa risparmiare 300-600 euro sull'installazione: **il conto è quasi in pareggio**, e diventa favorevole se lo usi poche settimane l'anno o se lo split non è installabile. Se invece lo usi molto (Sud Italia, stanza esposta) e puoi installare l'unità esterna, lo split resta più conveniente. Per la scelta dell'inverter e dei BTU trovi utili indicazioni nel nostro confronto tra [pompa di calore e costi](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
+Su 10 anni il monoblocco costa circa 640 euro in più di energia, ma fa risparmiare 300-600 euro sull'installazione: **il conto è quasi in pareggio**, e diventa favorevole se lo usi poche settimane l'anno o se lo split non è installabile. Se invece lo usi molto (Sud Italia, stanza esposta) e puoi installare l'unità esterna, lo split resta più conveniente. Per la scelta dell'inverter e dei BTU trovi utili indicazioni nel nostro confronto tra [pompa di calore e costi](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
 
 ### Incentivi disponibili 2026
 

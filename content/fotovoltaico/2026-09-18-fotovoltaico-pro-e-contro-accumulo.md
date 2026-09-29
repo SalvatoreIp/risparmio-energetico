@@ -2,6 +2,7 @@
 title: "Fotovoltaico con accumulo: pro e contro, conviene davvero nel 2026?"
 slug: "fotovoltaico-pro-e-contro-accumulo"
 date: 2026-09-18T10:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Fotovoltaico con accumulo 2026: vantaggi e svantaggi reali, quanto costa in più rispetto a un impianto senza batteria e quando conviene davvero installarlo."
 categories: ["fotovoltaico"]
@@ -43,24 +44,24 @@ Se dopo aver valutato pro e contro scegli di aggiungere l'accumulo, questi sono 
 
 ### Quanto si risparmia davvero
 
-Confrontiamo lo stesso impianto da 6 kW (produzione annua stimata 7.800 kWh) per una famiglia con consumo annuo di 3.500 kWh, con e senza batteria da 5 kWh. Prezzo energia da rete €0,28/kWh, prezzo di vendita del surplus in Ritiro Dedicato circa €0,08/kWh.
+Confrontiamo lo stesso impianto da 6 kW (produzione annua stimata 7.800 kWh) per una famiglia con consumo annuo di 3.500 kWh, con e senza batteria da 5 kWh. Prezzo energia da rete €0,32/kWh (prezzo medio tutto compreso, settembre 2026), prezzo di vendita del surplus in Ritiro Dedicato circa €0,10/kWh (stima prudente: il Ritiro Dedicato paga il prezzo di mercato dell'ora, che a settembre 2026 è in media sopra 0,20 €/kWh ma nelle ore di sole è più basso).
 
 **Senza accumulo (autoconsumo tipico 30%)**
-- Energia acquistata dalla rete: 2.450 kWh × €0,28 = **€686/anno**
-- Eccedenza venduta: 6.750 kWh × €0,08 = **€540/anno** di ricavo
+- Energia acquistata dalla rete: 2.450 kWh × €0,32 = **€784/anno**
+- Eccedenza venduta: 6.750 kWh × €0,10 = **€675/anno** di ricavo
 - Costo impianto senza batteria: circa €7.000 chiavi in mano
 
 **Con accumulo da 5 kWh (autoconsumo che sale al 70%)**
-- Energia acquistata dalla rete: 1.050 kWh × €0,28 = **€294/anno**
-- Eccedenza venduta: 5.350 kWh × €0,08 = **€428/anno** di ricavo
+- Energia acquistata dalla rete: 1.050 kWh × €0,32 = **€336/anno**
+- Eccedenza venduta: 5.350 kWh × €0,10 = **€535/anno** di ricavo
 - Costo impianto con batteria: circa €10.800 chiavi in mano (+€3.800 rispetto alla sola versione senza accumulo)
 
 **Il conto della batteria da sola**
-- Bolletta evitata in più: €686 - €294 = €392/anno
-- Ricavo da vendita in meno: €540 - €428 = -€112/anno
-- Vantaggio netto annuo dell'accumulo: circa **€280/anno**
+- Bolletta evitata in più: €784 - €336 = €448/anno
+- Ricavo da vendita in meno: €675 - €535 = -€140/anno
+- Vantaggio netto annuo dell'accumulo: circa **€310/anno**
 - Costo netto della sola batteria dopo il Bonus Ristrutturazioni 50%: circa €1.900
-- Tempo di rientro della sola batteria: **circa 6-7 anni**
+- Tempo di rientro della sola batteria: **circa 6 anni**
 
 Il calcolo mostra bene il punto chiave: l'accumulo non è mai in perdita a lungo termine (la vita utile della batteria, 10-15 anni, supera sempre il tempo di rientro), ma il vantaggio è tanto più veloce quanto più alti sono i consumi serali. Una famiglia con pompa di calore o auto elettrica ricaricata di notte può vedere il rientro scendere a 4-5 anni; una famiglia con consumi bassi e regolari durante il giorno, invece, potrebbe preferire installare prima i soli pannelli e valutare l'accumulo in un secondo momento, magari quando il prezzo delle batterie scenderà ulteriormente.
 

@@ -2,6 +2,7 @@
 title: "Impianto fotovoltaico con accumulo: quanto costa un sistema chiavi in mano (2026)"
 slug: "impianto-fotovoltaico-con-accumulo"
 date: 2026-09-15T17:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Impianto fotovoltaico con accumulo 2026: prezzi chiavi in mano per taglia (3 kW, 6 kW, 10 kW), come scegliere la potenza giusta e quanto si risparmia davvero."
 categories: ["fotovoltaico"]
@@ -41,24 +42,24 @@ Prezzi indicativi chiavi in mano, IVA agevolata al 10% inclusa per la prima casa
 
 ### Quanto si risparmia davvero
 
-Ipotesi: famiglia di 4 persone con pompa di calore, consumo elettrico annuo di 4.500 kWh, configurazione "Standard" (6 kW + 10 kWh), prezzo energia da rete €0,28/kWh, prezzo di vendita del surplus in Ritiro Dedicato circa €0,08/kWh.
+Ipotesi: famiglia di 4 persone con pompa di calore, consumo elettrico annuo di 4.500 kWh, configurazione "Standard" (6 kW + 10 kWh), prezzo energia da rete €0,32/kWh (prezzo medio tutto compreso, settembre 2026), prezzo di vendita del surplus in Ritiro Dedicato circa €0,10/kWh (stima prudente: il Ritiro Dedicato paga il prezzo di mercato dell'ora, che a settembre 2026 è in media sopra 0,20 €/kWh ma nelle ore di sole è più basso).
 
 **Senza impianto fotovoltaico**
-- Tutta l'energia acquistata dalla rete: 4.500 kWh × €0,28 = **€1.260/anno**
+- Tutta l'energia acquistata dalla rete: 4.500 kWh × €0,32 = **€1.440/anno**
 
 **Con impianto 6 kW + batteria 10 kWh (autoconsumo stimato 85% del fabbisogno grazie alla batteria)**
 - Produzione annua stimata dell'impianto: circa 7.800 kWh
 - Energia autoconsumata (diretta + da batteria): circa 3.825 kWh
-- Energia ancora acquistata dalla rete: 675 kWh × €0,28 = **€189/anno**
-- Surplus venduto al gestore: 3.975 kWh × €0,08 = **€318/anno** di ricavo
-- Costo netto energia con l'impianto: €189 - €318 = **-€129/anno** (bolletta azzerata e piccolo guadagno)
+- Energia ancora acquistata dalla rete: 675 kWh × €0,32 = **€216/anno**
+- Surplus venduto al gestore: 3.975 kWh × €0,10 = **€398/anno** di ricavo
+- Costo netto energia con l'impianto: €216 - €398 = **-€182/anno** (bolletta azzerata e piccolo guadagno)
 
 **Bilancio dell'investimento**
-- Risparmio complessivo rispetto a "senza impianto": €1.260 + €129 = **circa €1.390/anno**
+- Risparmio complessivo rispetto a "senza impianto": €1.440 + €182 = **circa €1.620/anno**
 - Costo impianto chiavi in mano: circa €13.000 (fascia media della configurazione Standard)
 - Bonus Ristrutturazioni 50% (prima casa): circa €6.500 a detrazione
 - Costo netto dopo l'incentivo: circa €6.500
-- Tempo di rientro: **circa 5 anni**, su una vita utile dell'impianto di 25-30 anni (la batteria si sostituisce mediamente dopo 10-15 anni)
+- Tempo di rientro: **circa 4 anni**, su una vita utile dell'impianto di 25-30 anni (la batteria si sostituisce mediamente dopo 10-15 anni)
 
 Chi ha consumi più bassi o non ha ancora una pompa di calore ottiene un autoconsumo più contenuto (60-70%) e un rientro leggermente più lungo; vale comunque la pena farsi fare un preventivo con il consumo reale delle ultime bollette, non con stime generiche.
 

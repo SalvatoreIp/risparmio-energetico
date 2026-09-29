@@ -144,7 +144,7 @@ I consigli pratici:
 **Sistema base (15 W, 12 ore/giorno):**
 - Consumo giornaliero: 0,18 kWh
 - Consumo annuale: 65,7 kWh
-- **Costo annuale (€0,25/kWh): €16,40**
+- **Costo annuale (€0,32/kWh, settembre 2026): €21,00**
 
 **Sistema medio (30 W, 14 ore/giorno):**
 - Consumo giornaliero: 0,42 kWh

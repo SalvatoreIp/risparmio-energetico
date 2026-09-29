@@ -2,6 +2,7 @@
 title: "Batteria di accumulo fotovoltaico: quanto costa e quanto conviene nel 2026"
 slug: "batteria-accumulo-fotovoltaico"
 date: 2026-09-15T14:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Batteria di accumulo fotovoltaico 2026: come funziona, modelli migliori (Pylontech, Huawei, Tesla), prezzi reali e quanto si risparmia davvero in bolletta."
 categories: ["fotovoltaico"]
@@ -43,26 +44,26 @@ I prezzi indicati sono del solo modulo batteria (IVA inclusa): vanno sommati inv
 
 ### Quanto si risparmia davvero
 
-Ipotesi: impianto fotovoltaico da 6 kW (produzione annua stimata 7.800 kWh), famiglia con consumo annuo di 3.500 kWh, prezzo energia acquistata dalla rete €0,28/kWh, prezzo di vendita dell'eccedenza in Ritiro Dedicato circa €0,08/kWh.
+Ipotesi: impianto fotovoltaico da 6 kW (produzione annua stimata 7.800 kWh), famiglia con consumo annuo di 3.500 kWh, prezzo energia acquistata dalla rete €0,32/kWh (prezzo medio tutto compreso, settembre 2026), prezzo di vendita dell'eccedenza in Ritiro Dedicato circa €0,10/kWh (stima prudente: il Ritiro Dedicato paga il prezzo di mercato dell'ora, che a settembre 2026 è in media sopra 0,20 €/kWh ma nelle ore di sole è più basso).
 
 **Senza batteria (autoconsumo tipico 30%)**
 - Energia autoconsumata direttamente: circa 1.050 kWh
-- Energia acquistata dalla rete: 2.450 kWh × €0,28 = **€686/anno**
-- Eccedenza venduta: 6.750 kWh × €0,08 = **€540/anno** di ricavo
+- Energia acquistata dalla rete: 2.450 kWh × €0,32 = **€784/anno**
+- Eccedenza venduta: 6.750 kWh × €0,10 = **€675/anno** di ricavo
 
 **Con batteria da 5 kWh (autoconsumo che sale al 70%)**
 - Energia autoconsumata (diretta + da batteria): circa 2.450 kWh
-- Energia acquistata dalla rete: 1.050 kWh × €0,28 = **€294/anno**
-- Eccedenza venduta (si riduce, perché più energia resta in casa): 5.350 kWh × €0,08 = **€428/anno** di ricavo
+- Energia acquistata dalla rete: 1.050 kWh × €0,32 = **€336/anno**
+- Eccedenza venduta (si riduce, perché più energia resta in casa): 5.350 kWh × €0,10 = **€535/anno** di ricavo
 
 **Beneficio aggiuntivo della batteria**
-- Bolletta evitata in più: €686 - €294 = €392/anno
-- Ricavo da vendita in meno: €540 - €428 = -€112/anno
-- Vantaggio netto annuo: circa **€280/anno**
+- Bolletta evitata in più: €784 - €336 = €448/anno
+- Ricavo da vendita in meno: €675 - €535 = -€140/anno
+- Vantaggio netto annuo: circa **€310/anno**
 - Costo batteria 5 kWh installata (modulo + inverter + manodopera): circa €3.800
 - Contributo Bonus Ristrutturazioni 50% (prima casa): circa €1.900
 - Costo netto dopo l'incentivo: circa €1.900
-- Tempo di rientro: **circa 6-7 anni**, ben all'interno della vita utile della batteria (10-15 anni)
+- Tempo di rientro: **circa 6 anni**, ben all'interno della vita utile della batteria (10-15 anni)
 
 Chi ha consumi serali più alti (pompa di calore, auto elettrica ricaricata di notte) ottiene un autoconsumo ancora maggiore e un rientro più rapido; chi consuma poco la sera, viceversa, potrebbe trovare più conveniente restare senza batteria e valutare solo in un secondo momento.
 

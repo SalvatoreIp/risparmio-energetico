@@ -2,6 +2,7 @@
 title: "Funzione deumidificatore del condizionatore: consuma meno? Confronto con il deumidificatore"
 slug: "condizionatore-funzione-deumidificatore"
 date: 2026-09-22T09:05:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "La funzione deumidificatore del condizionatore consuma meno del raffrescamento, ma più di un deumidificatore dedicato. Confronto in euro, quando conviene l'uno o l'altro e modelli reali."
 categories: ["raffrescamento"]
@@ -43,9 +44,9 @@ Un deumidificatore per uso domestico costa tra 100 e 400 euro a seconda della ca
 
 Facciamo un caso concreto: una camera da letto umida (piano basso o vicino al giardino) dove serve deumidificare per **3 ore ogni notte, per 90 notti** (giugno-agosto), con un condizionatore split da 9.000 BTU e un deumidificatore da 12 L/giorno come il Comfee della tabella.
 
-- **Condizionatore in modalità dry**: assorbe in media circa 0,4 kW → 3h × 0,4 kW = 1,2 kWh/notte × 90 notti = **108 kWh** → a €0,28/kWh = **€30,24/anno**
-- **Deumidificatore dedicato**: assorbe in media circa 0,25 kW (funzionamento intermittente incluso) → 3h × 0,25 kW = 0,75 kWh/notte × 90 notti = **67,5 kWh** → a €0,28/kWh = **€18,90/anno**
-- **Differenza**: circa **€11/anno** a favore del deumidificatore, solo per questo uso notturno
+- **Condizionatore in modalità dry**: assorbe in media circa 0,4 kW → 3h × 0,4 kW = 1,2 kWh/notte × 90 notti = **108 kWh** → a €0,32/kWh (tutto compreso, settembre 2026) = **€34,56/anno**
+- **Deumidificatore dedicato**: assorbe in media circa 0,25 kW (funzionamento intermittente incluso) → 3h × 0,25 kW = 0,75 kWh/notte × 90 notti = **67,5 kWh** → a €0,32/kWh = **€21,60/anno**
+- **Differenza**: circa **€13/anno** a favore del deumidificatore, solo per questo uso notturno
 
 Il risparmio in bolletta da solo non ripaga in tempi brevi un deumidificatore da 120-190 euro se lo usi solo per poche ore a notte. Il conto cambia se in casa hai un problema di umidità più ampio: cantina, bucato steso in casa d'inverno, muffa su una parete. In quei casi il deumidificatore lavora molte più ore all'anno (anche tutto l'anno) e il condizionatore non è nemmeno un'alternativa praticabile fuori stagione, perché serve comunque una pompa di calore attiva. Per un consumo di riferimento più ampio sui climatizzatori con pompa di calore, guarda il nostro approfondimento su [pompa di calore prezzi 2026](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/).
 

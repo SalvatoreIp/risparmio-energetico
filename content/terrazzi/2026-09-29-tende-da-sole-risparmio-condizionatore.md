@@ -43,15 +43,15 @@ Su Amazon.it si trovano marchi generalisti da bricolage/outdoor, non i grandi pr
 
 ### Quanto si risparmia davvero
 
-Prendiamo come riferimento il calcolo già fatto nella guida al [climatizzatore inverter 9000/12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/): un 12000 BTU inverter A++ usato 6 ore al giorno per 90 giorni (giugno-agosto) consuma circa 540 kWh a stagione, pari a **€151,20** a €0,28/kWh.
+Prendiamo come riferimento il calcolo già fatto nella guida al [climatizzatore inverter 9000/12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/): un 12000 BTU inverter A++ usato 6 ore al giorno per 90 giorni (giugno-agosto) consuma circa 540 kWh a stagione, pari a **€172,80** a €0,32/kWh (prezzo medio tutto compreso, settembre 2026).
 
 Le stime di settore su schermature solari esterne (tende, tende a bracci, pergole) indicano una riduzione del fabbisogno di raffrescamento fino al 35% quando la superficie vetrata esposta a sud/ovest è ben schermata. Restando su un valore prudente e realistico per una singola porta finestra o balcone (non tutta la casa), possiamo stimare una **riduzione del 20-25%** delle ore di funzionamento a piena richiesta del condizionatore in quella stanza:
 
-- Consumo stagionale senza schermatura: 540 kWh → **€151,20**
-- Consumo stagionale con tenda da sole efficace (riduzione 25%): 405 kWh → **€113,40**
-- **Risparmio stagionale stimato: circa €38/anno** sulla singola stanza schermata
+- Consumo stagionale senza schermatura: 540 kWh → **€172,80**
+- Consumo stagionale con tenda da sole efficace (riduzione 25%): 405 kWh → **€129,60**
+- **Risparmio stagionale stimato: circa €43/anno** sulla singola stanza schermata
 
-Non è una cifra enorme da sola, ma si aggiunge al fatto che una tenda protegge l'arredo dal sole e rende il terrazzo usabile nelle ore centrali della giornata. Con un modello a bracci da circa 150-200€ installato in fai-da-te, il rientro sul solo risparmio energetico è di 4-5 stagioni: più corto con più stanze esposte a sud/ovest. Combinata con i trucchi gratuiti della guida a [come rinfrescare casa senza condizionatore](/raffrescamento/rinfrescare-casa-senza-condizionatore/), l'effetto cresce ulteriormente.
+Non è una cifra enorme da sola, ma si aggiunge al fatto che una tenda protegge l'arredo dal sole e rende il terrazzo usabile nelle ore centrali della giornata. Con un modello a bracci da circa 150-200€ installato in fai-da-te, il rientro sul solo risparmio energetico è di circa 4 stagioni: più corto con più stanze esposte a sud/ovest. Combinata con i trucchi gratuiti della guida a [come rinfrescare casa senza condizionatore](/raffrescamento/rinfrescare-casa-senza-condizionatore/), l'effetto cresce ulteriormente.
 
 ### Incentivi disponibili 2026
 

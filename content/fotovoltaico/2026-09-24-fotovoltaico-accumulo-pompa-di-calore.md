@@ -2,6 +2,7 @@
 title: "Fotovoltaico con accumulo e pompa di calore: come abbinarli per il massimo risparmio (2026)"
 slug: "fotovoltaico-accumulo-pompa-di-calore"
 date: 2026-09-24T09:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Come far lavorare insieme fotovoltaico, batteria di accumulo e pompa di calore nel 2026: strategie di coordinamento, dispositivi di gestione carichi e quanto si risparmia davvero rispetto a due impianti scollegati."
 categories: ["fotovoltaico"]
@@ -44,21 +45,21 @@ Non serve sempre sostituire l'impianto: spesso basta aggiungere un dispositivo d
 
 ### Quanto si risparmia davvero
 
-Ipotesi: famiglia che ha già un impianto fotovoltaico da 6 kW con batteria da 10 kWh (produzione stimata 7.800 kWh/anno) e una pompa di calore per il riscaldamento, con un fabbisogno elettrico complessivo di 5.500 kWh/anno (2.500 kWh di utenze domestiche + 3.000 kWh per il riscaldamento con pompa di calore, COP medio stagionale 3). Prezzo energia da rete €0,28/kWh, prezzo di vendita del surplus in Ritiro Dedicato €0,08/kWh.
+Ipotesi: famiglia che ha già un impianto fotovoltaico da 6 kW con batteria da 10 kWh (produzione stimata 7.800 kWh/anno) e una pompa di calore per il riscaldamento, con un fabbisogno elettrico complessivo di 5.500 kWh/anno (2.500 kWh di utenze domestiche + 3.000 kWh per il riscaldamento con pompa di calore, COP medio stagionale 3). Prezzo energia da rete €0,32/kWh (prezzo medio tutto compreso, settembre 2026), prezzo di vendita del surplus in Ritiro Dedicato circa €0,10/kWh (stima prudente: il Ritiro Dedicato paga il prezzo di mercato dell'ora, che a settembre 2026 è in media sopra 0,20 €/kWh ma nelle ore di sole è più basso).
 
 **Caso A — impianti non coordinati** (la pompa di calore si accende quando serve, senza tenere conto della produzione solare, la batteria copre solo la sera)
 - Autoconsumo stimato: 60% del fabbisogno, circa 3.300 kWh
-- Energia acquistata dalla rete: 2.200 kWh × €0,28 = **€616/anno**
-- Surplus venduto: 4.500 kWh × €0,08 = **€360/anno**
-- Costo netto energia: 616 - 360 = **€256/anno**
+- Energia acquistata dalla rete: 2.200 kWh × €0,32 = **€704/anno**
+- Surplus venduto: 4.500 kWh × €0,10 = **€450/anno**
+- Costo netto energia: 704 - 450 = **€254/anno**
 
 **Caso B — impianti coordinati** (pompa di calore programmata nelle ore centrali della giornata quando c'è produzione, batteria dimensionata sul resto del fabbisogno serale)
 - Autoconsumo stimato: 85% del fabbisogno, circa 4.675 kWh
-- Energia acquistata dalla rete: 825 kWh × €0,28 = **€231/anno**
-- Surplus venduto: 3.125 kWh × €0,08 = **€250/anno**
-- Costo netto energia: 231 - 250 = **-€19/anno** (bolletta azzerata con un piccolo guadagno)
+- Energia acquistata dalla rete: 825 kWh × €0,32 = **€264/anno**
+- Surplus venduto: 3.125 kWh × €0,10 = **€313/anno**
+- Costo netto energia: 264 - 313 = **-€49/anno** (bolletta azzerata con un piccolo guadagno)
 
-**Risparmio aggiuntivo dal solo coordinamento: circa 275 euro l'anno**, a fronte di un investimento in centralina di gestione carichi + installazione di circa 200-300 euro: il tempo di rientro è di **meno di un anno**, senza contare che una centralina come la Vemer Solar-3 o uno Shelly Pro EM restano utili anche per coordinare altri carichi (colonnina auto elettrica, lavatrice, scaldabagno).
+**Risparmio aggiuntivo dal solo coordinamento: circa 300 euro l'anno**, a fronte di un investimento in centralina di gestione carichi + installazione di circa 200-300 euro: il tempo di rientro è di **meno di un anno**, senza contare che una centralina come la Vemer Solar-3 o uno Shelly Pro EM restano utili anche per coordinare altri carichi (colonnina auto elettrica, lavatrice, scaldabagno).
 
 ### Incentivi disponibili 2026
 

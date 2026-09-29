@@ -2,6 +2,7 @@
 title: "Tesla Powerwall 3: prezzo, scheda tecnica e vale la pena nel 2026?"
 slug: "tesla-powerwall-3"
 date: 2026-09-16T10:00:00+02:00
+lastmod: 2026-09-29T23:30:00+02:00
 draft: false
 description: "Tesla Powerwall 3: prezzo aggiornato settembre 2026, scheda tecnica completa, confronto con il Powerwall 2 e calcolo reale di quanto si risparmia in bolletta."
 categories: ["fotovoltaico"]
@@ -44,26 +45,26 @@ Prezzi indicativi chiavi in mano (unità + Gateway + installazione + pratiche), 
 
 ### Quanto si risparmia davvero
 
-Ipotesi: famiglia di 4 persone con pompa di calore, impianto fotovoltaico da 6 kW (produzione annua stimata 7.800 kWh), consumo elettrico annuo di 4.500 kWh, prezzo energia acquistata dalla rete €0,28/kWh, prezzo di vendita dell'eccedenza in Ritiro Dedicato circa €0,08/kWh.
+Ipotesi: famiglia di 4 persone con pompa di calore, impianto fotovoltaico da 6 kW (produzione annua stimata 7.800 kWh), consumo elettrico annuo di 4.500 kWh, prezzo energia acquistata dalla rete €0,32/kWh (prezzo medio tutto compreso, settembre 2026), prezzo di vendita dell'eccedenza in Ritiro Dedicato circa €0,10/kWh (stima prudente: il Ritiro Dedicato paga il prezzo di mercato dell'ora, che a settembre 2026 è in media sopra 0,20 €/kWh ma nelle ore di sole è più basso).
 
 **Senza batteria (autoconsumo tipico 30%)**
 - Energia autoconsumata direttamente: circa 1.350 kWh
-- Energia acquistata dalla rete: 3.150 kWh × €0,28 = **€882/anno**
-- Eccedenza venduta: 6.450 kWh × €0,08 = **€516/anno** di ricavo
+- Energia acquistata dalla rete: 3.150 kWh × €0,32 = **€1.008/anno**
+- Eccedenza venduta: 6.450 kWh × €0,10 = **€645/anno** di ricavo
 
 **Con Powerwall 3 13,5 kWh (autoconsumo che sale al 90%, grazie all'elevata capacità e potenza)**
 - Energia autoconsumata (diretta + da batteria): circa 4.050 kWh
-- Energia acquistata dalla rete: 450 kWh × €0,28 = **€126/anno**
-- Eccedenza venduta (si riduce, perché quasi tutta l'energia resta in casa): 3.750 kWh × €0,08 = **€300/anno** di ricavo
+- Energia acquistata dalla rete: 450 kWh × €0,32 = **€144/anno**
+- Eccedenza venduta (si riduce, perché quasi tutta l'energia resta in casa): 3.750 kWh × €0,10 = **€375/anno** di ricavo
 
 **Beneficio aggiuntivo della batteria**
-- Bolletta evitata in più: €882 - €126 = €756/anno
-- Ricavo da vendita in meno: €516 - €300 = -€216/anno
-- Vantaggio netto annuo: circa **€540/anno**
+- Bolletta evitata in più: €1.008 - €144 = €864/anno
+- Ricavo da vendita in meno: €645 - €375 = -€270/anno
+- Vantaggio netto annuo: circa **€590/anno**
 - Costo Powerwall 3 chiavi in mano (unità + Gateway + installazione): circa €9.000
 - Bonus Ristrutturazioni 50% (prima casa), entro il tetto di €1.000/kWh (13,5 kWh × €1.000 = €13.500, spesa sotto il limite): circa €4.500 a detrazione
 - Costo netto dopo l'incentivo: circa €4.500
-- Tempo di rientro: **circa 8 anni**, entro la garanzia Tesla di 10 anni (70% di capacità residua garantita)
+- Tempo di rientro: **circa 7-8 anni**, entro la garanzia Tesla di 10 anni (70% di capacità residua garantita)
 
 Chi ha consumi serali più contenuti o un impianto fotovoltaico più piccolo di 6 kW farà fatica a "riempire" tutta la capacità del Powerwall 3: in quel caso una batteria modulare più piccola (5-10 kWh, vedi la guida alle batterie di accumulo) ha spesso un rientro più rapido. Il Powerwall 3 rende di più quando i consumi serali/notturni sono alti, ad esempio con pompa di calore o auto elettrica ricaricata di notte.
 

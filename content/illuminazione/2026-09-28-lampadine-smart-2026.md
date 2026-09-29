@@ -43,16 +43,16 @@ Per chi ha già Alexa o Google Home e vuole spendere il minimo, i Tapo restano i
 
 ### Quanto si risparmia davvero
 
-Il risparmio energetico "puro" da LED è già coperto nella nostra guida generale alle luci LED; qui vale la pena calcolare quanto tempo serve per rientrare dell'investimento nelle due impostazioni principali, ipotesi ricorrente in casa: **5 punti luce**, uso medio di 4 ore al giorno, tariffa elettrica di circa **0,28 €/kWh** (tariffa tutelata 2026, coerente con le altre guide del sito).
+Il risparmio energetico "puro" da LED è già coperto nella nostra guida generale alle luci LED; qui vale la pena calcolare quanto tempo serve per rientrare dell'investimento nelle due impostazioni principali, ipotesi ricorrente in casa: **5 punti luce**, uso medio di 4 ore al giorno, tariffa elettrica di circa **0,32 €/kWh** (prezzo medio tutto compreso, settembre 2026).
 
-- **Consumo con 5 lampadine alogene tradizionali da 40W**: 5 × 40W × 4h × 365 giorni = 292 kWh/anno × 0,28 € = **circa 82 €/anno**
-- **Consumo con 5 lampadine LED smart da 9W**: 5 × 9W × 4h × 365 giorni = 65,7 kWh/anno × 0,28 € = **circa 18 €/anno**
-- **Risparmio energetico annuo**: circa **64 €/anno**, indipendentemente dall'ecosistema scelto
+- **Consumo con 5 lampadine alogene tradizionali da 40W**: 5 × 40W × 4h × 365 giorni = 292 kWh/anno × 0,32 € = **circa 93 €/anno**
+- **Consumo con 5 lampadine LED smart da 9W**: 5 × 9W × 4h × 365 giorni = 65,7 kWh/anno × 0,32 € = **circa 21 €/anno**
+- **Risparmio energetico annuo**: circa **72 €/anno**, indipendentemente dall'ecosistema scelto
 
 A questo si aggiunge il tempo di rientro dell'investimento iniziale:
 
-- **5 Tapo L530E** (70 € circa): si ripagano in **70 ÷ 64 = circa 13 mesi**
-- **5 Philips Hue + Bridge** (233 € circa): si ripagano in **233 ÷ 64 = circa 3 anni e 8 mesi**
+- **5 Tapo L530E** (70 € circa): si ripagano in **70 ÷ 72 = circa 12 mesi**
+- **5 Philips Hue + Bridge** (233 € circa): si ripagano in **233 ÷ 72 = circa 3 anni e 3 mesi**
 
 La differenza non è nella qualità della luce, ma nel costo di ingresso dell'ecosistema. C'è poi un risparmio più difficile da quantificare ma reale: la programmazione automatica e lo spegnimento da remoto evitano gli sprechi da "luce dimenticata accesa", uno degli spreconi tipici descritti nella nostra guida ai [consumi fantasma in casa](/smart-home/consumi-fantasma-casa/) — con 2-3 punti luce dimenticati accesi un paio d'ore al giorno, il risparmio aggiuntivo si aggira sugli 8-10 €/anno.
 
