@@ -1,6 +1,7 @@
 ---
 title: "Fotovoltaico da tetto prezzi 2026: guida completa a costi e installazione"
 date: 2026-06-07T17:50:00+02:00
+lastmod: 2026-09-30T09:06:12+02:00
 draft: false
 description: "Guida completa ai prezzi del fotovoltaico da tetto nel 2026: costi installazione, incentivi, potenza e risparmio reale per ogni tipologia di impianto."
 categories: ["fotovoltaico"]
@@ -12,7 +13,17 @@ cover:
 
 ### Introduzione
 
-Installare un impianto fotovoltaico da tetto può ridurre la bolletta elettrica del 50-70%, con un risparmio annuale di 800-1.500 euro per una famiglia media. Con un investimento iniziale tra 8.000 e 15.000 euro (dopo incentivi), il ritorno è spesso inferiore a 6 anni, e con una vita utile di 25-30 anni, il risparmio totale può raggiungere i 10.000-20.000 euro nel ciclo di vita dell'impianto.
+Installare un impianto fotovoltaico da tetto può ridurre la bolletta elettrica del 50-70%. Per un impianto medio da 6 kWp il risparmio è di circa 1.200-1.300 euro l'anno (calcolo dettagliato più sotto), con un investimento netto di 4.000-5.500 euro dopo il Bonus Ristrutturazioni 50% e un ritorno in 3-4,5 anni. Su una vita utile di 25-30 anni, il risparmio totale può superare i 30.000 euro.
+
+<div class="in-breve">
+<strong>In breve (aggiornato a settembre 2026)</strong>
+<ul>
+<li><strong>Impianto da 6 kWp:</strong> 8.000-11.000 € chiavi in mano, 4.000-5.500 € netti dopo il Bonus Ristrutturazioni 50%.</li>
+<li><strong>Risparmio annuo:</strong> circa 1.250 € tra autoconsumo (a 0,32 €/kWh) e Ritiro Dedicato per l'energia immessa in rete (a circa 0,10 €/kWh).</li>
+<li><strong>Ritorno dell'investimento:</strong> 3-4,5 anni, non i 4-5 anni spesso citati con i vecchi prezzi della luce.</li>
+<li><strong>Attenzione:</strong> lo Scambio sul Posto è chiuso ai nuovi impianti dal 2015 — oggi l'energia immessa in rete si vende solo con il Ritiro Dedicato, a un prezzo molto più basso.</li>
+</ul>
+</div>
 
 ### Cos'è e come funziona un impianto fotovoltaico da tetto
 
@@ -74,19 +85,19 @@ Consideriamo un impianto da 6 kWp per una famiglia media di 4 persone:
 **Scenario tipico:**
 - Produzione annuale: 7.200-8.400 kWh (1.200-1.400 kWh/kWp)
 - Autoconsumo diretto: 30-40% (2.400-3.000 kWh)
-- Scambio sul posto: 60-70% (4.800-5.400 kWh)
-- Valore kWh autoconsumato: €0,25 (evitato)
-- Valore kWh scambiato: €0,12
+- Immesso in rete (Ritiro Dedicato): 60-70% (4.800-5.400 kWh)
+- Valore kWh autoconsumato: €0,32 (bolletta evitata, prezzo ARERA 3° trimestre 2026)
+- Valore kWh immesso in rete: €0,10 (Ritiro Dedicato, stima prudente)
 
 **Calcolo risparmio annuo:**
-- Risparmio autoconsumo: 2.400 kWh × €0,25 = €600
-- Detrazione scambio sul posto: 4.800 kWh × €0,12 = €576
-- **Risparmio totale annuo: €1.176**
+- Risparmio autoconsumo: 2.400 kWh × €0,32 = €768
+- Ricavo Ritiro Dedicato: 4.800 kWh × €0,10 = €480
+- **Risparmio totale annuo: €1.248**
 
-**Costo impianto:** €8.000-11.000 lordo, circa €4.750-5.500 al netto del Bonus Ristrutturazioni 50%
-**Ritorno investimento:** 4-5 anni
+**Costo impianto:** €8.000-11.000 lordo, circa €4.000-5.500 al netto del Bonus Ristrutturazioni 50%
+**Ritorno investimento:** 3-4,5 anni
 **Vita utile impianto:** 25-30 anni
-**Risparmio totale:** €22.000-€28.000
+**Risparmio totale:** circa €31.000-€37.000
 
 ### Incentivi disponibili 2026
 
@@ -94,14 +105,16 @@ Consideriamo un impianto da 6 kWp per una famiglia media di 4 persone:
 
 **IVA agevolata al 10%:** invece del 22% standard, per impianti fotovoltaici residenziali fino a 20 kW.
 
-**Scambio sul posto / Ritiro Dedicato:** il GSE riconosce un compenso per ogni kWh immesso in rete e non autoconsumato, con tariffe variabili in base all'orario e alla zona geografica — nettamente inferiori al prezzo di acquisto, per questo l'autoconsumo (eventualmente con batteria) resta la leva di risparmio principale.
+**Ritiro Dedicato:** per i nuovi impianti l'unico meccanismo disponibile per l'energia immessa in rete e non autoconsumata è il Ritiro Dedicato del GSE — lo Scambio sul Posto è chiuso alle nuove richieste dal 2015 e non va più presentato come opzione. Il GSE paga il maggiore tra un prezzo minimo garantito (4,75 centesimi/kWh nel 2026, sotto 1.500.000 kWh/anno) e il prezzo zonale orario: in pratica, tra i due, una media di circa 0,10 €/kWh (stima prudente) — nettamente inferiore al prezzo di acquisto della luce (0,32 €/kWh), per questo l'autoconsumo (eventualmente con batteria) resta la leva di risparmio principale.
 
 Il Conto Termico del GSE riguarda gli interventi di efficientamento termico (pompe di calore, isolamento) e non si applica al fotovoltaico residenziale: se stai valutando anche una pompa di calore, ne parliamo nella [guida agli incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
 
 ### Conclusioni
 
-Il fotovoltaico da tetto è uno degli investimenti energetici più efficienti disponibili oggi. Per abitazioni con 100-150mq, un impianto da 6 kWp è la scelta migliore: sufficiente a coprire il 60-80% dei consumi, con un ritorno dell'investimento in 4-5 anni grazie al Bonus Ristrutturazioni 50%. Aggiungere una batteria di accumulo alza ulteriormente l'autoconsumo e, per chi ha consumi serali importanti (pompa di calore, auto elettrica), può anche accorciare il rientro complessivo rispetto al solo fotovoltaico.
+Il fotovoltaico da tetto è uno degli investimenti energetici più efficienti disponibili oggi. Per abitazioni con 100-150mq, un impianto da 6 kWp è la scelta migliore: sufficiente a coprire il 60-80% dei consumi, con un ritorno dell'investimento in 3-4,5 anni grazie al Bonus Ristrutturazioni 50%. Aggiungere una batteria di accumulo alza ulteriormente l'autoconsumo e, per chi ha consumi serali importanti (pompa di calore, auto elettrica), può anche accorciare il rientro complessivo rispetto al solo fotovoltaico.
 
 Prima dell'installazione, verifica sempre la posizione del tetto (esposizione a sud/sud-ovest ideale), l'assenza di ombreggiamenti e la necessità di permessi comunali (sempre richiesti, ma generalmente autorizzati in 30-60 giorni). Se stai valutando anche una batteria di accumulo, trovi prezzi aggiornati per taglia e un calcolo di risparmio dedicato nella [guida all'impianto fotovoltaico con accumulo](/fotovoltaico/impianto-fotovoltaico-con-accumulo/).
 
-*Fonti: [GSE - Gestore Servizi Energetici](https://www.gse.it), [Agenzia delle Entrate - Bonus Ristrutturazioni](https://www.agenziaentrate.gov.it), [ARERA - prezzi tutela energia elettrica](https://www.arera.it)*
+**Guide collegate:** [Fotovoltaico con accumulo: pro e contro](/fotovoltaico/fotovoltaico-pro-e-contro-accumulo/), [Come calcolare se conviene il fotovoltaico](/fotovoltaico/come-calcolare-se-conviene-il-fotovoltaico/), [Incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
+
+*Fonti: [GSE - Ritiro Dedicato](https://www.gse.it/servizi-per-te/fotovoltaico/ritiro-dedicato), [Agenzia delle Entrate - Bonus Ristrutturazioni](https://www.agenziaentrate.gov.it), [ARERA - prezzi tutela energia elettrica](https://www.arera.it)*
