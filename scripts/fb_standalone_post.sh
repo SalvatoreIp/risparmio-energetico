@@ -110,7 +110,7 @@ Usa il tool FACEBOOK_CREATE_PHOTO_POST con questi parametri esatti:
 fi
 OUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "$ISTRUZIONI
 
-Non aggiungere link, non accorciare, non riscrivere, non chiedere conferma. Pubblicalo subito (published=true) e rispondi con l'ID del post.
+Non aggiungere link, non accorciare, non riscrivere, non chiedere conferma. Pubblicalo subito (published=true) e rispondi con l'ID del post. $(cat /home/salvatore/assistente-pagine/fb_nota_account.txt 2>/dev/null)
 
 --- INIZIO TESTO ---
 $CAP
@@ -183,7 +183,7 @@ if [ -n "$LINK_COMMENTO" ]; then
     COUT="$($OPENCLAW agent --agent main --json --timeout 240 --message "Esegui UNA sola volta il tool FACEBOOK_CREATE_COMMENT con object_id \"$COMMENTA\" e message esattamente questo testo, a capo compreso:
 📖 Se vuoi approfondire, qui trovi la guida completa con tutti i conti:
 $LINK_COMMENTO
-Non usare altri tool e non riprovare se fallisce. Rispondi con l'id del commento restituito dal tool oppure con l'errore esatto." 2>&1)"
+Non usare altri tool e non riprovare se fallisce. Rispondi con l'id del commento restituito dal tool oppure con l'errore esatto. $(cat /home/salvatore/assistente-pagine/fb_nota_account.txt 2>/dev/null)" 2>&1)"
     C_ID="$(echo "$COUT" | grep -oE '"id\\?"?: *\\?"[0-9]+_[0-9]+' | grep -oE '[0-9]+_[0-9]+' | head -1)"
     [ -z "$C_ID" ] && C_ID="$(echo "$COUT" | grep -oE '\b[0-9]{9,20}_[0-9]{9,20}\b' | grep -v "^$FB_ID$" | head -1)"
     if [ -n "$C_ID" ]; then log "primo commento con link pubblicato: $C_ID ($LINK_COMMENTO)"
