@@ -16,7 +16,7 @@ Coltivare ortaggi freschi in casa con il sistema idroponico può farti risparmia
 
 ## Cos'è e come funziona l'idroponica domestica
 
-L'idroponica è una tecnica di coltivazione che permette alle piante di crescere senza suolo, utilizzando soluzioni nutritive disciolte direttamente in acqua. Il principio è semplice ma rivoluzionario: le radici ricevono nutrienti, ossigeno e acqua esattamente nella quantità e frequenza desiderate, eliminando gli sprechi tipici della coltivazione tradizionale.
+L'idroponica è una tecnica di coltivazione che permette alle piante di crescere senza suolo, utilizzando soluzioni nutritive disciolte direttamente in acqua. Il principio è semplice: le radici ricevono nutrienti, ossigeno e acqua esattamente nella quantità e frequenza desiderate, eliminando gli sprechi tipici della coltivazione tradizionale.
 
 **Come funziona in casa:**
 - **Sistema a serbatoio:** Le radici sono immerse o bagnate periodicamente da una soluzione nutritiva
@@ -39,14 +39,14 @@ Ecco i sistemi più convenienti ed efficienti energeticamente:
 - **Consumo energetico:** 15-25 W (lampada LED + pompa)
 - **Produzione stimata:** 5-8 kg di erbette/mese
 - **Ritorno investimento:** 12-15 mesi
-- **[Acquista su Amazon](https://www.amazon.it/s?k=idroponica+kit+base+domestica)**
+- **[Acquista su Amazon](https://www.amazon.it/s?k=idroponica+kit+base+domestica&tag=audiobookit-21)**
 
 ### 2. **Sistema NFT (Nutrient Film Technique) per balconi**
 - **Prezzo indicativo aprile 2026:** €180-280
 - **Consumo energetico:** 20-35 W
 - **Produzione stimata:** 10-15 kg/mese
 - **Ritorno investimento:** 10-12 mesi
-- **[Acquista su Amazon](https://www.amazon.it/s?k=nft+idroponica+balcone)**
+- **[Acquista su Amazon](https://www.amazon.it/s?k=nft+idroponica+balcone&tag=audiobookit-21)**
 
 ### 3. **Coltivatore Automatico con Luci LED Integrato**
 - **Prezzo indicativo aprile 2026:** €250-400
@@ -54,7 +54,7 @@ Ecco i sistemi più convenienti ed efficienti energeticamente:
 - **Produzione stimata:** 12-20 kg/mese
 - **Ritorno investimento:** 14-18 mesi
 - **Pro:** Completo, automatico, con app di controllo
-- **[Acquista su Amazon](https://www.amazon.it/s?k=coltivatore+automatico+idroponico)**
+- **[Acquista su Amazon](https://www.amazon.it/s?k=coltivatore+automatico+idroponico&tag=audiobookit-21)**
 
 ### 4. **Sistema fai-da-te con componenti separati**
 - **Prezzo indicativo aprile 2026:** €80-150
@@ -70,7 +70,7 @@ Ecco i sistemi più convenienti ed efficienti energeticamente:
 - **Produzione stimata:** 15-25 kg/mese
 - **Ritorno investimento:** 12-16 mesi
 - **Pro:** Massimo sfruttamento spazio verticale
-- **[Acquista su Amazon](https://www.amazon.it/s?k=torre+idroponica+verticale)**
+- **[Acquista su Amazon](https://www.amazon.it/s?k=torre+idroponica+verticale&tag=audiobookit-21)**
 
 ## Quanto si risparmia davvero?
 
