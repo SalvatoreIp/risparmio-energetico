@@ -246,7 +246,6 @@
       "tema": "microonde vs forno",
       "immagine": "fb-microonde-forno",
       "testo": "♨️ Riscaldare un piatto di pasta avanzata: forno o microonde?\n\nNon è nemmeno una gara.\n\n🔸 Forno elettrico: deve portare in temperatura tutta la cavità, il vetro, le griglie. Per un singolo piatto sono 15 minuti a 2 kW, circa 0,5 kWh.\n🔸 Microonde: scalda direttamente l'acqua contenuta nel cibo, niente intorno. Due minuti a 800 W, circa 0,03 kWh.\n\nSedici volte meno energia per lo stesso piatto caldo.\n\n💡 La regola generale: più piccola è la porzione, più il microonde conviene. Il forno ha senso quando riempi tutti i ripiani — se devi infornare qualcosa, infornane tanto in una volta sola.\n\n🥘 E se puoi, cucina in quantità e congela: riscaldare una porzione costa una frazione di quanto costa cucinarla da zero ogni volta.\n\nQuante volte accendi il forno per una cosa sola? 👇",
-      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
       "video_testi": {
         "titolo": "Riscaldare un piatto: forno o microonde?",
         "schede": [
@@ -264,7 +263,8 @@
           ]
         ]
       },
-      "video": "consiglio-fb-microonde-forno"
+      "video": "clip-microonde-forno",
+      "formato": "clip Pixabay 42861 (guidapets/scripts/video_clip.py), senza link nel commento: stesso formato del video Pets da 706 persone"
     },
     {
       "id": 14,
