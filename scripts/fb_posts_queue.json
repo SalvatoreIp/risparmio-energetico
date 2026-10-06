@@ -296,35 +296,6 @@
       "video": "consiglio-fb-bollitore"
     },
     {
-      "id": 15,
-      "tema": "doccia acqua calda",
-      "immagine": "fb-doccia",
-      "testo": "🚿 L'acqua calda sanitaria è la seconda voce di consumo di una casa, subito dopo il riscaldamento. E la doccia è la parte più grossa.\n\nUn soffione tradizionale butta 12-15 litri al minuto. Una doccia da 8 minuti sono oltre 100 litri, che vanno scaldati da 15 a 40 gradi: circa 3 kWh di energia ogni volta.\n\nPer una famiglia di quattro persone, una doccia a testa al giorno, sono più di 4.000 kWh l'anno solo per lavarsi.\n\n✅ Le due cose che funzionano davvero:\n🔸 Soffione aerato a basso flusso: porta la portata a 6-8 litri al minuto mischiando aria all'acqua. La sensazione sotto il getto resta piena, il consumo si dimezza. Costa 15-30 € (prezzi indicativi settembre 2026) e si monta a mano in due minuti.\n🔸 Due minuti in meno sotto l'acqua: ogni minuto risparmiato sono circa 0,4 kWh.\n\nNiente docce fredde, niente sacrifici: solo meno litri che scorrono via.\n\nQuanto dura la tua doccia, sinceramente? 👇",
-      "link_commento": "https://guida-energia.com/riscaldamento/scaldabagno-a-pompa-di-calore/",
-      "video_testi": {
-        "titolo": "La doccia è la seconda voce di consumo di casa",
-        "schede": [
-          [
-            "Soffione tradizionale: 12-15 litri al minuto",
-            "bianco"
-          ],
-          [
-            "8 minuti = circa 3 kWh ogni doccia",
-            "bianco"
-          ],
-          [
-            "Soffione aerato: 6-8 litri al minuto, costa 15-30 €",
-            "verde"
-          ],
-          [
-            "Ogni minuto in meno: 0,4 kWh",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-doccia"
-    },
-    {
       "id": 16,
       "tema": "scaldabagno elettrico timer",
       "immagine": "fb-scaldabagno-timer",
@@ -351,7 +322,8 @@
           ]
         ]
       },
-      "video": "consiglio-fb-scaldabagno-timer"
+      "video": "clip-scaldabagno-timer",
+      "formato": "clip Pixabay 2805 (guidapets/scripts/video_clip.py)"
     },
     {
       "id": 17,
@@ -380,7 +352,367 @@
           ]
         ]
       },
-      "video": "consiglio-fb-tapparelle"
+      "video": "clip-tapparelle",
+      "formato": "clip Pixabay 172145 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 20,
+      "tema": "fotovoltaico autoconsumo",
+      "immagine": "fb-autoconsumo",
+      "testo": "☀️ L'errore più comune di chi valuta il fotovoltaico è guardare quanta energia produce. Il numero che conta davvero è un altro: quanta ne consumi mentre la produci.\n\nSi chiama autoconsumo, ed è la differenza tra un impianto che si ripaga in 6 anni e uno che ci mette 12.\n\n💡 Il motivo è semplice: l'energia che usi nel momento in cui il pannello la produce ti vale il prezzo pieno che pagheresti in bolletta, circa 0,32 €/kWh (ottobre 2026). Quella che immetti in rete perché in casa non c'è nessuno ti viene remunerata molto meno.\n\n🕐 Tradotto in pratica: spostare lavatrice, lavastoviglie e asciugatrice nelle ore centrali della giornata non è un dettaglio, è metà del rendimento dell'impianto. Una famiglia che sta fuori tutto il giorno autoconsuma il 25-30%; una che programma gli elettrodomestici di giorno arriva al 50-60%.\n\n🔋 È anche il vero motivo per cui si valuta una batteria: non produce niente, sposta la produzione del pomeriggio alla sera.\n\nCe l'hai o lo stai valutando? 👇",
+      "link_commento": "https://guida-energia.com/fotovoltaico/fotovoltaico-pro-e-contro-accumulo/",
+      "video_testi": {
+        "titolo": "Fotovoltaico: il numero che conta è l'autoconsumo",
+        "schede": [
+          [
+            "Energia usata subito: vale 0,32 €/kWh",
+            "verde"
+          ],
+          [
+            "Energia immessa in rete: pagata molto meno",
+            "bianco"
+          ],
+          [
+            "Fuori tutto il giorno: 25-30% di autoconsumo",
+            "bianco"
+          ],
+          [
+            "Elettrodomestici di giorno: 50-60%",
+            "verde"
+          ]
+        ]
+      },
+      "video": "clip-autoconsumo",
+      "formato": "clip Pixabay 168801 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 21,
+      "tema": "quanto produce 1 kWp",
+      "immagine": "fb-produzione-kwp",
+      "testo": "📐 \"Quanto produce un impianto fotovoltaico?\" La risposta sta in un numero che vale la pena conoscere prima di chiedere qualsiasi preventivo.\n\nIn Italia, 1 kWp di pannelli ben esposto a sud produce mediamente in un anno:\n🔸 Nord: 1.100-1.200 kWh\n🔸 Centro: 1.250-1.350 kWh\n🔸 Sud e isole: 1.400-1.500 kWh\n\n🧮 Con questo puoi farti i conti da solo. Una famiglia che consuma 3.000 kWh l'anno, al centro Italia, ha bisogno indicativamente di un impianto da 2,5-3 kWp per coprire il proprio fabbisogno su base annua.\n\n⚠️ Attenzione però: \"su base annua\" non vuol dire \"sempre\". D'estate produrrai molto più di quanto consumi, d'inverno il contrario. È normale, e nessun impianto domestico sfugge a questa stagionalità.\n\n🧭 L'esposizione pesa parecchio: est o ovest tolgono il 10-15%, il nord non ha senso, e un'ombra anche parziale su una stringa di pannelli può costare molto più di quanto si immagini.\n\nSai quanti kWh consumi all'anno? Sono in bolletta. 👇",
+      "link_commento": "https://guida-energia.com/fotovoltaico/come-calcolare-se-conviene-il-fotovoltaico/",
+      "video_testi": {
+        "titolo": "Quanto produce 1 kWp di pannelli in un anno",
+        "schede": [
+          [
+            "Nord: 1.100-1.200 kWh",
+            "bianco"
+          ],
+          [
+            "Centro: 1.250-1.350 kWh",
+            "bianco"
+          ],
+          [
+            "Sud e isole: 1.400-1.500 kWh",
+            "bianco"
+          ],
+          [
+            "3.000 kWh di consumo al centro: 2,5-3 kWp",
+            "verde"
+          ]
+        ]
+      },
+      "video": "clip-produzione-kwp",
+      "formato": "clip Pixabay 39991 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 22,
+      "tema": "pannello solare da balcone",
+      "immagine": "fb-fotovoltaico-balcone",
+      "testo": "🌇 Non tutti hanno un tetto. Ma un balcone sì — e da qualche anno ci si può mettere un pannello, con una procedura semplificata.\n\nSono i sistemi plug and play: un pannello (o due), un microinverter, una spina. Si collegano a una presa domestica e l'energia prodotta viene consumata dagli apparecchi accesi in quel momento.\n\n🔢 I numeri, in sintesi:\n🔸 Potenza tipica: 400-800 W\n🔸 Produzione realistica su un balcone: 400-800 kWh l'anno, molto dipende dall'esposizione\n🔸 Costo: 400-900 € a seconda della potenza (prezzi indicativi settembre 2026)\n\n💡 Quello che fa la differenza è il consumo di base della casa — frigorifero, router, standby, illuminazione — che c'è sempre, tutto il giorno. Un pannello da balcone copre proprio quello, e per questo l'autoconsumo è quasi totale.\n\n⚠️ Da verificare prima di comprare: regolamento condominiale, esposizione reale del balcone (a nord non ha senso) e fissaggio a norma, perché il vento sui piani alti non scherza.\n\nCi hai mai pensato per il tuo balcone? 👇",
+      "link_commento": "https://guida-energia.com/fotovoltaico/2026-04-12-fotovoltaico-plug-and-play-come-funziona/",
+      "video_testi": {
+        "titolo": "Fotovoltaico da balcone: i numeri",
+        "schede": [
+          [
+            "Potenza tipica: 400-800 W",
+            "bianco"
+          ],
+          [
+            "Produzione: 400-800 kWh l'anno",
+            "bianco"
+          ],
+          [
+            "Costo: 400-900 €",
+            "bianco"
+          ],
+          [
+            "A nord non ha senso",
+            "giallo"
+          ]
+        ]
+      },
+      "video": "clip-fotovoltaico-balcone",
+      "formato": "clip Pixabay 83903 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 23,
+      "tema": "batteria accumulo",
+      "immagine": "fb-batteria-accumulo",
+      "testo": "🔋 La domanda che arriva sempre dopo il fotovoltaico: conviene aggiungere una batteria?\n\nPartiamo da cosa fa davvero. Una batteria non produce energia: prende quella che il tetto produce nel pomeriggio e te la ridà la sera, quando i pannelli sono fermi e la casa è piena di gente.\n\n📈 In pratica fa salire l'autoconsumo dal 30-35% al 70-80%. Il che significa comprare molta meno energia dalla rete.\n\n💰 Il punto delicato è il costo. Un accumulo domestico da 5-10 kWh costa indicativamente 4.000-8.000 € (settembre 2026), ha una vita di 10-15 anni, e i tempi di rientro senza incentivi sono lunghi: spesso vicini alla vita utile della batteria stessa.\n\n🎯 Quando ha più senso:\n🔸 Se consumi soprattutto la sera e sei fuori tutto il giorno\n🔸 Se ci sono detrazioni o incentivi attivi che ne abbattono il costo\n🔸 Se ti interessa la continuità in caso di blackout, che è un valore a sé\n\n🚫 Quando ha meno senso: se sei in casa di giorno e autoconsumi già tanto. In quel caso i soldi rendono di più investiti in altro.\n\nBatteria sì o no, secondo te? 👇",
+      "link_commento": "https://guida-energia.com/fotovoltaico/batteria-accumulo-fotovoltaico/",
+      "video_testi": {
+        "titolo": "Batteria col fotovoltaico: conviene?",
+        "schede": [
+          [
+            "Autoconsumo dal 30-35% al 70-80%",
+            "verde"
+          ],
+          [
+            "5-10 kWh costano 4.000-8.000 €",
+            "bianco"
+          ],
+          [
+            "Vita utile: 10-15 anni",
+            "bianco"
+          ],
+          [
+            "Ha senso se consumi soprattutto la sera",
+            "giallo"
+          ]
+        ]
+      },
+      "video": "clip-batteria-accumulo",
+      "formato": "clip Pixabay 42388 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 24,
+      "tema": "presa smart misuratore",
+      "immagine": "fb-presa-smart",
+      "testo": "🔎 Il modo più veloce per smettere di fare supposizioni sui consumi di casa costa una ventina di euro.\n\nÈ una presa smart con misuratore: la infili nella presa a muro, ci attacchi l'apparecchio e sul telefono vedi quanti watt sta assorbendo in tempo reale e quanti kWh ha consumato in una settimana.\n\n💡 Perché cambia le cose: finché non misuri, sul consumo di un apparecchio puoi solo tirare a indovinare. E l'istinto sbaglia quasi sempre.\n\nLe sorprese tipiche quando la gente inizia a misurare:\n🔸 Il vecchio congelatore in cantina che consuma quanto il frigo nuovo in cucina\n🔸 Il PC fisso lasciato acceso che vale più della TV\n🔸 La ciabatta dietro il mobile che assorbe anche a tutto spento\n🔸 Lo scaldabagno che riparte di notte\n\n💰 Costo: 15-25 € a presa (prezzi indicativi settembre 2026). Ne basta una: la sposti di apparecchio in apparecchio una settimana per volta e in un mese hai la mappa dei consumi di casa tua.\n\nQual è l'apparecchio che sospetti di più? 👇",
+      "link_commento": "https://guida-energia.com/smart-home/prese-smart-misuratore-consumo-2026/",
+      "video_testi": {
+        "titolo": "Quanto consuma davvero quell'apparecchio?",
+        "schede": [
+          [
+            "Presa smart con misuratore: 15-25 €",
+            "bianco"
+          ],
+          [
+            "Vedi i watt in tempo reale sul telefono",
+            "bianco"
+          ],
+          [
+            "Una settimana per apparecchio",
+            "verde"
+          ],
+          [
+            "In un mese hai la mappa dei consumi di casa",
+            "verde"
+          ]
+        ]
+      },
+      "video": "clip-presa-smart",
+      "formato": "clip Pixabay 4975 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 25,
+      "tema": "potenza impegnata contatore",
+      "immagine": "fb-potenza-contatore",
+      "testo": "⚡ Salta la corrente quando accendi forno e lavatrice insieme? Non è un guasto: è la potenza impegnata del contatore.\n\nLa maggior parte delle case italiane ha 3 kW. Il contatore tollera un piccolo sforamento per qualche minuto, poi stacca.\n\n🔢 Ecco perché si arriva al limite in fretta:\n🔸 Forno elettrico: 2.000-2.500 W\n🔸 Ferro da stiro: 2.000-2.400 W\n🔸 Asciugacapelli: 1.800-2.200 W\n🔸 Lavatrice (fase di riscaldamento): 2.000 W\n🔸 Piano a induzione, una zona: 1.500-2.000 W\n🔸 Bollitore: 2.000-2.200 W\n\nBastano due di questi insieme e sei fuori.\n\n✅ Due strade:\n🔸 Gratis: sfasare gli apparecchi più affamati. Quasi tutti hanno la partenza ritardata, e serve proprio a questo.\n🔸 A pagamento: alzare la potenza a 4,5 o 6 kW. Comporta un costo una tantum e una quota fissa più alta in bolletta tutti i mesi, quindi ha senso solo se il problema è quotidiano.\n\nA te quante volte salta in un mese? 👇",
+      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
+      "video_testi": {
+        "titolo": "Salta la corrente? È la potenza del contatore",
+        "schede": [
+          [
+            "La maggior parte delle case ha 3 kW",
+            "bianco"
+          ],
+          [
+            "Forno 2.000-2.500 W, bollitore 2.000-2.200 W",
+            "bianco"
+          ],
+          [
+            "Due insieme e il contatore stacca",
+            "giallo"
+          ],
+          [
+            "Gratis: usa la partenza ritardata",
+            "verde"
+          ]
+        ]
+      },
+      "video": "clip-potenza-contatore",
+      "formato": "clip Pixabay 65732 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 26,
+      "tema": "leggere la bolletta",
+      "immagine": "fb-leggere-bolletta",
+      "testo": "🧾 Confessione collettiva: quasi nessuno legge davvero la bolletta. Si guarda il totale e si paga.\n\nPeccato, perché lì dentro c'è l'unica informazione che serve per capire se stai spendendo troppo: il consumo annuo in kWh.\n\n📊 Per orientarsi, consumi tipici di una famiglia senza riscaldamento elettrico:\n🔸 1 persona: 1.500-2.000 kWh l'anno\n🔸 2 persone: 2.000-2.700 kWh\n🔸 3-4 persone: 2.700-3.500 kWh\n\nSe sei molto sopra la fascia della tua famiglia, non è questione di tariffe: c'è qualcosa in casa che consuma più del dovuto, e cambiare fornitore non lo risolverà.\n\n💡 L'altra cosa che vale la pena guardare è la divisione tra quota fissa e quota consumo. La quota fissa la paghi anche se stai un mese fuori casa: è lì che le offerte si assomigliano molto meno di quanto sembri.\n\n🔍 Il confronto onesto tra due offerte si fa su un anno intero e sul tuo consumo reale, non sul prezzo del kWh in prima pagina.\n\nSai quanti kWh consumi all'anno? 👇",
+      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
+      "video_testi": {
+        "titolo": "In bolletta guarda i kWh, non solo il totale",
+        "schede": [
+          [
+            "1 persona: 1.500-2.000 kWh l'anno",
+            "bianco"
+          ],
+          [
+            "2 persone: 2.000-2.700 kWh",
+            "bianco"
+          ],
+          [
+            "3-4 persone: 2.700-3.500 kWh",
+            "bianco"
+          ],
+          [
+            "Molto sopra? Il problema è in casa, non la tariffa",
+            "giallo"
+          ]
+        ]
+      },
+      "video": "clip-leggere-bolletta",
+      "formato": "clip Pixabay 209854 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 27,
+      "tema": "bici elettrica costi",
+      "immagine": "fb-ricarica-bici",
+      "testo": "🚴 Quanto costa davvero ricaricare una bici elettrica? Molto meno di quanto quasi tutti immaginano.\n\nUna batteria tipica da e-bike è da 400-500 Wh. Una ricarica completa consuma poco più di mezzo kWh: circa 0,18 € (a 0,32 €/kWh, ottobre 2026).\n\n🛣️ Con quella carica fai 50-80 km a seconda del livello di assistenza, del peso e delle salite.\n\n🧮 Tradotto: circa 0,30 € ogni 100 chilometri.\n\nPer confronto, un'auto a benzina che fa 15 km con un litro spende circa 14 € per gli stessi 100 km (benzina a 2,15 €/l, fine settembre 2026). Quasi cinquanta volte tanto.\n\n💡 Ovviamente non sono la stessa cosa e non servono agli stessi viaggi. Ma per il tragitto casa-lavoro sotto i 10 km, che in Italia è la maggioranza degli spostamenti quotidiani, il confronto è impietoso — e non abbiamo nemmeno contato parcheggio, bollo, assicurazione e tagliandi.\n\n🔋 Un consiglio sulla batteria: tenerla tra il 20% e l'80% quando non la usi per settimane allunga la vita parecchio. Lasciarla scarica per mesi è il modo migliore per rovinarla.\n\nLa useresti per andare al lavoro? 👇",
+      "link_commento": "https://guida-energia.com/mobilita-sostenibile/bici-elettriche-2026-guida-completa-prezzi-e-risparmi/",
+      "video_testi": {
+        "titolo": "Quanto costa ricaricare una bici elettrica",
+        "schede": [
+          [
+            "Batteria 400-500 Wh: circa 0,18 € a ricarica",
+            "bianco"
+          ],
+          [
+            "50-80 km con una carica",
+            "bianco"
+          ],
+          [
+            "Circa 0,30 € ogni 100 km",
+            "verde"
+          ],
+          [
+            "Auto a benzina: circa 14 € ogni 100 km",
+            "giallo"
+          ]
+        ]
+      },
+      "video": "clip-ricarica-bici",
+      "formato": "clip Pixabay 1260 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 28,
+      "tema": "elettrodomestici classe energetica",
+      "immagine": "fb-classe-energetica",
+      "testo": "🏷️ Sull'etichetta energetica degli elettrodomestici c'è una cosa che confonde parecchie persone: dal 2021 la scala è cambiata.\n\nSono spariti A+, A++ e A+++. Si è tornati alla scala semplice da A a G — ma più severa. Un frigorifero che prima era A+++ oggi può essere classificato C o D. Non è peggiorato: è cambiato il metro.\n\n📊 Questo significa due cose pratiche:\n🔸 Le classi A e B oggi sono rarissime, lasciate apposta libere per i modelli futuri. Una C è già un ottimo prodotto.\n🔸 Non puoi confrontare l'etichetta di un elettrodomestico comprato nel 2018 con una di oggi. Sono due scale diverse.\n\n💡 Il numero che conta davvero non è la lettera, è il consumo annuo in kWh scritto sotto. Quello è confrontabile sempre, tra qualsiasi modello e qualsiasi anno.\n\n🧮 Esempio concreto: tra due lavatrici che dichiarano 150 e 220 kWh l'anno ci sono 70 kWh di differenza, cioè circa 22 € l'anno (a 0,32 €/kWh, ottobre 2026). Su dieci anni di vita sono 220 €, che spesso valgono più della differenza di prezzo in negozio.\n\nGuardi la lettera o i kWh? 👇",
+      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
+      "video_testi": {
+        "titolo": "Etichetta energetica: dal 2021 la scala è cambiata",
+        "schede": [
+          [
+            "Spariti A+, A++ e A+++",
+            "bianco"
+          ],
+          [
+            "Un vecchio A+++ oggi può essere C o D",
+            "bianco"
+          ],
+          [
+            "Guarda i kWh l'anno, non la lettera",
+            "verde"
+          ],
+          [
+            "150 vs 220 kWh = 22 € l'anno, 220 € in 10 anni",
+            "verde"
+          ]
+        ]
+      },
+      "video": "clip-classe-energetica",
+      "formato": "clip Pixabay 33220 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 29,
+      "tema": "umidita e percezione del freddo",
+      "immagine": "fb-umidita-freddo",
+      "testo": "💧 Curiosità che d'inverno torna utile: in una casa umida hai più freddo a parità di gradi sul termostato.\n\nIl motivo è fisico. L'aria umida conduce il calore meglio dell'aria secca, quindi il tuo corpo lo cede più in fretta. In un ambiente al 70% di umidità a 20°C si sta peggio che al 45% alla stessa temperatura.\n\n🌡️ L'umidità ideale in casa sta tra il 40% e il 60%. Sopra il 60% non è solo questione di comfort: si formano condensa sui vetri e muffa negli angoli delle pareti esterne.\n\n✅ Cosa funziona:\n🔸 Arieggiare poco e bene: 5 minuti a finestre spalancate, due volte al giorno. L'aria si cambia in fretta e i muri non fanno in tempo a raffreddarsi. Tenere una finestra socchiusa un'ora è il modo peggiore: raffredda le pareti e cambia poca aria.\n🔸 Cappa accesa quando cucini e ventola in bagno dopo la doccia: lì si produce la maggior parte del vapore\n🔸 Non stendere il bucato in casa senza ricambio d'aria\n\n💡 Un igrometro costa 8-12 € (settembre 2026) e ti dice se il problema è quello o no.\n\nHai condensa sui vetri la mattina? 👇",
+      "link_commento": "https://guida-energia.com/raffrescamento/condizionatore-funzione-deumidificatore/",
+      "video_testi": {
+        "titolo": "Casa umida = più freddo a parità di gradi",
+        "schede": [
+          [
+            "Umidità ideale: 40-60%",
+            "bianco"
+          ],
+          [
+            "Arieggia 5 minuti, finestre spalancate, 2 volte al giorno",
+            "verde"
+          ],
+          [
+            "Finestra socchiusa un'ora: raffredda i muri",
+            "giallo"
+          ],
+          [
+            "Igrometro: 8-12 €",
+            "bianco"
+          ]
+        ]
+      },
+      "video": "clip-umidita-freddo",
+      "formato": "clip Pixabay 85180 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 30,
+      "tema": "valvole termostatiche",
+      "immagine": "fb-valvole-termostatiche",
+      "testo": "🎛️ Nella maggior parte delle case si scalda tutto allo stesso modo: la camera degli ospiti dove non entra nessuno, lo studio usato mezz'ora al giorno, il corridoio.\n\nLe valvole termostatiche servono esattamente a questo: dare a ogni stanza la temperatura che le serve.\n\nSi avvitano al posto della manopola del termosifone e regolano il flusso in base alla temperatura della stanza. Quando è arrivata al punto impostato, chiudono. Nessun cavo, nessun impianto da rifare.\n\n🔢 I numeri indicativi (settembre 2026):\n🔸 Valvola manuale: 15-25 € l'una\n🔸 Valvola smart programmabile: 40-70 € l'una\n🔸 Montaggio: fattibile da soli su impianti autonomi, con l'impianto freddo\n\n🌡️ Le temperature che hanno senso stanza per stanza:\n🔸 Soggiorno: 20°C\n🔸 Camere da letto: 17-18°C, si dorme anche meglio\n🔸 Bagno: 22°C ma solo nelle ore di utilizzo\n🔸 Stanze inutilizzate: 15-16°C, mai spente del tutto, altrimenti umidità e muffa\n\n💰 In un appartamento con riscaldamento autonomo si parla in genere di un 10-20% di gas in meno. Si ripagano in una stagione o due.\n\nLe hai già o vai ancora a manopola? 👇",
+      "link_commento": "https://guida-energia.com/smart-home/valvole-termostatiche-smart-2026/",
+      "video_testi": {
+        "titolo": "Valvole termostatiche: ogni stanza la sua temperatura",
+        "schede": [
+          [
+            "Manuale 15-25 €, smart 40-70 € l'una",
+            "bianco"
+          ],
+          [
+            "Camere 17-18°C, soggiorno 20°C",
+            "bianco"
+          ],
+          [
+            "Stanze vuote 15-16°C, mai spente",
+            "giallo"
+          ],
+          [
+            "10-20% di gas in meno",
+            "verde"
+          ]
+        ]
+      },
+      "video": "clip-valvole-termostatiche",
+      "formato": "clip Pixabay 112514 (guidapets/scripts/video_clip.py)"
+    },
+    {
+      "id": 15,
+      "tema": "doccia acqua calda",
+      "immagine": "fb-doccia",
+      "testo": "🚿 L'acqua calda sanitaria è la seconda voce di consumo di una casa, subito dopo il riscaldamento. E la doccia è la parte più grossa.\n\nUn soffione tradizionale butta 12-15 litri al minuto. Una doccia da 8 minuti sono oltre 100 litri, che vanno scaldati da 15 a 40 gradi: circa 3 kWh di energia ogni volta.\n\nPer una famiglia di quattro persone, una doccia a testa al giorno, sono più di 4.000 kWh l'anno solo per lavarsi.\n\n✅ Le due cose che funzionano davvero:\n🔸 Soffione aerato a basso flusso: porta la portata a 6-8 litri al minuto mischiando aria all'acqua. La sensazione sotto il getto resta piena, il consumo si dimezza. Costa 15-30 € (prezzi indicativi settembre 2026) e si monta a mano in due minuti.\n🔸 Due minuti in meno sotto l'acqua: ogni minuto risparmiato sono circa 0,4 kWh.\n\nNiente docce fredde, niente sacrifici: solo meno litri che scorrono via.\n\nQuanto dura la tua doccia, sinceramente? 👇",
+      "link_commento": "https://guida-energia.com/riscaldamento/scaldabagno-a-pompa-di-calore/",
+      "video_testi": {
+        "titolo": "La doccia è la seconda voce di consumo di casa",
+        "schede": [
+          [
+            "Soffione tradizionale: 12-15 litri al minuto",
+            "bianco"
+          ],
+          [
+            "8 minuti = circa 3 kWh ogni doccia",
+            "bianco"
+          ],
+          [
+            "Soffione aerato: 6-8 litri al minuto, costa 15-30 €",
+            "verde"
+          ],
+          [
+            "Ogni minuto in meno: 0,4 kWh",
+            "verde"
+          ]
+        ]
+      },
+      "video": "consiglio-fb-doccia"
     },
     {
       "id": 18,
@@ -439,325 +771,6 @@
         ]
       },
       "video": "consiglio-fb-pompa-di-calore-cop"
-    },
-    {
-      "id": 20,
-      "tema": "fotovoltaico autoconsumo",
-      "immagine": "fb-autoconsumo",
-      "testo": "☀️ L'errore più comune di chi valuta il fotovoltaico è guardare quanta energia produce. Il numero che conta davvero è un altro: quanta ne consumi mentre la produci.\n\nSi chiama autoconsumo, ed è la differenza tra un impianto che si ripaga in 6 anni e uno che ci mette 12.\n\n💡 Il motivo è semplice: l'energia che usi nel momento in cui il pannello la produce ti vale il prezzo pieno che pagheresti in bolletta, circa 0,32 €/kWh (ottobre 2026). Quella che immetti in rete perché in casa non c'è nessuno ti viene remunerata molto meno.\n\n🕐 Tradotto in pratica: spostare lavatrice, lavastoviglie e asciugatrice nelle ore centrali della giornata non è un dettaglio, è metà del rendimento dell'impianto. Una famiglia che sta fuori tutto il giorno autoconsuma il 25-30%; una che programma gli elettrodomestici di giorno arriva al 50-60%.\n\n🔋 È anche il vero motivo per cui si valuta una batteria: non produce niente, sposta la produzione del pomeriggio alla sera.\n\nCe l'hai o lo stai valutando? 👇",
-      "link_commento": "https://guida-energia.com/fotovoltaico/fotovoltaico-pro-e-contro-accumulo/",
-      "video_testi": {
-        "titolo": "Fotovoltaico: il numero che conta è l'autoconsumo",
-        "schede": [
-          [
-            "Energia usata subito: vale 0,32 €/kWh",
-            "verde"
-          ],
-          [
-            "Energia immessa in rete: pagata molto meno",
-            "bianco"
-          ],
-          [
-            "Fuori tutto il giorno: 25-30% di autoconsumo",
-            "bianco"
-          ],
-          [
-            "Elettrodomestici di giorno: 50-60%",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-autoconsumo"
-    },
-    {
-      "id": 21,
-      "tema": "quanto produce 1 kWp",
-      "immagine": "fb-produzione-kwp",
-      "testo": "📐 \"Quanto produce un impianto fotovoltaico?\" La risposta sta in un numero che vale la pena conoscere prima di chiedere qualsiasi preventivo.\n\nIn Italia, 1 kWp di pannelli ben esposto a sud produce mediamente in un anno:\n🔸 Nord: 1.100-1.200 kWh\n🔸 Centro: 1.250-1.350 kWh\n🔸 Sud e isole: 1.400-1.500 kWh\n\n🧮 Con questo puoi farti i conti da solo. Una famiglia che consuma 3.000 kWh l'anno, al centro Italia, ha bisogno indicativamente di un impianto da 2,5-3 kWp per coprire il proprio fabbisogno su base annua.\n\n⚠️ Attenzione però: \"su base annua\" non vuol dire \"sempre\". D'estate produrrai molto più di quanto consumi, d'inverno il contrario. È normale, e nessun impianto domestico sfugge a questa stagionalità.\n\n🧭 L'esposizione pesa parecchio: est o ovest tolgono il 10-15%, il nord non ha senso, e un'ombra anche parziale su una stringa di pannelli può costare molto più di quanto si immagini.\n\nSai quanti kWh consumi all'anno? Sono in bolletta. 👇",
-      "link_commento": "https://guida-energia.com/fotovoltaico/come-calcolare-se-conviene-il-fotovoltaico/",
-      "video_testi": {
-        "titolo": "Quanto produce 1 kWp di pannelli in un anno",
-        "schede": [
-          [
-            "Nord: 1.100-1.200 kWh",
-            "bianco"
-          ],
-          [
-            "Centro: 1.250-1.350 kWh",
-            "bianco"
-          ],
-          [
-            "Sud e isole: 1.400-1.500 kWh",
-            "bianco"
-          ],
-          [
-            "3.000 kWh di consumo al centro: 2,5-3 kWp",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-produzione-kwp"
-    },
-    {
-      "id": 22,
-      "tema": "pannello solare da balcone",
-      "immagine": "fb-fotovoltaico-balcone",
-      "testo": "🌇 Non tutti hanno un tetto. Ma un balcone sì — e da qualche anno ci si può mettere un pannello, con una procedura semplificata.\n\nSono i sistemi plug and play: un pannello (o due), un microinverter, una spina. Si collegano a una presa domestica e l'energia prodotta viene consumata dagli apparecchi accesi in quel momento.\n\n🔢 I numeri, in sintesi:\n🔸 Potenza tipica: 400-800 W\n🔸 Produzione realistica su un balcone: 400-800 kWh l'anno, molto dipende dall'esposizione\n🔸 Costo: 400-900 € a seconda della potenza (prezzi indicativi settembre 2026)\n\n💡 Quello che fa la differenza è il consumo di base della casa — frigorifero, router, standby, illuminazione — che c'è sempre, tutto il giorno. Un pannello da balcone copre proprio quello, e per questo l'autoconsumo è quasi totale.\n\n⚠️ Da verificare prima di comprare: regolamento condominiale, esposizione reale del balcone (a nord non ha senso) e fissaggio a norma, perché il vento sui piani alti non scherza.\n\nCi hai mai pensato per il tuo balcone? 👇",
-      "link_commento": "https://guida-energia.com/fotovoltaico/2026-04-12-fotovoltaico-plug-and-play-come-funziona/",
-      "video_testi": {
-        "titolo": "Fotovoltaico da balcone: i numeri",
-        "schede": [
-          [
-            "Potenza tipica: 400-800 W",
-            "bianco"
-          ],
-          [
-            "Produzione: 400-800 kWh l'anno",
-            "bianco"
-          ],
-          [
-            "Costo: 400-900 €",
-            "bianco"
-          ],
-          [
-            "A nord non ha senso",
-            "giallo"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-fotovoltaico-balcone"
-    },
-    {
-      "id": 23,
-      "tema": "batteria accumulo",
-      "immagine": "fb-batteria-accumulo",
-      "testo": "🔋 La domanda che arriva sempre dopo il fotovoltaico: conviene aggiungere una batteria?\n\nPartiamo da cosa fa davvero. Una batteria non produce energia: prende quella che il tetto produce nel pomeriggio e te la ridà la sera, quando i pannelli sono fermi e la casa è piena di gente.\n\n📈 In pratica fa salire l'autoconsumo dal 30-35% al 70-80%. Il che significa comprare molta meno energia dalla rete.\n\n💰 Il punto delicato è il costo. Un accumulo domestico da 5-10 kWh costa indicativamente 4.000-8.000 € (settembre 2026), ha una vita di 10-15 anni, e i tempi di rientro senza incentivi sono lunghi: spesso vicini alla vita utile della batteria stessa.\n\n🎯 Quando ha più senso:\n🔸 Se consumi soprattutto la sera e sei fuori tutto il giorno\n🔸 Se ci sono detrazioni o incentivi attivi che ne abbattono il costo\n🔸 Se ti interessa la continuità in caso di blackout, che è un valore a sé\n\n🚫 Quando ha meno senso: se sei in casa di giorno e autoconsumi già tanto. In quel caso i soldi rendono di più investiti in altro.\n\nBatteria sì o no, secondo te? 👇",
-      "link_commento": "https://guida-energia.com/fotovoltaico/batteria-accumulo-fotovoltaico/",
-      "video_testi": {
-        "titolo": "Batteria col fotovoltaico: conviene?",
-        "schede": [
-          [
-            "Autoconsumo dal 30-35% al 70-80%",
-            "verde"
-          ],
-          [
-            "5-10 kWh costano 4.000-8.000 €",
-            "bianco"
-          ],
-          [
-            "Vita utile: 10-15 anni",
-            "bianco"
-          ],
-          [
-            "Ha senso se consumi soprattutto la sera",
-            "giallo"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-batteria-accumulo"
-    },
-    {
-      "id": 24,
-      "tema": "presa smart misuratore",
-      "immagine": "fb-presa-smart",
-      "testo": "🔎 Il modo più veloce per smettere di fare supposizioni sui consumi di casa costa una ventina di euro.\n\nÈ una presa smart con misuratore: la infili nella presa a muro, ci attacchi l'apparecchio e sul telefono vedi quanti watt sta assorbendo in tempo reale e quanti kWh ha consumato in una settimana.\n\n💡 Perché cambia le cose: finché non misuri, sul consumo di un apparecchio puoi solo tirare a indovinare. E l'istinto sbaglia quasi sempre.\n\nLe sorprese tipiche quando la gente inizia a misurare:\n🔸 Il vecchio congelatore in cantina che consuma quanto il frigo nuovo in cucina\n🔸 Il PC fisso lasciato acceso che vale più della TV\n🔸 La ciabatta dietro il mobile che assorbe anche a tutto spento\n🔸 Lo scaldabagno che riparte di notte\n\n💰 Costo: 15-25 € a presa (prezzi indicativi settembre 2026). Ne basta una: la sposti di apparecchio in apparecchio una settimana per volta e in un mese hai la mappa dei consumi di casa tua.\n\nQual è l'apparecchio che sospetti di più? 👇",
-      "link_commento": "https://guida-energia.com/smart-home/prese-smart-misuratore-consumo-2026/",
-      "video_testi": {
-        "titolo": "Quanto consuma davvero quell'apparecchio?",
-        "schede": [
-          [
-            "Presa smart con misuratore: 15-25 €",
-            "bianco"
-          ],
-          [
-            "Vedi i watt in tempo reale sul telefono",
-            "bianco"
-          ],
-          [
-            "Una settimana per apparecchio",
-            "verde"
-          ],
-          [
-            "In un mese hai la mappa dei consumi di casa",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-presa-smart"
-    },
-    {
-      "id": 25,
-      "tema": "potenza impegnata contatore",
-      "immagine": "fb-potenza-contatore",
-      "testo": "⚡ Salta la corrente quando accendi forno e lavatrice insieme? Non è un guasto: è la potenza impegnata del contatore.\n\nLa maggior parte delle case italiane ha 3 kW. Il contatore tollera un piccolo sforamento per qualche minuto, poi stacca.\n\n🔢 Ecco perché si arriva al limite in fretta:\n🔸 Forno elettrico: 2.000-2.500 W\n🔸 Ferro da stiro: 2.000-2.400 W\n🔸 Asciugacapelli: 1.800-2.200 W\n🔸 Lavatrice (fase di riscaldamento): 2.000 W\n🔸 Piano a induzione, una zona: 1.500-2.000 W\n🔸 Bollitore: 2.000-2.200 W\n\nBastano due di questi insieme e sei fuori.\n\n✅ Due strade:\n🔸 Gratis: sfasare gli apparecchi più affamati. Quasi tutti hanno la partenza ritardata, e serve proprio a questo.\n🔸 A pagamento: alzare la potenza a 4,5 o 6 kW. Comporta un costo una tantum e una quota fissa più alta in bolletta tutti i mesi, quindi ha senso solo se il problema è quotidiano.\n\nA te quante volte salta in un mese? 👇",
-      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
-      "video_testi": {
-        "titolo": "Salta la corrente? È la potenza del contatore",
-        "schede": [
-          [
-            "La maggior parte delle case ha 3 kW",
-            "bianco"
-          ],
-          [
-            "Forno 2.000-2.500 W, bollitore 2.000-2.200 W",
-            "bianco"
-          ],
-          [
-            "Due insieme e il contatore stacca",
-            "giallo"
-          ],
-          [
-            "Gratis: usa la partenza ritardata",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-potenza-contatore"
-    },
-    {
-      "id": 26,
-      "tema": "leggere la bolletta",
-      "immagine": "fb-leggere-bolletta",
-      "testo": "🧾 Confessione collettiva: quasi nessuno legge davvero la bolletta. Si guarda il totale e si paga.\n\nPeccato, perché lì dentro c'è l'unica informazione che serve per capire se stai spendendo troppo: il consumo annuo in kWh.\n\n📊 Per orientarsi, consumi tipici di una famiglia senza riscaldamento elettrico:\n🔸 1 persona: 1.500-2.000 kWh l'anno\n🔸 2 persone: 2.000-2.700 kWh\n🔸 3-4 persone: 2.700-3.500 kWh\n\nSe sei molto sopra la fascia della tua famiglia, non è questione di tariffe: c'è qualcosa in casa che consuma più del dovuto, e cambiare fornitore non lo risolverà.\n\n💡 L'altra cosa che vale la pena guardare è la divisione tra quota fissa e quota consumo. La quota fissa la paghi anche se stai un mese fuori casa: è lì che le offerte si assomigliano molto meno di quanto sembri.\n\n🔍 Il confronto onesto tra due offerte si fa su un anno intero e sul tuo consumo reale, non sul prezzo del kWh in prima pagina.\n\nSai quanti kWh consumi all'anno? 👇",
-      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
-      "video_testi": {
-        "titolo": "In bolletta guarda i kWh, non solo il totale",
-        "schede": [
-          [
-            "1 persona: 1.500-2.000 kWh l'anno",
-            "bianco"
-          ],
-          [
-            "2 persone: 2.000-2.700 kWh",
-            "bianco"
-          ],
-          [
-            "3-4 persone: 2.700-3.500 kWh",
-            "bianco"
-          ],
-          [
-            "Molto sopra? Il problema è in casa, non la tariffa",
-            "giallo"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-leggere-bolletta"
-    },
-    {
-      "id": 27,
-      "tema": "bici elettrica costi",
-      "immagine": "fb-ricarica-bici",
-      "testo": "🚴 Quanto costa davvero ricaricare una bici elettrica? Molto meno di quanto quasi tutti immaginano.\n\nUna batteria tipica da e-bike è da 400-500 Wh. Una ricarica completa consuma poco più di mezzo kWh: circa 0,18 € (a 0,32 €/kWh, ottobre 2026).\n\n🛣️ Con quella carica fai 50-80 km a seconda del livello di assistenza, del peso e delle salite.\n\n🧮 Tradotto: circa 0,30 € ogni 100 chilometri.\n\nPer confronto, un'auto a benzina che fa 15 km con un litro spende circa 14 € per gli stessi 100 km (benzina a 2,15 €/l, fine settembre 2026). Quasi cinquanta volte tanto.\n\n💡 Ovviamente non sono la stessa cosa e non servono agli stessi viaggi. Ma per il tragitto casa-lavoro sotto i 10 km, che in Italia è la maggioranza degli spostamenti quotidiani, il confronto è impietoso — e non abbiamo nemmeno contato parcheggio, bollo, assicurazione e tagliandi.\n\n🔋 Un consiglio sulla batteria: tenerla tra il 20% e l'80% quando non la usi per settimane allunga la vita parecchio. Lasciarla scarica per mesi è il modo migliore per rovinarla.\n\nLa useresti per andare al lavoro? 👇",
-      "link_commento": "https://guida-energia.com/mobilita-sostenibile/bici-elettriche-2026-guida-completa-prezzi-e-risparmi/",
-      "video_testi": {
-        "titolo": "Quanto costa ricaricare una bici elettrica",
-        "schede": [
-          [
-            "Batteria 400-500 Wh: circa 0,18 € a ricarica",
-            "bianco"
-          ],
-          [
-            "50-80 km con una carica",
-            "bianco"
-          ],
-          [
-            "Circa 0,30 € ogni 100 km",
-            "verde"
-          ],
-          [
-            "Auto a benzina: circa 14 € ogni 100 km",
-            "giallo"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-ricarica-bici"
-    },
-    {
-      "id": 28,
-      "tema": "elettrodomestici classe energetica",
-      "immagine": "fb-classe-energetica",
-      "testo": "🏷️ Sull'etichetta energetica degli elettrodomestici c'è una cosa che confonde parecchie persone: dal 2021 la scala è cambiata.\n\nSono spariti A+, A++ e A+++. Si è tornati alla scala semplice da A a G — ma più severa. Un frigorifero che prima era A+++ oggi può essere classificato C o D. Non è peggiorato: è cambiato il metro.\n\n📊 Questo significa due cose pratiche:\n🔸 Le classi A e B oggi sono rarissime, lasciate apposta libere per i modelli futuri. Una C è già un ottimo prodotto.\n🔸 Non puoi confrontare l'etichetta di un elettrodomestico comprato nel 2018 con una di oggi. Sono due scale diverse.\n\n💡 Il numero che conta davvero non è la lettera, è il consumo annuo in kWh scritto sotto. Quello è confrontabile sempre, tra qualsiasi modello e qualsiasi anno.\n\n🧮 Esempio concreto: tra due lavatrici che dichiarano 150 e 220 kWh l'anno ci sono 70 kWh di differenza, cioè circa 22 € l'anno (a 0,32 €/kWh, ottobre 2026). Su dieci anni di vita sono 220 €, che spesso valgono più della differenza di prezzo in negozio.\n\nGuardi la lettera o i kWh? 👇",
-      "link_commento": "https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/",
-      "video_testi": {
-        "titolo": "Etichetta energetica: dal 2021 la scala è cambiata",
-        "schede": [
-          [
-            "Spariti A+, A++ e A+++",
-            "bianco"
-          ],
-          [
-            "Un vecchio A+++ oggi può essere C o D",
-            "bianco"
-          ],
-          [
-            "Guarda i kWh l'anno, non la lettera",
-            "verde"
-          ],
-          [
-            "150 vs 220 kWh = 22 € l'anno, 220 € in 10 anni",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-classe-energetica"
-    },
-    {
-      "id": 29,
-      "tema": "umidita e percezione del freddo",
-      "immagine": "fb-umidita-freddo",
-      "testo": "💧 Curiosità che d'inverno torna utile: in una casa umida hai più freddo a parità di gradi sul termostato.\n\nIl motivo è fisico. L'aria umida conduce il calore meglio dell'aria secca, quindi il tuo corpo lo cede più in fretta. In un ambiente al 70% di umidità a 20°C si sta peggio che al 45% alla stessa temperatura.\n\n🌡️ L'umidità ideale in casa sta tra il 40% e il 60%. Sopra il 60% non è solo questione di comfort: si formano condensa sui vetri e muffa negli angoli delle pareti esterne.\n\n✅ Cosa funziona:\n🔸 Arieggiare poco e bene: 5 minuti a finestre spalancate, due volte al giorno. L'aria si cambia in fretta e i muri non fanno in tempo a raffreddarsi. Tenere una finestra socchiusa un'ora è il modo peggiore: raffredda le pareti e cambia poca aria.\n🔸 Cappa accesa quando cucini e ventola in bagno dopo la doccia: lì si produce la maggior parte del vapore\n🔸 Non stendere il bucato in casa senza ricambio d'aria\n\n💡 Un igrometro costa 8-12 € (settembre 2026) e ti dice se il problema è quello o no.\n\nHai condensa sui vetri la mattina? 👇",
-      "link_commento": "https://guida-energia.com/raffrescamento/condizionatore-funzione-deumidificatore/",
-      "video_testi": {
-        "titolo": "Casa umida = più freddo a parità di gradi",
-        "schede": [
-          [
-            "Umidità ideale: 40-60%",
-            "bianco"
-          ],
-          [
-            "Arieggia 5 minuti, finestre spalancate, 2 volte al giorno",
-            "verde"
-          ],
-          [
-            "Finestra socchiusa un'ora: raffredda i muri",
-            "giallo"
-          ],
-          [
-            "Igrometro: 8-12 €",
-            "bianco"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-umidita-freddo"
-    },
-    {
-      "id": 30,
-      "tema": "valvole termostatiche",
-      "immagine": "fb-valvole-termostatiche",
-      "testo": "🎛️ Nella maggior parte delle case si scalda tutto allo stesso modo: la camera degli ospiti dove non entra nessuno, lo studio usato mezz'ora al giorno, il corridoio.\n\nLe valvole termostatiche servono esattamente a questo: dare a ogni stanza la temperatura che le serve.\n\nSi avvitano al posto della manopola del termosifone e regolano il flusso in base alla temperatura della stanza. Quando è arrivata al punto impostato, chiudono. Nessun cavo, nessun impianto da rifare.\n\n🔢 I numeri indicativi (settembre 2026):\n🔸 Valvola manuale: 15-25 € l'una\n🔸 Valvola smart programmabile: 40-70 € l'una\n🔸 Montaggio: fattibile da soli su impianti autonomi, con l'impianto freddo\n\n🌡️ Le temperature che hanno senso stanza per stanza:\n🔸 Soggiorno: 20°C\n🔸 Camere da letto: 17-18°C, si dorme anche meglio\n🔸 Bagno: 22°C ma solo nelle ore di utilizzo\n🔸 Stanze inutilizzate: 15-16°C, mai spente del tutto, altrimenti umidità e muffa\n\n💰 In un appartamento con riscaldamento autonomo si parla in genere di un 10-20% di gas in meno. Si ripagano in una stagione o due.\n\nLe hai già o vai ancora a manopola? 👇",
-      "link_commento": "https://guida-energia.com/smart-home/valvole-termostatiche-smart-2026/",
-      "video_testi": {
-        "titolo": "Valvole termostatiche: ogni stanza la sua temperatura",
-        "schede": [
-          [
-            "Manuale 15-25 €, smart 40-70 € l'una",
-            "bianco"
-          ],
-          [
-            "Camere 17-18°C, soggiorno 20°C",
-            "bianco"
-          ],
-          [
-            "Stanze vuote 15-16°C, mai spente",
-            "giallo"
-          ],
-          [
-            "10-20% di gas in meno",
-            "verde"
-          ]
-        ]
-      },
-      "video": "consiglio-fb-valvole-termostatiche"
     }
   ]
 }
