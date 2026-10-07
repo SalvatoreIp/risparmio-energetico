@@ -1,6 +1,7 @@
 ---
 title: "Lampade e faretti da esterno LED: illuminazione efficiente e risparmio energetico"
 date: 2026-06-07T17:50:00+02:00
+lastmod: 2026-10-07T09:08:44+02:00
 draft: false
 description: "Guida completa a lampade e faretti da esterno LED: confronto Philips Hue, Govee, faretti solari. Come funzionano, costi, risparmio energetico reale e installazione fai-da-te."
 categories: ["illuminazione"]
@@ -10,31 +11,30 @@ cover:
   alt: "Giardino di sera illuminato da faretti LED lungo il vialetto e un ulivo illuminato dal basso"
 ---
 
-<p class="lead">Sostituire le vecchie lampade alogene con LED da esterno significa risparmiare fino al 90% sui costi energetici: da €120/anno a €12/anno, con 2000 ore di illuminazione annuale.</p>
+<p class="lead">Sostituire 8 punti luce alogeni da esterno con LED equivalenti, usati 900 ore l'anno (3 ore a notte per 300 giorni), fa scendere la spesa da circa 133 € a circa 21 € l'anno: un risparmio dell'84% circa, calcolato a 0,32 €/kWh.</p>
+
+<div class="in-breve">
+<strong>In breve (aggiornato a ottobre 2026)</strong>
+<ul>
+<li><strong>Risparmio energetico:</strong> un faretto LED da 10 W sostituisce un alogeno da 50-70 W, l'80-90% di consumo in meno.</li>
+<li><strong>Risparmio in euro:</strong> 8 punti luce (5 faretti + 3 lampade) usati 900 ore/anno passano da circa 133 €/anno a circa 21 €/anno a 0,32 €/kWh, cioè circa 112 €/anno in meno.</li>
+<li><strong>Investimento e rientro:</strong> 150-250 € per sostituire 8 punti luce, ripagati in 1,5-2,5 anni solo di bolletta risparmiata.</li>
+<li><strong>Incentivi:</strong> nessun bonus dedicato alla sola illuminazione esterna; il Bonus Ristrutturazioni (50% prima casa, 36% altri immobili) copre l'intervento solo se incluso in lavori più ampi di ristrutturazione.</li>
+</ul>
+</div>
+
+<div class="cta-box">
+<a href="https://www.amazon.it/s?k=faretti+led+esterno&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta faretti e lampade LED da esterno su Amazon</a>
+</div>
 
 ## Cos'è e come funziona
 
-Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per illuminare giardini, terrazzi, facciate e sentieri. Rispetto alle tecnologie tradizionali (alogeni, vapori di sodio, fluorescenti), i LED offrono:
-
-- **Consumi ridotti del 80-90%**: un faretto da 10W LED equivale a uno da 50-70W alogeno
-- **Durata 25-50 volte superiore**: 25.000-50.000 ore (10-20 anni) vs 2.000-3.000 ore
-- **Resistenza agli agenti atmosferici**: certificazioni IP65/IP67 per pioggia, polvere, neve
-- **Accensione istantanea**: nessun ritardo di riscaldamento
-- **Nessun UV/IR**: non attirano insetti, non sbiadiscono i materiali
-- **Controllo intelligente**: accensione/spegnimento programmato, sensori movimento, app smartphone
-
-**Come funziona nel dettaglio:**
-1. Il diodo LED emette luce quando attraversato da corrente elettrica (elettroluminescenza)
-2. Il driver elettrico converte la tensione di rete (230V) alla tensione corretta per il LED (solitamente 12-24V DC)
-3. Il sistema di raffreddamento (dissipatore in alluminio) mantiene la temperatura di giunzione sotto i 60-70°C
-4. I rivestimenti protettivi (IP65/IP67) isolano acqua e polvere
-5. I sensori (crepuscolare, movimento) ottimizzano i consumi
+Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio e fluorescenti con consumi dell'80-90% più bassi (un faretto da 10W LED equivale a uno da 50-70W alogeno) e una durata 25-50 volte superiore (25.000-50.000 ore, contro le 2.000-3.000 ore degli alogeni). Un driver converte la tensione di rete (230V) in quella richiesta dal LED (12-24V DC), un dissipatore in alluminio mantiene la temperatura sotto i 60-70°C, e i modelli per esterno sono certificati IP65/IP67 contro pioggia e polvere.
 
 **Requisiti essenziali:**
 - **Protezione IP**: minimo IP65 per esterni (resistente a getti d'acqua), IP67 per zone allagate
-- **Temperatura di funzionamento**: -20°C/+40°C (alcuni modelli fino a -30°C/+50°C)
 - **Tensione di alimentazione**: 230V AC (rete) o 12-24V DC (batteria/solare)
-- **Flusso luminoso**: lumen per watt (efficienza >80 lm/W per LED economici, >120 lm/W per premium)
+- **Flusso luminoso**: efficienza oltre 80 lm/W per i LED economici, oltre 120 lm/W per i modelli premium
 
 ## I migliori modelli del 2026
 
@@ -44,7 +44,7 @@ Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per 
 <thead>
 <tr>
 <th>Prodotto</th>
-<th>Prezzo (indicativo maggio 2026)</th>
+<th>Prezzo (indicativo ottobre 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
 <th>Amazon</th>
@@ -53,7 +53,7 @@ Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per 
 <tbody>
 <tr>
 <td><strong>Philips BVP167 50W</strong><br><small>IP66, 5500 lumen, triled 3000-4000-6500K</small></td>
-<td>€45-65</td>
+<td>€55-90</td>
 <td>Qualità olandese, durata 50.000h, scelta temperatura colore</td>
 <td>Prezzo elevato, installazione professionale necessaria</td>
 <td><a href="https://www.amazon.it/dp/B0DFDMSG79?tag=audiobookit-21" target="_blank">Amazon</a></td>
@@ -88,7 +88,7 @@ Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per 
 <thead>
 <tr>
 <th>Prodotto</th>
-<th>Prezzo (indicativo maggio 2026)</th>
+<th>Prezzo (indicativo ottobre 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
 <th>Amazon</th>
@@ -97,7 +97,7 @@ Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per 
 <tbody>
 <tr>
 <td><strong>Govee Outdoor Spotlights 2-Pack</strong><br><small>IP67, RGBW, 2x700 lm, batteria ricaricabile</small></td>
-<td>€60-80</td>
+<td>€80-100</td>
 <td>Colori RGBW, controllo app, ricarica USB-C, facile installazione</td>
 <td>Batteria 4-6 ore, durata inferiore a cablati</td>
 <td><a href="https://www.amazon.it/dp/B0FN7MY3ZT?tag=audiobookit-21" target="_blank">Amazon</a></td>
@@ -139,7 +139,7 @@ Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per 
 <thead>
 <tr>
 <th>Prodotto</th>
-<th>Prezzo (indicativo maggio 2026)</th>
+<th>Prezzo (indicativo ottobre 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
 <th>Amazon</th>
@@ -172,36 +172,35 @@ Le **lampade e i faretti LED da esterno** sono la soluzione più efficiente per 
 
 ## Quanto si risparmia davvero
 
-L'illuminazione esterna rappresenta una voce di costo significativa: sostituendo tecnologie vecchie con LED, i risparmi sono **immediati e sostanziosi**.
+L'illuminazione esterna rappresenta una voce di costo piccola ma inutile da sprecare: con i LED il risparmio è quasi tutto nei consumi, non nella sostituzione delle lampadine.
 
-**Calcolo concreto (illuminazione esterna 3 ore/notte × 300 giorni/anno = 900 ore/anno):**
+**Calcolo concreto (illuminazione esterna 3 ore/notte × 300 giorni/anno = 900 ore/anno, luce a 0,32 €/kWh):**
 
 ### Costo annuale vecchie tecnologie (5 faretti da 50W alogeni + 3 lampade da 60W):
-- **Consumo annuo**: (5×50W + 3×60W) × 900h = 250.000Wh + 162.000Wh = 412kWh
-- **Costo elettricità**: 412kWh × €0,25/kWh = **€103/anno**
-- **Sostituzione lampade**: 8 lampade × €3 × 3 volte/anno = **€72/anno**
-- **Totale vecchie tecnologie**: **€175/anno**
+- **Consumo annuo**: (5×50W × 900h) + (3×60W × 900h) = 225 kWh + 162 kWh = **387 kWh**
+- **Costo elettricità**: 387 kWh × 0,32 €/kWh = **€123,84/anno**
+- **Sostituzione lampade**: un alogeno dura 2.000-3.000 ore, cioè 2-3 anni a 900h/anno di uso; su 8 punti luce servono circa 3 lampade di ricambio l'anno × €3 = **€9/anno**
+- **Totale vecchie tecnologie**: **€133/anno**
 
 ### Costo annuale LED (5 faretti da 10W LED + 3 lampade da 7W LED):
-- **Consumo annuo**: (5×10W + 3×7W) × 900h = 50.000Wh + 18.900Wh = 68,9kWh
-- **Costo elettricità**: 68,9kWh × €0,25/kWh = **€17,20/anno**
-- **Sostituzione lampade**: 0 (durata 10-15 anni)
-- **Totale LED**: **€17,20/anno**
+- **Consumo annuo**: (5×10W × 900h) + (3×7W × 900h) = 45 kWh + 18,9 kWh = **63,9 kWh**
+- **Costo elettricità**: 63,9 kWh × 0,32 €/kWh = **€20,50/anno**
+- **Sostituzione lampade**: 0 (durata 10-15 anni, non serve cambiarle nell'orizzonte di questo calcolo)
+- **Totale LED**: **€20,50/anno**
 
 ### Risparmio annuo:
-- **Risparmio diretto**: €175 - €17,20 = **€157,80/anno**
-- **Risparmio percentuale**: 90,2%
+- **Risparmio diretto**: €133 - €20,50 = **€112,50/anno**
+- **Risparmio percentuale**: circa 84,6%
 - **Ritorno investimento**:
-  - Investimento LED: €200-400 (5 faretti + 3 lampade)
-  - **Amortizzazione**: 1-2,5 anni
-  - **Guadagno a 10 anni**: €1.578 - €300 = **€1.278**
+  - Investimento LED: €150-250 per gli 8 punti luce (5 faretti da 10W sui €18-25 l'uno, 3 lampade da 7W sui €8-15 l'una)
+  - **Ammortizzazione**: da 1,3 a 2,2 anni
+  - **Guadagno nei 10 anni successivi** (risparmio - investimento iniziale): circa €875-975
 
-**Esempio pratico con faretti solari:**
-> **Famiglia Bianchi** (giardino 100mq, 4 faretti da esterno)
-> - **Prima**: 4 faretti alogeni 50W × 5 ore × 300 giorni = 30kWh = €7,50/mese = €90/anno
-> - **Dopo**: 4 faretti solari (gratuiti, niente cablaggio)
-> - **Risparmio**: €90/anno + €200 installazione = €290 di beneficio immediato
-> - **Ritorno investimento**: <6 mesi (niente bolletta, niente cablaggio)
+**Esempio pratico con faretti solari (nessun cablaggio):**
+> **4 punti luce in giardino**
+> - **Prima (alogeni cablati)**: 4 faretti da 50W × 5 ore/giorno × 300 giorni = 300 kWh/anno = circa **€96/anno** di elettricità (0,32 €/kWh), più l'impianto elettrico iniziale (€80-150 a punto luce se va steso da zero)
+> - **Dopo (faretti solari)**: 0 € di elettricità, 0 € di cablaggio, solo il costo d'acquisto dei faretti (circa €8-50 l'uno, vedi tabella sopra)
+> - **Risparmio**: circa €96/anno di bolletta evitata ogni anno; se si sostituisce un impianto cablato ancora da realizzare, si evitano anche i €320-600 di posa elettrica per 4 punti luce
 
 **Costi installazione:**
 - **Cablati (230V)**: €80-150 per punto (elettricista, materiali, scavi se necessari)
@@ -211,67 +210,38 @@ L'illuminazione esterna rappresenta una voce di costo significativa: sostituendo
 ## Incentivi disponibili
 
 ### Bonus Ristrutturazioni 2026
-- **Detrazione 50%**: sostituzione impianti di illuminazione esterni con LED
-- **Condizione**: fattura deve includere anche altri lavori di riqualificazione energetica
+- **Detrazione**: 50% per la prima casa, 36% per le altre unità immobiliari (le aliquote scendono al 36%/30% solo dal 2027)
+- **Condizione**: la sostituzione dei soli punti luce esterni non dà diritto da sola al bonus; va inserita in una fattura di lavori di ristrutturazione o riqualificazione energetica più ampi
 - **Limite**: €96.000 di spesa detraibile per unità immobiliare
-- **Scadenza**: disponibile fino a esaurimento fondi (solitamente fine anno)
+- **Come funziona**: detrazione Irpef in 10 quote annuali
 
-### Bonus Verde
-- **Importo**: €500-1.500
-- **Condizione**: illuminazione esterna per giardini, aree verdi condominiali
-- **Condizione aggiuntiva**: uso LED efficiente, orari limitati
-- **Scadenza**: verificare con Comune di riferimento
+### Nessun bonus dedicato alla sola illuminazione esterna
+Il **Bonus Verde** (36% per giardini e terrazzi) è scaduto il 31 dicembre 2024 e non è stato rinnovato dalla Legge di Bilancio 2026: chi vuole detrarre la spesa per faretti e lampade da esterno deve passare dal Bonus Ristrutturazioni, abbinandola ad altri lavori edili. Alcune Regioni (per esempio il Piemonte, con un bando da 12,75 milioni di euro) finanziano l'efficientamento dell'**illuminazione pubblica** dei Comuni, non gli impianti privati di case e giardini: non contano per chi vuole illuminare il proprio giardino.
 
-### Contributi Regionali/Comunali
-Alcune regioni offrono incentivi per:
-- **Lombardia**: €200-500 per illuminazione LED efficienti
-- **Toscana**: sconti per edifici storici (illuminazione esterna)
-- **Piemonte**: contributi per condomini con illuminazione LED
+## Consigli pratici
 
-**Importante**: verificare sempre sul sito del proprio Comune per incentivi locali specifici.
+**Per sicurezza e illuminazione funzionale**: faretti cablati 230V (Philips BVP167, LEDinaire 30W), potenti e con driver sostituibile.
 
-## Consigli del tecnico
+**Per decorazione e atmosfera**: LED solari o a batteria (Govee, Philips Hue Lily), con app e colori regolabili.
 
-> **L'illuminazione esterna LED è uno degli investimenti più convenienti per il risparmio energetico**. Ecco i miei consigli:
->
-> **Per sicurezza e illuminazione funzionale**: scegli faretti cablati 230V (Philips BVP167, LEDinaire 30W). Potenti, affidabili, durata 50.000h.
->
-> **Per decorazione e atmosfera**: opta per LED solari (Govee, Philips Hue Lily). Colori RGBW, app, facile installazione.
->
-> **Per sentieri e percorsi**: usa lampade basse solari (IP65, sensore movimento). Sicure, economiche, nessuna cablaggio.
->
-> **Errori da evitare**:
-> - **Compra IP44 per esterni**: minimo IP65 per resistere a pioggia e neve
-> - **Scegli temperatura colore sbagliata**: 2700-3000K per casa, 4000K per sicurezza, 6000K sconsigliato (troppo freddo)
-> - **Installare senza timer/sensore**: spreco energetico, costi inutili
-> - **Dimenticare l'ombreggiamento**: LED diretti verso finestre = reclami vicini, multe
-> - **Usare driver economici**: si bruciano dopo 1-2 anni, sostituiscono tutto il faretto
->
-> **Dimensionamento corretto**:
-> - **Illuminazione sentieri**: 50-100 lm/metro di percorso
-> - **Illuminazione facciata**: 5-10 lm/m² di superficie
-> - **Illuminazione giardino**: 100-300 lm/m² (a seconda della densità vegetazione)
-> - **Sicurezza ingresso**: 300-500 lm per porta principale
->
-> **Programmazione intelligente**:
-> - **Timer**: spegnimento automatico a mezzanotte (risparmio 50% senza impatto sicurezza)
-> - **Sensore movimento**: attiva solo quando necessario (risparmio 70-80%)
-> - **Crepuscolare**: accensione automatica al tramonto, spegnimento all'alba
-> - **App smart**: controllo remoto, scenari personalizzati, report consumi
+**Per sentieri e percorsi**: lampade basse solari con sensore di movimento, nessun cablaggio.
 
-**Verifica normativa locale**: molti comuni regolamentano l'illuminazione esterna per ridurre l'inquinamento luminoso (orari limite, direzione luce, intensità massima).
+**Errori da evitare**:
+- comprare protezione IP44: per esterni serve minimo IP65 (IP67 nelle zone che si allagano)
+- temperatura colore sbagliata: 2700-3000K per la casa, 4000K per sicurezza, 6000K è troppo freddo per un giardino
+- installare senza timer né sensore crepuscolare: resta acceso anche quando non serve
+- puntare i faretti verso le finestre dei vicini: motivo frequente di reclami
+
+**Dimensionamento di riferimento**: 50-100 lm/metro per i sentieri, 100-300 lm/m² per il giardino, 300-500 lm per l'ingresso principale.
+
+**Normativa locale**: diversi Comuni regolamentano l'illuminazione esterna per limitare l'inquinamento luminoso (orari, direzione del fascio, intensità massima) — va controllato prima di installare impianti fissi di una certa potenza.
 
 ## Conclusione
 
-Sostituire le vecchie lampade alogene e a incandescenza con **LED da esterno** significa:
-- **Risparmio energetico**: 80-90% meno consumo
-- **Risparmio economico**: €150-200/anno per famiglia media
-- **Durata**: 10-15 anni vs 2-3 anni
-- **Mantenimento**: zero costi di sostituzione
-- **Comfort**: luce migliore, accensione istantanea, nessun ronzio
+Sostituire gli alogeni da esterno con LED equivalenti riduce il consumo dell'80-90% e, su 8 punti luce usati 900 ore l'anno, porta la spesa da circa 133 € a circa 21 € l'anno (0,32 €/kWh): un risparmio di circa 112 €/anno, con un investimento di 150-250 € che si ripaga in 1,5-2,5 anni. A questo si aggiunge una durata di 10-15 anni contro le 2.000-3.000 ore degli alogeni, quindi quasi nessuna spesa di sostituzione.
 
-**Per chi iniziare**: i **fari cablati Philips BVP167 50W** sono la scelta premium per sicurezza e durata (€45-65), mentre i **fari solari Govee** sono perfetti per chi vuole zero cablaggio e funzioni smart (€60-80).
+Per iniziare: i **faretti cablati Philips BVP167 50W** restano la scelta più solida per sicurezza e durata; i **faretti solari** (Govee, soluzioni economiche senza marchio) evitano del tutto il cablaggio dove non c'è un punto elettrico vicino.
 
-**Ricorda**: il vero guadagno non è solo in euro, ma nella comodità, sicurezza e impatto ambientale ridotto. Illuminazione esterna efficiente = casa più sicura, bolletta più bassa, ambiente più pulito.
+**Guide collegate:** [lampadine smart 2026](/illuminazione/lampadine-smart-2026/) · [luci LED: il risparmio più semplice](/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/) · [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)
 
-<p class="fonti">*Fonti: test pratici 2026, dati produttori LED, report risparmio energetico illuminazione, normativa illuminazione esterna Italia*</p>
+<p class="fonti">*Fonti: [ARERA - prezzi energia elettrica 3° trimestre 2026](https://www.arera.it), [Bonus Ristrutturazioni 2026 - aliquote e proroga](https://ediltecnico.it/bonus-edilizi-2026-legge-di-bilancio/), [Bonus Verde 2026 - perché non è stato rinnovato](https://quifinanza.it/fisco-tasse/bonus-fiscali/bonus-verde-2026/959475/), [Regione Piemonte - bando efficientamento illuminazione pubblica](https://www.regione.piemonte.it/web/node/20087), schede tecniche produttori (Philips, Govee)*</p>
