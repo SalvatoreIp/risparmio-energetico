@@ -97,18 +97,15 @@ def ease(x):
 
 
 def audio(path, dur, tics):
-    """Tappeto morbido (accordo maggiore lento) + 'tic' leggeri all'arrivo di ogni scheda."""
+    """Solo 'tic' discreti all'arrivo di ogni scheda (09/10, Salvatore: l'accordo fisso di sottofondo era
+    fastidioso; la musica vera arrivera' da un brano scelto apposta)."""
     t = np.arange(int(SR * dur)) / SR
-    pad = np.zeros_like(t)
-    for f0, a in ((220.0, 0.05), (277.18, 0.035), (329.63, 0.035), (440.0, 0.02)):
-        pad += a * np.sin(2 * math.pi * f0 * t) * (0.75 + 0.25 * np.sin(2 * math.pi * 0.2 * t + f0))
-    env = np.minimum(1, t / 1.0) * np.minimum(1, (dur - t) / 1.0)
-    sig = pad * env
+    sig = np.zeros_like(t)
     for t0 in tics:
         i0 = int(t0 * SR)
         n = int(0.18 * SR)
         tt = np.arange(n) / SR
-        tic = 0.22 * np.sin(2 * math.pi * 1318.5 * tt) * np.exp(-tt * 28)
+        tic = 0.12 * np.sin(2 * math.pi * 1318.5 * tt) * np.exp(-tt * 28)
         sig[i0:i0 + n] += tic[:len(sig) - i0]
     sig = np.clip(sig, -1, 1)
     st = np.repeat((sig * 32767).astype(np.int16)[:, None], 2, axis=1)
