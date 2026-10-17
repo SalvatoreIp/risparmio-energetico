@@ -2,6 +2,7 @@
 title: "Quanto si risparmia coltivando in casa con l'idroponica"
 slug: "quanto-si-risparmia-idroponica-casa"
 date: 2026-06-30T08:09:00+02:00
+lastmod: 2026-10-17T09:12:17+02:00
 draft: false
 description: "Quanto si risparmia coltivando in casa con l'idroponica. Kit base, consumi LED, resa basilico e insalata. Calcolo reale: costi, tempi di rientro, risparmio annuo."
 categories: ["idroponica"]
@@ -11,11 +12,21 @@ cover:
   alt: "Sistema idroponico domestico con basilico e insalata che cresce sotto luci LED"
 ---
 
+<p class="lead">Al supermercato un vasetto di basilico fresco costa €1,50 (100g), un'insalata trinciata €1,99 (1kg): se ne butta circa un terzo perché appassisce prima di essere usato. Un kit idroponico da €185-€285 produce quantità simili con €12-€16/mese di costi operativi, ripagandosi in 3-5 mesi.</p>
+
+<div class="in-breve">
+<strong>In breve (aggiornato a ottobre 2026)</strong>
+<ul>
+<li><strong>Investimento:</strong> kit NFT 36 postazioni + LED + nutrienti: 185-285 €, rientro in 3-5 mesi.</li>
+<li><strong>Risparmio mensile:</strong> 57-60 € rispetto a comprare basilico, insalata e aromatiche fresche (spesa supermercato: 72,40 €/mese).</li>
+<li><strong>Costo energia:</strong> LED + pompa = 6,53 €/mese (78,34 €/anno) a 0,32 €/kWh, circa il 5,5% del valore dei prodotti raccolti.</li>
+<li><strong>Cosa coltivare:</strong> conviene solo erbe aromatiche e insalate a ciclo corto (basilico, rucola, prezzemolo); pomodori e peperoni non ripagano l'investimento.</li>
+</ul>
+</div>
+
 <div class="cta-box">
 <a href="https://www.amazon.it/s?k=kit+idroponica+casa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit idroponici per casa su Amazon</a>
 </div>
-
-<p class="lead">Al supermercato un vasetto di basilico fresco costa €1,50 (100g), un'insalata trinciata €1,99 (1kg): se ne butta il 30% perché appassisce. Un sistema idroponico da €150 produce gli stessi quantitativi con €10-€20/mese di costi, ripagandosi in 8-12 mesi.</p>
 
 ## Il problema reale: spendi €60-€100/mese di erbe e insalate e butti via un terzo
 
@@ -30,377 +41,121 @@ cover:
 | Erbe miste | 50g | €1,00 | 2 volte | €8,00 |
 | **Totale** | | | | **€72,40** |
 
-**Ma c'è di peggio:** se ne butta circa il **30%** perché appassisce, marcisce o si secca prima di usarlo. Quindi stai pagando **€100,00/mese** per ottenere davvero **€72,40** in prodotti utili.
-
-**Aggiungi:**
-- **Spesa energetica:** tenere le piante fresche in frigo = €2-€5/mese di elettricità
-- **Tempo:** fare la spesa 2-3 volte a settimana = 4-6 ore/mese
-- **Spreco:** 1/3 dei prodotti buttati = **€30-€35/mese di spreco**
-
-**Totale reale:** **€100-€135/mese** per erbe e insalate, con un terzo buttato via.
-
-**La domanda è:** come evitare di buttare cibo, ridurre la spesa e avere sempre prodotti freschi a portata di mano?
-
-La risposta: **coltivazione idroponica domestica.**
+Se ne butta circa il **30%** perché appassisce o marcisce prima di usarlo. Con lo spreco, l'energia del frigo (€2-€6/mese) e le ore spese a fare la spesa più volte a settimana, la spesa reale sale a **€100-€135/mese**: la coltivazione idroponica domestica evita gran parte di questo spreco.
 
 ---
 
 ## Come funziona l'idroponica: radici in acqua, nutrienti, niente terra
 
-**L'idroponica non è magia:** è coltivazione senza terra, con le radici immerse in acqua arricchita di nutrienti. Le piante crescono più veloci, usano meno acqua, e non soffrono malattie del terreno.
+L'idroponica non è magia: è coltivazione senza terra, con le radici immerse in acqua arricchita di nutrienti. Le piante crescono più in fretta, usano meno acqua e non soffrono le malattie del terreno.
 
-**Come funziona:**
+Il sistema è semplice: un serbatoio con acqua e nutrienti (€18-€30 a bottiglia, dura 2-3 mesi), una pompa che ricircola l'acqua tra le radici (5W), vasi in lana di roccia o argilla espansa (circa €10/100 pezzi) e luci LED accese 12-16 ore al giorno per la fotosintesi.
 
-1. **Serbatoio:** contiene acqua + nutrienti (€15-€40/bottiglia, dura 2-3 mesi)
-2. **Pompa:** spinge l'acqua dalle radici (2-5W, €0,01/giorno)
-3. **Vasi:** le piante crescono in lana di roccia o argilla espansa (€10/100 pezzi)
-4. **Luci LED:** 12-16 ore/giorno per fotosintesi (vedi consumi sotto)
-5. **Nutrienti:** NPK + microelementi (€15-€40/bottiglia, 2-3 mesi)
-
-**Vantaggi reali:**
-- **Crescita 30-50% più veloce** rispetto alla terra
-- **Risparmio idrico 90%** (acqua riciclata, non dispersa)
-- **Niente malattie del terreno** (funghi, batteri)
-- **Raccolta continua** (non un raccolto a stagione, ma tutto l'anno)
-- **Niente pesticidi** (coltivazione indoor protetta)
+Rispetto alla terra: crescita 30-50% più veloce, risparmio idrico intorno al 90% (l'acqua è riciclata, non si disperde nel terreno), niente malattie del terreno, raccolta continua tutto l'anno invece di un solo raccolto a stagione, niente pesticidi.
 
 ---
 
 ## Il calcolo reale: quanto costa, quanto produce, quando si ripaga
 
-### **Investimento iniziale (kit completo):**
+### Investimento iniziale (kit completo)
 
-| Componente | Prezzo | Durata |
+| Componente | Prezzo indicativo* | Durata |
 |------------|--------|--------|
-| Kit base NFT (36 postazioni) | €120-€180 | 5-7 anni |
-| Lampade LED grow (40W) | €40-€60 | 3-5 anni |
+| Kit NFT 36 postazioni | €120-€180 | 5-7 anni |
+| Set lampade LED grow (circa 40W totali) | €35-€60 | 3-5 anni |
 | Nutrienti (starter kit) | €20-€30 | 2-3 mesi |
 | Substrato (lana di roccia/argilla) | €10-€15 | 1 anno |
-| **TOTALE INVESTIMENTO** | **€190-€285** | |
+| **TOTALE INVESTIMENTO** | **€185-€285** | |
 
-### **Consumi mensili (al netto dell'investimento):**
+*prezzo indicativo ottobre 2026, verifica nel link.
+
+### Consumi mensili (al netto dell'investimento)
 
 | Voce | Costo/mese |
 |------|-----------|
 | Nutrienti | €5-€8 |
-| Energia LED (40W × 14h × 30 giorni × 0,26€/kWh) | €4,37 |
-| Energia pompa (5W × 24h × 30 giorni × 0,26€/kWh) | €0,94 |
+| Energia LED (40W × 14h × 30 giorni a 0,32 €/kWh) | €5,38 |
+| Energia pompa (5W × 24h × 30 giorni a 0,32 €/kWh) | €1,15 |
 | Substrato (ricambio annuale) | €1,00 |
-| **TOTALE OPERATIVO** | **€11,37-€14,37** |
+| **TOTALE OPERATIVO** | **€12,50-€15,50** |
 
-### **Resa mensile reale:**
+### Resa mensile reale
 
-**Sistema con 36 postazioni:**
+Un sistema con 36 postazioni, piantato con basilico, insalata, rucola e prezzemolo in proporzioni equilibrate, produce **8-12 kg al mese** di raccolto.
 
-| Coltura | Tempo di raccolta | Rese per pianta | Raccolta mensile |
-|---------|------------------|-----------------|-----------------|
-| Basilico | 45-60 giorni | 100-150g/pianta | 2-3 kg |
-| Insalata | 30-40 giorni | 150-200g/pianta | 4-6 kg |
-| Rucola | 25-30 giorni | 50-80g/pianta | 1,5-2 kg |
-| Prezzemolo | 40-50 giorni | 80-120g/pianta | 1,5-2 kg |
-| **Totale** | | | **8-12 kg/mese** |
+**In termini economici** (prezzi medi al kg da supermercato):
+- Basilico: 2,5 kg × €15/kg = **€37,50**
+- Insalata: 5 kg × €1,99/kg = **€9,95**
+- Rucola: 1,8 kg × €15/kg = **€27,00**
+- Prezzemolo: 1,8 kg × €25/kg = **€45,00**
+- **Totale produzione: €119,45/mese**
 
-**In termini economici:**
-- **Basilico:** 2,5 kg × €15/kg = **€37,50**
-- **Insalata:** 5 kg × €1,99/kg = **€9,95**
-- **Rucola:** 1,8 kg × €15/kg = **€27,00**
-- **Prezzemolo:** 1,8 kg × €25/kg = **€45,00**
-- **Totale produzione:** **€119,45/mese**
+### Il ritorno dell'investimento (ROI)
 
-### **Calcolo del ritorno dell'investimento (ROI):**
+**Spesa mensile al supermercato:** €72,40
+**Spesa mensile idroponica:** €12,50-€15,50
+**Risparmio mensile:** **€57-€60**
 
-**Spesa mensile al supermercato:** €72,40  
-**Spesa mensile idroponica:** €11,37-€14,37  
-**Risparmio mensile:** **€58-€61**
+**Investimento iniziale:** €185-€285
+**Tempo di rientro:** da circa **3 mesi** (kit economico, €185 ÷ €60) a circa **5 mesi** (kit completo, €285 ÷ €57)
 
-**Investimento iniziale:** €190-€285  
-**Tempo di rientro:** **€190÷€59 = 3,2 mesi** (kit economico)  
-**Tempo di rientro:** **€285÷€59 = 4,8 mesi** (kit completo)
+**Risparmio annuo:** circa **€700**
+**Risparmio nei primi 5 anni:** circa **€3.200**, già al netto del kit più costoso
 
-**Risparmio annuo reale:** €59 × 12 = **€708**  
-**Risparmio 5 anni:** **€3.540 - €285 = €3.255**
-
-**Attenzione:** questo calcolo include solo erbe e insalate. Se coltivi anche pomodorini, peperoncini, fragole, il risparmio raddoppia.
+Questo calcolo considera solo erbe aromatiche e insalate: altre colture hanno cicli più lunghi e cambiano i conti (vedi sotto).
 
 ---
 
 ## Cosa conviene davvero coltivare (e cosa no)
 
-### **✅ CONVIENE MOLTO (ROI <6 mesi):**
+**Conviene, si ripaga in pochi mesi** (regola pratica: costa più di €10/kg al supermercato e matura in meno di 2 mesi):
 
-**Basilico:**
-- **Costo supermercato:** €15-€25/kg
-- **Resa idroponica:** 2-3 kg/sistema/mese
-- **Tempo raccolta:** 45-60 giorni
-- **Perché conviene:** costo altissimo al kg, cresce velocissimo, si ripaga da solo in 2-3 mesi
+| Coltura | Prezzo al supermercato | Resa idroponica/mese | Raccolta |
+|---------|------------------------|----------------------|----------|
+| Basilico | 15-25 €/kg | 2-3 kg | 45-60 giorni |
+| Rucola | 15 €/kg | 1,5-2 kg | 25-30 giorni |
+| Prezzemolo | 20-30 €/kg | 1,5-2 kg | 40-50 giorni |
+| Menta | 10-15 €/kg | 1-1,5 kg | 35-45 giorni |
+| Insalata (lattuga, iceberg) | 2-4 €/kg | 4-6 kg | 30-40 giorni |
 
-**Rucola:**
-- **Costo supermercato:** €15/kg
-- **Resa idroponica:** 1,5-2 kg/mese
-- **Tempo raccolta:** 25-30 giorni
-- **Perché conviene:** cicli brevissimi, raccolta continua, si spreca meno
+**Non conviene** (ciclo troppo lungo o prezzo al kg troppo basso per giustificare l'investimento):
 
-**Arugula/roquette:**
-- **Costo supermercato:** €8-€12/kg
-- **Resa idroponica:** 1-1,5 kg/mese
-- **Tempo raccolta:** 30-35 giorni
-- **Perché conviene:** crescita rapida, gusto intenso
-
-### **✅ CONVIENE (ROI 6-12 mesi):**
-
-**Insalata (lattuga, rucola, iceberg):**
-- **Costo supermercato:** €1,99-€3,99/kg
-- **Resa idroponica:** 4-6 kg/mese
-- **Tempo raccolta:** 30-40 giorni
-- **Perché conviene:** consumo costante, risparmio €10-€15/mese
-
-**Prezzemolo:**
-- **Costo supermercato:** €20-€30/kg
-- **Resa idroponica:** 1,5-2 kg/mese
-- **Tempo raccolta:** 40-50 giorni
-- **Perché conviene:** altissimo prezzo al kg, cresce bene
-
-**Menta:**
-- **Costo supermercato:** €10-€15/kg
-- **Resa idroponica:** 1-1,5 kg/mese
-- **Tempo raccolta:** 35-45 giorni
-- **Perché conviene:** si riprende da solo, cresce continuamente
-
-### **❌ NON CONVIENE (ROI >18 mesi):**
-
-**Pomodori:**
-- **Costo supermercato:** €3-€8/kg
-- **Resa idroponica:** 2-4 kg/mese (piccola varietà)
-- **Tempo raccolta:** 60-90 giorni
-- **Perché non conviene:** cicli lunghi, rischio marciumi, non giustifica investimento
-
-**Peperoni:**
-- **Costo supermercato:** €4-€7/kg
-- **Resa idroponica:** 1-2 kg/mese
-- **Tempo raccolta:** 70-90 giorni
-- **Perché non conviene:** troppo tempo, troppo spazio, convenienza marginale
-
-**Zucchine:**
-- **Costo supermercato:** €1,50-€3/kg
-- **Resa idroponica:** 1-2 kg/mese
-- **Tempo raccolta:** 45-60 giorni
-- **Perché non conviene:** costo troppo basso al supermercato, non ripaga l'investimento
-
-**Regola d'oro:** **coltiva solo quello che costa più di €10/kg al supermercato.** Altrimenti è più conveniente comprarlo.
+| Coltura | Prezzo al supermercato | Perché non conviene |
+|---------|------------------------|----------------------|
+| Pomodori | 3-8 €/kg | Ciclo 60-90 giorni, rischio marciumi |
+| Peperoni | 4-7 €/kg | Ciclo 70-90 giorni, più spazio |
+| Zucchine | 1,5-3 €/kg | Costo troppo basso al supermercato |
 
 ---
 
-## Consumi reali: LED e pompa quanto pesano in bolletta
+## I migliori prodotti per iniziare
 
-### **Lampada LED grow 40W:**
+| Prodotto | Prezzo indicativo* | Cosa offre | Link |
+|----------|---------------------|------------|------|
+| Kit idroponico NFT 36 postazioni | 120-180 € | 100x50x30cm, pompa e spina EU incluse | [Amazon](https://www.amazon.it/dp/B0FH8XW26X?tag=audiobookit-21) |
+| Sistema idroponico verticale | variabile | per chi ha poco spazio a terra | [Cerca su Amazon](https://www.amazon.it/s?k=sistema+idroponico+verticale&tag=audiobookit-21) |
+| Set 4 lampade LED spettro completo con timer | 35-60 € | ~40W totali, timer 3/9/12h | [Amazon](https://www.amazon.it/dp/B0F47JCBLR?tag=audiobookit-21) |
+| Nutrienti Plagron Hydro A+B (2x1L) | 20-30 € | marchio olandese, sistema A+B, dura 2-3 mesi | [Amazon](https://www.amazon.it/dp/B00JJR5XGG?tag=audiobookit-21) |
+| Kit starter completo (sistema + LED + nutrienti) | 250-350 € | tutto in un solo acquisto | [Cerca su Amazon](https://www.amazon.it/s?k=kit+start+idroponica+completo&tag=audiobookit-21) |
 
-**Consumo giornaliero:** 40W × 14 ore = 560Wh = 0,56 kWh  
-**Consumo mensile:** 0,56 kWh × 30 giorni = 16,8 kWh  
-**Costo mensile:** 16,8 kWh × 0,26€/kWh = **€4,37**
-
-**Costo annuo:** €4,37 × 12 = **€52,44**
-
-### **Pompa idropnica 5W:**
-
-**Consumo giornaliero:** 5W × 24 ore = 120Wh = 0,12 kWh  
-**Consumo mensile:** 0,12 kWh × 30 giorni = 3,6 kWh  
-**Costo mensile:** 3,6 kWh × 0,26€/kWh = **€0,94**
-
-**Costo annuo:** €0,94 × 12 = **€11,28**
-
-### **TOTALE CONSUMI ENERGETICI:**
-
-| Voce | Mensile | Annuo |
-|------|---------|-------|
-| LED 40W | €4,37 | €52,44 |
-| Pompa 5W | €0,94 | €11,28 |
-| **TOTALE** | **€5,31** | **€63,72** |
-
-**In prospettiva:** €5,31/mese per €119,45/mese di produzione = **4,4% del valore dei prodotti.** Un costo quasi irrilevante.
+*prezzi indicativi ottobre 2026, verifica nel link: su Amazon cambiano spesso.
 
 ---
 
-## Prodotti consigliati
+## I contro onesti: cosa sapere prima di iniziare
 
-### **1. Kit idroponico base NFT 12 postazioni**
+**Tempo di gestione:** controlli quotidiani (livello acqua, piante da scartare) 2 minuti, cambio nutrienti ogni 2-3 settimane 10 minuti, raccolta 15-30 minuti quando serve. In totale, 30-45 minuti a settimana: non è "metti e dimentica".
 
-**Prezzo:** €80-€120  
-**Perché questo modello:** 12 postazioni perfette per iniziare, dimensioni compatte (80x40x60cm), pompa inclusi, manuale italiano
-
-**Perché sceglierlo:**
-- **Ideale per principianti:** 12 piante = basilico + erbe + insalata
-- **Dimensioni compatte:** occupa poco spazio, entra in cucina
-- **Pronto all'uso:** arriva montato, basta aggiungere acqua e nutrienti
-- **Rumore bassissimo:** <30dB, non disturba
-- **Consumo pompa:** 3W (€0,006/giorno)
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0FH8XW26X?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-### **2. Sistema idroponico verticale 36 postazioni**
-
-**Prezzo:** €150-€220  
-**Perché questo modello:** 36 postazioni verticali, occupa solo 0,4mq a terra, resa massima, produzione mensile 8-12kg
-
-**Perché sceglierlo:**
-- **Massima resa:** 36 piante = basilico, insalata, rucola, prezzemolo tutti insieme
-- **Occupazione minima:** 60x60cm a terra, altezza 150cm
-- **Produzione mensile:** 8-12 kg di prodotti freschi
-- **ROI rapido:** si ripaga in 3-5 mesi
-- **Modulare:** puoi aggiungere altre torri in futuro
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0H2Q7KLCQ?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-### **3. Lampada LED grow full spectrum 60W**
-
-**Prezzo:** €45-€65  
-**Perché questo modello:** 60W reali (non 100W di marketing), spettro completo UV+IR, timer integrato, 360° diffusione
-
-**Perché sceglierlo:**
-- **Efficienza energetica:** 60W reali = €0,014/ora, €4,37/mese
-- **Spettro completo:** luce bianca + UV + IR = crescita ottimale
-- **Timer integrato:** si accende/spegne da sola 12-16h/giorno
-- **Durata:** 50.000 ore = 10+ anni di utilizzo
-- **Garanzia:** 3 anni inclusa
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0F47JCBLR?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-### **4. Nutrienti idroponici A+B 1L**
-
-**Prezzo:** €18-€25  
-**Perché questo modello:** sistema A+B bilanciato, per tutte le fasi (crescita/fioritura), 1L tratta 50-100 litri d'acqua
-
-**Perché sceglierlo:**
-- **Duratezza:** 1L = 2-3 mesi di utilizzo (50-100 litri trattati)
-- **Universalità:** funziona per basilico, insalata, rucola, prezzemolo
-- **Bilanciato:** NPK + microelementi in proporzioni ottimali
-- **pH stabile:** mantiene il pH tra 5,5-6,5 (ottimale per radici)
-- **Made in Italy:** produzione europea, qualità certificata
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B00JJR5XGG?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-### **5. Kit starter completo (sistema + LED + nutrienti)**
-
-**Prezzo:** €250-€350  
-**Perché questo modello:** include tutto quello che serve per iniziare, kit 24 postazioni, LED 40W, nutrienti 500ml, manuale dettagliato
-
-**Perché sceglierlo:**
-- **Prezzo totale:** €250-€350 invece di €200+€50+€20 = €270 (risparmi €30-€50)
-- **Compatibilità:** tutti i componenti sono testati insieme
-- **Pronto all'uso:** monti, carichi acqua, accendi, coltivi
-- **Supporto:** assistenza italiana inclusa
-- **ROI garantito:** si ripaga in 4-6 mesi
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+start+idroponica+completo+24+piante&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
----
-
-## I contro onesti: cosa devi sapere prima di iniziare
-
-### **❌ Consumi elettrici:**
-- **LED:** €4,37/mese (40W × 14h)
-- **Pompa:** €0,94/mese (5W × 24h)
-- **TOTALE:** €5,31/mese → **€63,72/anno**
-
-**Non è gratis:** devi considerare il consumo energetico. Ma €63,72/anno su €1.400/anno di produzione = **4,5% del valore.** Accettabile.
-
-### **❌ Tempo di gestione:**
-- **Controlli quotidiani:** 2 minuti (livello acqua, pianta morta)
-- **Cambio nutrienti:** ogni 2-3 settimane (10 minuti)
-- **Raccolta:** quando necessario (15-30 minuti)
-- **TOTALE:** 30-45 minuti/settimana
-
-**Non è "metti e dimentica":** richiede impegno costante. Ma 30 minuti a settimana per €120/mese di produzione = **€4/ora di lavoro.** Conveniente.
-
-### **❌ Spazio necessario:**
-- **Kit base (12 postazioni):** 80x40x60cm (0,32mq)
-- **Kit medio (24 postazioni):** 100x50x80cm (0,5mq)
-- **Kit grande (36 postazioni):** 100x60x150cm (0,6mq)
-
-**Non entra in qualsiasi stanza:** devi avere uno spazio dedicato (cucina, balcone, ripostiglio). Ma 0,5mq è come un armadio piccolo.
-
-### **❌ Cosa NON conviene coltivare:**
-
-| Coltura | Perché non conviene |
-|---------|-------------------|
-| Pomodori | Cicli lunghi (60-90 giorni), costo basso al kg |
-| Zucchine | Costo troppo basso al supermercato |
-| Patate | Troppo spazio, troppo tempo, resa limitata |
-| Carote | Difficile in idroponica, radici profonde |
-
-**Regola:** **coltiva solo erbe aromatiche e insalate.** Tutto il resto non giustifica l'investimento.
-
----
-
-## Tabella riassuntiva: confronto idroponica vs supermercato
-
-| Voce | Supermercato | Idroponica | Differenza |
-|------|-------------|------------|------------|
-| **Investimento iniziale** | €0 | €190-€285 | +€285 |
-| **Spesa mensile** | €72,40 | €11,37-€14,37 | -€58-€61 |
-| **Spreco** | 30% = €30-€35 | <5% = €2-€4 | -€28-€31 |
-| **Tempo spesa** | 4-6 ore/mese | 30-45 min/mese | -3,5-5,5 ore |
-| **Qualità** | Appassita dopo 3-4 giorni | Fresca da 0 a 7 giorni | +7 giorni di freschezza |
-| **Spesa mensile reale** | **€100-€135** | **€11,37-€14,37** | **-€85-€121** |
-
-**Risparmio annuo:** €1.020-€1.450  
-**Rientro investimento:** 3-5 mesi  
-**Risparmio 5 anni:** **€5.100-€7.250 - €285 = €4.815-€6.965**
+**Spazio necessario:** un kit da 12 postazioni occupa circa 80x40x60cm, uno da 36 postazioni intorno a 100x50x30cm più l'altezza delle luci: serve uno spazio dedicato (cucina, balcone, ripostiglio) di circa 0,3-0,6 mq.
 
 ---
 
 ## Conclusione
 
-**L'idroponica domestica conviene se:**
-- ✅ Consumi **€70-€100/mese** di erbe e insalate
-- ✅ Vuoi **prodotti freschi** tutto l'anno
-- ✅ Accetti di gestire **30-45 minuti a settimana**
-- ✅ Hai **0,5-0,6mq** di spazio dedicato
-- ✅ Vuoi **risparmiare €60-€120/mese**
+L'idroponica domestica conviene se consumi 70-100 €/mese di erbe e insalate, vuoi prodotti freschi tutto l'anno e accetti di dedicarci 30-45 minuti a settimana e 0,3-0,6 mq di spazio: il risparmio è di 57-60 €/mese, con rientro in 3-5 mesi. Non conviene se consumi meno di 30 €/mese di erbe o punti su colture a ciclo lungo come pomodori e peperoni.
 
-**Non conviene se:**
-- ❌ Consumi **<€30/mese** di erbe
-- ❌ Non hai tempo per **30 min/settimana** di cura
-- ❌ Vuoi colture **costose ma a ciclo lungo** (pomodori, zucchine)
-- ❌ Non hai **spazio minimo 0,5mq**
+Per iniziare, un kit piccolo con basilico, rucola e prezzemolo (le colture col ritorno più rapido) è il modo più prudente per capire se il sistema fa per te.
 
-**Il mio consiglio:**
-1. **Inizia con un kit da 12 postazioni** (€80-€120) per capire se fa per te
-2. **Coltiva solo basilico, rucola, prezzemolo** (ROI <6 mesi)
-3. **Calcola il tempo:** 30 min/settimana = €4/ora, più che conveniente
-4. **Considera il consumo LED:** €5,31/mese = €63,72/anno (5% del valore prodotto)
+**Guide collegate:** [lampade LED per idroponica: consumi e costi](/idroponica/lampade-led-idroponica-consumi-costi/) · [idroponica in casa: costi e benefici](/posts/idroponica-casa-costi-benefici/) · [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)
 
-**Risparmio reale:** con €250 di investimento iniziale, risparmi **€720-€1.450/anno** e ti ripaghi in **4-6 mesi.**
-
-**La verità:** non è "cultiva gratis", è "coltiva meglio e più economico". Con €63,72/anno di energia e €120/anno di nutrienti, ottieni **€1.440/anno** di prodotti freschi. Il ROI è **1.200% annuo.** Sembra troppo bello? Funziona davvero.
-
----
-
-*Fonti: Acquaponica.shop, Edilnet.it, Vantaggioso.net, AgroNotizie, Ismea Mercati (dati 2026)*
+*Fonti: [ARERA - prezzi energia elettrica 3° trimestre 2026](https://www.arera.it), schede prodotto Amazon.it (kit e nutrienti citati in tabella, verificati ottobre 2026)*
