@@ -34,6 +34,12 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  // 21/10/2026: Consent Mode v2. Senza consenso GA4 non salva cookie (solo segnali anonimi);
+  // il banner (extend_footer.html) aggiorna il consenso quando si accetta o si rifiuta
+  gtag('consent', 'default', {
+    analytics_storage: document.cookie.indexOf('cookie_analytics=true') > -1 ? 'granted' : 'denied',
+    ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied'
+  });
   gtag('js', new Date());
   gtag('config', 'G-Y61B1XFD66');
 </script>

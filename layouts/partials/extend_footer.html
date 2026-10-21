@@ -53,10 +53,15 @@ function setCookie(name, value, days) {
     document.cookie = `${name}=${value};expires=${date.toUTCString()};path=/;SameSite=Lax`;
 }
 
+// 21/10/2026: comunica la scelta a Google Analytics (Consent Mode, vedi extend_head.html)
+function aggiornaConsenso(analitici) {
+    if (typeof gtag === 'function') gtag('consent', 'update', { analytics_storage: analitici ? 'granted' : 'denied' });
+}
 function acceptAllCookies() {
     setCookie('cookie_consent', 'all', 365);
     setCookie('cookie_analytics', 'true', 365);
     setCookie('cookie_marketing', 'true', 365);
+    aggiornaConsenso(true);
     document.getElementById('cookie-banner').classList.remove('show');
     console.log('✅ Tutti i cookie accettati');
 }
@@ -65,6 +70,7 @@ function rejectAllCookies() {
     setCookie('cookie_consent', 'necessary', 365);
     setCookie('cookie_analytics', 'false', 365);
     setCookie('cookie_marketing', 'false', 365);
+    aggiornaConsenso(false);
     document.getElementById('cookie-banner').classList.remove('show');
     console.log('❌ Solo cookie necessari');
 }
@@ -91,6 +97,7 @@ function saveCustomSettings() {
     setCookie('cookie_consent', 'custom', 365);
     setCookie('cookie_analytics', analytics, 365);
     setCookie('cookie_marketing', marketing, 365);
+    aggiornaConsenso(analytics);
     
     hideCookieSettings();
     console.log('✅ Preferenze salvate:', { analytics, marketing });
