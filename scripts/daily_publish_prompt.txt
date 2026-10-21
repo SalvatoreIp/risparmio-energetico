@@ -10,6 +10,7 @@ Prima di scrivere, controlla i titoli/slug esistenti in content/<sezione>/ (e ne
 PREZZI DI RIFERIMENTO PER I CALCOLI (verificati il 29/09/2026, tutto compreso): luce circa 0,32 €/kWh (ARERA, 3° trimestre 2026), metano circa 1,44 €/Smc (ARERA vulnerabili, settembre 2026), gasolio da riscaldamento circa 2,03 €/litro (media MASE settembre 2026). NON copiare i prezzi dagli articoli vecchi: molti usano ancora 0,28 €/kWh e 1,10-1,30 €/m³, valori superati. Se la data di oggi è più di un mese dopo il 29/09/2026, riverifica i tre prezzi con WebSearch prima di usarli e cita la fonte.
 
 TONO: concreto e credibile. Prima il fatto o il numero, poi cosa fare. Niente linguaggio sognante o enfatico ("sogno", "magia", "rivoluzione", "incredibile"), niente punti esclamativi, niente esperienze personali inventate. Nessuna promessa di rientro rapido non dimostrata dal calcolo.
+NIENTE PERSONE INVENTATE (21/10/2026: trovati articoli con un "Dott. Marco Rossi, ingegnere energetico" sotto il titolo "Consigli del veterinario" e una "famiglia Rossi"): mai citazioni attribuite a esperti, ingegneri o tecnici con nome, mai famiglie o persone d'esempio con nome; gli esempi di calcolo si scrivono come "Esempio: famiglia di 4 persone a Roma...". Mai canali Telegram, gruppi o contatti del sito: non esistono.
 
 IN BREVE: subito dopo il paragrafo introduttivo `<p class="lead">` e PRIMA del box CTA metti un riassunto con 3-4 punti con i numeri chiave (costo, risparmio in €/anno, incentivo, per chi conviene), in questo formato:
 <div class="in-breve">
