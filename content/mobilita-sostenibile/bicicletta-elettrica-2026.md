@@ -1,6 +1,8 @@
 ---
 title: "Bicicletta elettrica: risparmio, benefici e confronto modelli 2026"
+slug: "bicicletta-elettrica-risparmio-benefici-e-confronto-modelli-2026"
 date: 2026-06-07T17:50:00+02:00
+lastmod: 2026-10-21T12:00:00+02:00
 draft: false
 description: "Guida completa alle biciclette elettriche: confronto Bafang, Shimano, Xiaomi. Come funzionano, costi, risparmio energetico reale, normative 2026 e incentivi."
 categories: ["mobilita-sostenibile"]
@@ -10,7 +12,7 @@ cover:
   alt: "Bicicletta elettrica con motore pedalata assistita per mobilità urbana sostenibile"
 ---
 
-<p class="lead">Dimentica traffico, parcheggi costosi e metropolitane affollate: con una bicicletta elettrica risparmi €800-1.500/anno, ti sposti in 30 minuti invece di 60, e ti alleni mentre vai al lavoro.</p>
+<p class="lead">Una bicicletta elettrica da città costa 1.000-2.000 euro e consuma circa 1 centesimo di corrente ogni 10 km. Il risparmio reale dipende da cosa sostituisce: rispetto all'auto su tragitti urbani di 8 km si risparmiano diverse centinaia di euro l'anno, rispetto all'abbonamento ai mezzi pubblici quasi nulla. Qui trovi i calcoli, i modelli e la situazione degli incentivi a ottobre 2026.</p>
 
 ## Cos'è e come funziona
 
@@ -207,46 +209,23 @@ La bicicletta elettrica è uno degli investimenti più convenienti per la mobili
 - **Vantaggio a 10 anni**: €1.300-2.400 (risparmio netto dopo costi) + 1.000+ ore di tempo
 
 **Esempio pratico:**
-> **Famiglia Rossi** (2 adulti, casa Milano centro, lavoro 8 km)
+> **Esempio di calcolo** (2 adulti a Milano, lavoro a 8 km)
 > - **Prima**: 2 abbonamenti metro €80/mese = €960/anno + 1 ora/giorno in viaggio
 > - **Dopo**: 2 e-bike €2.000 (€285/anno) + €50 assicurazione + €100 manutenzione = €435/anno
 > - **Risparmio**: €525/anno (55%)
-> - **Tempo risparmiato**: 500 ore/anno (8 mesi di lavoro!)
+> - **Tempo risparmiato**: fino a 500 ore/anno se il tragitto in bici è più breve di quello in metro
 > - **Vantaggio totale a 5 anni**: €2.625 + 2.500 ore + beneficio salute
 
 ## Incentivi disponibili
 
-### Bonus Mobilità 2026
-- **Importo**: €500-1.000 a persona
-- **Requisiti**: sostituzione auto con e-bike
-- **Condizioni**: reddito ISEE ≤ €30.000, residenza in comuni >50.000 abitanti
-- **Scadenza**: fondi esauriti entro fine 2026
+A ottobre 2026 non esiste un incentivo statale per l'acquisto privato di una bicicletta elettrica. Il "Bonus mobilità" nazionale (60% della spesa fino a 500 €) risale al 2020 e non è stato riproposto. Restano misure locali, diverse da regione a regione e spesso legate alla rottamazione di un'auto o di un motorino inquinante.
 
-### Bonus Aziendale
-- **Importo**: €500-1.500 a dipendente
-- **Requisiti**: aziende con ≥10 dipendenti
-- **Condizioni**: acquisto per spostamenti casa-lavoro
-- **Scadenza**: a fondo perduto
+Prima di comprare:
+- **Comune e Regione:** controlla sul sito del tuo Comune e della tua Regione se è aperto un bando per la mobilità sostenibile; di solito ha fondi limitati e scadenze brevi.
+- **Datore di lavoro:** alcune aziende rimborsano in parte l'acquisto per gli spostamenti casa-lavoro (piani di mobility management): chiedi all'ufficio del personale.
+- **Partita IVA:** se la bici serve per l'attività, chiedi al commercialista se è deducibile come bene strumentale; è una regola fiscale generale, non un bonus dedicato.
 
-### Regione Lombardia
-- **Importo**: €300-800
-- **Requisiti**: residenti in comuni con problemi inquinamento
-- **Condizioni**: acquisto e-bike, bici cargo per famiglie
-- **Scadenza**: 31 dicembre 2026
-
-### Sgravi Fiscali
-- **Detrazione 50%**: se l'e-bike è acquistata come "strumento di lavoro" (dichiarazione autonoma)
-- **IVA 10%**: per aziende che includono il mezzo tra i benefit aziendali
-
-### Contributi Comunali
-Alcuni comuni offrono incentivi per:
-- **Milano**: €500 per e-bike cargo
-- **Torino**: €300 per e-bike city
-- **Bologna**: €400 per e-bike mountain bike
-
-**Importante**: verificare sempre sul sito del proprio Comune per incentivi locali specifici.
-
-## Consigli del tecnico
+## Consigli pratici
 
 > **La bicicletta elettrica è il mezzo più efficiente per gli spostamenti urbani fino a 30-40 km**. Ecco i miei consigli:
 >

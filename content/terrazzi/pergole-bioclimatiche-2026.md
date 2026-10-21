@@ -322,6 +322,5 @@ La scelta di una pergola bioclimatica non è solo un investimento economico, ma 
 
 ---
 
-**Hai domande?** Scrivici nei commenti o contattaci su [Telegram](https://t.me/guidaenergia)!
 
 *Questo articolo ha scopo informativo. Per preventivi personalizzati, contatta i nostri partner certificati.*

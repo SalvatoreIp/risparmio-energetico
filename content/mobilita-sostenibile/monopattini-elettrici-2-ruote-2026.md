@@ -215,7 +215,7 @@ Prima di contare su un bonus:
 
 Quello che è certo, invece, sono i nuovi costi obbligatori dal 2026 (contrassegno identificativo dal 16 maggio, assicurazione RC dal 17 luglio): vanno messi a budget, non sono un'opzione.
 
-## Consigli del tecnico
+## Consigli pratici
 
 > **Il monopattino elettrico è il mezzo più efficiente per gli spostamenti urbani fino a 10-12 km**. Ecco i miei consigli:
 >

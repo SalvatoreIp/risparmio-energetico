@@ -322,8 +322,7 @@ Il grow box idroponico è **la soluzione definitiva** per coltivazione professio
 
 **La serra professionale in casa è realtà: produci, risparmia, mangia sano.**
 
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
 
-🔗 **Guide correlate**: [Idroponica in casa](https://guida-energia.com/idroponica/idroponica-in-casa-coltiva-le-tue-verdure-senza-terra-risparmia-e-mangia-sano/), [Bonus efficienza energetica 2026](https://guida-energia.com/incentivi/bonus-efficienza-energetica-2026-tutte-le-detrazioni-fiscali-e-come-richiederle/)
+🔗 **Guide correlate**: [Idroponica in casa](/idroponica/quanto-si-risparmia-idroponica-casa/), [Bonus efficienza energetica 2026](https://guida-energia.com/incentivi/bonus-efficienza-energetica-2026-tutte-le-detrazioni-fiscali-e-come-richiederle/)
 
 *Fonti: [Coltivazione Indoor](https://www.coltivazioneindoor.it/kit-coltivazione-indoor-completi-1/idroponica.html), [Idroponica.it](https://www.idroponica.it/kit-coltivazione-indoor-completi-c-26.html), [ENEA](https://www.enea.it/)*

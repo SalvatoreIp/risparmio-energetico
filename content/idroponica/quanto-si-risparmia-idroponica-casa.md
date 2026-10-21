@@ -1,8 +1,8 @@
 ---
-title: "Quanto si risparmia coltivando in casa con l'idroponica"
+title: "Idroponica in casa: quanto si risparmia davvero, costi e cosa coltivare"
 slug: "quanto-si-risparmia-idroponica-casa"
 date: 2026-06-30T08:09:00+02:00
-lastmod: 2026-10-17T09:12:17+02:00
+lastmod: 2026-10-21T12:00:00+02:00
 draft: false
 description: "Quanto si risparmia coltivando in casa con l'idroponica. Kit base, consumi LED, resa basilico e insalata. Calcolo reale: costi, tempi di rientro, risparmio annuo."
 categories: ["idroponica"]
@@ -156,6 +156,6 @@ L'idroponica domestica conviene se consumi 70-100 €/mese di erbe e insalate, v
 
 Per iniziare, un kit piccolo con basilico, rucola e prezzemolo (le colture col ritorno più rapido) è il modo più prudente per capire se il sistema fa per te.
 
-**Guide collegate:** [lampade LED per idroponica: consumi e costi](/idroponica/lampade-led-idroponica-consumi-costi/) · [idroponica in casa: costi e benefici](/posts/idroponica-casa-costi-benefici/) · [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)
+**Guide collegate:** [lampade LED per idroponica: consumi e costi](/idroponica/lampade-led-idroponica-consumi-costi/) · [grow box per idroponica indoor](/idroponica/grow-box-idroponica-indoor-kit-completi-led-per-coltivazione-professionale-in-casa/) · [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)
 
 *Fonti: [ARERA - prezzi energia elettrica 3° trimestre 2026](https://www.arera.it), schede prodotto Amazon.it (kit e nutrienti citati in tabella, verificati ottobre 2026)*

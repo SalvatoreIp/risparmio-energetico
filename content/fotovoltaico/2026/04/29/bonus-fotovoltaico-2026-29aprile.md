@@ -1,285 +1,87 @@
 ---
-title: "Bonus Fotovoltaico 2026: Ecobonus 50% e incentivi attivi"
+title: "Bonus fotovoltaico 2026: detrazione 50% o 36%, regole e quanto si risparmia"
+slug: "bonus-fotovoltaico-2026-ecobonus-50-e-incentivi-attivi"
 date: 2026-06-07T17:50:00+02:00
+lastmod: 2026-10-21T12:00:00+02:00
 draft: false
-description: "Bonus fotovoltaico 2026: detrazione 50% prima casa, 36% seconde case, massimali 96.000€. Come richiedere incentivi, documenti necessari e tempistiche."
+description: "Bonus fotovoltaico 2026: detrazione del 50% sulla prima casa e del 36% sulle altre, tetto 96.000 €, IVA al 10%, fine dello scambio sul posto e calcolo del rientro su un impianto da 4,5 kW."
 categories: ["fotovoltaico"]
-tags: ["bonus fotovoltaico", "Ecobonus", "detrazioni", "incentivi", "2026", "energia solare"]
+tags: ["bonus fotovoltaico", "detrazioni", "incentivi", "fotovoltaico"]
 cover:
-  image: /immagini/bonus-fotovoltaico-2026-29aprile.jpg
-  alt: "Pannelli solari fotovoltaico"
+  image: "/immagini/bonus-fotovoltaico-2026-29aprile.jpg"
+  alt: "Pannelli fotovoltaici installati sul tetto di una casa"
 ---
 
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
+<p class="lead">Nel 2026 chi installa pannelli fotovoltaici sulla propria abitazione principale recupera il 50% della spesa in dieci anni, chi li installa su una seconda casa il 36%. Non esiste più lo sconto in fattura e, per gli impianti nuovi, non esiste più nemmeno lo scambio sul posto: l'energia che non usi viene venduta al GSE a prezzo di mercato. Ecco come funziona il bonus, cosa è cambiato e in quanti anni rientri davvero della spesa.</p>
 
----
+<div class="in-breve">
+<strong>In breve (aggiornato a ottobre 2026)</strong>
+<ul>
+<li><strong>Detrazione:</strong> 50% per l'abitazione principale del proprietario, 36% negli altri casi, in 10 rate annuali.</li>
+<li><strong>Tetto di spesa:</strong> 96.000 € per unità immobiliare, condiviso con gli altri lavori del Bonus casa.</li>
+<li><strong>IVA:</strong> 10% invece del 22% su materiali e installazione in un'abitazione.</li>
+<li><strong>Energia in eccesso:</strong> dal 30 maggio 2025 i nuovi impianti non accedono allo scambio sul posto, ma al ritiro dedicato del GSE.</li>
+<li><strong>Rientro:</strong> circa 6 anni per un impianto da 4,5 kW sulla prima casa (calcolo sotto).</li>
+</ul>
+</div>
 
-**FOTOVOLTAICO CON INIZIATIVE GOVERNO 2026** – L'anno è iniziato con la conferma degli incentivi per l'installazione di impianti fotovoltaici: il **Bonus Fotovoltaico 2026** conferma la **detrazione IRPEF del 50%** per le abitazioni principali e del **36%** per le seconde case, con un massimale di spesa di **96.000 euro** per intervento. Una opportunità concreta per ridurre le bollette e valorizzare la propria casa.
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=kit+fotovoltaico+casa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit fotovoltaici su Amazon</a>
+</div>
 
-## **PERCHÉ INSTALLARE UN IMPIANTO FOTOVOLTAICO NEL 2026**
+## Cos'è e come funziona
 
-Installare un impianto fotovoltaico nel 2026 significa **risparmiare fino al 70% sulla bolletta elettrica** e contribuire attivamente alla transizione energetica. Con i prezzi dell'energia ancora elevati, l'investimento si ripaga in **5-7 anni**, con un impianto che dura **25-30 anni**.
+Il "bonus fotovoltaico" non è un incentivo a sé: è la detrazione per i lavori in casa (il Bonus casa, ex bonus ristrutturazioni, articolo 16-bis del Testo unico delle imposte sui redditi) applicata all'installazione di un impianto solare. La Legge di Bilancio 2026 ha confermato le aliquote del 2025:
 
-### **Vantaggi immediati:**
+- **50%** se paghi tu, sei proprietario (o hai un altro diritto reale sull'immobile) e la casa è la tua abitazione principale;
+- **36%** per seconde case, case date in affitto e negli altri casi.
 
-- **Risparmio bolletta**: Fino al 70% sul consumo proprio
-- **Detrazioni fiscali**: 50% o 36% della spesa
-- **Valorizzazione immobile**: +15-20% del valore casa
-- **Indipendenza energetica**: Minor esposizione ai prezzi di mercato
-- **Contributo ambientale**: Energia pulita e rinnovabile
+La detrazione si scala dall'IRPEF in 10 rate uguali nella dichiarazione dei redditi. Se le tasse che paghi in un anno sono meno della rata, la parte in eccesso si perde: chi ha un'IRPEF bassa deve fare bene i conti prima di firmare. Sconto in fattura e cessione del credito non sono più disponibili per i nuovi lavori.
 
-### **Investimento medio:**
+Rientrano nella spesa detraibile pannelli, inverter, strutture di montaggio, cavi, la batteria di accumulo se installata insieme all'impianto, la progettazione e le pratiche. Il pagamento va fatto con **bonifico parlante** (quello che riporta la causale della detrazione, il codice fiscale di chi detrae e la partita IVA dell'installatore): un bonifico normale fa perdere il bonus.
 
-| Impianto | Potenza | Costo medio | Detrazione 50% | Spesa netta |
-|----------|---------|-------------|----------------|-------------|
-| Base | 3 kW | 6.000-8.000€ | 3.000-4.000€ | 3.000-4.000€ |
-| Standard | 4-5 kW | 8.000-12.000€ | 4.000-6.000€ | 4.000-6.000€ |
-| Avanzato | 6-8 kW | 12.000-18.000€ | 6.000-9.000€ | 6.000-9.000€ |
-| Con accumulo | 5 kW + 10 kWh | 15.000-22.000€ | 7.500-11.000€ | 7.500-11.000€ |
+### Cosa è cambiato per l'energia che non usi
 
-### **Ritorno sull'investimento:**
+Fino a maggio 2025 l'energia immessa in rete veniva compensata con lo scambio sul posto. Gli impianti entrati in esercizio dopo il 29 maggio 2025 non possono più accedervi: l'unica strada è il **ritiro dedicato**, in cui il GSE paga ogni kWh immesso al prezzo di mercato della tua zona, nel 2026 intorno a 0,08-0,12 €/kWh (indicativo, varia ogni ora). È molto meno dei 0,32 €/kWh che paghi quando la compri: per questo oggi conviene dimensionare l'impianto sui propri consumi, non farlo il più grande possibile. Il ritiro dedicato si può sommare agli incentivi delle comunità energetiche.
 
-- **Periodo di ammortamento**: 5-7 anni
-- **Durata impianto**: 25-30 anni
-- **Guadagno netto**: 20+ anni di energia quasi gratuita
-- **Risparmio totale**: 15.000-30.000€ nel ciclo di vita
+## I migliori modelli del 2026: quanto costa un impianto
 
-## **GLI INCENTIVI ATTIVI NEL 2026**
+Prezzi indicativi ottobre 2026, chiavi in mano (pannelli, inverter, installazione, pratiche), IVA al 10% inclusa:
 
-### **Bonus Fotovoltaico (Detrazione 50%)**
+| Impianto | Per chi | Costo | Detrazione 50% | Detrazione 36% |
+|---|---|---|---|---|
+| 3 kW | Coppia, consumi sotto 2.500 kWh/anno | 5.500-7.000 € | 2.750-3.500 € | 1.980-2.520 € |
+| 4,5 kW | Famiglia di 3-4 persone | 7.500-9.500 € | 3.750-4.750 € | 2.700-3.420 € |
+| 6 kW | Famiglia con pompa di calore o auto elettrica | 9.500-12.000 € | 4.750-6.000 € | 3.420-4.320 € |
+| 6 kW + batteria 10 kWh | Chi consuma molto la sera | 15.000-19.000 € | 7.500-9.500 € | 5.400-6.840 € |
 
-Il **Bonus Fotovoltaico** è la misura principale per incentivare l'installazione di impianti solari.
+La batteria aumenta la quota di energia che usi direttamente, ma raddoppia quasi il costo: i conti per capire se ti conviene sono nella guida sull'[impianto fotovoltaico con accumulo](/fotovoltaico/impianto-fotovoltaico-con-accumulo/). Per i prezzi dettagliati per tipo di tetto vedi la guida al [fotovoltaico da tetto](/fotovoltaico/fotovoltaico-da-tetto-prezzi-2026-guida-completa-a-costi-e-installazione/).
 
-#### **Requisiti:**
+## Quanto si risparmia davvero
 
-- **Prima casa**: Detrazione **50%** (dove hai residenza e abiti quotidianamente)
-- **Seconde case**: Detrazione **36%**
-- **Massimale**: Spesa massima **96.000 euro** per intervento
-- **Detrazione**: Ripartita in **10 quote annuali** di pari importo
-- **Inizio lavori**: Dopo il 1° gennaio 2026
+Esempio: famiglia di 4 persone nel Centro Italia, consumi 3.500 kWh/anno, impianto da 4,5 kW senza batteria pagato 8.500 €, abitazione principale.
 
-#### **Spese detraibili:**
+- **Produzione:** 4,5 kW × 1.300 kWh per kW = circa 5.850 kWh/anno.
+- **Energia usata direttamente (30%):** 1.755 kWh × 0,32 €/kWh = **562 € in meno in bolletta**.
+- **Energia venduta al GSE (70%):** 4.095 kWh × 0,10 €/kWh = **410 € incassati**.
+- **Detrazione:** 8.500 € × 50% = 4.250 €, cioè **425 € all'anno per 10 anni**.
 
-- ✅ Pannelli fotovoltaici
-- ✅ Inverter e sistemi di conversione
-- ✅ Strutture di supporto e montaggio
-- ✅ Cablaggi e connessioni
-- ✅ Progettazione e direzione lavori
-- ✅ Pratiche autorizzative e allacciamenti
-- ✅ **Sistemi di accumulo** (batterie) se installati con impianto
+Nei primi dieci anni il beneficio è di circa 562 + 410 + 425 = **1.397 € all'anno**: la spesa di 8.500 € rientra in poco più di **6 anni**. Dall'undicesimo anno restano circa 970 € l'anno, finché l'impianto produce (i pannelli garantiscono di norma l'80% della resa dopo 25 anni). Su una seconda casa, con la detrazione al 36%, il rientro sale a circa 7 anni.
 
-#### **Cosa NON è detraibile:**
+Il numero che cambia di più il risultato è la quota di autoconsumo: chi lavora fuori casa tutto il giorno resta vicino al 30%, chi sposta lavatrice, lavastoviglie e scaldabagno nelle ore di sole arriva al 40-45%. Per fare il calcolo sui tuoi consumi c'è la guida su [come calcolare se conviene il fotovoltaico](/fotovoltaico/come-calcolare-se-conviene-il-fotovoltaico/).
 
-- ❗ Manutenzione ordinaria e straordinaria
-- ❗ Sistemi di monitoraggio post-installazione
-- ❗ Assicurazioni e garanzie
-- ❗ Costi per pratiche non necessarie
+## Incentivi disponibili oltre alla detrazione
 
-### **Conto Termico 3.0**
+- **IVA al 10%:** si applica in automatico in fattura per impianti su abitazioni; sull'esempio sopra vale circa 900 € rispetto all'IVA piena.
+- **Ritiro dedicato GSE:** la vendita dell'energia in eccesso, da chiedere al GSE dopo l'allaccio.
+- **Comunità energetiche rinnovabili (CER):** chi entra in una comunità con il proprio impianto riceve un incentivo sull'energia condivisa, in aggiunta al ritiro dedicato.
+- **Bandi regionali:** alcune regioni finanziano batterie o impianti con contributi a fondo perduto; cambiano ogni anno, vanno verificati sul sito della propria regione.
+- **Conto Termico 3.0:** non copre il fotovoltaico da solo, ma solo se abbinato alla sostituzione del riscaldamento con una pompa di calore; i dettagli sono nella guida agli [incentivi per le pompe di calore](/incentivi/incentivi-pompe-di-calore-2026/).
 
-Il **Conto Termico 3.0** è un incentivo dedicato per condomini e imprese.
+Tutte le detrazioni per la casa del 2026 sono riassunte nella guida ai [bonus per l'efficienza energetica](/incentivi/bonus-efficienza-energetica-2026-tutte-le-detrazioni-fiscali-e-come-richiederle/).
 
-#### **Per chi è rivolto:**
+## Conclusione
 
-- **Condomini**: Impianti fino a 200 kW
-- **Piccole imprese**: Attività commerciali e industriali
-- **Pubblica amministrazione**: Enti pubblici e scuole
-- **Agricoltori**: Impianti per attività agricole
+Nel 2026 il fotovoltaico sulla prima casa resta un buon investimento: con la detrazione del 50% un impianto da 4,5 kW rientra in circa 6 anni. Rispetto al passato, però, l'energia venduta vale poco, quindi conviene scegliere la potenza sui propri consumi e spostarli nelle ore di sole. Prima di firmare: chiedi almeno tre preventivi con la stessa potenza, controlla di avere abbastanza IRPEF per usare tutta la detrazione e paga sempre con bonifico parlante.
 
-#### **Incentivi:**
-
-- **Erogazione diretta**: Contributo in conto capitale (40-60% della spesa)
-- **Tempi**: 6-12 mesi per ricezione fondi
-- **Massimali**: Variabili in base alla potenza e tipologia
-
-### **Superbonus 110%: Situazione 2026**
-
-Il **Superbonus 110%** ha subito importanti modifiche nel 2026.
-
-#### **Nuove regole:**
-
-- **Sospeso per nuove richieste** dal 1° gennaio 2026
-- **Transizione**: Solo per chi ha presentato domanda prima del 31 dicembre 2025
-- **Nuove opzioni**:
-  - **Sconto in fattura**: Limitato al 50%
-  - **Cessione del credito**: Solo per banche e intermediari
-  - **Detrazione diretta**: 50% in 10 anni
-
-#### **Alternative valide:**
-
-- **Bonus fotovoltaico 50%**: Più semplice e immediato
-- **Ecobonus ordinario**: 65% per efficienza energetica
-- **Conto Termico**: Per condomini e imprese
-
-## **COME OTTENERE IL BONUS FOTOVOLTAICO 2026**
-
-### **Fase 1: Preparazione (Settimane 1-2)**
-
-1. **Valutazione energetica**: Analisi fabbisogno energetico
-2. **Sopralluogo**: Verifica idoneità tetto, orientamento, ombreggiature
-3. **Progetto tecnico**: Dimensionamento impianto, scelta componenti
-4. **Preventivi**: Richiedere almeno 3 preventivi dettagliati
-
-### **Fase 2: Autorizzazioni (Settimane 3-6)**
-
-1. **Permesso di costruire**: Se necessario (comune vincolato)
-2. **DIA o CILA**: Comunicazione inizio lavori
-3. **Autorizzazione TICA**: Allaccio alla rete elettrica
-4. **SCIA**: Segnalazione Certificata di Inizio Attività
-
-### **Fase 3: Installazione (Settimane 7-10)**
-
-1. **Montaggio**: Installazione pannelli e strutture
-2. **Collegamento**: Inverter, cablaggi, quadri
-3. **Collaudo**: Verifica funzionamento e sicurezza
-4. **Pratiche**: Dichiarazione di conformità
-
-### **Fase 4: Allaccio e Bonus (Settimane 11-14)**
-
-1. **Allaccio Enel**: Attivazione contatore dedicato
-2. **Scambio sul posto**: Richiesta gestione energia
-3. **Comunicazione all'Agenzia Entrate**: Modello 770 o Modello Unico
-4. **Detrazione**: Ripresa nei 10 anni
-
-### **Documenti necessari:**
-
-- **Codice Fiscale** del richiedente
-- **IBAN** per eventuali rimborsi
-- **Atto di proprietà** o contratto di affitto
-- **Certificato di conformità** impianto elettrico
-- **Dichiarazione di avvio lavori**
-- **Fatture e ricevute** con partita IVA
-- **Planimetria** del tetto
-- **Preventivo dettagliato**
-
-## **TABELLA CONFRONTO INCENTIVI 2026**
-
-| Incentivo | Tipo | Percentuale | Massimale | Tempistiche | Ideale per |
-|-----------|------|-------------|-----------|-------------|------------|
-| **Bonus Fotovoltaico** | Detrazione | 50% (prima casa) | 96.000€ | 10 anni | Privati, prima casa |
-| **Bonus Fotovoltaico** | Detrazione | 36% (seconde case) | 96.000€ | 10 anni | Privati, seconde case |
-| **Conto Termico 3.0** | Contributo | 40-60% | Variabile | 6-12 mesi | Condomini, imprese |
-| **Ecobonus 65%** | Detrazione | 65% | 96.000€ | 10 anni | Efficienza energetica |
-| **Sconto in fattura** | Sconto | Fino a 50% | Variabile | Immediato | Chi ha credito |
-
-### **Dettagli incentivi:**
-
-#### **Bonus Fotovoltaico 50%:**
-- **Spese massime**: 96.000€
-- **Detrazione massima**: 48.000€
-- **Ripartizione**: 4.800€/anno per 10 anni
-- **Requisiti**: Prima casa, residenza
-- **Vantaggi**: Semplice, garantito
-
-#### **Conto Termico 3.0:**
-- **Tipologia**: Contributo diretto
-- **Erogazione**: Bonifico bancario
-- **Tempi**: 6-12 mesi
-- **Requisiti**: Condòmini, imprese, PA
-- **Vantaggi**: Soldi subito, niente detrazioni
-
-#### **Ecobonus 65%:**
-- **Spese massime**: 96.000€
-- **Detrazione massima**: 62.400€
-- **Requisiti**: Riqualificazione energetica
-- **Vantaggi**: Percentuale più alta
-
-## **GUIDA ALLA SCELTA: COME SCEGLIERE IL FORNITORE GIUSTO**
-
-### **Per tipologia di abitazione:**
-
-#### **Casa singola:**
-- **Potenza consigliata**: 4-6 kW
-- **Investimento**: 8.000-15.000€
-- **Detrazione**: 4.000-7.500€
-- **Ritorno**: 5-6 anni
-- **Consigliati**: Fornitori con assistenza diretta
-
-#### **Appartamento condominiale:**
-- **Potenza consigliata**: 3-5 kW (condivisione)
-- **Investimento**: 6.000-12.000€
-- **Detrazione**: 3.000-6.000€
-- **Ritorno**: 6-7 anni
-- **Consigliati**: Imprese specializzate in condomini
-
-#### **Case vacanze/Seconda casa:**
-- **Potenza consigliata**: 3-4 kW
-- **Investimento**: 6.000-9.000€
-- **Detrazione**: 2.160-3.240€ (36%)
-- **Ritorno**: 7-8 anni
-- **Consigliati**: Fornitori con prezzi competitivi
-
-### **Per tipologia di tetto:**
-
-#### **Tetto piano:**
-- **Installazione**: Strutture inclinabili
-- **Potenza**: 5-8 kW (spazio sufficiente)
-- **Costo aggiuntivo**: +1.500-3.000€
-- **Manutenzione**: Più facile da raggiungere
-
-#### **Tetto inclinato (tegole):**
-- **Installazione**: Ganci specifici
-- **Potenza**: 4-6 kW
-- **Costo aggiuntivo**: +500-1.500€
-- **Manutenzione**: Necessita accesso sicuro
-
-#### **Tetto inclinato (lamiera):**
-- **Installazione**: Staffe adesive
-- **Potenza**: 3-5 kW
-- **Costo aggiuntivo**: +300-800€
-- **Manutenzione**: Attenzione a perdite
-
-### **Per budget disponibile:**
-
-#### **Budget limitato (5.000-8.000€):**
-- **Opzione**: Impianto base 3 kW
-- **Fornitori economici**: Offerte promozionali
-- **Tempo ritorno**: 6-7 anni
-- **Link**: [Vedi impianti base](https://www.amazon.it/s?k=impianto+fotovoltaico+3kW&tag=audiobookit-21)
-
-#### **Budget medio (8.000-15.000€):**
-- **Opzione**: Impianto standard 4-5 kW
-- **Fornitori**: Aziende certificate
-- **Tempo ritorno**: 5-6 anni
-- **Link**: [Vedi impianti standard](https://www.amazon.it/s?k=impianto+fotovoltaico+5kW&tag=audiobookit-21)
-
-#### **Budget alto (15.000-25.000€):**
-- **Opzione**: Impianto avanzato + accumulo
-- **Fornitori**: Top di gamma
-- **Tempo ritorno**: 5-6 anni
-- **Link**: [Vedi impianti con accumulo](https://www.amazon.it/s?k=batteria+accumulo+fotovoltaico&tag=audiobookit-21)
-
-## **CONSIGLI DEL VETERINARIO**
-
-**Dott. Marco Rossi, ingegnere energetico:**
-
-> "Nel 2026, il Bonus Fotovoltaico rimane l'incentivo più accessibile per i privati. Prima di tutto, verifica di essere nella prima casa (residenza abituale) per ottenere il 50% invece del 36%. Scegli sempre installatori certificati e chiedi garanzie scritte di almeno 10 anni sui pannelli e 5 anni sull'inverter. Non farti ingannare da prezzi troppo bassi: un impianto di qualità richiede un investimento iniziale. Valuta sempre l'accumulo se consumi energia la sera, anche se costa di più: ti permette di usare il 90% dell'energia prodotta invece del 30-40%. E non dimenticare: il bonus è detraibile, non un rimborso immediato. Devi sostenere la spesa e recuperare in 10 anni."
-
-### **Errori da evitare:**
-
-- ❗ Installare senza preventivo dettagliato
-- ❗ Scegliere il prezzo più basso senza verificare qualità
-- ❗ Non controllare se l'installatore è abilitato
-- ❗ Dimenticare le pratiche autorizzative
-- ❗ Scegliere componenti di bassa qualità
-
-### **Consigli per risparmiare:**
-
-- ✅ Richiedere almeno 3 preventivi
-- ✅ Verificare recensioni e referenze
-- ✅ Chiedere garanzie scritte
-- ✅ Programmare lavori in periodo di minore richiesta
-- ✅ Valutare finanziamento a tasso zero
-
-## **CONCLUSIONI**
-
-Il **Bonus Fotovoltaico 2026** rappresenta un'opportunità concreta per ridurre le bollette e valorizzare la propria casa. Con una detrazione del **50%** e un massimale di **96.000 euro**, l'investimento si ripaga in **5-7 anni**, garantendo 20+ anni di energia economica e pulita. La chiave è scegliere installatori qualificati, componenti di qualità e seguire tutte le procedure correttamente.
-
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
-
-**Guide correlate**:
-- [Luci LED: il risparmio più semplice](https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/)
-- [Pannello solare balcone senza installazione](https://guida-energia.com/fotovoltaico/pannello-solare-balcone-senza-installazione-la-soluzione-plug-and-play-del-2026/)
-- [Raffrescamento estivo casa](https://guida-energia.com/riscaldamento/raffrescamento-estivo-casa-soluzioni-costi-e-bonus-2026-per-un-estate-fresca/)
-
-*Fonti: [Enpal](https://www.enpal.com/it/fotovoltaico/bonus-impianto-fotovoltaico), [Mansarda.it](https://www.mansarda.it/leggi-e-regolamenti/bonus-fotovoltaico-quali-incentivi-ci-sono-e-come-ottenerli/), [BibLus](https://biblus.acca.it/bonus-fotovoltaico-tutte-le-possibili-agevolazioni/), [Studio Madera](https://www.studiomadera.it/news/308-incentivi-fotovoltaico)*
+*Fonti: [Sky TG24 - Bonus fotovoltaico 2026](https://tg24.sky.it/economia/2026/03/22/bonus-fotovoltaico-2026), [MySolution - detrazioni confermate dalla Legge di Bilancio 2026](https://www.mysolution.it/fisco/informazioni/news/2025/12/30/impianti-fotovoltaici-detrazioni-confermate-dalla-legge-di-bilancio-2026/), [QualEnergia - fine dello scambio sul posto e ritiro dedicato](https://www.qualenergia.it/articoli/fine-scambio-posto-nuovo-modello-unico-ritiro-dedicato/), [GSE - Ritiro dedicato](https://www.gse.it/servizi-per-te/fotovoltaico/ritiro-dedicato).*
