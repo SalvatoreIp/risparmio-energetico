@@ -278,8 +278,8 @@ Il **Bonus Fotovoltaico 2026** rappresenta un'opportunità concreta per ridurre 
 📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
 
 **Guide correlate**:
-- [Luci LED: il risparmio più semplice](https://guida-energia.com/illuminazione/luci-led-risparmio-guida/)
-- [Pannello solare balcone senza installazione](https://guida-energia.com/fotovoltaico/pannello-solare-balcone-senza-installazione/)
-- [Raffrescamento estivo casa](https://guida-energia.com/riscaldamento/raffrescamento-estivo-casa/)
+- [Luci LED: il risparmio più semplice](https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/)
+- [Pannello solare balcone senza installazione](https://guida-energia.com/fotovoltaico/pannello-solare-balcone-senza-installazione-la-soluzione-plug-and-play-del-2026/)
+- [Raffrescamento estivo casa](https://guida-energia.com/riscaldamento/raffrescamento-estivo-casa-soluzioni-costi-e-bonus-2026-per-un-estate-fresca/)
 
 *Fonti: [Enpal](https://www.enpal.com/it/fotovoltaico/bonus-impianto-fotovoltaico), [Mansarda.it](https://www.mansarda.it/leggi-e-regolamenti/bonus-fotovoltaico-quali-incentivi-ci-sono-e-come-ottenerli/), [BibLus](https://biblus.acca.it/bonus-fotovoltaico-tutte-le-possibili-agevolazioni/), [Studio Madera](https://www.studiomadera.it/news/308-incentivi-fotovoltaico)*

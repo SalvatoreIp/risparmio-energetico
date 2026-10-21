@@ -205,6 +205,6 @@ Sostituire le lampadine con LED è **l'investimento energetico più semplice, ra
 
 **Il risparmio più semplice che esista: basta un cacciavite e 30 minuti.**
 
-🔗 **Guide correlate**: [Come risparmiare in bolletta](https://guida-energia.com/guide/2026-04-13-come-risparmiare-bolletta/)
+🔗 **Guide correlate**: [Come risparmiare in bolletta](https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/)
 
 *Fonti: [Ente Nazionale per l'Energia Elettrica (Enel)], [Agenzia Nazionale per le Nuove Tecnologie (ENEA)], [European Lighting Association]*

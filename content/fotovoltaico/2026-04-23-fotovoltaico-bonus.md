@@ -201,6 +201,6 @@ Nonostante l'aumento dei prezzi del 20% nel 2026, il fotovoltaico rimane **uno d
 
 **Il momento giusto è ora: i prezzi continueranno a salire, mentre gli incentivi rimangono stabili.**
 
-🔗 **Guide correlate**: [Come risparmiare in bolletta](https://guida-energia.com/guide/2026-04-13-come-risparmiare-bolletta/), [Luci LED risparmio](https://guida-energia.com/illuminazione/2026/04/22/luci-led-risparmio/)
+🔗 **Guide correlate**: [Come risparmiare in bolletta](https://guida-energia.com/posts/2026-04-13-come-risparmiare-bolletta/), [Luci LED risparmio](https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/)
 
 *Fonti: [VPSolar](https://www.vpsolar.com/prezzi-moduli-fotovoltaici-2026-trend-in-rialzo-e-riduzione-della-disponibilita/), [GSE](https://www.gse.it/), [Ente Nazionale per le Nuove Tecnologie (ENEA)]*

@@ -348,6 +348,6 @@ Il raffrescamento estivo è diventato essenziale, ma con le soluzioni giuste puo
 
 **Il raffrescamento estivo non deve essere un lusso, ma una necessità accessibile.**
 
-🔗 **Guide correlate**: [Bonus efficienza energetica 2026](https://guida-energia.com/incentivi/2026-04-13-bonus-efficienza-energetica/), [Pompe di calore prezzi 2026](https://guida-energia.com/riscaldamento/2026-04-13-pompa-di-calore-prezzi-2026/)
+🔗 **Guide correlate**: [Bonus efficienza energetica 2026](https://guida-energia.com/incentivi/bonus-efficienza-energetica-2026-tutte-le-detrazioni-fiscali-e-come-richiederle/), [Pompe di calore prezzi 2026](https://guida-energia.com/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/)
 
 *Fonti: [Agenzia delle Entrate](https://www.agenziaentrate.gov.it/), [GSE](https://www.gse.it/), [ENEA](https://www.enea.it/), [Ministero dell'Ambiente](https://www.mase.gov.it/)*

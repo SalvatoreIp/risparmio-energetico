@@ -331,6 +331,6 @@ Un pannello solare da balcone senza installazione è **la soluzione energetica p
 
 **Investi oggi in energia gratuita per i prossimi 25 anni.**
 
-🔗 **Guide correlate**: [Fotovoltaico da tetto prezzi 2026](https://guida-energia.com/fotovoltaico/2026-04-14-fotovoltaico-tetto-prezzi-installazione/), [Luci LED risparmio](https://guida-energia.com/illuminazione/2026/04/22/luci-led-risparmio/)
+🔗 **Guide correlate**: [Fotovoltaico da tetto prezzi 2026](https://guida-energia.com/fotovoltaico/fotovoltaico-da-tetto-prezzi-2026-guida-completa-a-costi-e-installazione/), [Luci LED risparmio](https://guida-energia.com/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/)
 
 *Fonti: [VPSolar](https://www.vpsolar.com/prezzi-moduli-fotovoltaici-2026-trend-in-rialzo-e-riduzione-della-disponibilita/), [GSE](https://www.gse.it/), [ENEA](https://www.enea.it/)*
