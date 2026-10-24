@@ -1,8 +1,9 @@
 ---
 title: "Bonus efficienza energetica 2026: tutte le detrazioni fiscali e come richiederle"
 date: 2026-06-07T17:50:00+02:00
+lastmod: 2026-10-24T09:07:35+02:00
 draft: false
-description: "Guida aggiornata al 2026 su tutte le detrazioni fiscali per efficienza energetica: bonus casa, ecobonus, bonus caldaia, bonus mobili e come richiederli passo dopo passo."
+description: "Guida aggiornata a ottobre 2026 su Ecobonus, Bonus Casa, Conto Termico 3.0 e Bonus Mobili: aliquote reali, tetti di spesa e come richiederli passo dopo passo."
 categories: ["incentivi"]
 tags: ["bonus efficienza", "detrazioni fiscali", "ecobonus", "bonus casa", "ristrutturazione energetica", "risparmio energetico"]
 cover:
@@ -12,72 +13,70 @@ cover:
 
 ### Quanto puoi risparmiare con i bonus energetici
 
-I bonus per l'efficienza energetica sono uno dei modi più potenti per ridurre le tue spese e aumentare il valore della tua casa. Nel 2026, il governo italiano conferma e potenzia gli incentivi esistenti, permettendo di risparmiare fino al 50% dell'importo speso su lavori di riqualificazione energetica. In media, un intervento di isolamento termico o installazione di un impianto fotovoltaico può costare 10.000 euro, ma con il Bonus Casa al 50%, il costo effettivo scende a 5.000 euro. Il risparmio in bolletta aggiuntivo può portare il ritorno dell'investimento a soli 5-7 anni, dopodiché il risparmio è puro guadagno.
+Nel 2026 le due agevolazioni principali per l'efficienza energetica sono l'Ecobonus (detrazione fiscale del 50% sull'abitazione principale, 36% sulle altre unità, in 10 rate annuali) e il Conto Termico 3.0 (contributo diretto del GSE, fino al 65-75% della spesa, alternativo all'Ecobonus sulla stessa spesa). A questi si aggiunge il Bonus Mobili, che recupera il 50% su un tetto di 5.000 € per l'acquisto di mobili ed elettrodomestici dopo lavori di ristrutturazione. Un esempio concreto: un cappotto termico da 15.000 € sulla prima casa, con l'Ecobonus al 50%, costa 7.500 € netti, recuperati in 10 anni tramite la dichiarazione dei redditi (750 €/anno); se l'intervento riduce la bolletta del gas di circa 500 €/anno, il costo che resta davvero a carico (7.500 €, prima di ricevere le rate della detrazione) si ripaga in circa 15 anni di risparmio energetico.
+
+<div class="in-breve">
+<strong>In breve (aggiornato a ottobre 2026)</strong>
+<ul>
+<li><strong>Ecobonus/Bonus Casa:</strong> detrazione del 50% sull'abitazione principale e 36% sulle altre unità, in 10 rate annuali; dal 2027 le aliquote scendono al 36% e al 30%. Il tetto di detrazione varia per intervento: 60.000 € per cappotto termico e infissi, 30.000 € per la sostituzione dell'impianto con una pompa di calore.</li>
+<li><strong>Conto Termico 3.0:</strong> contributo diretto del GSE, non una detrazione: arriva sul conto corrente anche a chi ha poca capienza fiscale. Per i privati copre fino al 65% della spesa ammissibile (75% con componenti prodotti in UE) e non si somma all'Ecobonus sulla stessa spesa.</li>
+<li><strong>Bonus Mobili:</strong> detrazione del 50% su un tetto di 5.000 € per unità immobiliare (massimo 2.500 € recuperati in 10 anni), valido dal 2026 anche per le seconde case, legato a una ristrutturazione edilizia avviata dal 2025.</li>
+<li><strong>Caldaie a gas:</strong> dal 1° gennaio 2025 sostituire una caldaia con un'altra alimentata solo da combustibili fossili non dà più diritto a Ecobonus né a Bonus Casa. Restano agevolate pompe di calore, sistemi ibridi di fabbrica e caldaie a biomassa.</li>
+</ul>
+</div>
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=valvole+termostatiche+smart&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le migliori valvole termostatiche su Amazon</a>
+</div>
 
 ### Cosa sono i bonus per l'efficienza energetica
 
-I bonus per l'efficienza energetica sono detrazioni fiscali che permettono di recuperare una percentuale delle spese sostenute per interventi di riqualificazione energetica degli edifici. Questi incentivi sono stati introdotti per promuovere il risparmio energetico, la riduzione delle emissioni di CO2 e la modernizzazione del patrimonio edilizio. I principali bonus disponibili nel 2026 sono:
-
-- **Bonus Casa 50%**: Detrazione fiscale del 50% per ristrutturazioni edilizie, che include anche interventi di efficienza energetica.
-- **Ecobonus 50% e 65%**: Detrazione specifica per interventi di riqualificazione energetica (isolamento termico, sostituzione infissi, impianti di riscaldamento).
-- **Bonus Caldaia**: Detrazione del 50% per la sostituzione di caldaie con modelli a condensazione o pompe di calore.
-- **Bonus Mobili e Arredi**: Detrazione del 50% per l'acquisto di mobili e grandi elettrodomestici di classe energetica A++ o superiore, se acquistati contestualmente a lavori di ristrutturazione.
-
-Questi bonus non sono mutuamente esclusivi: puoi richiederli contemporaneamente per lo stesso intervento, fino a un massimo cumulativo di 96.000 euro per unità immobiliare.
+I bonus per l'efficienza energetica sono detrazioni fiscali (o, nel caso del Conto Termico, un contributo diretto) che permettono di recuperare una parte delle spese per interventi di riqualificazione energetica. La tabella sotto riassume i quattro principali del 2026. Un punto da capire prima di fare i conti: **Bonus Casa ed Ecobonus non si possono richiedere entrambi sulla stessa spesa.** Ogni intervento rientra nell'uno o nell'altro (quello energetico specifico di solito nell'Ecobonus). Si possono invece usare bonus diversi su interventi diversi dello stesso cantiere: per esempio l'Ecobonus sul cappotto termico e il Bonus Mobili sui nuovi elettrodomestici acquistati dopo i lavori.
 
 ### I principali bonus disponibili nel 2026
 
-Ecco una tabella comparativa aggiornata al 2026:
-
-| Bonus | Detrazione | Massimo Spesa Detraibile | Interventi Ammessi | Scadenza |
-|---|---|---|---|---|
-| Bonus Casa 50% | 50% | 96.000€ | Ristrutturazioni edilizie, interventi di efficienza energetica | 31/12/2026 |
-| Ecobonus 50% | 50% | 96.000€ | Isolamento termico, sostituzione infissi, caldaie, pompe di calore | 31/12/2026 |
-| Ecobonus 65% | 65% | 60.000€ | Sostituzione caldaie con pompe di calore, isolamento termico spessorato | 31/12/2026 |
-| Bonus Caldaia | 50% | 30.000€ | Sostituzione caldaie con modelli a condensazione o pompe di calore | 31/12/2026 |
-| Bonus Mobili | 50% | 10.000€ | Acquisto mobili e elettrodomestici di classe A++ o superiore | 31/12/2026 |
-
-*Tabella aggiornata aprile 2026*
+| Bonus | Detrazione/contributo | Tetto di spesa o detrazione | Interventi ammessi |
+|---|---|---|---|
+| Bonus Casa | 50% (prima casa) / 36% (altri immobili) | 96.000 € per unità immobiliare | Ristrutturazioni edilizie in generale |
+| Ecobonus | 50% (prima casa) / 36% (altri immobili) | 60.000 € per cappotto/infissi, 30.000 € per pompa di calore | Isolamento termico, infissi, sostituzione impianto con pompa di calore |
+| Conto Termico 3.0 | fino al 65% (75% con componenti UE), a fondo perduto | spesa ammissibile max 700 €/kW per pompe di calore fino a 35 kW | Pompe di calore, caldaie a biomassa ad alta efficienza |
+| Bonus Mobili | 50% | 5.000 € per unità immobiliare (max 2.500 € di detrazione) | Mobili ed elettrodomestici di classe A o superiore, dopo una ristrutturazione |
 
 ### Quanto si risparmia davvero con i bonus
 
-Analizziamo un caso reale per capire il risparmio concreto:
+Un caso reale, con un solo intervento per bonus (non cumulati sulla stessa spesa):
 
-**Intervento: Isolamento termico pareti esterne + Sostituzione caldaia con pompa di calore**
-- Costo lavori: 25.000 euro
-- Bonus Casa 50%: 12.500 euro
-- Ecobonus 65%: 16.250 euro (65% di 25.000)
-- **Totale detrazioni: 28.750 euro**
-- **Costo effettivo: -3.750 euro** (lavoro pagato e bonus extra)
+**Isolamento termico delle pareti esterne (cappotto), prima casa**
+- Costo lavori: 15.000 euro
+- Ecobonus 50%: 7.500 euro di detrazione, 750 €/anno per 10 anni
+- **Costo netto, dopo le 10 rate: 7.500 euro**
+- Risparmio stimato sulla bolletta del gas: circa 400-500 €/anno
+- **Tempo per rientrare del costo netto: circa 15-19 anni**, considerando solo il risparmio energetico (le rate della detrazione arrivano comunque ogni anno, indipendentemente dal consumo)
 
-In questo scenario ipotetico, non solo l'intervento è completamente gratuito, ma ricevi anche un extra di 3.750 euro! Questo perché i bonus possono essere cumulati fino a un massimo di 96.000 euro, e in questo caso si supera l'importo speso.
+**Sostituzione caldaia a gas con pompa di calore (12.000 €), con Conto Termico 3.0 invece dell'Ecobonus**
+- Contributo GSE stimato: circa 4.500-5.500 euro (dipende da potenza e zona climatica), erogato in pochi mesi
+- **Costo netto: circa 6.500-7.500 euro**
+- Risparmio tipico rispetto al metano: circa 650-700 €/anno (vedi la [guida agli incentivi pompe di calore](/incentivi/incentivi-pompe-di-calore-2026/) per il confronto completo con l'Ecobonus)
 
-Per interventi più piccoli:
-- **Sostituzione caldaia** (€3.000): detrazione 50% = **risparmio €1.500**
-- **Installazione valvole termostatiche smart** (€500): detrazione 50% = **risparmio €250**
-- **Installazione pannelli solari plug and play** (€300): detrazione 50% = **risparmio €150**
+Per interventi più piccoli con il Bonus Mobili: un acquisto di elettrodomestici di classe A o superiore da 2.000 € dopo una ristrutturazione dà una detrazione del 50% (**1.000 €**), restando 3.000 € di tetto disponibile per altri acquisti. Le [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/) sui radiatori, se fatturate insieme a un intervento di riqualificazione, rientrano nell'Ecobonus.
 
 ### Come richiedere i bonus passo dopo passo
 
-Richiedere i bonus è semplice se segui questi passaggi:
+Per Ecobonus e Bonus Casa:
 
-1. **Conserva tutte le fatture** con causale specifica e pagamento tracciabile (bonifico)
-2. **Comunica all'ENEA** entro 90 giorni dall'esecuzione dei lavori
-3. **Inserisci i dati nella dichiarazione dei redditi** (Modello 730 o Unico)
-4. **Conserva tutta la documentazione** per 10 anni
+1. **Conserva tutte le fatture**, pagate con bonifico "parlante" per ristrutturazione/riqualificazione energetica.
+2. **Per l'Ecobonus, comunica all'ENEA** entro 90 giorni dalla fine dei lavori, su bonusfiscali.enea.it (non richiesto per il solo Bonus Casa o il Bonus Mobili).
+3. **Inserisci i dati nel Modello 730 o Unico**: la detrazione si recupera in 10 rate annuali uguali.
+4. **Conserva tutta la documentazione** per 10 anni, in caso di controllo: fattura, dichiarazione di conformità dell'installazione, comunicazione ENEA e scheda tecnica con i requisiti minimi di efficienza del prodotto.
 
-**Documentazione necessaria:**
-- Fattura con dettagli prodotto e dati fiscali
-- Dichiarazione di conformità dell'installazione
-- Comunicazioni ENEA e Agenzia delle Entrate
-- Eventuali certificazioni di efficienza energetica
+Per il Conto Termico 3.0 la procedura è diversa: la domanda va presentata entro 90 giorni dalla fine dei lavori sul Portaltermico del GSE, non nella dichiarazione dei redditi, e il contributo arriva sul conto corrente invece che come detrazione.
 
-**Importante:** Alcuni bonus richiedono l'installazione da parte di un tecnico qualificato. Verifica sempre i requisiti specifici per ogni intervento.
+**Importante:** verifica i requisiti tecnici minimi (per esempio il COP/SCOP di una pompa di calore) prima di acquistare, non dopo: un prodotto che non li rispetta fa perdere l'incentivo anche con tutta la documentazione in ordine.
 
 ### Conclusione
 
-I bonus per l'efficienza energetica 2026 sono un'opportunità unica per migliorare la tua casa, ridurre le bollette e risparmiare migliaia di euro. Con il cumulo di Bonus Casa e Ecobonus, puoi ottenere detrazioni superiori al 100% della spesa sostenuta, rendendo gli interventi non solo gratuiti ma addirittura redditizi.
+Nel 2026 l'Ecobonus e il Bonus Casa recuperano il 50% della spesa sulla prima casa e il 36% sulle altre unità, con tetti di detrazione che variano per tipo di intervento. Il Conto Termico 3.0 è l'alternativa a fondo perduto per chi ha poca capienza fiscale o vuole il contributo in pochi mesi, ma non si somma all'Ecobonus sulla stessa spesa. Dal 2027 le aliquote scendono, quindi chi deve comunque sostituire un impianto ha un motivo concreto per non rimandare i lavori all'anno prossimo.
 
-Non aspettare: contatta un professionista per un preventivo e inizia a risparmiare oggi stesso. Il risparmio energetico non è solo un'opzione, è un investimento intelligente nel tuo futuro.
+Guide collegate: [incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/) · [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/)
 
-*Fonti: [ENEA](https://www.enea.it), [Agenzia delle Entrate](https://www.agenziaentrate.gov.it), [QualeConto](https://www.qualeconto.it)*
+*Fonti: [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it), [Agenzia delle Entrate](https://www.agenziaentrate.gov.it), [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [GreenMe - Bonus mobili 2026](https://www.greenme.it/casa-e-giardino/arredamento/bonus-mobili-2026-detrazioni-modello-730-nuovo-tetto-di-spesa-a-5mila-euro-come-funziona-e-i-requisiti/)*
