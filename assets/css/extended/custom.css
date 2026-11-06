@@ -24,3 +24,21 @@
 .in-breve strong:first-child { display: block; margin-bottom: 6px; }
 .in-breve ul { margin: 0; padding-left: 20px; }
 .in-breve li { margin: 4px 0; }
+
+/* Calcolatore fotovoltaico (fotovoltaico/calcolatore-convenienza-fotovoltaico) */
+.calc-fv { border: 2px solid #ff8800; border-radius: 10px; padding: 18px; margin: 24px 0; background: var(--entry); }
+.calc-fv h3 { margin-top: 0; }
+.calc-fv .riga { display: grid; grid-template-columns: 1fr; gap: 4px; margin: 12px 0; }
+.calc-fv label { font-weight: 600; }
+.calc-fv small { color: var(--secondary); }
+.calc-fv input, .calc-fv select {
+  width: 100%; padding: 9px 10px; font-size: 16px; border-radius: 6px;
+  border: 1px solid var(--border); background: var(--theme); color: var(--primary);
+}
+.calc-fv .esito { margin-top: 18px; padding: 14px 16px; border-radius: 8px; background: var(--code-bg); }
+.calc-fv .verdetto { font-size: 1.2em; font-weight: 700; margin-bottom: 8px; }
+.calc-fv .verdetto.si { color: #2e8b3a; }
+.calc-fv .verdetto.forse { color: #c77700; }
+.calc-fv .verdetto.no { color: #c0392b; }
+.calc-fv table { margin: 8px 0 0; }
+.calc-fv td:last-child { text-align: right; font-weight: 600; white-space: nowrap; }
