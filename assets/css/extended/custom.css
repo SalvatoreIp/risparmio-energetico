@@ -40,5 +40,7 @@
 .calc-fv .verdetto.si { color: #2e8b3a; }
 .calc-fv .verdetto.forse { color: #c77700; }
 .calc-fv .verdetto.no { color: #c0392b; }
-.calc-fv table { margin: 8px 0 0; }
-.calc-fv td:last-child { text-align: right; font-weight: 600; white-space: nowrap; }
+.calc-fv table { margin: 8px 0 0; width: 100%; table-layout: fixed; }
+.calc-fv td { padding: 6px 4px; word-wrap: break-word; }
+.calc-fv td:first-child { width: 60%; }
+.calc-fv td:last-child { text-align: right; font-weight: 600; }

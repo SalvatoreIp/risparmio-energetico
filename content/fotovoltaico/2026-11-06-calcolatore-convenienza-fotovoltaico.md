@@ -71,7 +71,8 @@ Per capire se il fotovoltaico conviene servono quattro numeri: quanti kWh consum
     out.innerHTML =
       '<div class="verdetto ' + cls + '">' + testo + "</div>" +
       "<table><tbody>" +
-      "<tr><td>Potenza consigliata</td><td>" + d(kw) + " kW" + (battKwh ? " + batteria " + d(battKwh) + " kWh" : "") + "</td></tr>" +
+      "<tr><td>Potenza consigliata</td><td>" + d(kw) + " kW</td></tr>" +
+      (battKwh ? "<tr><td>Batteria</td><td>" + d(battKwh) + " kWh</td></tr>" : "") +
       "<tr><td>Produzione in un anno</td><td>" + k(prod) + "</td></tr>" +
       "<tr><td>Usata subito in casa (" + Math.round(auto / prod * 100) + "%)</td><td>" + k(auto) + "</td></tr>" +
       "<tr><td>Risparmio in bolletta all'anno</td><td>" + e(auto * prezzo) + "</td></tr>" +
