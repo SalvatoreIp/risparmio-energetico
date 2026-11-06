@@ -46,6 +46,12 @@ theme = "PaperMod"
     weight = 35
 
 [[menu.main]]
+    identifier = "idroponica"
+    name = "🌱 Idroponica"
+    url = "/idroponica/"
+    weight = 38
+
+[[menu.main]]
     identifier = "incentivi"
     name = "💰 Incentivi"
     url = "/incentivi/"
