@@ -1,7 +1,7 @@
 ---
 title: "Fotovoltaico da tetto prezzi 2026: guida completa a costi e installazione"
 date: 2026-06-07T17:50:00+02:00
-lastmod: 2026-09-30T09:06:12+02:00
+lastmod: 2026-11-06T12:40:00+01:00
 draft: false
 description: "Guida completa ai prezzi del fotovoltaico da tetto nel 2026: costi installazione, incentivi, potenza e risparmio reale per ogni tipologia di impianto."
 categories: ["fotovoltaico"]
@@ -21,7 +21,7 @@ Installare un impianto fotovoltaico da tetto può ridurre la bolletta elettrica 
 <li><strong>Impianto da 6 kWp:</strong> 8.000-11.000 € chiavi in mano, 4.000-5.500 € netti dopo il Bonus Ristrutturazioni 50%.</li>
 <li><strong>Risparmio annuo:</strong> circa 1.250 € tra autoconsumo (a 0,32 €/kWh) e Ritiro Dedicato per l'energia immessa in rete (a circa 0,10 €/kWh).</li>
 <li><strong>Ritorno dell'investimento:</strong> 3-4,5 anni, non i 4-5 anni spesso citati con i vecchi prezzi della luce.</li>
-<li><strong>Attenzione:</strong> lo Scambio sul Posto è chiuso ai nuovi impianti dal 2015 — oggi l'energia immessa in rete si vende solo con il Ritiro Dedicato, a un prezzo molto più basso.</li>
+<li><strong>Attenzione:</strong> lo Scambio sul Posto è chiuso ai nuovi impianti dal 29 maggio 2025 — oggi l'energia immessa in rete si vende solo con il Ritiro Dedicato, a un prezzo molto più basso.</li>
 </ul>
 </div>
 
@@ -105,7 +105,7 @@ Consideriamo un impianto da 6 kWp per una famiglia media di 4 persone:
 
 **IVA agevolata al 10%:** invece del 22% standard, per impianti fotovoltaici residenziali fino a 20 kW.
 
-**Ritiro Dedicato:** per i nuovi impianti l'unico meccanismo disponibile per l'energia immessa in rete e non autoconsumata è il Ritiro Dedicato del GSE — lo Scambio sul Posto è chiuso alle nuove richieste dal 2015 e non va più presentato come opzione. Il GSE paga il maggiore tra un prezzo minimo garantito (4,75 centesimi/kWh nel 2026, sotto 1.500.000 kWh/anno) e il prezzo zonale orario: in pratica, tra i due, una media di circa 0,10 €/kWh (stima prudente) — nettamente inferiore al prezzo di acquisto della luce (0,32 €/kWh), per questo l'autoconsumo (eventualmente con batteria) resta la leva di risparmio principale.
+**Ritiro Dedicato:** per i nuovi impianti l'unico meccanismo disponibile per l'energia immessa in rete e non autoconsumata è il Ritiro Dedicato del GSE — lo Scambio sul Posto è chiuso ai nuovi impianti dal 29 maggio 2025 (delibera ARERA 78/2025) e non va più presentato come opzione. Il GSE paga il maggiore tra un prezzo minimo garantito (4,75 centesimi/kWh nel 2026, sotto 1.500.000 kWh/anno) e il prezzo zonale orario: in pratica, tra i due, una media di circa 0,10 €/kWh (stima prudente) — nettamente inferiore al prezzo di acquisto della luce (0,32 €/kWh), per questo l'autoconsumo (eventualmente con batteria) resta la leva di risparmio principale.
 
 Il Conto Termico del GSE riguarda gli interventi di efficientamento termico (pompe di calore, isolamento) e non si applica al fotovoltaico residenziale: se stai valutando anche una pompa di calore, ne parliamo nella [guida agli incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
 

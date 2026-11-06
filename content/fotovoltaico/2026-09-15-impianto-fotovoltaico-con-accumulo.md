@@ -2,7 +2,7 @@
 title: "Impianto fotovoltaico con accumulo: quanto costa un sistema chiavi in mano (2026)"
 slug: "impianto-fotovoltaico-con-accumulo"
 date: 2026-09-15T17:00:00+02:00
-lastmod: 2026-09-29T23:30:00+02:00
+lastmod: 2026-11-06T12:40:00+01:00
 draft: false
 description: "Impianto fotovoltaico con accumulo 2026: prezzi chiavi in mano per taglia (3 kW, 6 kW, 10 kW), come scegliere la potenza giusta e quanto si risparmia davvero."
 categories: ["fotovoltaico"]
@@ -69,7 +69,7 @@ Chi ha consumi più bassi o non ha ancora una pompa di calore ottiene un autocon
 
 **IVA agevolata al 10%** invece del 22% per gli impianti fotovoltaici residenziali con potenza fino a 20 kW.
 
-**Ritiro Dedicato / Scambio sul Posto:** il GSE riconosce un compenso per ogni kWh immesso in rete e non autoconsumato; le tariffe variano in base alla zona e all'orario, ma restano nettamente inferiori al prezzo di acquisto, motivo per cui la batteria resta l'elemento che fa la differenza sul risparmio reale.
+**Ritiro Dedicato:** lo Scambio sul Posto è chiuso ai nuovi impianti dal 29 maggio 2025, quindi oggi resta il Ritiro Dedicato: il GSE riconosce un compenso per ogni kWh immesso in rete e non autoconsumato; le tariffe variano in base alla zona e all'orario, ma restano nettamente inferiori al prezzo di acquisto, motivo per cui la batteria resta l'elemento che fa la differenza sul risparmio reale.
 
 ### Conclusione
 
