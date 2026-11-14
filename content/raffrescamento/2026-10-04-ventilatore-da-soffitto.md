@@ -2,6 +2,7 @@
 title: "Ventilatore da soffitto: consumi reali, quale scegliere e quanto fa risparmiare rispetto al condizionatore"
 slug: "ventilatore-da-soffitto"
 date: 2026-10-04T08:30:00+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Un ventilatore da soffitto consuma 15-60 W, pochi euro per un'intera estate. Quanto fa risparmiare rispetto al condizionatore, come usarlo d'inverno e quali modelli comprare nel 2026."
 categories: ["raffrescamento"]
@@ -17,8 +18,8 @@ cover:
 <strong>In breve (aggiornato a ottobre 2026)</strong>
 <ul>
 <li><strong>Costo:</strong> dai 58-75 € dei modelli base senza luce ai 135-160 € di quelli smart con luce LED e app.</li>
-<li><strong>Consumo:</strong> 15-60 W, cioè 0,005-0,02 € l'ora a 0,32 €/kWh: un'intera estate di uso costa circa 12-15 €.</li>
-<li><strong>Risparmio:</strong> stimato 100-110 €/estate se sostituisce il condizionatore nei giorni non torridi; altri 90-100 €/inverno se la funzione inversa permette di abbassare il termostato di 1°C.</li>
+<li><strong>Consumo:</strong> 15-60 W, cioè 0,006-0,03 € l'ora a 0,43 €/kWh (ottobre 2026): un'intera estate di uso costa circa 16-20 €.</li>
+<li><strong>Risparmio:</strong> stimato circa 145 €/estate se sostituisce il condizionatore nei giorni non torridi; altri 115-135 €/inverno se la funzione inversa permette di abbassare il termostato di 1°C.</li>
 <li><strong>Per chi conviene:</strong> chi ha già un condizionatore e vuole usarlo meno, o chi vive in zone dove bastano pochi giorni all'anno di vero caldo estremo.</li>
 </ul>
 </div>
@@ -47,13 +48,13 @@ Il motore è quasi sempre **DC (a corrente continua)** nei modelli recenti, più
 
 ### Quanto si risparmia davvero
 
-**In estate.** Un ventilatore medio da 50 W acceso 8 ore al giorno per 90 giorni (giugno-agosto) consuma 50 W × 8h × 90 = 36.000 Wh, cioè **36 kWh**, che a 0,32 €/kWh (tutto compreso, ottobre 2026) fanno **circa 11,50 € per l'intera estate**. Un climatizzatore 12000 BTU inverter, secondo i consumi calcolati nella guida al [climatizzatore inverter 9000-12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/), assorbe in media 1,0 kW: le stesse 8 ore al giorno per 90 giorni costano invece **circa 230 € di energia**.
+**In estate.** Un ventilatore medio da 50 W acceso 8 ore al giorno per 90 giorni (giugno-agosto) consuma 50 W × 8h × 90 = 36.000 Wh, cioè **36 kWh**, che a 0,43 €/kWh (prezzo di riferimento ARERA per i clienti vulnerabili, ottobre 2026; con un'offerta del mercato libero si può pagare meno) fanno **circa 15,50 € per l'intera estate**. Un climatizzatore 12000 BTU inverter, secondo i consumi calcolati nella guida al [climatizzatore inverter 9000-12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/), assorbe in media 1,0 kW: le stesse 8 ore al giorno per 90 giorni costano invece **circa 310 € di energia**.
 
-Il confronto non è ad armi pari, perché il ventilatore non sostituisce il condizionatore nei giorni più caldi. Ma nella maggior parte dell'estate italiana (diciamo 45 degli 90 giorni, quelli sotto i 30°C) il ventilatore basta da solo: usandolo invece del climatizzatore in quei giorni, il risparmio è 45gg × 8h × (1,0 − 0,05) kW × 0,32 €/kWh = **circa 109 € a stagione**, solo di energia.
+Il confronto non è ad armi pari, perché il ventilatore non sostituisce il condizionatore nei giorni più caldi. Ma nella maggior parte dell'estate italiana (diciamo 45 degli 90 giorni, quelli sotto i 30°C) il ventilatore basta da solo: usandolo invece del climatizzatore in quei giorni, il risparmio è 45gg × 8h × (1,0 − 0,05) kW × 0,43 €/kWh = **circa 147 € a stagione**, solo di energia.
 
-**In inverno con la funzione inversa.** Secondo la guida al [costo del riscaldamento nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/), una caldaia a metano a condensazione su un appartamento tipo costa circa 1.580 €/anno, e abbassare il termostato di 1°C riduce i consumi del 6-7%, cioè **95-110 €/anno**. Se la ridistribuzione dell'aria calda fatta dal ventilatore in modalità inversa permette davvero di tenere il termostato un grado più basso con lo stesso comfort percepito, il risparmio è in quell'ordine, a fronte di un costo di utilizzo del ventilatore quasi nullo: a bassa velocità (circa 15 W) per 4 ore al giorno in 120 giorni d'inverno sono 15W × 4h × 120 = 7,2 kWh, **circa 2,30 € per l'intera stagione freddo**.
+**In inverno con la funzione inversa.** Secondo la guida al [costo del riscaldamento nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/), una caldaia a metano a condensazione su un appartamento tipo costa circa 1.950 €/anno con il metano a 1,77 €/m³ (ottobre 2026), e abbassare il termostato di 1°C riduce i consumi del 6-7%, cioè **115-135 €/anno**. Se la ridistribuzione dell'aria calda fatta dal ventilatore in modalità inversa permette davvero di tenere il termostato un grado più basso con lo stesso comfort percepito, il risparmio è in quell'ordine, a fronte di un costo di utilizzo del ventilatore quasi nullo: a bassa velocità (circa 15 W) per 4 ore al giorno in 120 giorni d'inverno sono 15W × 4h × 120 = 7,2 kWh, **circa 2,30 € per l'intera stagione freddo**.
 
-Somma delle due stagioni: tra 100 e 220 € l'anno di risparmio potenziale, a seconda di quanto il condizionatore viene davvero sostituito in estate e di quanto il ventilatore riesce a rendere percepibile il grado risparmiato in inverno — non è un calcolo garantito come per una pompa di calore, ma il costo di utilizzo del ventilatore stesso è talmente basso che il rientro dell'investimento (60-160 €) è quasi sempre entro la prima stagione.
+Somma delle due stagioni: tra 130 e 280 € l'anno di risparmio potenziale, a seconda di quanto il condizionatore viene davvero sostituito in estate e di quanto il ventilatore riesce a rendere percepibile il grado risparmiato in inverno — non è un calcolo garantito come per una pompa di calore, ma il costo di utilizzo del ventilatore stesso è talmente basso che il rientro dell'investimento (60-160 €) è quasi sempre entro la prima stagione.
 
 ### Incentivi disponibili 2026
 
@@ -61,6 +62,6 @@ Un ventilatore da soffitto acquistato come apparecchio singolo **non rientra in 
 
 ### Conclusione
 
-Il ventilatore da soffitto non è un'alternativa al condizionatore nei giorni di caldo estremo, ma nella maggior parte dell'estate italiana basta da solo e costa pochi euro a stagione: la differenza con un climatizzatore acceso le stesse ore è di oltre 200 €. Se il modello ha la funzione inversa dichiarata, come lo Spin Doctor in tabella, lo stesso apparecchio torna utile anche d'inverno per ridistribuire l'aria calda e abbassare il termostato di un grado senza perdere comfort. Non aspettarti detrazioni fiscali per l'acquisto singolo: il risparmio viene tutto dall'uso, non dal bonus. Per chi vuole raffrescare senza nessun apparecchio elettrico, restano utili anche i trucchi gratuiti spiegati nella guida a [come rinfrescare casa senza condizionatore](/raffrescamento/rinfrescare-casa-senza-condizionatore/).
+Il ventilatore da soffitto non è un'alternativa al condizionatore nei giorni di caldo estremo, ma nella maggior parte dell'estate italiana basta da solo e costa pochi euro a stagione: la differenza con un climatizzatore acceso le stesse ore è di quasi 300 €. Se il modello ha la funzione inversa dichiarata, come lo Spin Doctor in tabella, lo stesso apparecchio torna utile anche d'inverno per ridistribuire l'aria calda e abbassare il termostato di un grado senza perdere comfort. Non aspettarti detrazioni fiscali per l'acquisto singolo: il risparmio viene tutto dall'uso, non dal bonus. Per chi vuole raffrescare senza nessun apparecchio elettrico, restano utili anche i trucchi gratuiti spiegati nella guida a [come rinfrescare casa senza condizionatore](/raffrescamento/rinfrescare-casa-senza-condizionatore/).
 
-*Fonti: Facile.it e Luce-gas.it (consumi e costo ventilatori 2026); GreenMe e Fastweb Plus (funzione inversa estate/inverno e risparmio sul riscaldamento); schede prodotto Klarstein, Ateroll e Dreo su Amazon.it, consultate ottobre 2026; dati di consumo del climatizzatore e costo del riscaldamento ripresi dagli articoli del sito citati nel testo, con prezzi dell'energia verificati il 29/09/2026 (luce 0,32 €/kWh, metano 1,44 €/Smc).*
+*Fonti: Facile.it e Luce-gas.it (consumi e costo ventilatori 2026); GreenMe e Fastweb Plus (funzione inversa estate/inverno e risparmio sul riscaldamento); schede prodotto Klarstein, Ateroll e Dreo su Amazon.it, consultate ottobre 2026; dati di consumo del climatizzatore e costo del riscaldamento ripresi dagli articoli del sito citati nel testo, con prezzi dell'energia aggiornati a ottobre 2026 (ARERA, clienti vulnerabili: luce 0,43 €/kWh, metano 1,77 €/Smc).*

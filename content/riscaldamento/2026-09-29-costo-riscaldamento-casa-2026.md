@@ -2,6 +2,7 @@
 title: "Quanto costa riscaldare casa nel 2026: metano, pompa di calore, pellet e gasolio a confronto"
 slug: "costo-riscaldamento-casa-2026"
 date: 2026-09-29T21:01:48+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Pompa di calore o caldaia? Quanto costa un inverno di riscaldamento nel 2026 con metano, pompa di calore, pellet, gasolio, climatizzatore e stufa elettrica: i conti in euro su 100 m² con i prezzi di settembre 2026."
 categories: ["riscaldamento"]
@@ -11,14 +12,14 @@ cover:
   alt: "Soggiorno di un appartamento italiano con termosifone, stufa a pellet e unità esterna di una pompa di calore sul balcone"
 ---
 
-<p class="lead">Con i prezzi dell'energia di settembre 2026, scaldare lo stesso appartamento di 100 m² per un inverno può costare meno di 900 € o più di 3.000 €, a seconda di come lo si fa. Il metano è salito a circa 1,44 €/m³, il gasolio da riscaldamento a 2,03 €/litro (+47% in un anno), il pellet a circa 7 € al sacco. Qui trovi il costo annuo di ogni sistema calcolato sulla stessa casa, per capire dove sei e se ha senso cambiare.</p>
+<p class="lead">Con i prezzi dell'energia di ottobre 2026, scaldare lo stesso appartamento di 100 m² per un inverno può costare circa 1.100 € o più di 4.000 €, a seconda di come lo si fa. Dal 1° ottobre il metano è salito a circa 1,77 €/m³ e la luce a circa 0,43 €/kWh (prezzi di riferimento ARERA), il gasolio da riscaldamento è a circa 2,03 €/litro, il pellet a circa 7 € al sacco. Qui trovi il costo annuo di ogni sistema calcolato sulla stessa casa, per capire dove sei e se ha senso cambiare.</p>
 
 <div class="in-breve">
 <strong>In breve (prezzi di settembre 2026)</strong>
 <ul>
-<li><strong>Il più economico da usare:</strong> la pompa di calore, circa 800-1.100 € l'anno per 100 m², a seconda di impianto e radiatori.</li>
-<li><strong>Metano con caldaia a condensazione:</strong> circa 1.580 € l'anno. Con una caldaia vecchia si arriva a circa 1.770 €.</li>
-<li><strong>Il più caro:</strong> la stufa elettrica usata per tutta la casa (circa 3.200 €), poi il gasolio (circa 2.300 €).</li>
+<li><strong>I più economici da usare:</strong> il climatizzatore a pompa di calore (circa 1.080 € l'anno per 100 m²), il pellet (circa 1.110 €) e la pompa di calore aria-acqua (circa 1.230-1.480 €, a seconda dei radiatori).</li>
+<li><strong>Metano con caldaia a condensazione:</strong> circa 1.950 € l'anno. Con una caldaia vecchia si arriva a circa 2.170 €.</li>
+<li><strong>Il più caro:</strong> la stufa elettrica usata per tutta la casa (circa 4.300 €), poi il gasolio (circa 2.300 €).</li>
 <li><strong>Il pellet</strong> costa circa 1.110 € l'anno, ma dal 3 agosto 2026 non ha più incentivi se sostituisce una caldaia a gas.</li>
 </ul>
 </div>
@@ -41,20 +42,20 @@ Ogni sistema trasforma un combustibile o l'elettricità in calore con un rendime
 - **climatizzatore in modalità riscaldamento** (split, pompa di calore aria-aria): circa 4 kWh di calore per kWh elettrico nei modelli recenti di buona classe;
 - **stufa elettrica o termoventilatore:** 1 kWh di calore per ogni kWh elettrico, senza nessun moltiplicatore.
 
-**Prezzi usati** (settembre 2026, tutto compreso): luce 0,32 €/kWh e metano 1,44 €/m³ (tariffe ARERA per i clienti vulnerabili), gasolio da riscaldamento 2,03 €/litro (media del Ministero), pellet ENplus A1 circa 7 € al sacco (media nazionale).
+**Prezzi usati** (indicativi, tutto compreso): luce 0,43 €/kWh e metano 1,77 €/m³ (prezzi di riferimento ARERA per i clienti vulnerabili, ottobre 2026; con un'offerta del mercato libero si può pagare meno), gasolio da riscaldamento 2,03 €/litro (media del Ministero, settembre 2026), pellet ENplus A1 circa 7 € al sacco (media nazionale, settembre 2026).
 
 ## Il confronto: quanto costa ogni sistema in un anno
 
 | Sistema | Consumo per 10.000 kWh di calore | Costo annuo | Costo di 1 kWh di calore | Approfondimento |
 |---|---|---|---|---|
-| Climatizzatore a pompa di calore (split) | circa 2.500 kWh di luce | **circa 800 €** | 0,08 € | [climatizzatore inverter](/raffrescamento/climatizzatore-inverter-9000-12000-btu/) |
-| Pompa di calore aria-acqua, bassa temperatura (SCOP 3,5) | circa 2.860 kWh di luce | **circa 915 €** | 0,09 € | [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) |
-| Pompa di calore alta temperatura con vecchi radiatori (SCOP 2,9) | circa 3.450 kWh di luce | **circa 1.100 €** | 0,11 € | [pompa di calore con i termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) |
+| Climatizzatore a pompa di calore (split) | circa 2.500 kWh di luce | **circa 1.080 €** | 0,11 € | [climatizzatore inverter](/raffrescamento/climatizzatore-inverter-9000-12000-btu/) |
+| Pompa di calore aria-acqua, bassa temperatura (SCOP 3,5) | circa 2.860 kWh di luce | **circa 1.230 €** | 0,12 € | [prezzi delle pompe di calore](/riscaldamento/pompa-di-calore-prezzi-2026-costi-incentivi-e-risparmio-reale/) |
+| Pompa di calore alta temperatura con vecchi radiatori (SCOP 2,9) | circa 3.450 kWh di luce | **circa 1.480 €** | 0,15 € | [pompa di calore con i termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) |
 | Stufa a pellet | circa 159 sacchi | **circa 1.110 €** | 0,11 € | [stufa a pellet 2026](/riscaldamento/stufa-a-pellet-costi-incentivi-2026/) |
-| Caldaia a metano a condensazione | circa 1.100 m³ | **circa 1.580 €** | 0,16 € | — |
-| Caldaia a metano tradizionale | circa 1.225 m³ | **circa 1.770 €** | 0,18 € | — |
+| Caldaia a metano a condensazione | circa 1.100 m³ | **circa 1.950 €** | 0,19 € | — |
+| Caldaia a metano tradizionale | circa 1.225 m³ | **circa 2.170 €** | 0,22 € | — |
 | Caldaia a gasolio | circa 1.135 litri | **circa 2.300 €** | 0,23 € | — |
-| Stufe elettriche o termoventilatori | circa 10.000 kWh di luce | **circa 3.200 €** | 0,32 € | — |
+| Stufe elettriche o termoventilatori | circa 10.000 kWh di luce | **circa 4.300 €** | 0,43 € | — |
 
 **Il GPL** in serbatoio non è in tabella perché il prezzo cambia moltissimo da un contratto all'altro, soprattutto con il serbatoio in comodato. Per fare il conto sul proprio caso basta prendere il prezzo al litro dell'ultima fattura: un litro di GPL dà circa 6,5 kWh e una caldaia a GPL ne rende circa il 90%.
 
@@ -68,11 +69,11 @@ Alcune avvertenze sulla tabella:
 
 Il risparmio annuo conta, ma va confrontato con quanto costa il cambio. Tre casi tipici per il nostro appartamento:
 
-**1. Da caldaia a gasolio a pompa di calore.** Si passa da circa 2.300 € a circa 1.100 € l'anno anche tenendo i vecchi radiatori: **circa 1.200 € risparmiati ogni anno**. Una pompa di calore da 11.500 € installata costa 5.750 € netti con l'Ecobonus al 50% e rientra in **circa 5 anni**. È il cambio più conveniente di tutti.
+**1. Da caldaia a gasolio a pompa di calore.** Si passa da circa 2.300 € a circa 1.480 € l'anno anche tenendo i vecchi radiatori: **circa 820 € risparmiati ogni anno**. Una pompa di calore da 11.500 € installata costa 5.750 € netti con l'Ecobonus al 50% e rientra in **circa 7 anni**. È il cambio più conveniente di tutti.
 
-**2. Da vecchia caldaia a metano a pompa di calore.** Da circa 1.770 € a 915-1.100 € l'anno, cioè **circa 670-850 € risparmiati**, in base ai radiatori. Con 5.750 € netti il rientro è di 7-9 anni. Se la caldaia va cambiata comunque (una a condensazione costa circa 3.000 € installata, senza incentivi), la differenza da recuperare scende a circa 2.750 € e il rientro a **3-4 anni**.
+**2. Da vecchia caldaia a metano a pompa di calore.** Da circa 2.170 € a 1.230-1.480 € l'anno, cioè **circa 690-940 € risparmiati**, in base ai radiatori. Con 5.750 € netti il rientro è di 6-8 anni. Se la caldaia va cambiata comunque (una a condensazione costa circa 3.000 € installata, senza incentivi), la differenza da recuperare scende a circa 2.750 € e il rientro a **3-4 anni**.
 
-**3. Da caldaia a metano ad aggiungere un climatizzatore.** Chi ha già uno split in soggiorno può usarlo nelle mezze stagioni (ottobre, novembre, marzo, aprile) al posto della caldaia: ogni kWh di calore costa circa la metà. Se lo split copre il 30% del fabbisogno, il risparmio è di circa **250 € l'anno** senza spendere niente. È la mossa più economica da fare subito.
+**3. Da caldaia a metano ad aggiungere un climatizzatore.** Chi ha già uno split in soggiorno può usarlo nelle mezze stagioni (ottobre, novembre, marzo, aprile) al posto della caldaia: ogni kWh di calore costa circa la metà. Se lo split copre il 30% del fabbisogno, il risparmio è di circa **260 € l'anno** senza spendere niente. È la mossa più economica da fare subito.
 
 **Cosa conviene fare prima di cambiare impianto.** Qualunque sistema consuma meno se la casa disperde meno calore e se non si scaldano stanze vuote:
 
@@ -83,11 +84,11 @@ Il risparmio annuo conta, ma va confrontato con quanto costa il cambio. Tre casi
 
 ## Pompa di calore o caldaia: quale conviene?
 
-Con i prezzi del 2026 un kWh di calore costa circa 0,09-0,11 € con una pompa di calore e 0,16-0,18 € con una caldaia a metano. Sull'uso la pompa di calore vince sempre; la domanda vera è se il risparmio ripaga la differenza di prezzo d'acquisto.
+Con i prezzi di ottobre 2026 un kWh di calore costa circa 0,12-0,15 € con una pompa di calore e 0,19-0,22 € con una caldaia a metano. Sull'uso la pompa di calore vince sempre; la domanda vera è se il risparmio ripaga la differenza di prezzo d'acquisto.
 
-- **Caldaia a condensazione:** circa 3.000 € installata, nessun incentivo, circa 1.580 € l'anno di metano per il nostro appartamento.
-- **Pompa di calore:** circa 11.500 € installata, 5.750 € netti con l'Ecobonus al 50%, circa 915-1.100 € l'anno di elettricità.
-- **Differenza:** circa 2.750 € in più all'acquisto, recuperati con 480-665 € di risparmio l'anno, quindi in **4-6 anni**. Dopo, per il resto della vita dell'impianto (15-20 anni), è risparmio netto.
+- **Caldaia a condensazione:** circa 3.000 € installata, nessun incentivo, circa 1.950 € l'anno di metano per il nostro appartamento.
+- **Pompa di calore:** circa 11.500 € installata, 5.750 € netti con l'Ecobonus al 50%, circa 1.230-1.480 € l'anno di elettricità.
+- **Differenza:** circa 2.750 € in più all'acquisto, recuperati con 470-720 € di risparmio l'anno, quindi in **4-6 anni**. Dopo, per il resto della vita dell'impianto (15-20 anni), è risparmio netto.
 
 La caldaia resta la scelta più sensata solo in pochi casi: casa molto poco isolata con radiatori piccoli che non si possono cambiare, impossibilità di installare l'unità esterna (vincoli condominiali o paesaggistici), oppure budget che non permette di anticipare la spesa. In questi casi c'è una via di mezzo: il sistema ibrido caldaia più pompa di calore, che è ancora incentivato.
 
@@ -111,4 +112,4 @@ I prezzi dell'energia cambiano ogni mese: questa pagina viene aggiornata quando 
 
 ---
 
-*Fonti: [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp), [Canna Fumaria Sicura - Quanto costa il pellet nel 2026](https://www.cannafumariasicura.it/2026/09/07/quanto-costa-il-pellet-nel-2026-e-perche-conviene-ancora/), [QualEnergia - Prezzi pellet, legna e cippato](https://www.qualenergia.it/articoli/prezzi-pellet-legna-cippato-stagione-2025-2026/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it)*
+*Fonti: [ARERA - Gas vulnerabili ottobre 2026](https://www.arera.it/comunicati-stampa/dettaglio/gas-valore-materia-prima-vulnerabilita-ottobre-2026), [Sky TG24 - Luce vulnerabili +37,3% dal 1° ottobre 2026](https://tg24.sky.it/economia/2026/09/29/bollette-prezzi-luce-gas-offerte), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp), [Canna Fumaria Sicura - Quanto costa il pellet nel 2026](https://www.cannafumariasicura.it/2026/09/07/quanto-costa-il-pellet-nel-2026-e-perche-conviene-ancora/), [QualEnergia - Prezzi pellet, legna e cippato](https://www.qualenergia.it/articoli/prezzi-pellet-legna-cippato-stagione-2025-2026/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it)*

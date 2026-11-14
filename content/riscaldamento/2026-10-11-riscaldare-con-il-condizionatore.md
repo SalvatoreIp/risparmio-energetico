@@ -2,6 +2,7 @@
 title: "Riscaldare casa con il condizionatore: conviene al posto della caldaia?"
 slug: "riscaldare-con-il-condizionatore"
 date: 2026-10-11T09:05:00+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Usare il climatizzatore reversibile per riscaldare invece della caldaia a gas: quanto costa davvero al kWh, quando conviene e quando no, con un calcolo concreto su una stanza."
 categories: ["riscaldamento"]
@@ -11,13 +12,13 @@ cover:
   alt: "Climatizzatore a parete in un soggiorno italiano con luce calda del mattino"
 ---
 
-<p class="lead">Il climatizzatore che hai già in salotto, usato in modalità riscaldamento, è una pompa di calore: nelle serate più miti produce calore a circa 0,08 €/kWh contro circa 0,16 €/kWh del metano con caldaia a condensazione. Non sostituisce l'impianto di casa, ma per scaldare una singola stanza nelle mezze stagioni può costare meno della metà. Ecco quando ha senso e quando invece no.</p>
+<p class="lead">Il climatizzatore che hai già in salotto, usato in modalità riscaldamento, è una pompa di calore: nelle serate più miti produce calore a circa 0,11 €/kWh contro circa 0,19 €/kWh del metano con caldaia a condensazione (prezzi di ottobre 2026). Non sostituisce l'impianto di casa, ma per scaldare una singola stanza nelle mezze stagioni può costare circa il 40% in meno. Ecco quando ha senso e quando invece no.</p>
 
 <div class="in-breve">
 <strong>In breve (aggiornato a ottobre 2026)</strong>
 <ul>
-<li><strong>Costo:</strong> un climatizzatore A+++ produce calore a circa 0,08 €/kWh, uno A++ comune a circa 0,11 €/kWh, il metano a circa 0,16 €/kWh.</li>
-<li><strong>Risparmio:</strong> su una stanza di 20 m² riscaldata 4 ore al giorno per 120 giorni, circa 50-75 € a stagione rispetto alla caldaia.</li>
+<li><strong>Costo:</strong> un climatizzatore A+++ produce calore a circa 0,11 €/kWh, uno A++ comune a circa 0,14 €/kWh, il metano a circa 0,19 €/kWh (prezzi di riferimento ARERA, ottobre 2026).</li>
+<li><strong>Risparmio:</strong> su una stanza di 20 m² riscaldata 4 ore al giorno per 120 giorni, circa 50-85 € a stagione rispetto alla caldaia.</li>
 <li><strong>Limiti:</strong> rendimento in calo sotto i 5 °C esterni, aria più secca, nessuna acqua calda sanitaria, utile solo sopra i 35-40 m².</li>
 <li><strong>Incentivi:</strong> Ecobonus 50%/36% se il climatizzatore reversibile è A+++, tetto di spesa 30.000 € per le pompe di calore.</li>
 </ul>
@@ -51,17 +52,17 @@ Per questo uso conviene guardare la classe energetica in riscaldamento (non solo
 
 Il costo del calore si confronta così:
 
-- **Climatizzatore A+++ vero (SCOP stagionale reale stimato 4):** 0,32 €/kWh ÷ 4 = **€0,08/kWh termico**
-- **Climatizzatore A++ comune (SCOP stagionale reale stimato 3):** 0,32 €/kWh ÷ 3 = **€0,107/kWh termico**
-- **Caldaia a condensazione a metano** (9,6 kWh/m³, rendimento 95%, metano a 1,44 €/m³ di settembre 2026): 1,44 ÷ (9,6 × 0,95) = **€0,158/kWh termico**
+- **Climatizzatore A+++ vero (SCOP stagionale reale stimato 4):** 0,43 €/kWh ÷ 4 = **€0,11/kWh termico**
+- **Climatizzatore A++ comune (SCOP stagionale reale stimato 3):** 0,43 €/kWh ÷ 3 = **€0,143/kWh termico**
+- **Caldaia a condensazione a metano** (9,6 kWh/m³, rendimento 95%, metano a 1,77 €/m³ di ottobre 2026): 1,77 ÷ (9,6 × 0,95) = **€0,194/kWh termico**. Luce a 0,43 €/kWh e metano a 1,77 €/m³ sono i prezzi di riferimento ARERA per i clienti vulnerabili; con un'offerta del mercato libero si può pagare meno.
 
 Caso concreto: un soggiorno di 20 m², riscaldato alla sera per 4 ore al giorno, 120 giorni (novembre-febbraio), con un fabbisogno medio stimato di 2 kW termici in quelle ore (clima medio padano) — in totale **960 kWh termici a stagione**:
 
-- Con climatizzatore A+++: 960 × €0,08 = **€76,80/stagione**
-- Con climatizzatore A++ comune: 960 × €0,107 = **€102,72/stagione**
-- Con caldaia a metano accesa sulla stessa stanza: 960 × €0,158 = **€151,68/stagione**
+- Con climatizzatore A+++: 960 × €0,11 = **€103,20/stagione**
+- Con climatizzatore A++ comune: 960 × €0,143 = **€137,28/stagione**
+- Con caldaia a metano accesa sulla stessa stanza: 960 × €0,194 = **€186,24/stagione**
 
-Il risparmio scegliendo un buon climatizzatore A+++ invece della caldaia per quella sola stanza è di circa **€75/anno**, che scende a circa **€49/anno** con un modello A++ più economico. Il conto peggiora nelle notti più freddo (sotto i 2-3 °C esterni), perché lo sbrinamento della batteria esterna consuma energia extra e interrompe il riscaldamento per alcuni minuti.
+Il risparmio scegliendo un buon climatizzatore A+++ invece della caldaia per quella sola stanza è di circa **€83/anno**, che scende a circa **€49/anno** con un modello A++ più economico. Il conto peggiora nelle notti più freddo (sotto i 2-3 °C esterni), perché lo sbrinamento della batteria esterna consuma energia extra e interrompe il riscaldamento per alcuni minuti.
 
 ## Limiti da conoscere prima di contarci
 
@@ -79,6 +80,6 @@ Il risparmio scegliendo un buon climatizzatore A+++ invece della caldaia per que
 
 ## Conclusione
 
-Il climatizzatore che hai già in salotto può scaldare una stanza spendendo meno della caldaia, ma solo se è davvero efficiente in riscaldamento (classe A+++ reale, non solo in raffrescamento) e per un uso puntuale, non per tutta la casa: sotto i 5 °C il vantaggio si riduce, e oltre i 35-40 m² non basta più. Usato come riscaldamento accessorio nelle mezze stagioni è un risparmio reale di 50-75 €/anno; per l'intera casa resta la caldaia, o una pompa di calore aria-acqua dedicata.
+Il climatizzatore che hai già in salotto può scaldare una stanza spendendo meno della caldaia, ma solo se è davvero efficiente in riscaldamento (classe A+++ reale, non solo in raffrescamento) e per un uso puntuale, non per tutta la casa: sotto i 5 °C il vantaggio si riduce, e oltre i 35-40 m² non basta più. Usato come riscaldamento accessorio nelle mezze stagioni è un risparmio reale di 50-85 €/anno; per l'intera casa resta la caldaia, o una pompa di calore aria-acqua dedicata.
 
-*Fonti: Studio Madera (condizionatori 2026, pompe di calore sotto zero); scheda tecnica LG Libero via Enel.it; QualeScegliere.it; Money.it; Deye.com; QuiFinanza (vademecum ENEA Ecobonus 2026); Immergas (Vademecum BonusCasa 01-2026); Ingenio-web.it; schede prodotto Daikin, Samsung e Diloc su Amazon.it, consultate ottobre 2026. Calcoli di consumo: stime dell'autore su SCOP dichiarati e condizioni climatiche medie.*
+*Fonti: [ARERA - Gas vulnerabili ottobre 2026](https://www.arera.it/comunicati-stampa/dettaglio/gas-valore-materia-prima-vulnerabilita-ottobre-2026), [Sky TG24 - Luce vulnerabili dal 1° ottobre 2026](https://tg24.sky.it/economia/2026/09/29/bollette-prezzi-luce-gas-offerte), Studio Madera (condizionatori 2026, pompe di calore sotto zero); scheda tecnica LG Libero via Enel.it; QualeScegliere.it; Money.it; Deye.com; QuiFinanza (vademecum ENEA Ecobonus 2026); Immergas (Vademecum BonusCasa 01-2026); Ingenio-web.it; schede prodotto Daikin, Samsung e Diloc su Amazon.it, consultate ottobre 2026. Calcoli di consumo: stime dell'autore su SCOP dichiarati e condizioni climatiche medie.*

@@ -2,7 +2,7 @@
 title: "Valvole termostatiche smart 2026: quanto si risparmia e quali scegliere"
 slug: "valvole-termostatiche-smart-2026"
 date: 2026-06-26T08:35:00+02:00
-lastmod: 2026-11-04T09:08:29+01:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Valvole termostatiche smart 2026: guida completa al risparmio. Compatibilità, installazione, confronto modelli, quanto risparmi davvero in euro."
 categories: ["smart-home"]
@@ -19,10 +19,10 @@ aliases:
 <div class="in-breve">
 <strong>In breve (aggiornato a novembre 2026)</strong>
 <ul>
-<li><strong>Bolletta di riferimento:</strong> appartamento di 100 m² con caldaia a condensazione, circa 1.580 €/anno di metano a 1,44 €/Smc (stesso calcolo dell'<a href="/riscaldamento/costo-riscaldamento-casa-2026/">hub sui costi di riscaldamento</a>).</li>
-<li><strong>Risparmio reale:</strong> circa 8% con 3 valvole sulle stanze principali (~125 €/anno), fino al 15% con 8 valvole in una casa grande (~355 €/anno); il 22% (~345 €/anno) si raggiunge solo abbinando anche un termostato smart centrale.</li>
+<li><strong>Bolletta di riferimento:</strong> appartamento di 100 m² con caldaia a condensazione, circa 1.950 €/anno di metano a 1,77 €/Smc, prezzo di riferimento ARERA di ottobre 2026 (stesso calcolo dell'<a href="/riscaldamento/costo-riscaldamento-casa-2026/">hub sui costi di riscaldamento</a>).</li>
+<li><strong>Risparmio reale:</strong> circa 8% con 3 valvole sulle stanze principali (~155 €/anno), fino al 15% con 8 valvole in una casa grande (~440 €/anno); il 22% (~430 €/anno su 100 m²) si raggiunge solo abbinando anche un termostato smart centrale.</li>
 <li><strong>Costo:</strong> da 150 € per 3 valvole economiche (serve spesso un hub WiFi a parte) a 630 € per 8 valvole dei marchi con modulo WiFi integrato.</li>
-<li><strong>Ritorno dell'investimento:</strong> 12-24 mesi secondo il numero di valvole e il marchio scelto.</li>
+<li><strong>Ritorno dell'investimento:</strong> 10-19 mesi secondo il numero di valvole e il marchio scelto.</li>
 </ul>
 </div>
 
@@ -62,19 +62,19 @@ Non sono compatibili con il riscaldamento elettrico puro (termoconvettori, panne
 **Situazione di riferimento:**
 - Appartamento di 100 m² con caldaia a gas a condensazione
 - Zona climatica media, isolamento nella media delle case italiane
-- Bolletta del solo riscaldamento: circa **1.580 €/anno** con il metano a 1,44 €/Smc (stesso calcolo dell'[hub sui costi di riscaldamento](/riscaldamento/costo-riscaldamento-casa-2026/))
+- Bolletta del solo riscaldamento: circa **1.950 €/anno** con il metano a 1,77 €/Smc, prezzo di riferimento ARERA per i clienti vulnerabili di ottobre 2026 (stesso calcolo dell'[hub sui costi di riscaldamento](/riscaldamento/costo-riscaldamento-casa-2026/))
 - In casa ci sono già valvole termostatiche meccaniche di base (obbligatorie dal 2017): il confronto è con quelle, non con valvole manuali senza alcuna regolazione
 
 Secondo Danfoss, passare da valvole manuali a termostatiche (anche non smart) riduce i consumi del 30-36%, un salto che la maggior parte delle case italiane ha già fatto per obbligo normativo. Il passaggio ulteriore da termostatiche meccaniche a smart aggiunge soprattutto il controllo da remoto, la programmazione per stanza e il rilevamento delle finestre aperte: il risparmio aggiuntivo stimato è del 10-20% rispetto alla sola valvola meccanica, secondo i casi illustrati da ITAP e Greenme.
 
-**Risparmio con valvole termostatiche smart (sulla bolletta di riferimento di 1.580 €/anno, o proporzionale per case più grandi):**
+**Risparmio con valvole termostatiche smart (sulla bolletta di riferimento di 1.950 €/anno, o proporzionale per case più grandi):**
 
 | Configurazione | Risparmio annuo | Costo investimento* | Ritorno investimento |
 |---------------|-----------------|-------------------|---------------------|
-| 3 valvole (stanze principali, 100 m²) | ~8% = circa 125 € | 150-230 € | 14-22 mesi |
-| 5 valvole (appartamento medio, 100 m²) | ~12% = circa 190 € | 240-380 € | 15-24 mesi |
-| 8 valvole + hub condiviso (casa grande, 150 m², bolletta base ~2.370 €) | ~15% = circa 355 € | 360-630 € | 12-21 mesi |
-| Valvole + termostato smart abbinato (100 m²) | ~22% = circa 345 € | 300-500 € | 10-17 mesi |
+| 3 valvole (stanze principali, 100 m²) | ~8% = circa 155 € | 150-230 € | 12-18 mesi |
+| 5 valvole (appartamento medio, 100 m²) | ~12% = circa 235 € | 240-380 € | 12-19 mesi |
+| 8 valvole + hub condiviso (casa grande, 150 m², bolletta base ~2.920 €) | ~15% = circa 440 € | 360-630 € | 10-17 mesi |
+| Valvole + termostato smart abbinato (100 m²) | ~22% = circa 430 € | 300-500 € | 8-14 mesi |
 
 *Il costo varia molto con il marchio: i modelli che richiedono un hub WiFi separato (es. Meross) costano meno a valvola ma hanno un costo fisso iniziale per l'hub; quelli con modulo WiFi integrato (es. Netatmo) costano più a valvola ma non serve altro.
 
@@ -82,15 +82,15 @@ Secondo Danfoss, passare da valvole manuali a termostatiche (anche non smart) ri
 
 **Appartamento 100 m² con 5 valvole Netatmo (WiFi integrato, niente hub):**
 - Investimento: 5 × 75 € = **375 €**
-- Risparmio annuo: ~190 € (12%)
-- **Ritorno investimento:** circa 24 mesi
-- **Risparmio in 10 anni:** 1.900 € - 375 € = **circa 1.525 €**
+- Risparmio annuo: ~235 € (12%)
+- **Ritorno investimento:** circa 19 mesi
+- **Risparmio in 10 anni:** 2.350 € - 375 € = **circa 1.975 €**
 
 **Casa grande 150 m² con 8 valvole Meross + hub WiFi:**
 - Investimento: 8 × 42 € + 30 € (hub) = **366 €**
-- Risparmio annuo: ~355 € (15%, sulla bolletta base di circa 2.370 €/anno per una casa più grande)
-- **Ritorno investimento:** circa 12 mesi
-- **Risparmio in 10 anni:** 3.550 € - 366 € = **circa 3.180 €**
+- Risparmio annuo: ~440 € (15%, sulla bolletta base di circa 2.920 €/anno per una casa più grande)
+- **Ritorno investimento:** circa 10 mesi
+- **Risparmio in 10 anni:** 4.400 € - 366 € = **circa 4.030 €**
 
 Il tier con risparmio più alto (22%) richiede anche un termostato smart centrale, non solo le valvole: il conto completo è nella guida al [termostato smart](/smart-home/termostato-smart-2026/).
 
@@ -287,13 +287,13 @@ Le filettature più comuni sono **G 3/4" (19mm)**, lo standard di circa il 90% d
 
 ## Conclusione
 
-Le valvole termostatiche smart costano da 150 a 630 € secondo il numero di valvole e il marchio, con un ritorno dell'investimento di 12-24 mesi. Dopo quel periodo il risparmio resta per tutta la vita utile della valvola (batterie escluse, da cambiare ogni 1-2 anni).
+Le valvole termostatiche smart costano da 150 a 630 € secondo il numero di valvole e il marchio, con un ritorno dell'investimento di 10-19 mesi. Dopo quel periodo il risparmio resta per tutta la vita utile della valvola (batterie escluse, da cambiare ogni 1-2 anni).
 
 **Come scegliere in base al budget:**
-- **Budget limitato:** Meross serie MTS150 (40-45 €/valvola + hub WiFi ~25-35 € una tantum) → risparmio stimato 125-355 €/anno secondo il numero di valvole
+- **Budget limitato:** Meross serie MTS150 (40-45 €/valvola + hub WiFi ~25-35 € una tantum) → risparmio stimato 155-440 €/anno secondo il numero di valvole
 - **Niente hub da gestire:** Netatmo NAV-AMZ (60-90 €/valvola, WiFi integrato) → stesso risparmio stimato, prezzo più alto ma installazione più semplice
-- **Smart home completa:** tado° X Starter Kit (100-150 € per 1 valvola + Bridge X) → abbinato a un termostato smart arriva al 22% (~345 €/anno), vedi la guida al [termostato smart](/smart-home/termostato-smart-2026/)
-- **Ecosistema Apple:** Eve Thermo (circa 80 €/valvola, serve un hub Apple Home già in casa) → risparmio stimato 125-190 €/anno
+- **Smart home completa:** tado° X Starter Kit (100-150 € per 1 valvola + Bridge X) → abbinato a un termostato smart arriva al 22% (~430 €/anno), vedi la guida al [termostato smart](/smart-home/termostato-smart-2026/)
+- **Ecosistema Apple:** Eve Thermo (circa 80 €/valvola, serve un hub Apple Home già in casa) → risparmio stimato 155-235 €/anno
 
 Prima di acquistare, verifica la filettatura della tua valvola: G 3/4" è lo standard più comune, ma esistono anche G 1/2" e altre dimensioni, quasi sempre risolvibili con un adattatore incluso nella confezione.
 
@@ -301,4 +301,4 @@ Prima di acquistare, verifica la filettatura della tua valvola: G 3/4" è lo sta
 
 **Guide collegate:** [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/) · [termostato smart](/smart-home/termostato-smart-2026/) · [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
 
-*Fonti: ARERA (prezzo del metano, 3° trimestre 2026), Danfoss (studi su valvole manuali vs termostatiche), ITAP e Greenme (risparmio aggiuntivo delle valvole smart), Mediaworld, TechPrincess e Tom's Hardware Italia (prezzi di riferimento Netatmo, tado e Meross), schede prodotto Meross, tado, Eve e Netatmo*
+*Fonti: ARERA (prezzo del metano per i clienti vulnerabili, ottobre 2026), Danfoss (studi su valvole manuali vs termostatiche), ITAP e Greenme (risparmio aggiuntivo delle valvole smart), Mediaworld, TechPrincess e Tom's Hardware Italia (prezzi di riferimento Netatmo, tado e Meross), schede prodotto Meross, tado, Eve e Netatmo*

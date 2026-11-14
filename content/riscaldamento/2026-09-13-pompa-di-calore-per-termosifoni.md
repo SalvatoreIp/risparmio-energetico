@@ -2,7 +2,7 @@
 title: "Pompa di calore per termosifoni: funziona? Guida 2026"
 slug: "pompa-di-calore-per-termosifoni"
 date: 2026-09-13T10:00:00+02:00
-lastmod: 2026-09-29T22:30:00+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Pompa di calore con termosifoni esistenti: funziona davvero? Guida 2026 su compatibilità, modelli alta temperatura, costi e incentivi reali."
 categories: ["riscaldamento"]
@@ -12,14 +12,14 @@ cover:
   alt: "Manopola termostatica di un termosifone tradizionale."
 ---
 
-<p class="lead">Non serve rifare l'impianto e passare al pavimento radiante per installare una pompa di calore: esistono modelli "ad alta temperatura" che si collegano ai radiatori che hai già. Funzionano, ma il risparmio dipende molto da cosa usi oggi. Con i prezzi di settembre 2026, rispetto a una caldaia a gasolio si risparmiano circa 1.300 € l'anno; rispetto al metano, con i radiatori vecchi, circa 550 €. Qui trovi i conti, i modelli e quando conviene un sistema ibrido.</p>
+<p class="lead">Non serve rifare l'impianto e passare al pavimento radiante per installare una pompa di calore: esistono modelli "ad alta temperatura" che si collegano ai radiatori che hai già. Funzionano, ma il risparmio dipende molto da cosa usi oggi. Con i prezzi di ottobre 2026, rispetto a una caldaia a gasolio si risparmiano circa 900 € l'anno; rispetto al metano, con i radiatori vecchi, circa 540 €. Qui trovi i conti, i modelli e quando conviene un sistema ibrido.</p>
 
 <div class="in-breve">
 <strong>In breve (aggiornato a settembre 2026)</strong>
 <ul>
 <li><strong>Funziona con i termosifoni?</strong> Sì, con una pompa di calore ad alta temperatura (fino a 60-80 °C), oppure con una standard se la casa è ben isolata e i radiatori sono generosi.</li>
 <li><strong>Costo:</strong> circa 7.500-18.000 € installata, a seconda di potenza e marca.</li>
-<li><strong>Risparmio in un appartamento di 100 m²:</strong> circa 1.300 € l'anno se oggi usi il gasolio, circa 550 € se usi il metano.</li>
+<li><strong>Risparmio in un appartamento di 100 m²:</strong> circa 900 € l'anno se oggi usi il gasolio, circa 540 € se usi il metano (prezzi ottobre 2026).</li>
 <li><strong>Incentivi:</strong> Ecobonus al 50% sulla prima casa oppure Conto Termico 3.0 (di solito 3.000-6.500 €), non cumulabili.</li>
 </ul>
 </div>
@@ -54,18 +54,18 @@ Sono impianti costosi che richiedono installazione professionale: il nome del mo
 
 ## Quanto si risparmia davvero
 
-Ipotesi: appartamento di 100 m² che ha bisogno di circa 10.000 kWh di calore l'anno, pompa di calore ad alta temperatura da 12 kW al posto di una vecchia caldaia, radiatori lasciati come sono. Con l'acqua a 60-65 °C il rendimento stagionale (SCOP) scende a circa 2,9, contro 3,5-4 di una pompa di calore a bassa temperatura. Prezzi di settembre 2026, tutto compreso: metano circa 1,44 €/m³ e luce circa 0,32 €/kWh (tariffe ARERA per i clienti vulnerabili), gasolio da riscaldamento circa 2,03 €/litro (media del Ministero).
+Ipotesi: appartamento di 100 m² che ha bisogno di circa 10.000 kWh di calore l'anno, pompa di calore ad alta temperatura da 12 kW al posto di una vecchia caldaia, radiatori lasciati come sono. Con l'acqua a 60-65 °C il rendimento stagionale (SCOP) scende a circa 2,9, contro 3,5-4 di una pompa di calore a bassa temperatura. Prezzi indicativi di ottobre 2026, tutto compreso: metano circa 1,77 €/m³ e luce circa 0,43 €/kWh (prezzi di riferimento ARERA per i clienti vulnerabili; con un'offerta del mercato libero si può pagare meno), gasolio da riscaldamento circa 2,03 €/litro (media del Ministero, settembre 2026). Luce e gas sono aumentati entrambi di circa un quarto-un terzo rispetto all'estate, quindi il risparmio in euro resta simile.
 
-**Costo del riscaldamento con la pompa di calore:** 10.000 kWh ÷ 2,9 = circa 3.450 kWh di elettricità, cioè **circa 1.100 € l'anno**.
+**Costo del riscaldamento con la pompa di calore:** 10.000 kWh ÷ 2,9 = circa 3.450 kWh di elettricità, cioè **circa 1.480 € l'anno**.
 
 | | Da caldaia a metano | Da caldaia a gasolio |
 |---|---|---|
-| Spesa attuale | circa 1.650 €/anno (1.140 m³) | circa 2.400 €/anno (1.180 litri) |
-| Spesa con la pompa di calore | circa 1.100 €/anno | circa 1.100 €/anno |
-| **Risparmio annuo** | **circa 550 €** | **circa 1.300 €** |
+| Spesa attuale | circa 2.020 €/anno (1.140 m³) | circa 2.400 €/anno (1.180 litri) |
+| Spesa con la pompa di calore | circa 1.480 €/anno | circa 1.480 €/anno |
+| **Risparmio annuo** | **circa 540 €** | **circa 920 €** |
 | Costo impianto installato | circa 11.500 € | circa 11.500 € |
 | Costo netto con Ecobonus 50% | 5.750 € | 5.750 € |
-| Anni per rientrare | circa 10-11 | circa 4-5 |
+| Anni per rientrare | circa 10-11 | circa 6 |
 
 **Cosa dicono questi numeri:**
 
@@ -87,6 +87,6 @@ I due incentivi non si possono sommare sulla stessa spesa. Confronto dettagliato
 
 Per confrontarla con metano, pellet, gasolio e climatizzatore sulla stessa casa, vedi [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/).
 
-Con i termosifoni esistenti una pompa di calore ad alta temperatura funziona ed evita cantieri invasivi, ma non fa miracoli sul rendimento. Chi oggi scalda a gasolio rientra della spesa in 4-5 anni. Chi usa il metano risparmia circa 550 € l'anno e, prima di decidere, dovrebbe chiedere due preventivi, uno per un sistema ibrido e uno con la sostituzione dei radiatori più piccoli, confrontandoli sulla spesa annua e non sul prezzo. Per spendere meno con qualsiasi impianto aiutano anche le [valvole termostatiche](/smart-home/valvole-termostatiche-smart-2026/) sui radiatori e un [termostato programmabile](/smart-home/termostato-smart-2026/).
+Con i termosifoni esistenti una pompa di calore ad alta temperatura funziona ed evita cantieri invasivi, ma non fa miracoli sul rendimento. Chi oggi scalda a gasolio rientra della spesa in circa 6 anni. Chi usa il metano risparmia circa 540 € l'anno e, prima di decidere, dovrebbe chiedere due preventivi, uno per un sistema ibrido e uno con la sostituzione dei radiatori più piccoli, confrontandoli sulla spesa annua e non sul prezzo. Per spendere meno con qualsiasi impianto aiutano anche le [valvole termostatiche](/smart-home/valvole-termostatiche-smart-2026/) sui radiatori e un [termostato programmabile](/smart-home/termostato-smart-2026/).
 
-*Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp)*
+*Fonti: [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [BibLus - Conto Termico 3.0](https://biblus.acca.it/conto-termico-come-funziona/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [Agenzia delle Entrate - Ecobonus](https://www.agenziaentrate.gov.it), [ARERA - Gas vulnerabili ottobre 2026](https://www.arera.it/comunicati-stampa/dettaglio/gas-valore-materia-prima-vulnerabilita-ottobre-2026), [Sky TG24 - Luce vulnerabili +37,3% dal 1° ottobre 2026](https://tg24.sky.it/economia/2026/09/29/bollette-prezzi-luce-gas-offerte), [Segugio - Costo del kWh 2026](https://tariffe.segugio.it/guide-e-strumenti/domande-frequenti/quanto-costa-un-kwh-di-energia-elettrica.aspx), [Rivaluta - prezzi gasolio riscaldamento (dati MASE)](https://www.rivaluta.it/prezzi/prezzi-gasolio_riscaldamento-italia.asp)*

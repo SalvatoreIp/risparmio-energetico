@@ -2,6 +2,7 @@
 title: "Caldaia ibrida 2026: come funziona, prezzi e incentivi"
 slug: "caldaia-ibrida"
 date: 2026-10-09T09:00:00+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Caldaia ibrida 2026: come funziona il sistema caldaia + pompa di calore, prezzi installati, modelli reali e incentivi (Ecobonus, Conto Termico 3.0) dopo le nuove regole sul gas."
 categories: ["riscaldamento"]
@@ -17,7 +18,7 @@ cover:
 <strong>In breve (aggiornato a ottobre 2026)</strong>
 <ul>
 <li><strong>Costo:</strong> 6.000-10.000 € per caldaia + pompa di calore, 11.000-20.000 € installata con opere idrauliche e manodopera.</li>
-<li><strong>Risparmio:</strong> circa 400-550 € l'anno rispetto a una caldaia a metano, su un appartamento di 100 m².</li>
+<li><strong>Risparmio:</strong> circa 400-620 € l'anno rispetto a una caldaia a metano, su un appartamento di 100 m² (prezzi ottobre 2026).</li>
 <li><strong>Incentivo:</strong> Ecobonus 50%/36% oppure Conto Termico 3.0 fino al 65%, non cumulabili. Serve la certificazione come sistema integrato.</li>
 <li><strong>Per chi conviene:</strong> chi non può (o non vuole ancora) passare a una pompa di calore pura, ma vuole restare incentivato e tagliare i consumi del gas.</li>
 </ul>
@@ -56,15 +57,15 @@ Il Vaillant Hybrid-Kit si distingue: è un'unità idraulica da abbinare a pompa 
 
 ## Quanto si risparmia davvero
 
-Stesso appartamento di 100 m² della guida al [costo del riscaldamento 2026](/riscaldamento/costo-riscaldamento-casa-2026/): circa 10.000 kWh di calore a stagione. Ipotesi prudente: il 65% delle ore cade sopra i 7°C (solo pompa di calore), il resto richiede la caldaia.
+Stesso appartamento di 100 m² della guida al [costo del riscaldamento 2026](/riscaldamento/costo-riscaldamento-casa-2026/): circa 10.000 kWh di calore a stagione. Ipotesi prudente: il 65% delle ore cade sopra i 7°C (solo pompa di calore), il resto richiede la caldaia. Prezzi di riferimento ARERA per i clienti vulnerabili di ottobre 2026: luce circa 0,43 €/kWh, metano circa 1,77 €/m³ (con un'offerta del mercato libero si può pagare meno).
 
-- **Quota pompa di calore:** 6.500 kWh di calore ÷ SCOP 3,2 = circa 2.030 kWh elettrici × 0,32 €/kWh = **circa 650 €**.
-- **Quota caldaia a condensazione:** 3.500 kWh di calore ÷ 95% di rendimento = circa 3.685 kWh di gas, cioè circa 384 m³ × 1,44 €/m³ = **circa 553 €**.
-- **Totale stagione con il sistema ibrido: circa 1.200 €.**
+- **Quota pompa di calore:** 6.500 kWh di calore ÷ SCOP 3,2 = circa 2.030 kWh elettrici × 0,43 €/kWh = **circa 870 €**.
+- **Quota caldaia a condensazione:** 3.500 kWh di calore ÷ 95% di rendimento = circa 3.685 kWh di gas, cioè circa 384 m³ × 1,77 €/m³ = **circa 680 €**.
+- **Totale stagione con il sistema ibrido: circa 1.550 €.**
 
-Confrontato con gli altri sistemi calcolati per la stessa casa: una caldaia a metano a condensazione costa circa 1.580 €/anno, una vecchia caldaia tradizionale circa 1.770 €/anno. Il sistema ibrido fa risparmiare quindi **circa 380 € l'anno rispetto alla condensazione moderna (24%) e circa 570 € rispetto a una caldaia vecchia (32%)** — meno della pompa di calore pura (915-1.100 €/anno su questa casa), ma senza sostituire i radiatori né rinunciare al gas nei giorni più freddi.
+Confrontato con gli altri sistemi calcolati per la stessa casa: una caldaia a metano a condensazione costa circa 1.950 €/anno, una vecchia caldaia tradizionale circa 2.170 €/anno. Il sistema ibrido fa risparmiare quindi **circa 400 € l'anno rispetto alla condensazione moderna (20%) e circa 620 € rispetto a una caldaia vecchia (29%)** — meno della pompa di calore pura (1.230-1.480 €/anno su questa casa), ma senza sostituire i radiatori né rinunciare al gas nei giorni più freddi.
 
-**Il conto del rientro.** Il sistema installato costa in media 15.000 € (punto medio di 11.000-20.000 €). Con l'Ecobonus al 50% il costo netto scende a 7.500 €. Chi dovrebbe comunque cambiare una vecchia caldaia (una a condensazione nuova costa circa 3.000 € senza incentivi) ha una spesa aggiuntiva reale di circa 4.500 €, recuperata in **8-12 anni** — più lento della pompa di calore pura, ma utile per chi non potrebbe comunque installarla (zona molto fredda, radiatori non adattabili, poco spazio per l'unità esterna).
+**Il conto del rientro.** Il sistema installato costa in media 15.000 € (punto medio di 11.000-20.000 €). Con l'Ecobonus al 50% il costo netto scende a 7.500 €. Chi dovrebbe comunque cambiare una vecchia caldaia (una a condensazione nuova costa circa 3.000 € senza incentivi) ha una spesa aggiuntiva reale di circa 4.500 €, recuperata in **7-11 anni** — più lento della pompa di calore pura, ma utile per chi non potrebbe comunque installarla (zona molto fredda, radiatori non adattabili, poco spazio per l'unità esterna).
 
 ## Incentivi disponibili
 
@@ -80,4 +81,4 @@ La caldaia ibrida non è la soluzione più economica da usare — quel primato r
 
 ---
 
-*Fonti: [Studio Madera - Sistemi ibridi pompa di calore + caldaia, costi e scelta 2026](https://studiomadera.it/news/145-sistema-ibrido), [Switcho - Caldaia ibrida](https://www.switcho.it/blog/luce-gas/caldaia-ibrida), [Bosch Home Comfort - Bonus caldaia 2026](https://www.bosch-homecomfort.com/it/it/residenziale/informazioni/lo-sapevi-che/idee-per-risparmiare/bonus-caldaia-2026-incentivi/), [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026)*
+*Fonti: [ARERA - Gas vulnerabili ottobre 2026](https://www.arera.it/comunicati-stampa/dettaglio/gas-valore-materia-prima-vulnerabilita-ottobre-2026), [Sky TG24 - Luce vulnerabili dal 1° ottobre 2026](https://tg24.sky.it/economia/2026/09/29/bollette-prezzi-luce-gas-offerte), [Studio Madera - Sistemi ibridi pompa di calore + caldaia, costi e scelta 2026](https://studiomadera.it/news/145-sistema-ibrido), [Switcho - Caldaia ibrida](https://www.switcho.it/blog/luce-gas/caldaia-ibrida), [Bosch Home Comfort - Bonus caldaia 2026](https://www.bosch-homecomfort.com/it/it/residenziale/informazioni/lo-sapevi-che/idee-per-risparmiare/bonus-caldaia-2026-incentivi/), [GSE - Conto Termico](https://www.gse.it/servizi-per-te/efficienza-energetica/conto-termico), [Switcho - Prezzo gas ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026)*

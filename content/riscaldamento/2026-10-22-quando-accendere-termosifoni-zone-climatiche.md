@@ -2,6 +2,7 @@
 title: "Quando si possono accendere i termosifoni: date per zona climatica, ore al giorno e centralizzato"
 slug: "quando-accendere-termosifoni-zone-climatiche"
 date: 2026-10-22T08:30:00+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Le date e gli orari per accendere il riscaldamento nel 2026-2027 zona per zona (DPR 74/2013), le regole del centralizzato, i limiti di temperatura e cosa fare se il tuo Comune ha anticipato o rinviato l'accensione."
 categories: ["riscaldamento"]
@@ -57,7 +58,7 @@ Nei condomini le date e le ore valgono allo stesso modo, ma a decidere l'accensi
 
 ## Quanto si risparmia a gestire bene le ore consentite
 
-Le ore massime di legge sono un tetto, non un obbligo: usarle tutte senza controllo costa più di quanto serva. Esempio: appartamento di 90 m² in zona D (Roma), caldaia a metano a condensazione, 12 ore teoriche al giorno da inizio novembre a metà aprile (circa 165 giorni). Senza programmazione, con caldaia sempre al massimo nelle 12 ore, il consumo stimato è di circa 1.350 m³ di metano a stagione, che a 1,44 €/Smc (prezzo ARERA, settembre 2026) fa circa **1.944 €**. Con un termostato smart che spegne l'impianto nelle ore in cui in casa non c'è nessuno e con le valvole chiuse nelle stanze poco usate, il consumo scende del 15-20%: circa 1.100 m³, pari a **1.584 €**, un risparmio di circa **360 € nella stagione**.
+Le ore massime di legge sono un tetto, non un obbligo: usarle tutte senza controllo costa più di quanto serva. Esempio: appartamento di 90 m² in zona D (Roma), caldaia a metano a condensazione, 12 ore teoriche al giorno da inizio novembre a metà aprile (circa 165 giorni). Senza programmazione, con caldaia sempre al massimo nelle 12 ore, il consumo stimato è di circa 1.350 m³ di metano a stagione, che a 1,77 €/Smc (prezzo di riferimento ARERA per i clienti vulnerabili, ottobre 2026) fa circa **2.390 €**. Con un termostato smart che spegne l'impianto nelle ore in cui in casa non c'è nessuno e con le valvole chiuse nelle stanze poco usate, il consumo scende del 15-20%: circa 1.100 m³, pari a **1.950 €**, un risparmio di circa **440 € nella stagione**.
 
 Il risparmio reale dipende dalle abitudini della famiglia e dall'isolamento della casa (confronto completo tra i sistemi di riscaldamento in [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/)): la legge fissa un tetto di ore, non un obbligo a usarle tutte.
 
@@ -82,4 +83,4 @@ Termostati e valvole smart non hanno un bonus dedicato come acquisto singolo, ma
 
 Le date non sono scelte dal singolo condomino né dal fornitore di energia: dipendono dalla zona climatica del Comune e, ogni anno, da un'eventuale ordinanza locale che può anticipare o rinviare il calendario nazionale. Prima di accendere, conviene controllare la zona del proprio Comune e le ultime ordinanze, perché accendere in anticipo senza "comprovate esigenze climatiche" è una violazione, anche se diffusa. Una volta dentro la finestra consentita, il risparmio vero si fa gestendo bene le ore a disposizione, non usandole tutte per abitudine.
 
-*Fonti: DPR 16 aprile 2013, n. 74; DPR 26 agosto 1993, n. 412 (tabella zone climatiche); ARERA (prezzo del gas, III trimestre 2026); ordinanze comunali di Roma e dei Comuni dell'Emilia-Romagna per la stagione 2026-2027.*
+*Fonti: [ARERA - Gas vulnerabili ottobre 2026](https://www.arera.it/comunicati-stampa/dettaglio/gas-valore-materia-prima-vulnerabilita-ottobre-2026), [Sky TG24 - Luce vulnerabili dal 1° ottobre 2026](https://tg24.sky.it/economia/2026/09/29/bollette-prezzi-luce-gas-offerte), DPR 16 aprile 2013, n. 74; DPR 26 agosto 1993, n. 412 (tabella zone climatiche); ARERA (prezzo del gas, III trimestre 2026); ordinanze comunali di Roma e dei Comuni dell'Emilia-Romagna per la stagione 2026-2027.*

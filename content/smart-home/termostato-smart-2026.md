@@ -2,7 +2,7 @@
 title: "Miglior termostato smart 2026: guida alla scelta e quanto fa risparmiare"
 slug: "termostato-smart-2026"
 date: 2026-06-25T08:13:00+02:00
-lastmod: 2026-10-31T09:07:37+01:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Miglior termostato smart 2026: guida completa alla scelta. Compatibilità, risparmio energetico, confronto Netatmo, Meross, Vimar. Quanto risparmi davvero."
 categories: ["smart-home"]
@@ -20,8 +20,8 @@ aliases:
 <div class="in-breve">
 <strong>In breve (aggiornato a ottobre 2026)</strong>
 <ul>
-<li><strong>Bolletta di riferimento:</strong> una caldaia a condensazione su un appartamento di 100 m² costa circa 1.580 €/anno di metano a 1,44 €/Smc.</li>
-<li><strong>Risparmio reale:</strong> dal 10% con la sola programmazione orari (~155 €/anno) al 22% con geofencing, apprendimento automatico e valvole per stanza (~345 €/anno).</li>
+<li><strong>Bolletta di riferimento:</strong> una caldaia a condensazione su un appartamento di 100 m² costa circa 1.950 €/anno di metano a 1,77 €/Smc (prezzo di riferimento ARERA, ottobre 2026).</li>
+<li><strong>Risparmio reale:</strong> dal 10% con la sola programmazione orari (~195 €/anno) al 22% con geofencing, apprendimento automatico e valvole per stanza (~430 €/anno).</li>
 <li><strong>Costo:</strong> 50-250 € per il solo termostato, 300-500 € con le valvole termostatiche abbinate.</li>
 <li><strong>Ritorno dell'investimento:</strong> 6-9 mesi per il termostato da solo, 10-17 mesi se si aggiungono le valvole.</li>
 </ul>
@@ -60,32 +60,32 @@ Protocollo di connessione e caldaie compatibili sono trattati più sotto, al pun
 **Situazione di riferimento:**
 - Appartamento di 100 m² con caldaia a gas a condensazione
 - Zona climatica media (es. pianura padana), isolamento nella media delle case italiane
-- Bolletta del solo riscaldamento: circa **1.580 €/anno** con il metano a 1,44 €/Smc (stesso calcolo dell'[hub sui costi di riscaldamento](/riscaldamento/costo-riscaldamento-casa-2026/))
+- Bolletta del solo riscaldamento: circa **1.950 €/anno** con il metano a 1,77 €/Smc, prezzo di riferimento ARERA per i clienti vulnerabili di ottobre 2026 (stesso calcolo dell'[hub sui costi di riscaldamento](/riscaldamento/costo-riscaldamento-casa-2026/))
 
 Le percentuali di risparmio più solide vengono da due fonti indipendenti: l'ENEA stima che abbassare il termostato di 1 °C (da 20 a 19 °C) riduca il consumo di combustibile del 10,7%, mentre l'Osservatorio IoT del Politecnico di Milano misura fino al 23% in meno sui consumi di riscaldamento con termostati e sensori connessi che permettono anche di evitare questo grado in più senza perdere comfort percepito. I produttori (Netatmo, tado) dichiarano in media il 20-22%, ma è un dato interno, non verificato da terzi.
 
-**Risparmio con termostato smart (sulla bolletta di riferimento di 1.580 €/anno):**
+**Risparmio con termostato smart (sulla bolletta di riferimento di 1.950 €/anno):**
 
 | Modello di utilizzo | Risparmio stimato | Risparmio annuo | Costo termostato | Ritorno investimento |
 |---------------------|-------------------|-----------------|------------------|---------------------|
-| Programmazione base (orari/giorni) | ~10% | ~155 € | €50-€120 | 4-9 mesi |
-| Geofencing + sensori di presenza | ~15% | ~235 € | €120-€200 | 6-10 mesi |
-| Apprendimento automatico | ~18% | ~285 € | €150-€250 | 6-11 mesi |
-| Con valvole termostatiche per stanza | ~22% | ~345 € | €300-€500 | 10-17 mesi |
+| Programmazione base (orari/giorni) | ~10% | ~195 € | €50-€120 | 3-7 mesi |
+| Geofencing + sensori di presenza | ~15% | ~290 € | €120-€200 | 5-8 mesi |
+| Apprendimento automatico | ~18% | ~350 € | €150-€250 | 5-9 mesi |
+| Con valvole termostatiche per stanza | ~22% | ~430 € | €300-€500 | 8-14 mesi |
 
 **Esempio pratico:**
 
 **Termostato Meross MTS200 (€79), solo programmazione:**
 - Investimento: €79
-- Risparmio annuo: ~155 €
-- **Ritorno investimento:** circa 6 mesi
-- **Risparmio in 10 anni:** 1.550 € - 79 € = **circa 1.470 €**
+- Risparmio annuo: ~195 €
+- **Ritorno investimento:** circa 5 mesi
+- **Risparmio in 10 anni:** 1.950 € - 79 € = **circa 1.870 €**
 
 **Termostato Netatmo (€220) + valvole termostatiche per stanza (€280):**
 - Investimento totale: €500
-- Risparmio annuo: ~345 € (tier con valvole)
-- **Ritorno investimento:** circa 17 mesi
-- **Risparmio in 10 anni:** 3.450 € - 500 € = **circa 2.950 €**
+- Risparmio annuo: ~430 € (tier con valvole)
+- **Ritorno investimento:** circa 14 mesi
+- **Risparmio in 10 anni:** 4.300 € - 500 € = **circa 3.800 €**
 
 Il confronto mostra perché conviene partire dal termostato base: paga se stesso in pochi mesi. Aggiungere le valvole termostatiche alza il risparmio annuo ma anche l'investimento e il tempo di rientro, quindi ha senso soprattutto in case grandi o con stanze usate in modo molto diverso tra loro (vedi anche la guida alle [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/)).
 
@@ -309,10 +309,10 @@ Fai-da-te in 30-60 minuti per chi collega 3-4 fili senza competenze elettriche s
 Tra gli interventi per risparmiare in casa, il termostato smart è tra quelli con il ritorno più rapido: da solo paga il suo costo in 6-11 mesi, con le valvole termostatiche in 10-17 mesi.
 
 **Come scegliere in base al budget:**
-- **Budget limitato:** Meross MTS200 (€79), solo programmazione → risparmio stimato ~155 €/anno
-- **Qualità italiana:** Vimar 02912 (€130), WiFi + Z-Wave con sensore di temperatura incluso → risparmio stimato ~155-235 €/anno
-- **Massima integrazione:** Netatmo NTH01 (€220), OpenTherm e geofencing automatico → risparmio stimato ~235-285 €/anno
-- **OpenTherm avanzato:** Bticino Smarther2 (€180), OpenTherm completo con integrazione KNX → risparmio stimato ~235-285 €/anno
+- **Budget limitato:** Meross MTS200 (€79), solo programmazione → risparmio stimato ~195 €/anno
+- **Qualità italiana:** Vimar 02912 (€130), WiFi + Z-Wave con sensore di temperatura incluso → risparmio stimato ~195-290 €/anno
+- **Massima integrazione:** Netatmo NTH01 (€220), OpenTherm e geofencing automatico → risparmio stimato ~290-350 €/anno
+- **OpenTherm avanzato:** Bticino Smarther2 (€180), OpenTherm completo con integrazione KNX → risparmio stimato ~290-350 €/anno
 
 Prima di acquistare, verifica sulla pagina del produttore che il modello di caldaia sia nella lista di compatibilità: anche tra caldaie dello stesso marchio ci sono eccezioni, soprattutto sui modelli più vecchi di 15-20 anni.
 
@@ -320,4 +320,4 @@ Prima di acquistare, verifica sulla pagina del produttore che il modello di cald
 
 **Guide collegate:** [quanto costa riscaldare casa nel 2026](/riscaldamento/costo-riscaldamento-casa-2026/) · [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/) · [incentivi per le pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/) · [pompa di calore con i termosifoni esistenti](/riscaldamento/pompa-di-calore-per-termosifoni/) · [bonus infissi 2026](/incentivi/bonus-infissi-2026/)
 
-*Fonti: ENEA (decalogo risparmio energetico), Osservatorio Internet of Things del Politecnico di Milano, ARERA (prezzo del metano, 3° trimestre 2026), schede tecniche e pagine prodotto di Meross, Netatmo, Vimar e Bticino*
+*Fonti: ENEA (decalogo risparmio energetico), Osservatorio Internet of Things del Politecnico di Milano, ARERA (prezzo del metano per i clienti vulnerabili, ottobre 2026), schede tecniche e pagine prodotto di Meross, Netatmo, Vimar e Bticino*

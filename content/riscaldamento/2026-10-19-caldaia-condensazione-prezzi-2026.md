@@ -2,6 +2,7 @@
 title: "Caldaia a condensazione: prezzi 2026 e quanto si risparmia in bolletta"
 slug: "caldaia-condensazione-prezzi-2026"
 date: 2026-10-19T09:00:00+02:00
+lastmod: 2026-11-14T12:00:00+01:00
 draft: false
 description: "Caldaia a condensazione 2026: prezzi installati, modelli reali, quanto si risparmia davvero rispetto a una vecchia caldaia e perché dal 2025 non ha più diritto a Ecobonus o Bonus Ristrutturazioni."
 categories: ["riscaldamento"]
@@ -17,7 +18,7 @@ cover:
 <strong>In breve (aggiornato a ottobre 2026)</strong>
 <ul>
 <li><strong>Costo:</strong> 1.500-3.000 € per una sostituzione semplice (caldaia 800-1.900 € più 600-1.200 € di manodopera), fino a 4.500 € con adeguamenti dell'impianto o dello scarico fumi.</li>
-<li><strong>Risparmio:</strong> circa 180 €/anno rispetto a una vecchia caldaia tradizionale su un appartamento di 100 m², gas a 1,44 €/m³ (ottobre 2026).</li>
+<li><strong>Risparmio:</strong> circa 220 €/anno rispetto a una vecchia caldaia tradizionale su un appartamento di 100 m², gas a 1,77 €/m³ (ottobre 2026).</li>
 <li><strong>Incentivo:</strong> nessuno. Dal 2025 la caldaia a gas da sola è esclusa da Ecobonus e Bonus Ristrutturazioni.</li>
 <li><strong>Per chi conviene:</strong> chi deve sostituire una caldaia rotta o troppo vecchia e non può (per ora) passare a pompa di calore o sistema ibrido.</li>
 </ul>
@@ -52,13 +53,13 @@ Tutti e quattro sono caldaie "combinate" (riscaldamento + acqua calda istantanea
 
 ## Quanto si risparmia davvero
 
-Stesso appartamento di 100 m² usato nella guida al [costo del riscaldamento 2026](/riscaldamento/costo-riscaldamento-casa-2026/): circa 10.000 kWh di calore a stagione, prezzo del gas 1,44 €/m³ (ARERA, tariffa vulnerabili, settembre 2026).
+Stesso appartamento di 100 m² usato nella guida al [costo del riscaldamento 2026](/riscaldamento/costo-riscaldamento-casa-2026/): circa 10.000 kWh di calore a stagione, prezzo del gas circa 1,77 €/m³ tasse comprese (ARERA, prezzo di riferimento per i clienti vulnerabili, ottobre 2026; con un'offerta del mercato libero si può pagare meno).
 
-- **Vecchia caldaia tradizionale (rendimento 85%):** servono circa 1.225 m³ di gas, pari a **circa 1.770 €/anno**.
-- **Caldaia a condensazione nuova (rendimento 95%):** servono circa 1.100 m³ di gas, pari a **circa 1.580 €/anno**.
-- **Risparmio: circa 190 €/anno (11%)**, cioè meno di quanto si legge spesso nelle pubblicità dei produttori (che parlano di "fino al 30%" confrontando con caldaie molto più vecchie e mal regolate).
+- **Vecchia caldaia tradizionale (rendimento 85%):** servono circa 1.225 m³ di gas, pari a **circa 2.170 €/anno**.
+- **Caldaia a condensazione nuova (rendimento 95%):** servono circa 1.100 m³ di gas, pari a **circa 1.950 €/anno**.
+- **Risparmio: circa 220 €/anno (11%)**, cioè meno di quanto si legge spesso nelle pubblicità dei produttori (che parlano di "fino al 30%" confrontando con caldaie molto più vecchie e mal regolate).
 
-**Il conto del rientro è lento.** Con un costo installato di 1.500-3.000 € e nessun incentivo, il rientro sul solo risparmio energetico è di **8-16 anni**, spesso oltre la vita utile dell'apparecchio (15-20 anni). Ha senso soprattutto per chi deve comunque cambiare caldaia — perché quella vecchia si è rotta — non per chi ne ha ancora una funzionante e pensa di cambiarla solo per risparmiare: in quel caso il conto non regge.
+**Il conto del rientro è lento.** Con un costo installato di 1.500-3.000 € e nessun incentivo, il rientro sul solo risparmio energetico è di **7-14 anni**, spesso oltre la vita utile dell'apparecchio (15-20 anni). Ha senso soprattutto per chi deve comunque cambiare caldaia — perché quella vecchia si è rotta — non per chi ne ha ancora una funzionante e pensa di cambiarla solo per risparmiare: in quel caso il conto non regge.
 
 ## Incentivi disponibili
 
@@ -68,7 +69,7 @@ Stesso appartamento di 100 m² usato nella guida al [costo del riscaldamento 202
 
 ## Conclusione
 
-La caldaia a condensazione resta, per molte case, la sostituzione più semplice quando quella vecchia si rompe: costa meno di una pompa di calore o di un sistema ibrido e non richiede un'unità esterna né lavori sui radiatori. Ma nel 2026 va scelta sapendo che non porta nessuno sconto fiscale e che il risparmio energetico, da solo, è modesto (circa 190 €/anno rispetto a una vecchia caldaia). Prima di decidere conviene chiedere comunque un preventivo anche per il sistema ibrido o per la pompa di calore: con gli incentivi attuali, a parità di spesa netta, spesso convengono di più sul lungo periodo.
+La caldaia a condensazione resta, per molte case, la sostituzione più semplice quando quella vecchia si rompe: costa meno di una pompa di calore o di un sistema ibrido e non richiede un'unità esterna né lavori sui radiatori. Ma nel 2026 va scelta sapendo che non porta nessuno sconto fiscale e che il risparmio energetico, da solo, è modesto (circa 220 €/anno rispetto a una vecchia caldaia). Prima di decidere conviene chiedere comunque un preventivo anche per il sistema ibrido o per la pompa di calore: con gli incentivi attuali, a parità di spesa netta, spesso convengono di più sul lungo periodo.
 
 ---
 
