@@ -65,6 +65,8 @@ Per scaldasonno e coperte elettriche **non esiste alcuna detrazione fiscale**. N
 
 Lo scaldasonno non è un trucco per scaldare gratis: è un modo per scaldare solo quello che serve, il corpo sotto le lenzuola, invece di tutta l'aria di una camera. Il risparmio è reale solo se sostituisce davvero ore di riscaldamento notturno in camera, non se si aggiunge a un impianto già spento di notte. Per un acquisto consapevole conta più la sicurezza (marcatura CE, protezione da surriscaldamento, chiarezza su quante ore si può lasciare acceso) che la potenza massima dichiarata in scheda: un modello economico con le certificazioni giuste scalda allo stesso modo di uno costoso, cambia solo la qualità del tessuto e la durata nel tempo.
 
+**Domande frequenti:** [scaldasonno sopra o sotto il coprimaterasso](/riscaldamento/scaldasonno-sopra-o-sotto-coprimaterasso/) · [lo scaldasonno fa male alla salute?](/riscaldamento/scaldasonno-fa-male-alla-salute/) · [la spia dello scaldasonno Imetec lampeggia](/riscaldamento/scaldasonno-imetec-spia-lampeggia/) · [miglior scaldasonno matrimoniale](/riscaldamento/miglior-scaldasonno-matrimoniale/)
+
 ---
 
 *Fonti: [NWG Energia - Quanto consuma lo scaldasonno](https://www.nwgenergia.it/blog/quanto-consuma-scaldasonno), [Energit - Quanto consuma una coperta elettrica](https://energit.it/quanto-consuma-una-coperta-elettrica/), [ecocalcolo.it - Scaldaletto o coperta elettrica: sicurezza](https://www.ecocalcolo.it/blog/scaldaletto-o-coperta-elettrica-differenze-consumi-sicurezza.html), [Idealista - La coperta elettrica fa risparmiare?](https://www.idealista.it/news/finanza/casa/2026/09/28/463881-la-coperta-elettrica-fa-risparmiare-ecco-quando-conviene)*

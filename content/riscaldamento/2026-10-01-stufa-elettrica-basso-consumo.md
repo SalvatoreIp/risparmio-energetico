@@ -65,6 +65,8 @@ Per le stufette e i pannelli portatili descritti qui **non esiste nessuna detraz
 
 La stufa elettrica "a basso consumo" non è un modo per scaldare a poco: è un modo per scaldare poco, cioè solo uno spazio piccolo per un tempo breve, e farlo con il minimo spreco possibile grazie a termostati più precisi. Usata così, su un bagno al mattino, costa qualche decina di euro all'inverno ed è la soluzione più pratica perché non richiede installazione. Usata come riscaldamento principale di una stanza per molte ore al giorno diventa invece il sistema più caro tra tutti quelli disponibili, come conferma il confronto generale sui [costi di riscaldamento 2026](/riscaldamento/costo-riscaldamento-casa-2026/). La scelta del modello conta meno di come lo si usa: prima di comprare vale la pena chiedersi quante ore al giorno servirà davvero.
 
+Se in casa manca la corrente o il contatore è al limite, l'alternativa senza elettricità è la stufa a gas: costi e rischi in [stufa catalitica a gas: pro e contro](/riscaldamento/stufa-catalitica-pro-e-contro/).
+
 ---
 
 *Fonti: [Switcho - Prezzo gas e luce ARERA settembre 2026](https://www.switcho.it/blog/luce-gas/prezzo-luce-gas-arera-settembre-2026), [Edilizia.com - Riscaldamento elettrico e Bonus Ristrutturazioni 2026](https://www.edilizia.com/detrazioni-fiscali/riscaldamento-elettrico-e-bonus-ristrutturazioni-guida-alle-detrazioni-nel-2026/), [BibLus - Ecobonus 2026](https://biblus.acca.it/ecobonus-2024-cosa-rientra-e-come-funziona/), [ENEA - Detrazioni fiscali](https://bonusfiscali.enea.it)*
