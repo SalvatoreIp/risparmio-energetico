@@ -50,7 +50,7 @@ Chi valuta un intervento più strutturale trova il confronto in [bonus infissi 2
 
 210 € × 15-20% = **circa 31-42 €/anno su tutte le 7 finestre**, cioè **4-6 € a finestra**. Piccolo ma reale: ripaga il costo d'acquisto (10-30 € a finestra) nel primo o secondo inverno.
 
-**Caso estate.** Per una stanza con condizionatore da 12.000 BTU (540 kWh/stagione, come in [climatizzatore inverter 9000-12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/)) e finestra esposta a sud/ovest, una pellicola a controllo solare riduce il carico che entra in stanza. Una tenda da sole esterna arriva al 20-25% di taglio sul consumo del condizionatore ([tende da sole per terrazzo e balcone](/terrazzi/tende-da-sole-risparmio-condizionatore/)); la pellicola, meno efficace perché agisce dopo che il sole ha già colpito il vetro, porta una riduzione più modesta, 10-15%:
+**Caso estate.** Per una stanza con condizionatore da 12.000 BTU (540 kWh/stagione, come in [climatizzatore inverter 9000-12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/)) e finestra esposta a sud/ovest, una pellicola a controllo solare riduce il carico che entra in stanza. Una tenda da sole esterna arriva al 20-25% di taglio sul consumo del condizionatore ([tende da sole per terrazzo e balcone](/raffrescamento/tende-da-sole-risparmio-condizionatore/)); la pellicola, meno efficace perché agisce dopo che il sole ha già colpito il vetro, porta una riduzione più modesta, 10-15%:
 
 540 kWh × 10-15% = 54-81 kWh/stagione → a 0,32 €/kWh = **circa 17-26 €/stagione** su una stanza. Meno di una tenda, ma più economica e senza attrezzi.
 
@@ -58,7 +58,7 @@ Per i prezzi dell'energia usati in questi calcoli, vedi l'hub [quanto costa risc
 
 ### Incentivi disponibili 2026
 
-Nessuna delle due pellicole rientra nel **Bonus Schermature Solari** (50%/36%, art. 14 DL 63/2013): quel bonus richiede che la schermatura sia mobile, regolabile e certificata con fattore gtot ≤ 0,35, caratteristiche pensate per tende da sole, veneziane esterne e frangisole. Una pellicola fissata al vetro non è mobile né regolabile e non risulta tra le tipologie ammesse: chi cerca la detrazione fiscale sulla schermatura solare deve orientarsi su una tenda da sole come quella descritta in [tende da sole per terrazzo e balcone](/terrazzi/tende-da-sole-risparmio-condizionatore/), non su una pellicola.
+Nessuna delle due pellicole rientra nel **Bonus Schermature Solari** (50%/36%, art. 14 DL 63/2013): quel bonus richiede che la schermatura sia mobile, regolabile e certificata con fattore gtot ≤ 0,35, caratteristiche pensate per tende da sole, veneziane esterne e frangisole. Una pellicola fissata al vetro non è mobile né regolabile e non risulta tra le tipologie ammesse: chi cerca la detrazione fiscale sulla schermatura solare deve orientarsi su una tenda da sole come quella descritta in [tende da sole per terrazzo e balcone](/raffrescamento/tende-da-sole-risparmio-condizionatore/), non su una pellicola.
 
 Anche la pellicola isolante invernale, essendo un acquisto autonomo e non un intervento edilizio, non rientra né nel Conto Termico né nell'Ecobonus specifico per gli infissi. Può rientrare nel generico **Bonus Ristrutturazioni** (50% prima casa, 36% altre unità) solo se fa parte di un intervento di ristrutturazione più ampio documentato con fattura e bonifico parlante, non comprata da sola online.
 

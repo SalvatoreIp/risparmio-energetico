@@ -2,6 +2,7 @@
 title: "Come rinfrescare casa senza condizionatore: 8 trucchi che funzionano davvero"
 slug: "rinfrescare-casa-senza-condizionatore"
 date: 2026-06-29T08:13:00+02:00
+lastmod: 2026-11-19T12:00:00+01:00
 draft: false
 description: "Come rinfrescare casa senza condizionatore. 8 trucchi che funzionano: tende oscuranti, ventilazione incrociata, lenzuolo bagnato. Quanto abbassano la temperatura e quanto costano."
 categories: ["raffrescamento"]
@@ -238,6 +239,20 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 
 ---
 
+## Se i trucchi non bastano: quanto costa un apparecchio acceso 8 ore al giorno
+
+Quando le pareti restano sopra i 30°C anche di notte, i trucchi vanno affiancati a un apparecchio. La differenza di costo tra le tre soluzioni più comuni è di oltre 25 volte:
+
+| Apparecchio | Potenza | Consumo 8 ore | Costo al giorno | Costo 30 giorni | Costo 3 mesi |
+|---|---|---|---|---|---|
+| Ventilatore | 40 W | 0,32 kWh | 0,10 € | 3,07 € | 9,22 € |
+| Raffrescatore evaporativo | 120 W | 0,96 kWh | 0,31 € | 9,22 € | 27,65 € |
+| Climatizzatore portatile | 1.100 W | 8,8 kWh | 2,82 € | 84,48 € | 253,44 € |
+
+*Calcolo: potenza × 8 ore × 0,32 €/kWh (prezzo medio tutto compreso, settembre 2026). Tre mesi = 90 giorni.*
+
+Il raffrescatore evaporativo funziona solo con aria secca: sopra il 60% di umidità aggiunge vapore e il caldo percepito peggiora. Il portatile raffredda davvero, ma su un'estate costa circa 244 € più di un ventilatore e va usato con la finestra socchiusa per il tubo di scarico.
+
 ## Il mix perfetto: combinazione dei trucchi per massimo effetto
 
 **Strategia notturna (23:00-06:00):**
@@ -262,7 +277,7 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 
 **Non serve spendere €60-€80/mese di condizionatore:** con questi 8 trucchi puoi rinfrescare casa spendendo **€50-€200 una volta** e **€0-€50/mese** di consumo.
 
-**Il mio consiglio:**
+**Da dove partire:**
 1. **Investi subito in tende oscuranti** (€25-€80, effetto 6-8°C)
 2. **Posiziona il ventilatore strategicamente** (gratis, effetto 4-6°C)
 3. **Applica pellicole sui vetri** (€15-€40, effetto 5-7°C)
@@ -271,7 +286,7 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 
 **Risparmio 3 mesi:** €180-€240 rispetto al condizionatore
 
-**La verità:** Con questi trucchi, la notte dormi, il giorno sopporti, e la bolletta rimane sotto controllo. Nessuna miracolistica magia, solo fisica applicata alla vita di tutti i giorni.
+Con questi accorgimenti la casa resta più fresca di qualche grado e la bolletta estiva resta sotto i 50 € al mese.
 
 ---
 

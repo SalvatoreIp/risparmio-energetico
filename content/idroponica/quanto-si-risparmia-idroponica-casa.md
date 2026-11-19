@@ -152,6 +152,6 @@ L'idroponica domestica conviene se consumi 70-100 €/mese di erbe e insalate, v
 
 Per iniziare, un kit piccolo con basilico, rucola e prezzemolo (le colture col ritorno più rapido) è il modo più prudente per capire se il sistema fa per te.
 
-**Guide collegate:** [lampade LED per idroponica: consumi e costi](/idroponica/lampade-led-idroponica-consumi-costi/) · [grow box per idroponica indoor](/idroponica/grow-box-idroponica-indoor-kit-completi-led-per-coltivazione-professionale-in-casa/) · [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)
+**Guide collegate:** [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)
 
 *Fonti: [ARERA - prezzi energia elettrica 3° trimestre 2026](https://www.arera.it), schede prodotto Amazon.it (kit e nutrienti citati in tabella, verificati ottobre 2026)*

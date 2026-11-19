@@ -35,7 +35,7 @@ I limiti sono reali e vanno messi in conto prima di comprare:
 - **Durata batteria**: le NiMH economiche calano di prestazioni dopo 1-2 anni e si sostituiscono con una spesa di 2-4 € a pezzo; le LiFePO4 durano 3-5 anni ma costano di più in partenza.
 - **Protezione IP**: per l'esterno serve almeno IP65 (resistente a pioggia battente); sotto gronda o in zone riparate basta anche IP54.
 
-Per chi ha già un punto luce vicino e vuole la massima resa anche d'inverno, un faretto LED cablato a 230V resta la scelta più solida (ne parliamo nell'articolo su [lampade e faretti da esterno LED](/illuminazione/lampade-e-faretti-da-esterno-led-illuminazione-efficiente-e-risparmio-energetico/)). Il solare vince quando portare un cavo significa scavare un'aiuola o bucare un muro.
+Per chi ha già un punto luce vicino e vuole la massima resa anche d'inverno, un faretto LED cablato a 230V resta la scelta più solida. Il solare vince quando portare un cavo significa scavare un'aiuola o bucare un muro.
 
 ## I migliori modelli (ottobre 2026)
 
@@ -100,6 +100,6 @@ In pratica, per i faretti solari da esterno l'unico "incentivo" reale è il risp
 
 I faretti solari da esterno non fanno risparmiare molto in bolletta (28 €/anno circa, per un uso tipico), ma evitano la spesa più grande: scavo e cablaggio, che da sola vale 300-500 €. Convengono dove manca un punto elettrico vicino — vialetti, angoli isolati del giardino, terrazzi in affitto — e vanno scelti con sensore crepuscolare, protezione minimo IP65 per le zone esposte alla pioggia, e un pannello orientato a sud senza ombra. Dove invece serve luce forte e costante anche in pieno inverno, meglio un faretto LED cablato.
 
-**Guide collegate:** [lampade e faretti da esterno LED](/illuminazione/lampade-e-faretti-da-esterno-led-illuminazione-efficiente-e-risparmio-energetico/) · [luci LED: il risparmio più semplice che puoi fare oggi stesso](/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/) · [lampadine smart 2026](/illuminazione/lampadine-smart-2026/)
+**Guide collegate:** [luci LED: il risparmio più semplice che puoi fare oggi stesso](/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/) · [lampadine smart 2026](/illuminazione/lampadine-smart-2026/)
 
 <p class="fonti">*Fonti: [ARERA - prezzi energia elettrica 3° trimestre 2026](https://www.arera.it), [GSE - Conto Termico 3.0, interventi ammessi](https://www.gse.it), [Bonus Ristrutturazioni 2026 - aliquote](https://ediltecnico.it/bonus-edilizi-2026-legge-di-bilancio/), schede tecniche produttori di faretti e paletti solari da esterno*</p>

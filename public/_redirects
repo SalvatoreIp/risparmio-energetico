@@ -21,9 +21,6 @@
 /idroponica/idroponica-in-casa-coltiva-le-tue-verdure-senza-terra-risparmia-e-mangia-sano/ /idroponica/quanto-si-risparmia-idroponica-casa/ 301
 /idroponica/guida-idroponica-per-principianti/ /idroponica/quanto-si-risparmia-idroponica-casa/ 301
 /riscaldamento/raffrescamento-estivo-casa-soluzioni-costi-e-bonus-2026-per-un-estate-fresca/ /raffrescamento/climatizzatore-inverter-9000-12000-btu/ 301
-/mobilita-sostenibile/bici-elettriche-2026-guida-completa-prezzi-e-risparmi/ /mobilita-sostenibile/bicicletta-elettrica-risparmio-benefici-e-confronto-modelli-2026/ 301
-/guide/bici-elettrica-vs-normale-qual-e-il-miglior-risparmio/ /mobilita-sostenibile/bicicletta-elettrica-risparmio-benefici-e-confronto-modelli-2026/ 301
-/mobilita-sostenibile/monopattini-elettrici-2026-guida-completa-al-risparmio/ /mobilita-sostenibile/monopattini-elettrici-2-ruote-mobilita-sostenibile-e-risparmio-per-ogni-tasca/ 301
 
 # 21/10/2026: vecchi alias Hugo (meta refresh) trasformati in 301 veri
 /smart-home/valvole-termostatiche-smart-confronto-completo-2026-e-risparmi-possibili/ /smart-home/valvole-termostatiche-smart-2026/ 301
@@ -32,3 +29,11 @@
 /smart-home/prese-intelligenti-smart-home-risparmio-energetico-e-automazione-per-ogni-tasca/ /smart-home/prese-smart-misuratore-consumo-2026/ 301
 /smart-home/miglior-termostato-smart-2026-guida-completa-e-confronto/ /smart-home/termostato-smart-2026/ 301
 /smart-home/termostato-smart-wifi-per-caldaia-confronto-2026-e-risparmio-energetico/ /smart-home/termostato-smart-2026/ 301
+
+# 19/11/2026: pulizia per Google (articoli fuori tema tolti, doppioni uniti)
+/raffrescamento/rinfrescare-casa-caldo-2026/ /raffrescamento/rinfrescare-casa-senza-condizionatore/ 301
+/terrazzi/tende-da-sole-risparmio-condizionatore/ /raffrescamento/tende-da-sole-risparmio-condizionatore/ 301
+/terrazzi/pergole-bioclimatiche-2026/ /raffrescamento/tende-da-sole-risparmio-condizionatore/ 301
+/illuminazione/lampade-e-faretti-da-esterno-led-illuminazione-efficiente-e-risparmio-energetico/ /illuminazione/fari-solari-esterno-senza-bolletta/ 301
+/idroponica/lampade-led-idroponica-consumi-costi/ /idroponica/quanto-si-risparmia-idroponica-casa/ 301
+/idroponica/grow-box-idroponica-indoor-kit-completi-led-per-coltivazione-professionale-in-casa/ /idroponica/quanto-si-risparmia-idroponica-casa/ 301

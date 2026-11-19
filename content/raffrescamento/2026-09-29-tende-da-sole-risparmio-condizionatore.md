@@ -4,7 +4,7 @@ slug: "tende-da-sole-risparmio-condizionatore"
 date: 2026-09-29T09:05:00+02:00
 draft: false
 description: "Tende da sole per terrazzo e balcone: come funzionano, quali modelli scegliere e quanto puoi risparmiare sul condizionatore riducendo il calore che entra in casa. Con Ecobonus 50%/36% se installate fisse."
-categories: ["terrazzi"]
+categories: ["raffrescamento"]
 tags: ["tende da sole", "terrazzo", "balcone", "risparmio energetico", "schermatura solare", "2026"]
 cover:
   image: "/immagini/tende-da-sole-risparmio-condizionatore.jpg"
@@ -23,7 +23,7 @@ Sul mercato ci sono due tipologie adatte a terrazzi e balconi. Le **tende a brac
 
 L'efficacia dipende molto dall'esposizione: una schermatura su un lato sud o ovest, dove il sole colpisce direttamente per ore, ha un impatto molto maggiore che su un lato nord. Conta anche il tessuto: i modelli con retro in poliestere spalmato o "screen" tecnico bloccano più radiazione del semplice cotone, oltre a resistere meglio a pioggia e raggi UV.
 
-Per chi cerca una soluzione più strutturale, l'alternativa è la [pergola bioclimatica](/terrazzi/pergole-bioclimatiche-2026/), con lamelle motorizzate orientabili: costa molto di più ma offre anche riparo dalla pioggia. La tenda da sole resta la scelta più accessibile per chi vuole risultati concreti con un investimento contenuto.
+Per chi cerca una soluzione più strutturale, l'alternativa è la pergola bioclimatica, con lamelle motorizzate orientabili: costa molto di più ma offre anche riparo dalla pioggia. La tenda da sole resta la scelta più accessibile per chi vuole risultati concreti con un investimento contenuto.
 
 ### I migliori modelli
 
