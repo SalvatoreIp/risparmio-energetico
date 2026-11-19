@@ -16,10 +16,6 @@ cover:
 
 Ti svegli di notte con l'aria appiccicosa, ma la temperatura in camera non è così alta: il problema è l'umidità, non il caldo. A quel punto la domanda è: meglio accendere il condizionatore in modalità deumidificatore (l'icona a goccia sul telecomando) o comprare un deumidificatore dedicato? La risposta cambia il conto in bolletta più di quanto sembri: la funzione dry del climatizzatore consuma meno della modalità raffrescamento, ma quasi sempre di più di un deumidificatore portatile. Vediamo i numeri reali.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=deumidificatore+portatile+casa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i deumidificatori su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il condizionatore in modalità "dry" (deumidificazione) fa lavorare lo stesso compressore e la stessa unità esterna usati per raffrescare, ma con una logica diversa: il ventilatore interno gira più piano, l'aria passa più lentamente sulla batteria fredda e cede più umidità per litro d'aria trattato, mentre il compressore lavora a intermittenza per non abbassare troppo la temperatura. Il risultato è meno freddo percepito e più acqua condensata rispetto al raffrescamento pieno.
@@ -30,13 +26,13 @@ La differenza pratica è questa: il condizionatore deumidifica **tutta la stanza
 
 ### I migliori modelli
 
-Un deumidificatore per uso domestico costa tra 100 e 400 euro a seconda della capacità di estrazione (litri al giorno) e delle funzioni smart. Ecco tre modelli reali, disponibili su Amazon.it, adatti a esigenze diverse:
+Un deumidificatore per uso domestico costa tra 100 e 400 euro a seconda della capacità di estrazione (litri al giorno) e delle funzioni smart. Ecco tre modelli reali, in vendita in Italia, adatti a esigenze diverse:
 
-| Modello | Capacità | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|
-| Comfee MDDN-12DEN7 | 12 L/giorno, stanze fino a 20 m² | circa €120 | Compatto, economico, gas R290 a basso impatto | Serbatoio piccolo (2 L), da svuotare spesso | [Amazon](https://www.amazon.it/COMFEE-Deumidificatore-movimentazione-efficienza-MDDN-12DEN7/dp/B092DJSHX7?tag=audiobookit-21) |
-| De'Longhi Tasciugo AriaDry DEX210SF | 10 L/giorno | circa €190 | Marchio affidabile, filtrazione a 3 stadi, silenzioso | Prezzo più alto per la capacità | [Amazon](https://www.amazon.it/DeLonghi-DEX210SF-Deumidificatore-Asciugabiancheria-Filtrazione/dp/B0CJJ7T676?tag=audiobookit-21) |
-| Pro Breeze Deumidificatore 20L | 20 L/giorno, fino a 30 m² | circa €150-190 | Buona capacità, scarico continuo, funzione bucato | Ingombrante rispetto ai modelli compatti | [Amazon](https://www.amazon.it/Pro-Breeze-Deumidificatore-Portatile-Asciugatura/dp/B077H1MZ35?tag=audiobookit-21) |
+| Modello | Capacità | Prezzo indicativo | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| Comfee MDDN-12DEN7 | 12 L/giorno, stanze fino a 20 m² | circa €120 | Compatto, economico, gas R290 a basso impatto | Serbatoio piccolo (2 L), da svuotare spesso |
+| De'Longhi Tasciugo AriaDry DEX210SF | 10 L/giorno | circa €190 | Marchio affidabile, filtrazione a 3 stadi, silenzioso | Prezzo più alto per la capacità |
+| Pro Breeze Deumidificatore 20L | 20 L/giorno, fino a 30 m² | circa €150-190 | Buona capacità, scarico continuo, funzione bucato | Ingombrante rispetto ai modelli compatti |
 
 *Prezzi indicativi settembre 2026, verifica sempre il prezzo aggiornato al momento dell'acquisto: sono articoli spesso in offerta.*
 

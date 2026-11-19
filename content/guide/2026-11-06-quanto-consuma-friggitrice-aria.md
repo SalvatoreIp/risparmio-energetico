@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=friggitrice+ad+aria&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le friggitrici ad aria su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 La friggitrice ad aria è un piccolo forno a convezione forzata: una resistenza scalda l'aria e una ventola la fa circolare ad alta velocità dentro un cestello stretto, di solito tra 180°C e 200°C. Il principio è lo stesso del forno elettrico con ventilazione, ma il volume da scaldare è molto più piccolo (3-10 litri contro le decine di litri di un forno da cucina), quindi la temperatura si raggiunge prima e il calore arriva al cibo in modo più diretto.
@@ -37,13 +33,13 @@ Questo spiega l'apparente contraddizione: la potenza nominale della friggitrice 
 
 Tre friggitrici ad aria reali in commercio, scelte per rappresentare fasce di potenza e capacità diverse:
 
-| Modello | Potenza | Capacità | Caratteristiche | Link |
-|---|---|---|---|---|
-| Philips Airfryer XL Essential HD9270 | 2.000 W | 6,2 L | Tecnologia Rapid Air, display digitale | [Amazon](https://www.amazon.it/s?k=Philips+Airfryer+XL+Essential+HD9270&tag=audiobookit-21) |
-| Cosori Pro CP158-AF | 1.700 W | 5,5 L | 11-13 programmi preimpostati, uno dei modelli più venduti | [Amazon](https://www.amazon.it/s?k=Cosori+CP158-AF&tag=audiobookit-21) |
-| Ninja Foodi Dual Zone AF300EU | 2.470 W | 7,6 L (2 cestelli da 3,8 L) | Due zone indipendenti: due cotture diverse in contemporanea | [Amazon](https://www.amazon.it/s?k=Ninja+Foodi+Dual+Zone+AF300EU&tag=audiobookit-21) |
+| Modello | Potenza | Capacità | Caratteristiche |
+| --- | --- | --- | --- |
+| Philips Airfryer XL Essential HD9270 | 2.000 W | 6,2 L | Tecnologia Rapid Air, display digitale |
+| Cosori Pro CP158-AF | 1.700 W | 5,5 L | 11-13 programmi preimpostati, uno dei modelli più venduti |
+| Ninja Foodi Dual Zone AF300EU | 2.470 W | 7,6 L (2 cestelli da 3,8 L) | Due zone indipendenti: due cotture diverse in contemporanea |
 
-Prezzi non riportati in tabella, perché questi modelli sono spesso in offerta e il prezzo di listino cambia di continuo: vanno controllati sulla scheda prodotto su Amazon prima dell'acquisto. Il modello Dual Zone, avendo due resistenze indipendenti, consuma di più se si usano entrambi i cestelli insieme, ma permette di sincronizzare due cotture che altrimenti richiederebbero due passaggi separati.
+Prezzi non riportati in tabella, perché questi modelli sono spesso in offerta e il prezzo di listino cambia di continuo: vanno controllati sulla scheda prodotto prima dell'acquisto. Il modello Dual Zone, avendo due resistenze indipendenti, consuma di più se si usano entrambi i cestelli insieme, ma permette di sincronizzare due cotture che altrimenti richiederebbero due passaggi separati.
 
 ### Quanto si risparmia davvero
 

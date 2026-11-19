@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=isolante+termico+sottotetto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta gli isolanti termici per sottotetto su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Isolare il sottotetto significa posare un isolante sull'ultimo solaio (il pavimento del sottotetto, se non abitabile) oppure sotto le falde del tetto (se lo spazio è o diventerà abitabile). Nel primo caso, il più comune ed economico, basta stendere rotoli o pannelli tra e sopra le travi, senza toccare la copertura esterna: per questo costa molto meno di un cappotto sulle pareti.
@@ -36,14 +32,13 @@ I materiali più usati sono tre: **lana di roccia o di vetro** in feltri/rotoli 
 
 ### I migliori modelli
 
-Gli isolanti per sottotetto in grandi formati si trovano quasi sempre nei centri per l'edilizia (Leroy Merlin, Bricocenter), non in un singolo acquisto Amazon: pesano e occupano volume. Ecco cosa si trova oggi con dati verificati:
+Gli isolanti per sottotetto in grandi formati si trovano quasi sempre nei centri per l'edilizia (Leroy Merlin, Bricocenter), non nei negozi online generalisti: pesano e occupano volume. Ecco cosa si trova oggi con dati verificati:
 
 | Prodotto | Uso | Prezzo indicativo | Link |
 |---|---|---|---|
 | Rockwool Roulrock Kraft (feltro lana di roccia, 60-200mm) | Isolamento ultimo solaio in sottotetti non abitabili | Verificare presso rivenditore (non listato online con prezzo fisso) | [Pagina prodotto Rockwool](https://www.rockwool.com/it/prodotti/categorie/ultimi-solai/) |
 | Pannello XPS da costruzione, confezione 4 pezzi 1250x600x10mm | Base calpestabile sopra l'isolante, sottotetti ad uso ripostiglio | 88,99 € (confezione) | [Leroy Merlin Italia](https://www.leroymerlin.it/prodotti/pannello-di-costruzione-da-piastrellare-1250x600x10mm-4-pezzi-set-in-estruso-polistrirene-rigido-per-l-isolamento-della-casa-91021293.html) |
-| Isolante termico riflettente multistrato autoadesivo 5mm | Solo come tappabuchi su botola, tubi e piccole superfici, non sostituisce lana di roccia o fibra di legno su tutta la superficie | 25,59 € | [Amazon](https://www.amazon.it/Riflettente-Multistrato-Termoriflettente-Isolamento-Autoadesivo/dp/B0CQXJPLZV?tag=audiobookit-21) |
-
+| Isolante termico riflettente multistrato autoadesivo 5mm | Solo come tappabuchi su botola, tubi e piccole superfici, non sostituisce lana di roccia o fibra di legno su tutta la superficie | 25,59 € | — |
 Il foglio riflettente multistrato in tabella è pensato per termosifoni e piccole superfici: utile per un punto freddo come la botola di accesso, ma senza la resistenza termica per isolare un intero solaio.
 
 ### Quanto si risparmia davvero

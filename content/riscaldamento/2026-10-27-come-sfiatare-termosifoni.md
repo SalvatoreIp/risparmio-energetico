@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=chiave+sfiato+termosifoni&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta chiavi e kit per sfiatare i termosifoni su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Quando l'impianto si riempie o si ricarica, un po' d'aria resta sempre nell'acqua e con il tempo risale fino al punto più alto del circuito, spesso nella parte superiore dei radiatori più lontani dalla caldaia. L'acqua calda non riesce a riempire tutto il corpo del termosifone: la parte alta resta fredda, a volte si sente un gorgoglio quando il circolatore parte, e il radiatore scalda poco anche se il resto dell'impianto funziona bene.
@@ -46,12 +42,12 @@ Se un radiatore resta freddo anche dopo lo sfiato e con la pressione giusta, il 
 
 Per sfiatare i termosifoni basta una chiave quadra universale nella maggior parte dei casi; un kit con più attacchi serve se in casa hai valvole di marche diverse. I link sotto sono ricerche filtrate sul prodotto, non pagine di un singolo modello: per questi articoli da pochi euro non è stato trovato un link diretto verificabile (verificare prezzo e recensioni al momento dell'acquisto).
 
-| Prodotto | Tipo | Prezzo indicativo | Quando serve |
-|---|---|---|---|
-| [Chiave quadra universale per termosifoni](https://www.amazon.it/s?k=chiave+quadra+termosifoni&tag=audiobookit-21) | Chiave singola, sezione 5,5 mm | 2-5 € | La maggior parte delle valvole di sfiato in casa |
-| [Kit chiavi multiuso per radiatori](https://www.amazon.it/s?k=kit+chiavi+sfiato+radiatori&tag=audiobookit-21) | Più attacchi (quadra, esagonale, a cacciavite) | 8-12 € | Valvole di marche o epoche diverse nella stessa casa |
-| [Valvola di sfiato automatica](https://www.amazon.it/s?k=valvola+sfiato+automatica+termosifone&tag=audiobookit-21) | Si monta al posto di quella manuale | 15-25 € a pezzo | Radiatore che fa aria spesso (es. piano alto, vicino al vaso di espansione) |
-| [Manometro di ricambio per caldaia](https://www.amazon.it/s?k=manometro+caldaia+ricambio&tag=audiobookit-21) | Da installatore, non fai-da-te | 15-30 € | Solo se il manometro originale della caldaia è rotto o impreciso |
+| Tipo | Prezzo indicativo | Quando serve |
+| --- | --- | --- |
+| Chiave singola, sezione 5,5 mm | 2-5 € | La maggior parte delle valvole di sfiato in casa |
+| Più attacchi (quadra, esagonale, a cacciavite) | 8-12 € | Valvole di marche o epoche diverse nella stessa casa |
+| Si monta al posto di quella manuale | 15-25 € a pezzo | Radiatore che fa aria spesso (es. piano alto, vicino al vaso di espansione) |
+| Da installatore, non fai-da-te | 15-30 € | Solo se il manometro originale della caldaia è rotto o impreciso |
 
 La valvola automatica ha un senso solo su un radiatore che accumula aria di continuo (capita ai piani alti o vicino al vaso di espansione): altrimenti è una spesa in più per un problema che la chiave manuale risolve gratis in un minuto, una volta all'anno.
 

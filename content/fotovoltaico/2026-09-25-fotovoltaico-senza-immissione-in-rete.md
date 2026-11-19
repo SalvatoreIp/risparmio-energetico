@@ -16,10 +16,6 @@ cover:
 
 Chi cerca "fotovoltaico senza immissione in rete" quasi sempre non intende un impianto completamente isolato (off-grid), ma un impianto collegato normalmente alla rete che però non cede mai il surplus al gestore: una configurazione chiamata "a zero immissione", molto più diffusa e molto più economica dell'off-grid vero e proprio. È la soluzione tipica di chi vuole evitare il contratto con il GSE, di chi ha un limite di potenza in immissione imposto dal distributore locale, o di chi installa un kit plug and play da balcone e preferisce non gestire il ritiro dedicato per pochi euro l'anno. Attenzione però: niente contratto GSE non vuol dire niente pratiche. Un impianto collegato all'impianto elettrico di casa lavora in parallelo con la rete e va comunque comunicato al distributore (vedi sotto).
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+fotovoltaico+zero+immissione&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit a zero immissione su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Vanno distinte due configurazioni molto diverse tra loro, spesso confuse online.
@@ -30,12 +26,12 @@ Vanno distinte due configurazioni molto diverse tra loro, spesso confuse online.
 
 ### I migliori modelli 2026
 
-| Prodotto | Tipo | Prezzo indicativo | Note |
-|---|---|---|---|
-| [ECOFLOW Smart Plug](https://www.amazon.it/ECOFLOW-Monitoraggio-ripartizione-dellenergia-compatibili/dp/B0C2CQLPP1?tag=audiobookit-21) | Presa intelligente standalone | verificare su Amazon | Monitora i consumi e smista l'energia in eccesso senza immetterla in rete; richiede un microinverter/power station EcoFlow compatibile |
-| [ECOFLOW PowerStream 800W + 2 pannelli 400W + Smart Plug](https://www.amazon.it/ECOFLOW-fotovoltaico-PowerStream-microinverter-DELTA/dp/B0C4STQT16?tag=audiobookit-21) | Kit balcone con accumulo (DELTA 2) | circa €1.100-1.400 | Il più completo: la batteria assorbe il surplus che altrimenti andrebbe sprecato |
-| [Anker SOLIX Smart Plug](https://www.amazon.it/Anker-elettrica-Bluetooth-rilevamento-telecomando/dp/B0DBZH4Q4C?tag=audiobookit-21) | Presa intelligente standalone | verificare su Amazon | Compatibile con la gamma Solarbank 2/3, rilevamento carico in tempo reale |
-| [Anker SOLIX Solarbank 2 E1600 Plus](https://amazon.it/Anker-Solarbank-batteria-microinverter-regolazione/dp/B0D1XMRC56?tag=audiobookit-21) | Kit balcone con accumulo 1,6 kWh | circa €900-1.200 | Zero immissione automatico se abbinato allo smart meter Anker; buona alternativa a EcoFlow |
+| Tipo | Prezzo indicativo | Note |
+| --- | --- | --- |
+| Presa intelligente standalone | variabile | Monitora i consumi e smista l'energia in eccesso senza immetterla in rete; richiede un microinverter/power station EcoFlow compatibile |
+| Kit balcone con accumulo (DELTA 2) | circa €1.100-1.400 | Il più completo: la batteria assorbe il surplus che altrimenti andrebbe sprecato |
+| Presa intelligente standalone | variabile | Compatibile con la gamma Solarbank 2/3, rilevamento carico in tempo reale |
+| Kit balcone con accumulo 1,6 kWh | circa €900-1.200 | Zero immissione automatico se abbinato allo smart meter Anker; buona alternativa a EcoFlow |
 
 *Prezzo indicativo settembre 2026, verifica sempre il prezzo aggiornato sulla scheda prodotto: cambia spesso in base a promozioni e bundle con i pannelli.*
 

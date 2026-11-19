@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=kit+idroponica+casa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit idroponici per casa su Amazon</a>
-</div>
-
 ## Il problema reale: spendi €60-€100/mese di erbe e insalate e butti via un terzo
 
 **La tua spesa reale al supermercato:**
@@ -130,15 +126,15 @@ Questo calcolo considera solo erbe aromatiche e insalate: altre colture hanno ci
 
 ## I migliori prodotti per iniziare
 
-| Prodotto | Prezzo indicativo* | Cosa offre | Link |
-|----------|---------------------|------------|------|
-| Kit idroponico NFT 36 postazioni | 120-180 € | 100x50x30cm, pompa e spina EU incluse | [Amazon](https://www.amazon.it/dp/B0FH8XW26X?tag=audiobookit-21) |
-| Sistema idroponico verticale | variabile | per chi ha poco spazio a terra | [Cerca su Amazon](https://www.amazon.it/s?k=sistema+idroponico+verticale&tag=audiobookit-21) |
-| Set 4 lampade LED spettro completo con timer | 35-60 € | ~40W totali, timer 3/9/12h | [Amazon](https://www.amazon.it/dp/B0F47JCBLR?tag=audiobookit-21) |
-| Nutrienti Plagron Hydro A+B (2x1L) | 20-30 € | marchio olandese, sistema A+B, dura 2-3 mesi | [Amazon](https://www.amazon.it/dp/B00JJR5XGG?tag=audiobookit-21) |
-| Kit starter completo (sistema + LED + nutrienti) | 250-350 € | tutto in un solo acquisto | [Cerca su Amazon](https://www.amazon.it/s?k=kit+start+idroponica+completo&tag=audiobookit-21) |
+| Prodotto | Prezzo indicativo* | Cosa offre |
+| ---------- | --------------------- | ------------ |
+| Kit idroponico NFT 36 postazioni | 120-180 € | 100x50x30cm, pompa e spina EU incluse |
+| Sistema idroponico verticale | variabile | per chi ha poco spazio a terra |
+| Set 4 lampade LED spettro completo con timer | 35-60 € | ~40W totali, timer 3/9/12h |
+| Nutrienti Plagron Hydro A+B (2x1L) | 20-30 € | marchio olandese, sistema A+B, dura 2-3 mesi |
+| Kit starter completo (sistema + LED + nutrienti) | 250-350 € | tutto in un solo acquisto |
 
-*prezzi indicativi ottobre 2026, verifica nel link: su Amazon cambiano spesso.
+*prezzi indicativi ottobre 2026, cambiano spesso con le offerte.
 
 ---
 

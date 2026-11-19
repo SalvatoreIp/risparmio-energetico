@@ -13,10 +13,6 @@ cover:
 
 <p class="lead">La bolletta sale anche d'estate, quando non usi il condizionatore? Potrebbero essere i consumi "fantasma": decoder Sky da 18W, console da 15W, router da 10W. In una famiglia media, questi dispositivi costano €60-€80/anno, ovvero l'8-10% della bolletta totale.</p>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=consumi+fantasma+casa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi le migliori offerte su Amazon</a>
-</div>
-
 ## Il problema reale: la bolletta che sale senza che tu accenda nulla
 
 **Esempio concreto:** una famiglia italiana media spende **€750-€950/anno** in bolletta elettrica. Se applichi il dato **Enea/Altroconsumo 2026** sul consumo in standby, scopri che **€60-€95/anno** (l'8-10%) vanno "persi" in dispositivi che pensi di aver spento.
@@ -85,12 +81,6 @@ La risposta: **multiprese con interruttore, prese smart con misuratore, e abitud
 
 **Risparmio:** €40,44/anno
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0BL3T84QH?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **2. Console di gioco (PS5/Xbox/ Switch): €33,72/anno**
@@ -107,17 +97,7 @@ La risposta: **multiprese con interruttore, prese smart con misuratore, e abitud
 
 **Risparmio:** €33,72/anno
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0C3VT9TFF?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
-
-<div class="cta-box">
-<a href="https://guida-energia.com/smart-home/prese-smart-misuratore-consumo-2026/" target="_blank" rel="sponsored" class="cta-button">📖 Quanto consumano davvero decoder e console? Leggi la guida completa</a>
-</div>
 
 ---
 
@@ -189,12 +169,6 @@ La risposta: **multiprese con interruttore, prese smart con misuratore, e abitud
 
 **Installazione:** 2 minuti, nessuna installazione elettrica
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B09QQMHY6V?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **Soluzione 2: Prese smart con misuratore**
@@ -220,12 +194,6 @@ La risposta: **multiprese con interruttore, prese smart con misuratore, e abitud
 - **Console:** spegni dopo 2 ore di gioco
 - **Caricabatterie:** spegni quando i dispositivi sono carichi
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CHFJ7V3J?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **Soluzione 3: Smart plug con controllo vocale**
@@ -248,12 +216,6 @@ La risposta: **multiprese con interruttore, prese smart con misuratore, e abitud
 - **Area relax:** TV, decoder, soundbar
 - **Area gaming:** console, PC
 - **Area cucina:** microonde, tostapane
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0B2PXGM56?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -279,12 +241,6 @@ La risposta: **multiprese con interruttore, prese smart con misuratore, e abitud
 - **Decodificatori:** verificare standby reale
 - **Console:** misurare consumo reale in standby
 - **TV:** verificare standby Smart TV
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0DYD52QX4?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 

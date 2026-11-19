@@ -20,7 +20,7 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
 - `scripts/publish_post.sh "$TITLE" "$BODY" "$SECTION" "$IMAGE_PATH" "$DESCRIPTION" "$TAGS"` — scaffolds a new article file under `content/$SECTION/YYYY-MM-DD-slug.md` from args, then runs `git add/commit/push` itself. Only handles the six sections hardcoded in its `case` statement (falls back to `guide` otherwise) — new sections (idroponica, mobilita-sostenibile, raffrescamento, terrazzi) must be created by hand.
 - `scripts/salva_immagine.py URL SLUG` — saves an ElevenLabs-generated image (the signed `master_url`, expires in ~2h) as `static/immagini/SLUG.jpg` at 1280px. Since 2026-09-25 article covers are generated with ElevenLabs `gpt-image-2` (16:9, 1K, quality medium, `generations_count: 1`, ~185 credits; flow "Copertine articoli" `qKLpGDKvK3eEh1mO8Z6I`) — see `scripts/daily_publish_prompt.txt` for the exact procedure. Pixabay is only the fallback.
 - `scripts/get_image.sh KEYWORD SLUG` — fetches a Pixabay photo (English keyword) into `static/immagini/SLUG.jpg`, falling back to picsum.photos if Pixabay returns nothing. Requires `PIXABAY_API_KEY` in `.env`.
-- `scripts/controlla_articolo.py FILE...` (or `--modificati`) — checks articles against the rules below. ERRORI (block): missing slug/cover on new articles, cover file not in `static/`, internal links to pages missing from `public/`, Amazon tag other than `audiobookit-21`, future date. Avvisi (don't block): word count, CTA box, Fonti, euro calculation, tone words, exclamation marks, outdated prices.
+- `scripts/controlla_articolo.py FILE...` (or `--modificati`) — checks articles against the rules below. ERRORI (block): missing slug/cover on new articles, cover file not in `static/`, internal links to pages missing from `public/`, Amazon links or `cta-box`, future date. Avvisi (don't block): word count, Fonti, euro calculation, tone words, exclamation marks, outdated prices.
 - **Hooks in `.claude/settings.json`** (active in interactive and cron `claude -p` sessions): after every Write/Edit of an article the check runs and its output comes back to Claude; `git push` / `wrangler pages deploy` are **blocked** while a new or modified article has ERRORI; edits to `.env` are blocked. Blocks are logged in `logs/hook_controlli.log`.
 - There is no test suite, linter, or build step beyond `hugo --minify`; correctness is "does `hugo` build without errors and does the page look right."
 
@@ -49,7 +49,7 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
 - Cover/content images go in `static/immagini/`, referenced as `/immagini/<slug>.jpg`.
 - `hugo.toml` is the live config; `hugo.toml.bak*` are untracked-by-purpose scratch backups from past edits — don't treat them as alternate configs to merge from unless explicitly asked.
 - `layouts/partials/extend_head.html` / `extend_footer.html` override the PaperMod theme to inject Google Analytics (GA4) and a custom cookie-consent banner (sets `cookie_consent`/`cookie_analytics`/`cookie_marketing` cookies). This is the only custom layout code in the repo — everything else is the unmodified PaperMod submodule (`themes/PaperMod`).
-- `static/_redirects` defines a Cloudflare Pages redirect: `/vai/*` → Amazon affiliate links (tag `botofferte04-21`) — a cloaked-link shortener for affiliate URLs used in article link tables.
+- `static/_redirects` still has an old `/vai/*` → Amazon redirect (tag `botofferte04-21`); no article uses it any more.
 
 ## Editorial rules for new articles
 
@@ -57,15 +57,9 @@ These are the standing content rules this site has been built under (see `OPENCL
 
 - Italian, 800–1200 words, original text only (never copy from sources).
 - Tone: concrete and credible (Salvatore, 2026-09-29). Lead with the fact or the number, then what to do. No romantic/dreamy language ("sogno", "magia", "rivoluzione", "libertà", "incredibile"), no exclamation-driven hype. Also applies to Facebook texts.
-- Mandatory structure: Introduzione → Cos'è e come funziona → I migliori modelli (Markdown product table) → Quanto si risparmia davvero → Incentivi disponibili → Conclusione → `*Fonti: ...*`.
+- Mandatory structure: Introduzione → Cos'è e come funziona → I migliori modelli (Markdown table, no shop links) → Quanto si risparmia davvero → Incentivi disponibili → Conclusione → `*Fonti: ...*`.
 - Every article needs at least one concrete savings calculation in euros.
-- Immediately after the Introduzione (before "Cos'è e come funziona"), every article must have the orange CTA button block, linking to an Amazon.it search for the article's product category (or the official product page for big-ticket items), with the affiliate tag used elsewhere on the site:
-  ```html
-  <div class="cta-box">
-    <a href="https://www.amazon.it/s?k=parole+chiave&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta ... su Amazon</a>
-  </div>
-  ```
-- Amazon links: only use a real link found by searching the actual product on Amazon.it — never fabricate an ASIN or URL. If the product isn't found, omit the link (or link an informational/comparison page for big-ticket items like heat pumps/boilers).
+- **No Amazon links and no orange CTA box (since 2026-11-19).** The affiliate account is closed and Google was indexing only ~15% of the site: shopping links made it look like a thin affiliate site. `scripts/togli_amazon.py` removed them from all articles; `controlla_articolo.py` now blocks any Amazon link or `cta-box`. In model tables the model name links to the manufacturer's official page (only if really found), with no "Link" column to shops.
 - Slug: lowercase + hyphens only, no apostrophes or accented characters.
 - One category per article; double quotes in frontmatter, never single/apostrophes.
 - Don't create content directories beyond the ones already registered (see Content architecture above).

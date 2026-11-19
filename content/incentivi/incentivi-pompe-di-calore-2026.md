@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=pompa+di+calore+aria+acqua&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta prezzi e modelli di pompe di calore su Amazon</a>
-</div>
-
 ## Cos'è e come funziona: le tre strade disponibili
 
 Per una pompa di calore che sostituisce l'impianto di riscaldamento esistente, nel 2026 ci sono tre incentivi:
@@ -117,10 +113,6 @@ Una pompa di calore consuma meno se lavora a lungo a bassa potenza, senza contin
 
 - **Un termostato programmabile o smart** tiene la temperatura costante e abbassa la notte o quando la casa è vuota. Confronto dei modelli nella guida al [termostato smart](/smart-home/termostato-smart-2026/).
 - **Le valvole termostatiche sui radiatori** evitano di scaldare le stanze che non usi. Quanto si risparmia è spiegato nella guida alle [valvole termostatiche smart](/smart-home/valvole-termostatiche-smart-2026/).
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=termostato+smart+pompa+di+calore&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta termostati smart su Amazon</a>
-</div>
 
 ## Conclusione
 

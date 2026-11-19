@@ -16,10 +16,6 @@ cover:
 
 Il Tesla Powerwall 3 è arrivato ufficialmente in vendita anche in Italia, e per molti è diventato il punto di riferimento quando si parla di batterie di accumulo domestiche: inverter fotovoltaico integrato, 13,5 kWh di capacità e un'app di monitoraggio tra le più curate del settore. Il prezzo di listino della sola unità è di 6.900 euro più IVA, ma tra Gateway, installazione e pratiche GSE il costo reale chiavi in mano per una famiglia si aggira tra 9.000 e 11.000 euro. Nell'esempio che segue, una famiglia con impianto fotovoltaico da 6 kW e consumi da 4.500 kWh/anno ottiene con un Powerwall 3 un risparmio aggiuntivo di circa 540 euro l'anno, con un rientro dell'investimento stimato in 8 anni grazie al Bonus Ristrutturazioni.
 
-<div class="cta-box">
-  <a href="https://www.tesla.com/it_it/powerwall" target="_blank" rel="nofollow" class="cta-button">🔍 Verifica prezzo e disponibilità sul sito ufficiale Tesla</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il Powerwall 3 non è "solo" una batteria: a differenza dei moduli generici (Pylontech, Huawei) che vanno abbinati a un inverter ibrido separato, integra al suo interno anche l'inverter fotovoltaico, gestendo direttamente fino a 20 kWp di pannelli in corrente continua. Questo semplifica l'impianto (meno componenti da coordinare) ma significa anche che, se stai partendo da zero, sostituisce l'inverter che avresti comunque dovuto comprare, non è un costo aggiuntivo puro.

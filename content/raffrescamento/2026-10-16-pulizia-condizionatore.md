@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+pulizia+climatizzatore&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit di pulizia per climatizzatori su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 La pulizia di un climatizzatore domestico riguarda tre punti: i filtri dell'unità interna (quasi sempre lavabili), lo scambiatore di calore (la batteria metallica a lamelle dietro i filtri) e la vaschetta di raccolta della condensa, dove l'umidità ristagna e favorisce muffe e batteri. Chi cerca online "pulizia condizionatore" trova due approcci diversi, entrambi legittimi:
@@ -38,11 +34,11 @@ Il tecnico va chiamato solo se c'è muffa visibile all'interno dello split o sul
 
 ### I migliori prodotti per la pulizia
 
-| Prodotto | Tipo | Prezzo indicativo | Per cosa serve |
-|---|---|---|---|
-| [Errecom Kit Pulizia Climatizzatori con Clima-Net](https://www.amazon.it/dp/B0CZ7CQWG4?tag=audiobookit-21) | Kit completo | Circa 38 € (verificare su Amazon) | Detergente alcalino 1L per l'unità interna + cover protettiva per non sporcare pareti e pavimento: il più completo dei tre |
-| [Saniclima Kit Sanificazione e Pulizia](https://www.amazon.it/dp/B094FS2QYR?tag=audiobookit-21) | Kit con doppio detergente | Circa 18 € (verificare su Amazon) | Liquido pulizia 750 ml + spray igienizzante 400 ml, pensato per filtri e unità esterna |
-| [Meliconi Spray Pure Air](https://www.amazon.it/dp/B0DK9CQWYQ?tag=audiobookit-21) | Spray singolo | Verificare su Amazon | Detergente spray per climatizzatori, deumidificatori e pompe di calore: la soluzione più economica per una pulizia di mantenimento |
+| Tipo | Prezzo indicativo | Per cosa serve |
+| --- | --- | --- |
+| Kit completo | Circa 38 € | Detergente alcalino 1L per l'unità interna + cover protettiva per non sporcare pareti e pavimento: il più completo dei tre |
+| Kit con doppio detergente | Circa 18 € | Liquido pulizia 750 ml + spray igienizzante 400 ml, pensato per filtri e unità esterna |
+| Spray singolo | variabile | Detergente spray per climatizzatori, deumidificatori e pompe di calore: la soluzione più economica per una pulizia di mantenimento |
 
 Per chi fa solo la pulizia dei filtri senza trattare la batteria, basta acqua tiepida e un panno: nessun acquisto è strettamente necessario. Gli spray e i kit servono quando si vuole anche disinfettare contro muffe e cattivi odori, non solo rimuovere la polvere.
 

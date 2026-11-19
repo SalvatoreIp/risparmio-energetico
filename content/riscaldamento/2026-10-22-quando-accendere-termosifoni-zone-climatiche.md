@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=valvole+termostatiche+smart&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta termostati e valvole termostatiche su Amazon</a>
-</div>
-
 ## Cos'è e come funziona il calendario del riscaldamento
 
 Il DPR 74/2013 (che ha sostituito il vecchio DPR 412/1993 mantenendone però il calendario) divide l'Italia in **6 zone climatiche**, assegnate a ogni Comune in base ai "gradi giorno" (una misura del freddo medio invernale). Più la zona è vicina alla lettera F, più l'inverno è rigido e più lunga è la stagione di accensione consentita.
@@ -66,12 +62,12 @@ Il risparmio reale dipende dalle abitudini della famiglia e dall'isolamento dell
 
 Per non sprecare le ore consentite dalla zona climatica, i dispositivi più utili sono i termostati smart (programmano gli orari e spengono la caldaia quando non serve) e le valvole termostatiche smart (fanno lo stesso stanza per stanza):
 
-| Prodotto | Tipo | Prezzo indicativo (ott. 2026) | A cosa serve | Link |
-|---|---|---|---|---|
-| Meross MTS200 | Termostato smart (caldaie on/off) | circa 79 € | Programma le fasce orarie e spegne la caldaia fuori dagli orari impostati | [Amazon](https://www.amazon.it/dp/B0B8SDLTKC?tag=audiobookit-21) |
-| Netatmo NTH01-EF | Termostato smart (OpenTherm) | circa 220 € | Modula la caldaia a condensazione minuto per minuto, utile su impianti moderni | [Amazon](https://www.amazon.it/dp/B0CC67PYHY?tag=audiobookit-21) |
-| Meross MTB200 (set 3 valvole) | Valvola termostatica smart | circa 129 € | Chiude il calore nelle stanze vuote senza spegnere tutto l'impianto | [Amazon](https://www.amazon.it/dp/B07Z2JG1V4?tag=audiobookit-21) |
-| Tado° Smart Starter Kit | Valvole + bridge con geolocalizzazione | circa 249 € | Spegne da solo quando rileva che in casa non c'è nessuno | [Amazon](https://www.amazon.it/dp/B0CWPHCWK6?tag=audiobookit-21) |
+| Prodotto | Tipo | Prezzo indicativo (ott. 2026) | A cosa serve |
+| --- | --- | --- | --- |
+| Meross MTS200 | Termostato smart (caldaie on/off) | circa 79 € | Programma le fasce orarie e spegne la caldaia fuori dagli orari impostati |
+| Netatmo NTH01-EF | Termostato smart (OpenTherm) | circa 220 € | Modula la caldaia a condensazione minuto per minuto, utile su impianti moderni |
+| Meross MTB200 (set 3 valvole) | Valvola termostatica smart | circa 129 € | Chiude il calore nelle stanze vuote senza spegnere tutto l'impianto |
+| Tado° Smart Starter Kit | Valvole + bridge con geolocalizzazione | circa 249 € | Spegne da solo quando rileva che in casa non c'è nessuno |
 
 Per chi ha il riscaldamento centralizzato le valvole termostatiche sono la scelta più utile, perché il termostato da solo non interviene sull'accensione decisa dal condominio: confronto completo in [valvole termostatiche smart: guida 2026](/smart-home/valvole-termostatiche-smart-2026/) e [termostato smart: quale scegliere nel 2026](/smart-home/termostato-smart-2026/).
 

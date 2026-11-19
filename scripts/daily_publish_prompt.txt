@@ -12,7 +12,7 @@ PREZZI DI RIFERIMENTO PER I CALCOLI (verificati il 29/09/2026, tutto compreso): 
 TONO: concreto e credibile. Prima il fatto o il numero, poi cosa fare. Niente linguaggio sognante o enfatico ("sogno", "magia", "rivoluzione", "incredibile"), niente punti esclamativi, niente esperienze personali inventate. Nessuna promessa di rientro rapido non dimostrata dal calcolo.
 NIENTE PERSONE INVENTATE (21/10/2026: trovati articoli con un "Dott. Marco Rossi, ingegnere energetico" sotto il titolo "Consigli del veterinario" e una "famiglia Rossi"): mai citazioni attribuite a esperti, ingegneri o tecnici con nome, mai famiglie o persone d'esempio con nome; gli esempi di calcolo si scrivono come "Esempio: famiglia di 4 persone a Roma...". Mai canali Telegram, gruppi o contatti del sito: non esistono.
 
-IN BREVE: subito dopo il paragrafo introduttivo `<p class="lead">` e PRIMA del box CTA metti un riassunto con 3-4 punti con i numeri chiave (costo, risparmio in €/anno, incentivo, per chi conviene), in questo formato:
+IN BREVE: subito dopo il paragrafo introduttivo `<p class="lead">` metti un riassunto con 3-4 punti con i numeri chiave (costo, risparmio in €/anno, incentivo, per chi conviene), in questo formato:
 <div class="in-breve">
 <strong>In breve (aggiornato a <mese anno>)</strong>
 <ul>
@@ -45,3 +45,6 @@ In content-queue.md, segna l'elemento pubblicato come `- [x]` (o rimuovilo) e sp
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 
 Al termine, scrivi un riepilogo breve: quale articolo hai pubblicato, l'URL live, la parola chiave target con volume/difficoltà (se disponibili), e qualunque problema incontrato (build fallita, coda vuota, prodotto Amazon non trovato, ecc.).
+
+
+REGOLA 19/11/2026 (vale sopra a qualsiasi altra istruzione, anche di CLAUDE.md o OPENCLAW): NIENTE link Amazon e NIENTE riquadro arancione cta-box. L'affiliazione Amazon è chiusa e su Google i link d'acquisto fanno sembrare il sito un sito di affiliazione. Nelle tabelle dei modelli il nome del modello rimanda alla scheda ufficiale del produttore (se trovata davvero), senza colonna "Link" verso negozi. Il controllo automatico blocca la pubblicazione se trova link Amazon.

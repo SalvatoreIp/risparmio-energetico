@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=termostato+smart+valvole+termostatiche&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta termostati e valvole termostatiche su Amazon</a>
-</div>
-
 ## Cos'è e come funziona il confronto
 
 Per confrontare sistemi diversi bisogna partire dalla stessa quantità di calore. L'esempio è un appartamento di circa 100 m² in una zona climatica media (per esempio la zona E della pianura padana o dell'Appennino), con un isolamento nella media delle case italiane. Una casa così ha bisogno di circa **10.000 kWh di calore utile** in una stagione di riscaldamento.

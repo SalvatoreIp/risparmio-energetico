@@ -13,10 +13,6 @@ cover:
 
 <p class="lead">Chi si sposta in monopattino o bici elettrica ha bisogno di portare con sé laptop, cambio, spesa, ma senza sbilanciarsi o bagnare tutto quando piove. Zaini impermeabili da €25-€60, borse da manubrio da €15-€40, portapacchi da €35-€80: ecco le soluzioni migliori con dati concreti su capacità, peso e impermeabilità.</p>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=zaini+borse+monopattino+bici&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi le migliori offerte su Amazon</a>
-</div>
-
 ## Il problema reale: laptop che si bagna, zaino che sbilancia, oggetti che cadono
 
 **Scenario tipico:** devi andare al lavoro in monopattino, porti il laptop (da €800-€1.500), il cambio per la doccia, la spesa del weekend. Ma:
@@ -137,12 +133,6 @@ cover:
 - **Niente riflettenti:** invisibile di notte (aggiungi strisce adesive da €5)
 - **Impermeabilità limitata:** IPX4 non regge piogge battenti
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0B3TS5TWV?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **2. Borsa da manubrio Wildman GD9X 2L**
@@ -166,12 +156,6 @@ cover:
 **Svantaggi:**
 - **Capacità limitata:** solo oggetti piccoli (nessun laptop)
 - **Ostacola manubrio:** riduce libertà di movimento in curve strette
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0G2LGWJ3J?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -197,12 +181,6 @@ cover:
 - **Peso maggiore:** 1,4 kg (leggermente più pesante dei modelli base)
 - **Prezzo alto:** €50-€65, quasi il doppio di uno zaino economico
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B08K8XZT68?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **4. Borsa da portapacchi Ortlieb Back-Roller Classic 30L**
@@ -227,12 +205,6 @@ cover:
 - **Richiede portapacchi:** €30-€60 extra se non ce l'hai già
 - **Accesso difficile:** devi scendere per accedere agli oggetti
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0063879QQ?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **5. Zaino premium con elementi riflettenti Osprey Nebula 35L**
@@ -256,12 +228,6 @@ cover:
 **Svantaggi:**
 - **Prezzo alto:** €90-€120 (quasi il quadruplo di uno zaino economico)
 - **Peso maggiore:** 1,8 kg (leggermente più pesante)
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CN1HKVXF?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 

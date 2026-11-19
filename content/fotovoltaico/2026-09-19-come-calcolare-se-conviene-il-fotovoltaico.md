@@ -16,10 +16,6 @@ cover:
 
 "Quanto ci mette a ripagarsi?" è la domanda che decide davvero se un impianto fotovoltaico conviene, molto più della potenza in kW o del marchio dei pannelli. La risposta dipende da poche variabili misurabili — quanto consumi, quando lo consumi, quanto costa l'impianto al netto degli incentivi — che si combinano in una formula semplice. In questa guida vediamo la formula passo per passo e un esempio numerico completo: una famiglia con consumo di 2.800 kWh l'anno e un impianto da 4 kW senza batteria, che rientra dell'investimento in circa 4-5 anni.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=misuratore+consumo+energia+elettrica+wifi&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i misuratori di consumo elettrico su Amazon</a>
-</div>
-
 ### Cos'è e come funziona il calcolo di convenienza
 
 Il calcolo si basa su due numeri: quanto risparmi ogni anno e quanto ti costa l'impianto al netto degli incentivi. Il rapporto tra i due dà il **tempo di rientro** (payback period):
@@ -38,11 +34,11 @@ Altri due fattori da non dimenticare nel calcolo: la produzione reale dei pannel
 
 Prima di fare qualsiasi calcolo serve un dato che le bollette da sole non danno: **come si distribuiscono i tuoi consumi durante il giorno**. Questi dispositivi permettono di misurarlo con precisione, invece di affidarsi a stime generiche.
 
-| Strumento | Cosa misura | Prezzo indicativo | Utile per | Link |
-|---|---|---|---|---|
-| [TP-Link Tapo P110](https://www.tp-link.com/it/) | Consumo del singolo elettrodomestico collegato | €12-16 | Capire quanto pesano i grandi consumatori (lavatrice, forno, condizionatore) | [Amazon](https://www.amazon.it/TP-Link-Intelligente-Monitoraggio-Tapo-P110/dp/B09BFT7NZJ?tag=audiobookit-21) |
-| [Shelly EM + pinza 50A](https://www.shelly.com/) | Consumo totale dell'abitazione (monofase), in tempo reale via app | €35-50 | Misurare l'intero profilo di consumo orario di casa | [Amazon](https://www.amazon.it/Shelly-AMPEROMETRICA-misurazione-consumo-elettrico/dp/B07W4BSDYS?tag=audiobookit-21) |
-| [Shelly Pro 3EM](https://www.shelly.com/) | Consumo e produzione su impianti trifase | €90-130 | Case con contatore trifase o che vogliono monitorare anche la produzione fotovoltaica | [Amazon](https://www.amazon.it/Shelly-Contatore-energia-controllo-WiFi/dp/B0918NR3YC?tag=audiobookit-21) |
+| Strumento | Cosa misura | Prezzo indicativo | Utile per |
+| --- | --- | --- | --- |
+| [TP-Link Tapo P110](https://www.tp-link.com/it/) | Consumo del singolo elettrodomestico collegato | €12-16 | Capire quanto pesano i grandi consumatori (lavatrice, forno, condizionatore) |
+| [Shelly EM + pinza 50A](https://www.shelly.com/) | Consumo totale dell'abitazione (monofase), in tempo reale via app | €35-50 | Misurare l'intero profilo di consumo orario di casa |
+| [Shelly Pro 3EM](https://www.shelly.com/) | Consumo e produzione su impianti trifase | €90-130 | Case con contatore trifase o che vogliono monitorare anche la produzione fotovoltaica |
 
 *Prezzi indicativi settembre 2026. Una-due settimane di monitoraggio bastano per capire che percentuale dei tuoi consumi cade nelle ore diurne (autoconsumabile direttamente) e quanta nelle ore serali (autoconsumabile solo con una batteria).*
 

@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=riscaldatore+infrarossi+da+esterno+terrazzo&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i riscaldatori da esterno su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 I riscaldatori da terrazzo in vendita oggi sono quasi tutti a infrarossi: una lampada al quarzo o alogena, dietro un riflettore parabolico, emette radiazione infrarossa che riscalda direttamente le persone e gli oggetti colpiti, non l'aria intorno. È la differenza chiave rispetto a una stufetta elettrica da interni come quelle della [guida alle stufe elettriche a basso consumo](/riscaldamento/stufa-elettrica-basso-consumo/): quelle scaldano l'aria di una stanza chiusa, e all'aperto quell'aria calda si disperderebbe nel giro di secondi. L'infrarosso invece funziona anche con vento leggero, perché il calore arriva per irraggiamento diretto, non per convezione.
@@ -39,11 +35,11 @@ Quasi tutti hanno 2-3 livelli di potenza (tipicamente 650/1.300/2.000 W): è la 
 
 | Modello | Potenza | Tipo | Prezzo indicativo | Link |
 |---|---|---|---|---|
-| Suntec Wellness Night Sun | 650/1.300/2.000 W, 3 livelli | Su piede, altezza regolabile 180-210 cm, IPX4 | Circa 80 € (fonte: Idealista.it, verificare su Amazon) | [Amazon](https://www.amazon.it/Suntec-Wellness-Riscaldatori-terrazza-Quarzo/dp/B00381URHY?tag=audiobookit-21) |
+| Suntec Wellness Night Sun | 650/1.300/2.000 W, 3 livelli | Su piede, altezza regolabile 180-210 cm, IPX4 | Circa 80 € (fonte: Idealista.it) | — |
 | Eurom TH1800S | 1.800 W | Su piede, telecomando, IP65, copertura 10-15 m² | 117-140 € (fonte: Mediaworld, ottobre 2026) | [Mediaworld](https://www.mediaworld.it/it/product/_stufa-eurom-2286-104827430.html) |
-| Trotec IR 2001 | 2.000 W | A parete/soffitto, inclinabile, IP65, copertura fino a 14 m² | Circa 100-130 € (prezzo variabile tra rivenditori, non confermato su Amazon.it) | [Mediaworld](https://www.mediaworld.it/it/product/_radiatore-trotec-ir-2001-154333270.html) |
+| Trotec IR 2001 | 2.000 W | A parete/soffitto, inclinabile, IP65, copertura fino a 14 m² | Circa 100-130 € (prezzo variabile tra rivenditori) | [Mediaworld](https://www.mediaworld.it/it/product/_radiatore-trotec-ir-2001-154333270.html) |
 
-Il Suntec è l'unico dei tre trovato con un link diretto su Amazon.it (via una guida di settore che cita l'ASIN); per Eurom e Trotec non è stata trovata una scheda Amazon.it affidabile al momento della verifica, quindi il link porta al rivenditore che la vende davvero: meglio di un link Amazon indovinato. Per chi deve scaldare un tavolo grande, due modelli da 1.300 W puntati da angolazioni diverse scaldano in modo più uniforme di un solo modello da 2.000 W puntato dritto.
+Per chi deve scaldare un tavolo grande, due modelli da 1.300 W puntati da angolazioni diverse scaldano in modo più uniforme di un solo modello da 2.000 W puntato dritto.
 
 ### Quanto si risparmia davvero
 

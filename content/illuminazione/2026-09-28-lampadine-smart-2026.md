@@ -15,10 +15,6 @@ cover:
 
 Le lampadine smart sono ormai uno dei punti di ingresso più economici nella domotica: bastano pochi euro e un'app per controllare luci da remoto, programmare accensioni e spegnimenti, e integrarle con Alexa o Google Home. Ma "smart" non significa automaticamente "risparmio": il vero taglio in bolletta arriva dal passaggio a LED (di cui abbiamo parlato nella nostra guida alle [luci LED](/illuminazione/luci-led-il-risparmio-piu-semplice-che-puoi-fare-oggi-stesso/)), mentre la parte "intelligente" aggiunge un costo di ingresso che va recuperato. In questa guida vediamo i modelli reali disponibili nel 2026, quanto costano, e con un calcolo concreto quanto tempo serve per rientrare dell'investimento a seconda dell'ecosistema scelto.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=lampadine+smart+wifi&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le lampadine smart su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Una lampadina smart è una lampadina LED con un chip di comunicazione integrato che permette di controllarla da app o assistente vocale. Esistono due famiglie principali:
@@ -30,13 +26,13 @@ In entrambi i casi le funzioni utili al risparmio sono le stesse: programmazione
 
 ### I migliori modelli
 
-Prezzi indicativi verificati su Amazon.it a settembre 2026 (fluttuano spesso con offerte a tempo):
+Prezzi indicativi verificati online a settembre 2026 (fluttuano spesso con offerte a tempo):
 
 | Modello | Ecosistema | Attacco | Caratteristiche | Prezzo indicativo | Link |
 |---|---|---|---|---|---|
-| TP-Link Tapo L530E | WiFi diretto, no hub | E27 | RGBCW, 16 milioni di colori, 806 lumen, 9W | 12-15 € (singola) | [Amazon](https://www.amazon.it/TP-Link-Intelligente-Multicolore-Tapo-L530E/dp/B08GDC99PX?tag=audiobookit-21) |
-| TP-Link Tapo L510E | WiFi diretto, no hub | E27 | Solo bianco caldo dimmerabile, 806 lumen, 9W | 8-15 € (prezzo molto variabile con offerte) | [Amazon](https://www.amazon.it/Tapo-L510E-Lampadina-dimmerabile-Controllo/dp/B087RZVBQW?tag=audiobookit-21) |
-| Philips Hue White and Color Ambiance (2 pz) | Zigbee, richiede Hue Bridge | E27 | RGBCW, massima affidabilità, integrazione nativa Apple HomeKit | Circa 69 € la coppia + 60 € il Bridge (obbligatorio se non già posseduto) | [Amazon](https://www.amazon.it/Philips-White-Color-Ambiance-Lampadina/dp/B0748NW4Y4?tag=audiobookit-21) |
+| TP-Link Tapo L530E | WiFi diretto, no hub | E27 | RGBCW, 16 milioni di colori, 806 lumen, 9W | 12-15 € (singola) | — |
+| TP-Link Tapo L510E | WiFi diretto, no hub | E27 | Solo bianco caldo dimmerabile, 806 lumen, 9W | 8-15 € (prezzo molto variabile con offerte) | — |
+| Philips Hue White and Color Ambiance (2 pz) | Zigbee, richiede Hue Bridge | E27 | RGBCW, massima affidabilità, integrazione nativa Apple HomeKit | Circa 69 € la coppia + 60 € il Bridge (obbligatorio se non già posseduto) | — |
 | IKEA Tradfri | Zigbee, hub opzionale (gateway Dirigera solo per automazioni avanzate) | E27 | Bianco regolabile, funziona anche standalone con telecomando incluso | Circa 15 € (acquisto in negozio IKEA o online ikea.it) | [IKEA.it](https://www.ikea.com/it/it/cat/lampadine-a-led-wireless-36813/) |
 
 Per chi ha già Alexa o Google Home e vuole spendere il minimo, i Tapo restano il punto di ingresso più semplice: si collegano al WiFi di casa senza acquistare nulla in più. Chi possiede già dispositivi Apple HomeKit o cerca il massimo dell'affidabilità con molte lampadine può valutare Hue, sapendo che il Bridge è un costo fisso iniziale.

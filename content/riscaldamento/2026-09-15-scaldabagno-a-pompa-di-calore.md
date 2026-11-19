@@ -16,10 +16,6 @@ cover:
 
 Il vecchio boiler elettrico è uno degli elettrodomestici più energivori di casa: da solo può pesare 500-700 euro l'anno in bolletta per una famiglia di 3-4 persone. Uno scaldabagno a pompa di calore fa lo stesso lavoro consumando fino al 70% di elettricità in meno, perché invece di scaldare l'acqua con una resistenza usa il calore presente nell'aria, come un piccolo condizionatore al contrario. Nell'esempio di una famiglia che sostituisce un boiler elettrico da 80 litri, il risparmio reale è di circa 350-400 euro l'anno, con un costo di acquisto che oggi parte da meno di 1.000 euro.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=scaldabagno+a+pompa+di+calore&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta gli scaldabagni a pompa di calore su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Uno scaldabagno (o scaldacqua) a pompa di calore è un boiler che integra una piccola pompa di calore aria-acqua: un compressore preleva calore dall'aria del locale in cui è installato (o dall'esterno, se collegato a un canale dedicato) e lo trasferisce all'acqua contenuta nel serbatoio, esattamente come fa una pompa di calore per il riscaldamento della casa, ma in scala ridotta e dedicata alla sola acqua calda sanitaria.
@@ -34,9 +30,9 @@ Il prezzo del prodotto non include l'installazione (collegamento idraulico ed el
 
 | Modello | Capacità | Prezzo indicativo | COP dichiarato | Pro | Contro | Link |
 |---|---|---|---|---|---|---|
-| [Ariston Nuos Evo A+](https://www.ariston.com/it-it/prodotti-riscaldamento/scaldacqua-a-pompa-di-calore/nuos-evo/) | 110 L | €1.000-1.100 | ~3,4 | Marchio molto diffuso in Italia, assistenza capillare, app WiFi | Ingombro maggiore rispetto ai modelli a basamento | [Amazon](https://www.amazon.it/SCALDABAGNO-POMPA-CALORE-ARISTON-NUOS/dp/B00VKA4KFA?tag=audiobookit-21) |
-| [Ferroli EGEA LT 120](https://www.ferroli.com/it/prodotti/scaldacqua-a-pompa-di-calore) | 120 L | €1.050-1.150 | ~3,3 | Gas refrigerante ecologico R290, WiFi incluso, buon rapporto qualità/prezzo | Meno diffuso di Ariston nell'assistenza post-vendita | [Amazon](https://www.amazon.it/Ferroli-2COBA01F-Scaldacqua-Calore-Installazione/dp/B08ZHQ1B4Z?tag=audiobookit-21) |
-| [Ferroli EGEA LT 200](https://www.ferroli.com/it/prodotti/scaldacqua-a-pompa-di-calore) | 200 L | €1.400-1.500 | ~3,3 | Adatto a famiglie numerose, installazione a basamento più semplice | Serve più spazio, gas R134a con impatto ambientale maggiore | [Amazon](https://www.amazon.it/Ferroli-2COBA04F-Scaldacqua-Calore-Basamento/dp/B08ZHJYS36?tag=audiobookit-21) |
+| [Ariston Nuos Evo A+](https://www.ariston.com/it-it/prodotti-riscaldamento/scaldacqua-a-pompa-di-calore/nuos-evo/) | 110 L | €1.000-1.100 | ~3,4 | Marchio molto diffuso in Italia, assistenza capillare, app WiFi | Ingombro maggiore rispetto ai modelli a basamento | — |
+| [Ferroli EGEA LT 120](https://www.ferroli.com/it/prodotti/scaldacqua-a-pompa-di-calore) | 120 L | €1.050-1.150 | ~3,3 | Gas refrigerante ecologico R290, WiFi incluso, buon rapporto qualità/prezzo | Meno diffuso di Ariston nell'assistenza post-vendita | — |
+| [Ferroli EGEA LT 200](https://www.ferroli.com/it/prodotti/scaldacqua-a-pompa-di-calore) | 200 L | €1.400-1.500 | ~3,3 | Adatto a famiglie numerose, installazione a basamento più semplice | Serve più spazio, gas R134a con impatto ambientale maggiore | — |
 | [Immergas Rapax 100 V2](https://casa.immergas.com/pompa-di-calore-per-acqua-calda-sanitaria/) | 100 L | €1.550-1.650 | ~3,2 | Installazione murale compatta, buona qualità costruttiva | Prezzo più alto a parità di capacità | [Confronta prezzi](https://www.trovaprezzi.it/prezzo_caldaie-scaldabagni_scaldacqua_a_pompa_di_calore_ferroli_egea_120_lt.aspx) |
 
 *Prezzi indicativi settembre 2026, solo apparecchio, IVA inclusa; installazione esclusa e variabile in base al contesto impiantistico.*

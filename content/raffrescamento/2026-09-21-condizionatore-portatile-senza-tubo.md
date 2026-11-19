@@ -16,10 +16,6 @@ cover:
 
 Cercando un "condizionatore portatile senza tubo" online si trovano decine di prodotti a prezzi invitanti, con promesse di stanze fresche in pochi minuti e nessuna installazione. La realtà è meno rosea: **un vero condizionatore senza tubo non esiste**, perché il calore sottratto alla stanza deve andare da qualche parte. Quello che viene venduto con questo nome è quasi sempre un **raffrescatore evaporativo**, un apparecchio diverso, che funziona bene solo in condizioni precise. Vediamo cosa sono, quanto consumano e quali alternative reali hai.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=condizionatore+portatile&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i condizionatori portatili su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un condizionatore (portatile o fisso) è una piccola pompa di calore: un compressore sposta il calore dalla stanza all'esterno. Nei portatili il tubo serve proprio a espellere quell'aria calda, di solito attraverso una finestra socchiusa.
@@ -34,14 +30,14 @@ Chi vuole davvero raffreddare senza unità esterna ha due strade: il portatile c
 
 ### I migliori modelli
 
-| Modello | Tipo | Pro | Contro | Link |
-|---|---|---|---|---|
-| De'Longhi Pinguino PAC EL112 CST | Portatile con tubo, circa 11.000 BTU/h | Raffresca davvero, classe A+, deumidifica | Prezzo alto, rumorosità da portatile | [Amazon](https://www.amazon.it/DeLonghi-PAC-Climatizzatore-portatile-EL112/dp/B083VCSZ92?tag=audiobookit-21) |
-| De'Longhi Pinguino PAC EM82 | Portatile con tubo, 9.400 BTU/h, gas R290 | Gas a basso impatto, per stanze piccole | Potenza limitata | [Amazon](https://www.amazon.it/DeLonghi-PAC-EM82-ambienti-Bianco/dp/B08P3PVGQ5?tag=audiobookit-21) |
-| Olimpia Splendid Peler 4T | Raffrescatore evaporativo, serbatoio 4 litri | Consumo minimo, trasportabile | Non è un condizionatore, funziona solo con aria secca | [Amazon](https://www.amazon.it/Olimpia-Splendid-Peler-Raffrescatore-Raffrescamento/dp/B0DTB5TCZK?tag=audiobookit-21) |
-| Olimpia Splendid Peler 10 WiFi | Raffrescatore evaporativo, serbatoio 10 litri | Più autonomia, controllo da app | Stesso limite dell'umidità | [Amazon](https://www.amazon.it/Olimpia-Splendid-99242-Peler-WiFi/dp/B0BVBVVW8P?tag=audiobookit-21) |
+| Modello | Tipo | Pro | Contro |
+| --- | --- | --- | --- |
+| De'Longhi Pinguino PAC EL112 CST | Portatile con tubo, circa 11.000 BTU/h | Raffresca davvero, classe A+, deumidifica | Prezzo alto, rumorosità da portatile |
+| De'Longhi Pinguino PAC EM82 | Portatile con tubo, 9.400 BTU/h, gas R290 | Gas a basso impatto, per stanze piccole | Potenza limitata |
+| Olimpia Splendid Peler 4T | Raffrescatore evaporativo, serbatoio 4 litri | Consumo minimo, trasportabile | Non è un condizionatore, funziona solo con aria secca |
+| Olimpia Splendid Peler 10 WiFi | Raffrescatore evaporativo, serbatoio 10 litri | Più autonomia, controllo da app | Stesso limite dell'umidità |
 
-*Prezzi non indicati perché variano molto: verifica il prezzo aggiornato su Amazon prima dell'acquisto. Come riferimento, la versione Wi-Fi del Pinguino PAC EL112 CST risultava a circa 830-850 euro sui comparatori (dato consultato a settembre 2026).*
+*Prezzi non indicati perché variano molto: verifica il prezzo aggiornato prima dell'acquisto. Come riferimento, la versione Wi-Fi del Pinguino PAC EL112 CST risultava a circa 830-850 euro sui comparatori (dato consultato a settembre 2026).*
 
 ### Quanto si risparmia davvero
 

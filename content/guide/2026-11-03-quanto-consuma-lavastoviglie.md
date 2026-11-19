@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=lavastoviglie+classe+energetica+a&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le lavastoviglie in classe A su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Come per il [frigorifero](/guide/quanto-consuma-frigorifero/) e la [lavatrice](/guide/quanto-consuma-lavatrice/), l'etichetta energetica della lavastoviglie segue dal marzo 2021 la scala A-G. Il dato che conta è il consumo in kWh per 100 cicli riportato sull'etichetta o sulla scheda EPREL del modello, calcolato sul programma Eco: va diviso per 100 per avere il consumo di un singolo lavaggio.
@@ -40,13 +36,13 @@ La differenza rispetto alla lavatrice è che qui la classe energetica incide mol
 
 Confronto tra tre lavastoviglie reali in commercio, scelte per rappresentare classi e capacità diverse (dati da etichetta EPREL e scheda tecnica del produttore):
 
-| Modello | Capacità | Classe | Consumo Eco dichiarato | Costo a ciclo (0,43 €/kWh) | Link |
-|---|---|---|---|---|---|
-| Bosch SMS6ECI15E | 14 coperti | A | 0,54 kWh, 9 litri/ciclo | ~0,23 €/ciclo | [Amazon](https://www.amazon.it/s?k=Bosch+SMS6ECI15E&tag=audiobookit-21) |
-| Candy Brava CDPH 2L1047S (slim) | 10 coperti | E | 0,75 kWh, 9 litri/ciclo | ~0,32 €/ciclo | [Amazon](https://www.amazon.it/s?k=Candy+Brava+CDPH+2L1047S&tag=audiobookit-21) |
-| Beko DVN05320W | 13 coperti | E | 0,92 kWh, 12,9 litri/ciclo | ~0,40 €/ciclo | [Amazon](https://www.amazon.it/s?k=Beko+DVN05320W&tag=audiobookit-21) |
+| Modello | Capacità | Classe | Consumo Eco dichiarato | Costo a ciclo (0,43 €/kWh) |
+| --- | --- | --- | --- | --- |
+| Bosch SMS6ECI15E | 14 coperti | A | 0,54 kWh, 9 litri/ciclo | ~0,23 €/ciclo |
+| Candy Brava CDPH 2L1047S (slim) | 10 coperti | E | 0,75 kWh, 9 litri/ciclo | ~0,32 €/ciclo |
+| Beko DVN05320W | 13 coperti | E | 0,92 kWh, 12,9 litri/ciclo | ~0,40 €/ciclo |
 
-Prezzi non riportati in tabella: vanno controllati sulla scheda del modello su Amazon prima dell'acquisto. Il confronto che conta è quello tra il Bosch in classe A e i due modelli in classe E: a parità di utilizzo, consumano quasi il doppio.
+Prezzi non riportati in tabella: vanno controllati sulla scheda del modello prima dell'acquisto. Il confronto che conta è quello tra il Bosch in classe A e i due modelli in classe E: a parità di utilizzo, consumano quasi il doppio.
 
 ### Quanto si risparmia davvero
 

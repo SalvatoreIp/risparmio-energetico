@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=piano+cottura+induzione+60+cm&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i piani a induzione su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il piano a induzione non produce calore come una resistenza o una fiamma: genera un campo magnetico che scalda direttamente la base della pentola, se in materiale ferromagnetico (acciaio, ghisa, pentole "universali" con fondo adatto). Quasi tutta l'energia finisce nella pentola, mentre un fornello a gas disperde buona parte del calore nell'aria intorno alla fiamma.
@@ -40,13 +36,13 @@ Un aspetto pratico riguarda il contatore. La potenza massima di un piano a 4 zon
 
 Tre piani a induzione da 60 cm con 4 zone, scelti tra i modelli segnalati da test indipendenti (Altroconsumo, febbraio 2026) e guide di settore, in fasce di prezzo diverse:
 
-| Modello | Zone | Potenza totale | Segnalazione | Link |
-|---|---|---|---|---|
-| Electrolux Serie 300 EIB60424CK | 4 | ~7,2 kW | "Miglior acquisto" Altroconsumo, fascia 230-270 € | [Amazon](https://www.amazon.it/s?k=Electrolux+EIB60424CK&tag=audiobookit-21) |
-| Candy CITT642C/E1 | 4 | ~7,2 kW (1300-2300 W a zona) | fascia economica, power management incluso | [Amazon](https://www.amazon.it/s?k=Candy+CITT642C+piano+induzione&tag=audiobookit-21) |
-| Bosch Serie 6 PIX631HC1E | 4 | fino a 7,4 kW con PowerBoost | buon rapporto qualità-prezzo per Altroconsumo, fascia 550-650 € | [Amazon](https://www.amazon.it/s?k=Bosch+PIX631HC1E&tag=audiobookit-21) |
+| Modello | Zone | Potenza totale | Segnalazione |
+| --- | --- | --- | --- |
+| Electrolux Serie 300 EIB60424CK | 4 | ~7,2 kW | "Miglior acquisto" Altroconsumo, fascia 230-270 € |
+| Candy CITT642C/E1 | 4 | ~7,2 kW (1300-2300 W a zona) | fascia economica, power management incluso |
+| Bosch Serie 6 PIX631HC1E | 4 | fino a 7,4 kW con PowerBoost | buon rapporto qualità-prezzo per Altroconsumo, fascia 550-650 € |
 
-Amazon.it non mostra in modo stabile le pagine prodotto di questi piani da incasso (spesso venduti tramite negozi di elettrodomestici o GDO): i link in tabella portano a una ricerca per nome esatto del modello, non a un ASIN inventato. Verificare prezzo, disponibilità e misure del foro da incasso (varia tra 56 e 59 cm) prima dell'acquisto.
+Questi piani da incasso si vendono soprattutto nei negozi di elettrodomestici e nella grande distribuzione. Verificare prezzo, disponibilità e misure del foro da incasso (varia tra 56 e 59 cm) prima dell'acquisto.
 
 ### Quanto si risparmia davvero
 

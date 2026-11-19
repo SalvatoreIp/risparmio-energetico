@@ -12,10 +12,6 @@ cover:
   alt: "Scaffale di coltivazione indoor con lattuga e microgreens sotto barre LED a spettro completo"
 ---
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=lampada+led+grow+light+idroponica&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le lampade LED da coltivazione su Amazon</a>
-</div>
-
 <p class="lead">Una lampada LED da 60W accesa 14 ore al giorno costa circa 8€ al mese in bolletta. La stessa resa luminosa con una vecchia lampada HPS o CFL, ballast e ventola di raffreddamento incluse, può costare dal 50% a oltre il doppio in più. Su un impianto idroponico domestico, dove la luce artificiale è indispensabile 12-16 ore al giorno tutto l'anno, la scelta della lampada è la voce che pesa di più sulla bolletta — e quella dove si risparmia di più sbagliando meno.</p>
 
 <div class="in-breve">
@@ -96,45 +92,25 @@ Per ottenere la stessa resa luminosa utile di una LED da 300W, una lampada HPS t
 **Prezzo indicativo:** 30-60€
 **Perché sceglierlo:** consumo contenuto (6-8€/mese), spettro pieno adatto a basilico, rucola e insalate baby, dimensioni compatte per davanzale o piccola postazione in cucina.
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=pannello+led+full+spectrum+60w+piante&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 ### 2. Quantum board 100-150W (per sistemi NFT/verticali medi)
 
 **Prezzo indicativo:** 80-150€
 **Perché sceglierlo:** miglior rapporto tra copertura (0,5-0,8 m²) e consumo, tecnologia quantum board più efficiente dei pannelli COB economici, dimmerabile nella maggior parte dei modelli.
-
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=quantum+board+led+150w+coltivazione&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
 
 ### 3. Pannello LED 240-300W (per grow box e setup grandi)
 
 **Prezzo indicativo:** 200-350€
 **Perché sceglierlo:** copre fino a 1,2 m², sostituisce con lo stesso raccolto una HPS da 400W risparmiando quasi 240€/anno di elettricità, spettro regolabile per fasi diverse di crescita.
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=pannello+led+300w+grow+box&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 ### 4. Timer digitale programmabile
 
 **Prezzo indicativo:** 10-20€
 **Perché sceglierlo:** automatizza il ciclo luce/buio senza doverci pensare ogni giorno, evita sia lo stress da luce insufficiente sia lo spreco di ore extra inutili.
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=timer+digitale+programmabile+presa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 ### 5. Wattmetro/misuratore di consumo
 
 **Prezzo indicativo:** 12-20€
 **Perché sceglierlo:** l'unico modo per sapere quanto consuma davvero la tua lampada (non il dato di marketing) e verificare a fine mese se il calcolo in bolletta torna.
-
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=wattmetro+misuratore+consumo+energetico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
 
 ## Errori da evitare
 

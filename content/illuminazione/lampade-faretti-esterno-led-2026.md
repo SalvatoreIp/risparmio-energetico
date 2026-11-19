@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=faretti+led+esterno&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta faretti e lampade LED da esterno su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio e fluorescenti con consumi dell'80-90% più bassi (un faretto da 10W LED equivale a uno da 50-70W alogeno) e una durata 25-50 volte superiore (25.000-50.000 ore, contro le 2.000-3.000 ore degli alogeni). Un driver converte la tensione di rete (230V) in quella richiesta dal LED (12-24V DC), un dissipatore in alluminio mantiene la temperatura sotto i 60-70°C, e i modelli per esterno sono certificati IP65/IP67 contro pioggia e polvere.
@@ -47,7 +43,6 @@ Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio
 <th>Prezzo (indicativo ottobre 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -56,28 +51,24 @@ Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio
 <td>€55-90</td>
 <td>Qualità olandese, durata 50.000h, scelta temperatura colore</td>
 <td>Prezzo elevato, installazione professionale necessaria</td>
-<td><a href="https://www.amazon.it/dp/B0DFDMSG79?tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>LEDinaire Proiettore 30W</strong><br><small>IP66, 3000 lumen, bianco caldo/freddo</small></td>
 <td>€25-35</td>
 <td>Ottimo rapporto qualità-prezzo, installazione semplice</td>
 <td>Driver meno robusto, durata 30.000h</td>
-<td><a href="https://www.amazon.it/dp/B0BFX63NY2?tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Lightwood24 Faretto LED 10W</strong><br><small>IP65, 900 lumen, design compatto</small></td>
 <td>€18-25</td>
 <td>Compatto, economico, adatto per scale e ingressi</td>
 <td>Potenza limitata, solo per applicazioni domestiche</td>
-<td><a href="https://www.amazon.it/s?k=lampade+led+esterno&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Optonica IP65 30W</strong><br><small>3000K, 3000 lumen, corpo in alluminio</small></td>
 <td>€22-30</td>
 <td>Bilancio ottimo potenza/prezzo, resistenza meccanica</td>
 <td>Temperatura colore fissa (3000K)</td>
-<td><a href="https://www.amazon.it/s?k=lampade+led+esterno&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +82,6 @@ Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio
 <th>Prezzo (indicativo ottobre 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -100,35 +90,30 @@ Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio
 <td>€80-100</td>
 <td>Colori RGBW, controllo app, ricarica USB-C, facile installazione</td>
 <td>Batteria 4-6 ore, durata inferiore a cablati</td>
-<td><a href="https://www.amazon.it/dp/B0FN7MY3ZT?tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Philips Hue Lily IP67</strong><br><small>Smart, 16M colori, batteria inclusa</small></td>
 <td>€90-110</td>
 <td>Integrazione Philips Hue, 16 milioni di colori, app completa</td>
 <td>Prezzo premium, autonomia 3-5 ore (ricaricabile)</td>
-<td><a href="https://www.amazon.it/dp/B07BXT7VHT?tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Faro Solare 40 LED IP65</strong><br><small>Pannello solare 4x4cm, sensore crepuscolare</small></td>
 <td>€8-15</td>
 <td>Prezzo bassissimo, installazione gratuita (no cablaggio), autonomia 8-10 ore</td>
 <td>Potenza limitata, prestazioni ridotte in inverno</td>
-<td><a href="https://www.amazon.it/s?k=lampade+led+esterno&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Kit Faro LED Solare 2000lm</strong><br><small>Pannello monocristallino, batteria LiFePO4</small></td>
 <td>€35-50</td>
 <td>Alta potenza, batteria di lunga durata, telecomando incluso</td>
 <td>Installazione leggermente complessa, prezzo medio</td>
-<td><a href="https://www.amazon.it/dp/B08DFX259L?tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Lampada a Muro Solare LED</strong><br><small>IP65, sensore movimento, 3000K</small></td>
 <td>€15-25</td>
 <td>Accensione automatica al movimento, economico, facile installazione</td>
 <td>Solo attivazione movimento, non costante</td>
-<td><a href="https://www.amazon.it/dp/B0D6724RJM?tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -142,7 +127,6 @@ Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio
 <th>Prezzo (indicativo ottobre 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -151,21 +135,18 @@ Le **lampade e i faretti LED da esterno** sostituiscono alogeni, vapori di sodio
 <td>€25-35</td>
 <td>Atmosfera creativa, resistente all'acqua, programmabile</td>
 <td>Illuminazione decorativa, non funzionale per sicurezza</td>
-<td><a href="https://www.amazon.it/s?k=lampade+led+esterno&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Lampada a Sfera Solare LED</strong><br><small>Ø20cm, IP65, luce calda, effetto acqua</small></td>
 <td>€30-45</td>
 <td>Design elegante, effetto decorativo acqua, autonomia 6-8 ore</td>
 <td>Illuminazione limitata, prezzo medio-alto</td>
-<td><a href="https://www.amazon.it/s?k=lampade+led+esterno&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Landlanterna LED Solare</strong><br><small>IP65, stile vintage, 300 lumen</small></td>
 <td>€20-30</td>
 <td>Design classico, buona luminosità, resistente</td>
 <td>Potenza limitata per illuminazione sicurezza</td>
-<td><a href="https://www.amazon.it/s?k=Landlanterna+LED+Solare&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>

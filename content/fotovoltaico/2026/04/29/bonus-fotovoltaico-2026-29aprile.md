@@ -25,10 +25,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+fotovoltaico+casa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit fotovoltaici su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Il "bonus fotovoltaico" non è un incentivo a sé: è la detrazione per i lavori in casa (il Bonus casa, ex bonus ristrutturazioni, articolo 16-bis del Testo unico delle imposte sui redditi) applicata all'installazione di un impianto solare. La Legge di Bilancio 2026 ha confermato le aliquote del 2025:

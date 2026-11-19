@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=deumidificatore+muffa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i deumidificatori su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un deumidificatore aspira l'aria della stanza, le toglie umidità e la rimette in circolo più asciutta. Esistono due tecnologie, e la differenza non è solo di prezzo:
@@ -40,13 +36,13 @@ Per l'umidità estiva in una stanza calda (non muffa, ma aria appiccicosa), la s
 
 ### I migliori modelli
 
-| Modello | Tecnologia | Capacità | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|---|
-| De'Longhi Tasciugo AriaDry DEX216F | Compressore | 16 L/giorno, fino a 75 m³, antigelo elettronico fino a 2°C | Verificare su Amazon | Marchio diffuso, gas R290 a basso impatto, funziona anche a temperature leggermente basse | Sopra i 300-350 € in alcuni negozi, su Amazon spesso meno | [Amazon](https://www.amazon.it/DeLonghi-DEX216F-Tasciugo-Ariadry-Deumidificatore/dp/B07N8TBH4K?tag=audiobookit-21) |
-| COMFEE' CF-DEHU-12 | Compressore | 12 L/giorno, fino a 20 m², serbatoio 2 L | circa 110-160 € | Compatto ed economico, gas R290, buono per camere e bagni riscaldati | Serbatoio piccolo, inefficace sotto i 15°C come tutti i compressori | [Amazon](https://www.amazon.it/Comfee-CF-DEHU-12/dp/B07Y315Z5K?tag=audiobookit-21) |
-| Meaco DD8L Zambezi | Essiccante | 8,3 L/giorno nominali, funziona efficacemente anche sotto i 10°C | Verificare su Amazon | Pensato apposta per ambienti freddi non riscaldati, ionizzatore incluso, più silenzioso di un compressore | Consuma di più (350-660 W) e costa più all'acquisto | [Amazon](https://www.amazon.it/Meaco-DD8L-Zambezi-Deumidificatore-Antibatterico/dp/B085D5NZ3T?tag=audiobookit-21) |
+| Modello | Tecnologia | Capacità | Prezzo indicativo | Pro | Contro |
+| --- | --- | --- | --- | --- | --- |
+| De'Longhi Tasciugo AriaDry DEX216F | Compressore | 16 L/giorno, fino a 75 m³, antigelo elettronico fino a 2°C | variabile | Marchio diffuso, gas R290 a basso impatto, funziona anche a temperature leggermente basse | Sopra i 300-350 € in alcuni negozi, online spesso meno |
+| COMFEE' CF-DEHU-12 | Compressore | 12 L/giorno, fino a 20 m², serbatoio 2 L | circa 110-160 € | Compatto ed economico, gas R290, buono per camere e bagni riscaldati | Serbatoio piccolo, inefficace sotto i 15°C come tutti i compressori |
+| Meaco DD8L Zambezi | Essiccante | 8,3 L/giorno nominali, funziona efficacemente anche sotto i 10°C | variabile | Pensato apposta per ambienti freddi non riscaldati, ionizzatore incluso, più silenzioso di un compressore | Consuma di più (350-660 W) e costa più all'acquisto |
 
-*Prezzi indicativi ottobre 2026, variano spesso per offerte: verifica sempre il prezzo aggiornato su Amazon al momento dell'acquisto.*
+*Prezzi indicativi ottobre 2026, variano spesso per offerte: verifica sempre il prezzo aggiornato al momento dell'acquisto.*
 
 ### Quanto si risparmia davvero
 

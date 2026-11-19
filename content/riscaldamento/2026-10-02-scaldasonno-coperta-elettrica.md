@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=scaldasonno&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta gli scaldasonno su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Scaldasonno e coperta elettrica (o termocoperta) funzionano allo stesso modo: un cavo resistivo cucito nel tessuto si scalda per effetto Joule, esattamente come una stufetta, e un regolatore con 2-6 livelli ne decide l'intensità. La differenza è solo nella posizione d'uso: lo scaldasonno va sotto il lenzuolo, a contatto diretto con il materasso, e serve per preriscaldare il letto prima di coricarsi o per scaldarlo mentre si dorme; la coperta elettrica va sopra, come un plaid, e si usa restando svegli (sul divano, leggendo a letto).
@@ -35,11 +31,11 @@ La potenza dichiarata non è quasi mai quella consumata per tutta la notte: un t
 
 ## I migliori modelli
 
-| Modello | Taglia | Potenza | Prezzo indicativo | Punti di forza | Link |
-|---|---|---|---|---|---|
-| [Imetec Adapto Singolo lana/merino](https://www.imetec.com) | Singolo 150x80 cm | 30 W max | circa 70-80 € | Riscaldamento rapido, 6 temperature, tessuto lavabile, spegnimento automatico | [Amazon](https://www.amazon.it/Imetec-Scaldasonno-Riscaldamento-Temperatura-Personalizzata/dp/B07Y8GQMP5?tag=audiobookit-21) |
-| [Imetec Adapto Recreo Matrimoniale](https://www.imetec.com) | Matrimoniale 150x160 cm | 2x30 W | circa 130-150 € | Due zone di calore separate (ognuno regola il proprio lato), tessuto ipoallergenico in fibra riciclata | [Amazon](https://www.amazon.it/Imetec-Scaldasonno-Matrimoniale-Riscaldamento-Personalizzata/dp/B0CHSFW66S?tag=audiobookit-21) |
-| [Bimar SCL11A Singolo](https://www.bimar.it) | Singolo 150x80 cm | 20/30/60 W | circa 35-45 € | Opzione economica, 3 livelli di temperatura, protezione da surriscaldamento | [Amazon](https://www.amazon.it/Termocoperta-scaldaletto-elettrico-sintetica-lavatrice/dp/B07FQPVTXL?tag=audiobookit-21) |
+| Modello | Taglia | Potenza | Prezzo indicativo | Punti di forza |
+| --- | --- | --- | --- | --- |
+| [Imetec Adapto Singolo lana/merino](https://www.imetec.com) | Singolo 150x80 cm | 30 W max | circa 70-80 € | Riscaldamento rapido, 6 temperature, tessuto lavabile, spegnimento automatico |
+| [Imetec Adapto Recreo Matrimoniale](https://www.imetec.com) | Matrimoniale 150x160 cm | 2x30 W | circa 130-150 € | Due zone di calore separate (ognuno regola il proprio lato), tessuto ipoallergenico in fibra riciclata |
+| [Bimar SCL11A Singolo](https://www.bimar.it) | Singolo 150x80 cm | 20/30/60 W | circa 35-45 € | Opzione economica, 3 livelli di temperatura, protezione da surriscaldamento |
 
 Per un letto matrimoniale condiviso, i modelli con due zone separate (come l'Adapto Recreo) evitano la lite classica su chi vuole più calore: ogni lato ha il proprio regolatore e consuma solo quello che serve davvero a chi lo usa, invece di scaldare tutto il materasso alla stessa intensità.
 

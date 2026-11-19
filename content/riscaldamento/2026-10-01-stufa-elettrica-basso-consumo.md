@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=stufetta+elettrica+basso+consumo&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le stufette a basso consumo su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Le stufe elettriche portatili si dividono in tre famiglie, tutte basate sull'effetto Joule (resistenza elettrica che scalda):
@@ -39,11 +35,11 @@ La sigla "a basso consumo" o "eco" sulla scatola si riferisce quasi sempre a una
 
 ## I migliori modelli
 
-| Modello | Tipo | Potenza | Prezzo indicativo | Punti di forza | Link |
-|---|---|---|---|---|---|
-| [De'Longhi HFX65V20](https://www.delonghi.com/it-it/termoventilatore-tower-ceramic-hfx65v20/p/HFX65V20) | Termoventilatore a torre ceramico | 1200/2000 W | circa 110-115 € | Funzione Eco-Energy che regola la potenza sulla temperatura ambiente, timer 24h, oscillazione | [Amazon](https://www.amazon.it/DeLonghi-HFX65V20-Termoventilatore-Ceramico-Bianco/dp/B073RKV8G1?tag=audiobookit-21) |
-| [Dreo Atom One](https://www.dreo.com/products/dreo-atom-one-space-heater) | Termoventilatore PTC ceramico | 900/1000/1500 W | circa 60-70 € | Modalità ECO, 3 velocità, telecomando, oscillazione 70°, più economico di fascia | [Amazon](https://www.amazon.it/Dreo-Oscillazione-termostato-Telecomando-energetico/dp/B097RG67QB?tag=audiobookit-21) |
-| Klarstein pannello a infrarossi 320W | Pannello radiante a infrarossi | 320 W | circa 95-110 € | Scalda le superfici non l'aria, app WiFi e timer, adatto a bagni e stanze piccole | [Amazon](https://www.amazon.it/Klarstein-Elettrica-Infrarossi-Telecomando-Riscaldamento/dp/B0CM3RNP4T?tag=audiobookit-21) |
+| Modello | Tipo | Potenza | Prezzo indicativo | Punti di forza |
+| --- | --- | --- | --- | --- |
+| [De'Longhi HFX65V20](https://www.delonghi.com/it-it/termoventilatore-tower-ceramic-hfx65v20/p/HFX65V20) | Termoventilatore a torre ceramico | 1200/2000 W | circa 110-115 € | Funzione Eco-Energy che regola la potenza sulla temperatura ambiente, timer 24h, oscillazione |
+| [Dreo Atom One](https://www.dreo.com/products/dreo-atom-one-space-heater) | Termoventilatore PTC ceramico | 900/1000/1500 W | circa 60-70 € | Modalità ECO, 3 velocità, telecomando, oscillazione 70°, più economico di fascia |
+| Klarstein pannello a infrarossi 320W | Pannello radiante a infrarossi | 320 W | circa 95-110 € | Scalda le superfici non l'aria, app WiFi e timer, adatto a bagni e stanze piccole |
 
 Per uno spazio piccolo e ben isolato un pannello a infrarossi da 300-400 W consuma meno di un termoventilatore da 2000 W a parità di comfort percepito, perché scalda solo chi sta nel suo raggio d'azione invece di tutta l'aria della stanza. Per un bagno freddo al mattino, dove serve calore immediato per pochi minuti, il termoventilatore resta più pratico perché l'effetto si sente subito in tutto l'ambiente.
 

@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+fotovoltaico+balcone+con+batteria&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit fotovoltaici da balcone con accumulo su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Un kit da balcone con accumulo aggiunge una piccola batteria al classico impianto plug and play (pannello più microinverter collegato a una presa di casa). Esistono unità integrate, pensate per essere installate già con la batteria, e sistemi modulari, dove la batteria si aggiunge in un secondo momento a un kit già installato, purché il microinverter sia compatibile.
@@ -37,7 +33,7 @@ Le capacità più comuni vanno da 1 a 2 kWh per l'unità base, espandibili fino 
 
 ## I migliori modelli del 2026
 
-Prezzi indicativi novembre 2026. Nessuno dei modelli elencati risulta in vendita su Amazon.it al momento della verifica: si trovano presso i rivenditori italiani ufficiali o i siti dei produttori, quindi i link puntano lì invece che a un ASIN inventato.
+Prezzi indicativi novembre 2026. I modelli elencati si trovano presso i rivenditori italiani ufficiali o i siti dei produttori, quindi i link puntano lì invece che a un ASIN inventato.
 
 | Prodotto | Capacità | Prezzo | Per chi | Link |
 |---|---|---|---|---|

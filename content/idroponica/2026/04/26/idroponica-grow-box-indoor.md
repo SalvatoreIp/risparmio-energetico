@@ -23,10 +23,6 @@ Un grow box completo — tenda isolata, LED da coltivazione e ventilazione — c
 </ul>
 </div>
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=grow+box+idroponica+completo&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit grow box completi su Amazon</a>
-</div>
-
 ## Cos'è un grow box idroponico
 
 Un grow box è una tenda chiusa e isolata (telo riflettente interno, di solito Mylar o 600D) che racchiude un sistema idroponico, l'illuminazione LED e la ventilazione in un unico spazio controllato. A differenza di un kit idroponico "a vista" come quello descritto nella [guida al risparmio con l'idroponica](/idroponica/quanto-si-risparmia-idroponica-casa/), qui le piante crescono in un ambiente isolato da luce e temperatura esterne.
@@ -42,7 +38,7 @@ Il vantaggio reale della tenda, rispetto a un sistema idroponico semplice, è il
 
 ## I kit grow box sul mercato
 
-Non esiste un singolo prodotto Amazon di riferimento per questa categoria: il mercato è frammentato tra diversi marchi (Vevor, Mophorn, Spider Farmer, Garden High Pro, tra gli altri) con configurazioni simili ma prezzi variabili. La tabella riporta fasce di prezzo reali rilevate su più rivenditori a novembre 2026, non un singolo prodotto:
+Non esiste un singolo prodotto di riferimento per questa categoria: il mercato è frammentato tra diversi marchi (Vevor, Mophorn, Spider Farmer, Garden High Pro, tra gli altri) con configurazioni simili ma prezzi variabili. La tabella riporta fasce di prezzo reali rilevate su più rivenditori a novembre 2026, non un singolo prodotto:
 
 | Taglia tenda | LED | Piante indicative | Prezzo kit completo* | Adatta a |
 |---|---|---|---|---|
@@ -57,8 +53,6 @@ Non esiste un singolo prodotto Amazon di riferimento per questa categoria: il me
 - **Watt reali della LED**: come per le lampade da coltivazione singole, il valore che conta è il consumo reale misurabile, non il "watt equivalente" dichiarato in confezione (vedi la [guida alle lampade LED per idroponica](/idroponica/lampade-led-idroponica-consumi-costi/)).
 - **Filtro a carboni attivi**: indispensabile se la tenda sta in un ambiente condiviso (contiene gli odori, soprattutto con erbe aromatiche forti).
 - **Rumore della ventilazione**: gli estrattori più economici superano i 40-45 dB, percepibili in una stanza silenziosa.
-
-🔗 Cerca il kit più adatto su Amazon.it: [tenda 60x60 completa](https://www.amazon.it/s?k=grow+box+60x60+completo+led&tag=audiobookit-21) · [tenda 80x80 completa](https://www.amazon.it/s?k=grow+box+80x80+completo+led&tag=audiobookit-21) · [tenda 100x100 completa](https://www.amazon.it/s?k=grow+box+100x100+completo+led&tag=audiobookit-21)
 
 ## Quanto si risparmia davvero
 

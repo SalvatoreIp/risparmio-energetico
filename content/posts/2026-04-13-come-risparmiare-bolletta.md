@@ -25,10 +25,6 @@ Questi 15 interventi vanno divisi in due gruppi, perché il tempo di rientro è 
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=dispositivi+smart+risparmio+energetico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i dispositivi smart per il risparmio energetico su Amazon</a>
-</div>
-
 ### Cos'è e come funziona il risparmio energetico domestico
 
 Risparmiare sulla bolletta non significa rinunciare al comfort, ma ottimizzare i consumi attraverso:
@@ -49,31 +45,31 @@ Questi interventi combinati possono ridurre i consumi totali del 30-50% mantenen
 Programmazione automatica della temperatura, rilevamento presenza, controllo da smartphone.
 - **Risparmio:** €150-€250/anno
 - **Ritorno:** 6-12 mesi
-- [Termostato smart WiFi](https://www.amazon.it/dp/B089DR29T6/?tag=audiobookit-21)
+- Termostato smart WiFi
 
 #### 2. **Valvole termostatiche** (€15-€30 a pezzo)
 Controllo temperatura stanza per stanza, spegnimento automatico finestre aperte.
 - **Risparmio:** €200-€300/anno (per casa intera)
 - **Ritorno:** 1-2 anni
-- [Kit valvole termostatiche](https://www.amazon.it/dp/B0F6KCC5F6/?tag=audiobookit-21)
+- Kit valvole termostatiche
 
 #### 3. **Illuminazione LED** (€2-€10 a lampadina)
 Sostituzione lampadine a incandescenza con LED, consumo fino al 80% inferiore.
 - **Risparmio:** €50-€100/anno
 - **Ritorno:** 6-12 mesi
-- [Pacchetto 10 LED](https://www.amazon.it/dp/B07DGR3KWF/?tag=audiobookit-21)
+- Pacchetto 10 LED
 
 #### 4. **Presa smart con misuratore** (€25-€40)
 Monitoraggio consumi in tempo reale, programmazione accensione/spegnimento.
 - **Risparmio:** €30-€60/anno
 - **Ritorno:** 6-12 mesi
-- [Presa smart misuratore](https://www.amazon.it/dp/B0F5BFXZ9C/?tag=audiobookit-21)
+- Presa smart misuratore
 
 #### 5. **Fotovoltaico balcone** (€200-€500)
 Kit plug & play fino a 800W (i modelli più diffusi sono 300-400W), produzione 300-400 kWh/anno con buona esposizione. A 0,32 €/kWh il valore dell'energia autoprodotta è 96-128 €/anno; sopra i 350W va comunicata al GSE (nessun permesso edilizio per un singolo pannello da balcone).
 - **Risparmio:** €95-€130/anno
 - **Ritorno:** 2-5 anni
-- [Kit 300W plug & play](https://www.amazon.it/dp/B09V7JZ3WP/?tag=audiobookit-21)
+- Kit 300W plug & play
 
 #### 6. **Guarnizioni finestre** (€20-€50)
 Sigillare spifferi con guarnizioni adesive o silicone.

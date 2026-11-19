@@ -15,10 +15,6 @@ cover:
 
 Ogni estate la stessa scena: il sole entra dritto dalla porta finestra o dal balcone per tutto il pomeriggio, le pareti si scaldano, e il condizionatore deve lavorare più a lungo per riportare la stanza a una temperatura vivibile. Una tenda da sole ben posizionata blocca gran parte di quel calore prima che entri in casa, invece di doverlo smaltire dopo con l'aria condizionata: una soluzione più economica di una pergola bioclimatica e più efficace, sul lungo periodo, dei soli trucchi "gratuiti" come la ventilazione incrociata. Vediamo come funzionano, quali modelli scegliere e quanto puoi risparmiare davvero in bolletta.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=tenda+da+sole+terrazzo+balcone&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le tende da sole su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Una tenda da sole è una schermatura esterna che intercetta la radiazione solare prima che raggiunga vetri e pareti. È una differenza fondamentale rispetto a tende o persiane interne: una tenda interna filtra la luce ma il calore, una volta passato il vetro, resta comunque nell'ambiente (effetto serra); una schermatura esterna riflette e disperde il calore all'aperto, riducendo il carico che il condizionatore deve poi rimuovere.
@@ -31,15 +27,15 @@ Per chi cerca una soluzione più strutturale, l'alternativa è la [pergola biocl
 
 ### I migliori modelli
 
-Su Amazon.it si trovano marchi generalisti da bricolage/outdoor, non i grandi produttori italiani di tende su misura (Gibus, Pratic), che vendono quasi solo tramite rivenditore con posa in opera. Questi tre modelli coprono le esigenze più comuni per un primo acquisto fai-da-te:
+Online si trovano soprattutto marchi generalisti da bricolage/outdoor, non i grandi produttori italiani di tende su misura (Gibus, Pratic), che vendono quasi solo tramite rivenditore con posa in opera. Questi tre modelli coprono le esigenze più comuni per un primo acquisto fai-da-te:
 
-| Modello | Tipo | Dimensioni | Prezzo indicativo | Link |
-|---|---|---|---|---|
-| COSTWAY Tenda da Sole Avvolgibile a Bracci | A bracci estensibili, manuale | 300 x 250 cm | Verificare su Amazon | [Amazon](https://www.amazon.it/COSTWAY-Avvolgibile-Tettuccio-Parasolo-Giardino/dp/B091MFPFP8?tag=audiobookit-21) |
-| WOLTU Tenda a Caduta Verticale | Verticale con manovella, per balconi | 140 x 240 cm | circa €60-70 (fonte comparatore Stylight, settembre 2026) | [Amazon](https://www.amazon.it/WOLTU-avvolgibile-verticale-Verticale-Antivento/dp/B09796MQY8?tag=audiobookit-21) |
-| VERDELOOK Tenda da Sole Itaca | Fissa, inclinazione unica | 300 x 200 cm | Verificare su Amazon | [Amazon](https://www.amazon.it/VERDELOOK-Tenda-avvolgibile-tendaggi-arredo/dp/B00HAQIBZ8?tag=audiobookit-21) |
+| Modello | Tipo | Dimensioni | Prezzo indicativo |
+| --- | --- | --- | --- |
+| COSTWAY Tenda da Sole Avvolgibile a Bracci | A bracci estensibili, manuale | 300 x 250 cm | variabile |
+| WOLTU Tenda a Caduta Verticale | Verticale con manovella, per balconi | 140 x 240 cm | circa €60-70 (fonte comparatore Stylight, settembre 2026) |
+| VERDELOOK Tenda da Sole Itaca | Fissa, inclinazione unica | 300 x 200 cm | variabile |
 
-*Prezzi indicativi settembre 2026, verifica sempre il costo aggiornato su Amazon prima dell'acquisto. Per un modello motorizzato, certificato e installato a regola d'arte (necessario anche per l'eventuale detrazione fiscale) conviene rivolgersi a un tendaggista di zona: il prezzo online riguarda solo i kit fai-da-te più semplici.*
+*Prezzi indicativi settembre 2026, verifica sempre il costo aggiornato prima dell'acquisto. Per un modello motorizzato, certificato e installato a regola d'arte (necessario anche per l'eventuale detrazione fiscale) conviene rivolgersi a un tendaggista di zona: il prezzo online riguarda solo i kit fai-da-te più semplici.*
 
 ### Quanto si risparmia davvero
 
@@ -64,6 +60,6 @@ Prima di contare su una detrazione, fatti rilasciare dal tendaggista la document
 
 ### Conclusione
 
-Una tenda da sole non sostituisce il condizionatore, ma ne riduce il lavoro: bastano 20-25% di ore in meno a piena potenza per recuperare l'investimento in poche stagioni, con il vantaggio di un terrazzo usabile anche nelle ore più calde. Per ombra subito basta un kit fai-da-te da Amazon; per la detrazione fiscale serve un prodotto certificato installato da un tendaggista, con i requisiti tecnici (gtot ≤ 0,35, esposizione sud/ovest) rispettati fin dal preventivo.
+Una tenda da sole non sostituisce il condizionatore, ma ne riduce il lavoro: bastano 20-25% di ore in meno a piena potenza per recuperare l'investimento in poche stagioni, con il vantaggio di un terrazzo usabile anche nelle ore più calde. Per ombra subito basta un kit fai-da-te; per la detrazione fiscale serve un prodotto certificato installato da un tendaggista, con i requisiti tecnici (gtot ≤ 0,35, esposizione sud/ovest) rispettati fin dal preventivo.
 
 *Fonti: Legge di Bilancio 2026 e guide fiscali Money.it, PG Casa, Ristrutturalo.it (Ecobonus schermature solari 2026, aliquote e requisiti gtot, consultate settembre 2026); Metis 2.0 e Adriatico News (stime di riduzione dei consumi da schermatura solare, fino al 35%); schede prodotto COSTWAY, WOLTU e VERDELOOK su Amazon.it, consultate settembre 2026. Calcoli di consumo: stime dell'autore su base dei dati di potenza assorbita già usati nella guida ai climatizzatori inverter 9000/12000 BTU.*

@@ -25,10 +25,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=telecomando+universale+condizionatore&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i telecomandi universali su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Ogni modalità attiva componenti diversi dell'apparecchio, e questo cambia sia il risultato che il consumo:
@@ -45,11 +41,11 @@ Altre icone comuni sul telecomando — luna (sleep, alza leggermente la temperat
 
 Se il telecomando originale si è rotto o perso (capita spesso con apparecchi di qualche anno) le icone restano quelle universali descritte sopra, e un telecomando universale compatibile costa molto meno di uno originale del produttore:
 
-| Modello | Compatibilità | Prezzo indicativo | Link |
-|---|---|---|---|
-| HQRP Universal A/C Remote | Haier, Hisense, Hitachi, Electrolux, Whirlpool, Toshiba e altri | circa €12,95 | [Amazon](https://www.amazon.it/HQRP-Telecomando-universale-condizionatori-Electrolux/dp/B00KTB6A6I?tag=audiobookit-21) |
-| Meliconi AC50 | Compatibile con la quasi totalità dei modelli domestici, memoria permanente | verificare su Amazon | [Amazon](https://www.amazon.it/Meliconi-AC50-Telecomando-Climatizzatori-compatibile/dp/B0F4KX9S65?tag=audiobookit-21) |
-| One For All URC1035 | Ricerca automatica del codice, display LCD retroilluminato | verificare su Amazon | [Amazon](https://www.amazon.it/Telecomando-Universale-Condizionatore-One-climatizzatori/dp/B074QRYNC3?tag=audiobookit-21) |
+| Modello | Compatibilità | Prezzo indicativo |
+| --- | --- | --- |
+| HQRP Universal A/C Remote | Haier, Hisense, Hitachi, Electrolux, Whirlpool, Toshiba e altri | circa €12,95 |
+| Meliconi AC50 | Compatibile con la quasi totalità dei modelli domestici, memoria permanente | variabile |
+| One For All URC1035 | Ricerca automatica del codice, display LCD retroilluminato | variabile |
 
 *Prezzi indicativi ottobre 2026: i telecomandi universali vanno sempre accoppiati all'apparecchio seguendo la ricerca automatica del codice o la tabella codici nel manuale, perché la disposizione dei tasti cambia da marca a marca.*
 

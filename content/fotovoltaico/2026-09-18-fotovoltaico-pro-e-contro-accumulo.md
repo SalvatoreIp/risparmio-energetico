@@ -16,10 +16,6 @@ cover:
 
 Chi valuta un impianto fotovoltaico si trova quasi sempre davanti alla stessa domanda: conviene aggiungere anche la batteria di accumulo, o meglio partire con i soli pannelli? La risposta non è uguale per tutti. L'accumulo alza l'investimento iniziale del 40-60% rispetto a un impianto senza batteria, ma può portare l'autoconsumo dal 30% tipico dei soli pannelli fino al 70-85%, con un beneficio economico che per una famiglia con consumi serali importanti supera i 250-300 euro l'anno. In questa guida vediamo pro e contro concreti, con numeri reali, per capire quando l'accumulo ripaga davvero l'investimento e quando invece conviene aspettare o farne a meno.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=sistema+accumulo+fotovoltaico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i sistemi di accumulo fotovoltaico su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un impianto fotovoltaico senza accumulo produce energia solo quando c'è il sole, e quell'energia va usata subito o venduta in rete: se in casa non c'è nessuno durante il giorno, gran parte della produzione finisce ceduta al gestore a pochi centesimi al kWh, per poi ricomprare elettricità a prezzo pieno la sera. La batteria di accumulo risolve esattamente questo disallineamento tra quando produci e quando consumi, immagazzinando l'energia in eccesso per restituirla nelle ore serali o notturne.
@@ -34,11 +30,11 @@ La scelta corretta dipende soprattutto da **quando consumi**, non da quanto prod
 
 Se dopo aver valutato pro e contro scegli di aggiungere l'accumulo, questi sono tra i moduli batteria più diffusi sul mercato italiano (prezzo del solo modulo, IVA inclusa; va aggiunto l'inverter ibrido se non già presente).
 
-| Modello | Capacità | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|
-| [Pylontech US3000C Plus](https://www.pylontech.com.cn/) | 3,5 kWh | €1.600-2.300 | Economica a parità di kWh, molto compatibile | Capacità contenuta, va spesso abbinata ad altri moduli | [Amazon](https://www.amazon.it/Batteria-litio-US3000-Plus-Pylontech/dp/B08WQ468D1?tag=audiobookit-21) |
-| [Pylontech US5000C](https://www.pylontech.com.cn/) | 4,8 kWh | €2.200-3.100 | Buon compromesso capacità/prezzo, espandibile in serie | Richiede inverter compatibile col protocollo Pylontech | [Amazon](https://www.amazon.it/Pylontech-US5000C-Batteria-Voltacon-Hybrid/dp/B0BFP5JXN4?tag=audiobookit-21) |
-| [Huawei LUNA2000-5-E0](https://solar.huawei.com/it/) | 5 kWh | €2.500-3.000 | Alta efficienza, espandibile fino a 15 kWh | Costo a kWh più alto dei moduli LFP generici | [Amazon](https://www.amazon.it/Batteria-Solarus-Huawei-LUNA2000-5-E0-batteria/dp/B0BS18Y8NZ?tag=audiobookit-21) |
+| Modello | Capacità | Prezzo indicativo | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| [Pylontech US3000C Plus](https://www.pylontech.com.cn/) | 3,5 kWh | €1.600-2.300 | Economica a parità di kWh, molto compatibile | Capacità contenuta, va spesso abbinata ad altri moduli |
+| [Pylontech US5000C](https://www.pylontech.com.cn/) | 4,8 kWh | €2.200-3.100 | Buon compromesso capacità/prezzo, espandibile in serie | Richiede inverter compatibile col protocollo Pylontech |
+| [Huawei LUNA2000-5-E0](https://solar.huawei.com/it/) | 5 kWh | €2.500-3.000 | Alta efficienza, espandibile fino a 15 kWh | Costo a kWh più alto dei moduli LFP generici |
 
 *Prezzi indicativi settembre 2026. Per un confronto più ampio dei moduli batteria vedi la [guida alle batterie di accumulo fotovoltaico](/fotovoltaico/batteria-accumulo-fotovoltaico/); per il prezzo dell'impianto completo con accumulo vedi la [guida ai prezzi chiavi in mano](/fotovoltaico/impianto-fotovoltaico-con-accumulo/).*
 

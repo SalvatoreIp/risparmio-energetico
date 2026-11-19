@@ -1,3 +1,5 @@
+> **19/11/2026: le regole su link Amazon e riquadro CTA qui sotto NON valgono più.** Niente link Amazon, niente cta-box (vedi CLAUDE.md).
+
 # Istruzioni Operative — Sito Risparmio Energetico
 
 ## SEZIONI DISPONIBILI

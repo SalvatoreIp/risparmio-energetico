@@ -27,10 +27,6 @@ aliases:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=termostato+smart+wifi&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i migliori termostati smart su Amazon</a>
-</div>
-
 ## Cos'è e come funziona un termostato smart
 
 Un **termostato smart** (o cronotermostato intelligente) è un dispositivo che gestisce automaticamente il tuo impianto di riscaldamento, imparando le tue abitudini e ottimizzando i consumi per garantire comfort e risparmio.
@@ -167,12 +163,6 @@ Fai-da-te in 30-60 minuti per chi collega 3-4 fili senza competenze elettriche s
 
 **Perfetto per:** Chi vuole iniziare con poco, caldaie tradizionali, installazione fai-da-te.
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0B8SDLTKC?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **2. Netatmo NTH01**
@@ -209,12 +199,6 @@ Fai-da-te in 30-60 minuti per chi collega 3-4 fili senza competenze elettriche s
 </table>
 
 **Perfetto per:** Case smart, OpenTherm, chi cerca massima integrazione.
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CC67PYHY?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -253,12 +237,6 @@ Fai-da-te in 30-60 minuti per chi collega 3-4 fili senza competenze elettriche s
 
 **Perfetto per:** Chi cerca qualità italiana, integrazione multimarcatore.
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B09S3V2ZNK?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **4. Bticino SXW8002 Smarther2**
@@ -295,12 +273,6 @@ Fai-da-te in 30-60 minuti per chi collega 3-4 fili senza competenze elettriche s
 </table>
 
 **Perfetto per:** Case con impianto KNX, massime prestazioni, installatori professionali.
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B086NL5ZHF?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 

@@ -15,10 +15,6 @@ cover:
 
 Con l'arrivo dell'autunno torna la domanda di sempre: conviene scaldarsi con una stufa a pellet? La risposta breve è che, rispetto al gas, il pellet fa risparmiare circa il 25-30%, ma rispetto a una pompa di calore il conto è quasi in pareggio. In più, dal 3 agosto 2026 sono cambiate le regole degli incentivi: chi abbandona il gas per passare al pellet non ha più diritto a detrazioni né al Conto Termico. Vediamo i numeri veri, con un esempio in euro.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=stufa+a+pellet&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le stufe a pellet su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 La stufa a pellet brucia piccoli cilindri di segatura di legno pressata (il pellet), caricati da un serbatoio con una coclea che li dosa automaticamente. Una scheda elettronica regola fiamma e ventola, quindi si programma come un termostato: accensione, potenza e spegnimento si impostano da display o, nei modelli WiFi, da telefono.
@@ -33,14 +29,14 @@ Il pellet certificato ENplus A1 ha un potere calorifico di circa 4,7 kWh al chil
 
 ### I migliori modelli del 2026
 
-Prezzi di mercato indicativi settembre 2026: una stufa ad aria parte da circa 800-1.500 euro, una canalizzata da 1.200 a 5.000, una idro da 1.500 a 4.000. L'installazione costa in genere 300-1.000 euro tra manodopera e canna fumaria. Su Amazon ho trovato questi prodotti reali; i prezzi in tabella sono indicativi (settembre 2026) e cambiano spesso, quindi vanno controllati sulla scheda.
+Prezzi di mercato indicativi settembre 2026: una stufa ad aria parte da circa 800-1.500 euro, una canalizzata da 1.200 a 5.000, una idro da 1.500 a 4.000. L'installazione costa in genere 300-1.000 euro tra manodopera e canna fumaria. Questi sono modelli reali in vendita; i prezzi in tabella sono indicativi (settembre 2026) e cambiano spesso, quindi vanno controllati sulla scheda.
 
-| Modello | Tipo e potenza | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|
-| Ravelli R70 | Ad aria, 7 kW | circa 1.900-2.600 € (settembre 2026, varia molto tra rivenditori) | Marchio storico italiano, adatta a locali medio-piccoli | Riscalda solo la stanza in cui è installata | [Amazon](https://www.amazon.it/Stufa-pellet-ventilata-Ravelli-7-0/dp/B01C2TZ9PM?tag=audiobookit-21) |
-| San Marco Courmayeur | Canalizzata, 8,74 kW | circa 930 € (settembre 2026) | Porta il calore in una seconda stanza, rendimento dichiarato 91% | La versione WiFi è indicata a 4 stelle: non dà accesso al Conto Termico | [Amazon](https://www.amazon.it/Stufa-pellet-Courmayeur-74-canalizzata/dp/B07WW7ZK2W?tag=audiobookit-21) |
-| Stufe a Pellet Italia Niagara | Ad aria, 9 kW | circa 820-930 € (settembre 2026) | Rendimento dichiarato 91%, scalda fino a circa 80 m², autonomia 21 ore | Per gli incentivi va controllata la certificazione ambientale | [Amazon](https://www.amazon.it/STUFE-PELLET-ITALIA-Niagara-Programmabile/dp/B0BFG2B7KG?tag=audiobookit-21) |
-| Pellet ENplus A1, bancale da 70 sacchi da 15 kg | Combustibile | circa 300-500 € (settembre 2026, le offerte online partono da meno di 300 €, la media di mercato è intorno a 500 €) | Comprare a fine primavera costa meno | Serve spazio asciutto per lo stoccaggio | [Amazon](https://www.amazon.it/Offerta-Bancale-Pellet-Sacchi-Certificazione/dp/B09DPQB7RT?tag=audiobookit-21) |
+| Modello | Tipo e potenza | Prezzo indicativo | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| Ravelli R70 | Ad aria, 7 kW | circa 1.900-2.600 € (settembre 2026, varia molto tra rivenditori) | Marchio storico italiano, adatta a locali medio-piccoli | Riscalda solo la stanza in cui è installata |
+| San Marco Courmayeur | Canalizzata, 8,74 kW | circa 930 € (settembre 2026) | Porta il calore in una seconda stanza, rendimento dichiarato 91% | La versione WiFi è indicata a 4 stelle: non dà accesso al Conto Termico |
+| Stufe a Pellet Italia Niagara | Ad aria, 9 kW | circa 820-930 € (settembre 2026) | Rendimento dichiarato 91%, scalda fino a circa 80 m², autonomia 21 ore | Per gli incentivi va controllata la certificazione ambientale |
+| Pellet ENplus A1, bancale da 70 sacchi da 15 kg | Combustibile | circa 300-500 € (settembre 2026, le offerte online partono da meno di 300 €, la media di mercato è intorno a 500 €) | Comprare a fine primavera costa meno | Serve spazio asciutto per lo stoccaggio |
 
 Prima di comprare, controlla sempre la certificazione ambientale nella scheda tecnica: senza le 5 stelle non si accede al Conto Termico.
 

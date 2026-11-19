@@ -16,10 +16,6 @@ cover:
 
 Il condizionatore senza unità esterna è la soluzione per chi vive in condominio con il divieto di installare motori sulla facciata, o in un immobile vincolato. Ma non è magia: è un **monoblocco** che espelle il calore attraverso due fori nel muro. Costa meno da installare di uno split, ma consuma di più. In questa guida vediamo come funziona, quali modelli esistono davvero e quanto pesa la differenza in bolletta.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=condizionatore+senza+unita+esterna+monoblocco&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i condizionatori senza unità esterna su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un climatizzatore tradizionale (split) ha due parti: l'unità interna, che raffredda l'aria, e l'unità esterna con compressore e condensatore, che smaltisce il calore fuori casa. Nel **monoblocco fisso** tutto il circuito frigorifero è in un unico apparecchio appeso alla parete interna. Il calore viene espulso all'esterno tramite **due condotti di circa 20 cm di diametro** che attraversano il muro perimetrale: uno aspira aria esterna, l'altro la espelle.
@@ -36,12 +32,12 @@ Attenzione a non confonderlo con il condizionatore portatile, che si appoggia a 
 
 Un condizionatore monoblocco solo freddo costa in genere 500-700 euro, mentre i modelli con pompa di calore vanno da circa 600 a 1.300 euro e oltre.
 
-| Modello | Tipo | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|
-| Diloc Unico 12 Over | Inverter, pompa di calore, gas R290 | circa €770 | Prezzo contenuto, WiFi, gas a basso impatto | Marchio meno noto, assistenza da verificare | [Amazon](https://www.amazon.it/Climatizzatore-Diloc-Design-esterna-Inverter/dp/B0D92R2NJL?tag=audiobookit-21) |
-| Olimpia Splendid Unico Next | Pompa di calore, profondità 18 cm | verificare su Amazon | Design sottile, consumi ridotti in riscaldamento | Prezzo più alto | [Amazon](https://www.amazon.it/Olimpia-Splendid-02523-Climatizzatore-Esterna/dp/B0D8WHBXQB?tag=audiobookit-21) |
-| Olimpia Splendid Unico Air HP | Pompa di calore, versione slim | verificare su Amazon | Molto sottile e silenzioso | Potenza contenuta (1,8 kW) | [Amazon](https://www.amazon.it/Olimpia-Splendid-Unico-Air-Deumidificazione/dp/B0DTB4Z91Y?tag=audiobookit-21) |
-| Innova Unico 2.0 | Inverter, pompa di calore | verificare su Amazon | Marchio italiano specializzato | Prezzo variabile per taglia | [Amazon](https://www.amazon.it/Innova-climatizzatore-senza-unita-esterna/dp/B07F5QHDF2?tag=audiobookit-21) |
+| Modello | Tipo | Prezzo indicativo | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| Diloc Unico 12 Over | Inverter, pompa di calore, gas R290 | circa €770 | Prezzo contenuto, WiFi, gas a basso impatto | Marchio meno noto, assistenza da verificare |
+| Olimpia Splendid Unico Next | Pompa di calore, profondità 18 cm | variabile | Design sottile, consumi ridotti in riscaldamento | Prezzo più alto |
+| Olimpia Splendid Unico Air HP | Pompa di calore, versione slim | variabile | Molto sottile e silenzioso | Potenza contenuta (1,8 kW) |
+| Innova Unico 2.0 | Inverter, pompa di calore | variabile | Marchio italiano specializzato | Prezzo variabile per taglia |
 
 *Prezzi indicativi settembre 2026, solo apparecchio. La gamma Olimpia Splendid Unico Evo si colloca intorno a 1.320-1.640 euro. Verifica sempre il prezzo aggiornato al momento dell'acquisto.*
 

@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=frigorifero+combinato+classe+energetica+a&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i frigoriferi combinati su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il consumo del frigorifero è scritto per legge sull'etichetta energetica, in kWh/anno: è il valore misurato in laboratorio secondo condizioni standard. Dal marzo 2021 la scala europea è tornata da A a G, più severa di quella precedente: un frigorifero che oggi riceve una D consumerebbe come una vecchia A+ o A++ di qualche anno prima. Chi trova ancora etichette con A+++ si riferisce alla scala pre-2021, non più in uso sui modelli nuovi.
@@ -39,11 +35,11 @@ Per sapere quanto consuma davvero il proprio frigorifero, si può leggere la tar
 
 Confronto tra tre frigoriferi combinati reali in commercio, scelti per rappresentare classi diverse: più efficiente, intermedio, più economico all'acquisto ma più costoso in bolletta.
 
-| Modello | Classe | Consumo dichiarato | Costo annuo (0,32 €/kWh) | Prezzo indicativo | Link |
-|---|---|---|---|---|---|
-| [Samsung EcoFlex AI RB34C775CS9](https://www.amazon.it/dp/B0C66F8ZJ4?tag=audiobookit-21) | C | 163 kWh/anno | ~52 €/anno | €600-660 | [Amazon](https://www.amazon.it/dp/B0C66F8ZJ4?tag=audiobookit-21) |
-| [Hisense RB390N4CCD1](https://www.amazon.it/dp/B0CBN9NBLZ?tag=audiobookit-21) | D | 194 kWh/anno | ~62 €/anno | €450-630 (verificare su Amazon) | [Amazon](https://www.amazon.it/dp/B0CBN9NBLZ?tag=audiobookit-21) |
-| [Candy CHCS 514EW](https://www.amazon.it/dp/B09PGK4JC2?tag=audiobookit-21) | E | 205 kWh/anno | ~66 €/anno | €260-350 | [Amazon](https://www.amazon.it/dp/B09PGK4JC2?tag=audiobookit-21) |
+| Classe | Consumo dichiarato | Costo annuo (0,32 €/kWh) | Prezzo indicativo |
+| --- | --- | --- | --- |
+| C | 163 kWh/anno | ~52 €/anno | €600-660 |
+| D | 194 kWh/anno | ~62 €/anno | €450-630 |
+| E | 205 kWh/anno | ~66 €/anno | €260-350 |
 
 La differenza di costo energetico tra il modello più efficiente e quello più economico è di circa 14 €/anno: su un acquisto da tenere 10-12 anni non è la voce che decide, conta più il prezzo d'acquisto e le dimensioni di cui si ha bisogno. Il vero salto, come si vede nel paragrafo seguente, è tra un frigorifero vecchio e qualunque modello nuovo in queste classi.
 

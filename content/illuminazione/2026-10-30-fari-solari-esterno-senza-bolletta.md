@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=faretti+solari+da+esterno&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta faretti e lampioncini solari su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Un faretto o lampioncino solare da esterno è un'unità autonoma: un piccolo pannello fotovoltaico (1-5 W) carica di giorno una batteria interna (NiMH da 1,2-2,2 Ah nei modelli economici, LiFePO4 da 3-10 Ah in quelli più robusti), e di notte un sensore crepuscolare accende i LED, spesso affiancato da un sensore di movimento (PIR) che aumenta la luminosità solo al passaggio.
@@ -50,7 +46,6 @@ Per chi ha già un punto luce vicino e vuole la massima resa anche d'inverno, un
 <th>Prezzo indicativo</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -59,28 +54,24 @@ Per chi ha già un punto luce vicino e vuole la massima resa anche d'inverno, un
 <td>€12-20 l'uno</td>
 <td>Si accende solo al passaggio, utile come dissuasore, prezzo basso</td>
 <td>Luce intensa solo pochi secondi, batteria economica da cambiare dopo 1-2 anni</td>
-<td><a href="https://www.amazon.it/s?k=faretto+solare+sensore+movimento+ip65&tag=audiobookit-21" target="_blank" rel="nofollow sponsored">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Kit 6-8 paletti solari da vialetto</strong><br><small>IP44-IP64, altezza 30-60 cm, luce calda fissa</small></td>
 <td>€30-45 il kit</td>
 <td>Facili da piantare, segnano il percorso, montaggio in pochi minuti</td>
 <td>Luce debole (10-30 lm l'uno), serve il sole diretto sul pannello</td>
-<td><a href="https://www.amazon.it/s?k=paletti+solari+giardino+vialetto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Faro solare ad alta potenza, pannello separato</strong><br><small>1200-2000 lumen, batteria LiFePO4, telecomando</small></td>
 <td>€35-90</td>
 <td>Luce paragonabile a un faretto cablato, batteria che dura anni</td>
 <td>Il pannello va fissato a parte, spesso sul tetto, cavo tra pannello e faro</td>
-<td><a href="https://www.amazon.it/s?k=faro+solare+alta+potenza+lifepo4&tag=audiobookit-21" target="_blank" rel="nofollow sponsored">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Lanterna solare decorativa</strong><br><small>Stile vintage, IP65, luce calda 2700K</small></td>
 <td>€18-28</td>
 <td>Effetto scenico su patio e terrazzo, buona resa estetica</td>
 <td>Funzione decorativa più che di sicurezza, luminosità contenuta</td>
-<td><a href="https://www.amazon.it/s?k=lanterna+solare+decorativa+giardino&tag=audiobookit-21" target="_blank" rel="nofollow sponsored">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +90,7 @@ Il conto non è quindi "quanti euro di bolletta risparmio" (la cifra è piccola,
 
 ## Incentivi disponibili
 
-Per l'acquisto di faretti o lampioncini solari da giardino **non esiste un incentivo dedicato**. Il Bonus Ristrutturazioni (50% prima casa, 36% altri immobili, verificato ottobre 2026) si applica solo se l'acquisto rientra in un intervento edilizio più ampio, con fattura e pagamento tracciato: non copre un singolo acquisto su Amazon per illuminare un'aiuola.
+Per l'acquisto di faretti o lampioncini solari da giardino **non esiste un incentivo dedicato**. Il Bonus Ristrutturazioni (50% prima casa, 36% altri immobili, verificato ottobre 2026) si applica solo se l'acquisto rientra in un intervento edilizio più ampio, con fattura e pagamento tracciato: non copre un singolo acquisto online per illuminare un'aiuola.
 
 Il Conto Termico 3.0, operativo dal GSE da febbraio 2026, prevede incentivi fino al 65% per interventi di modernizzazione dell'illuminazione (relamping), ma è pensato per condomìni, imprese, enti del terzo settore e pubblica amministrazione, non per il privato che illumina il proprio giardino: non è lo strumento giusto per questo acquisto, e non va forzato per cercare di rientrarci.
 

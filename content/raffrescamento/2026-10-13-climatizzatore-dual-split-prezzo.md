@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=climatizzatore+dual+split&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i climatizzatori dual split su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un dual split è un impianto formato da un'unica unità esterna (compressore e scambiatore) collegata a due unità interne installate in due stanze diverse, ciascuna con il proprio telecomando o controllo da app. È lo stesso principio del climatizzatore monosplit descritto nella guida a [come scegliere un inverter 9000 o 12000 BTU](/raffrescamento/climatizzatore-inverter-9000-12000-btu/), moltiplicato per due terminali, ma con una differenza tecnica che cambia i conti: il compressore, il circuito del gas refrigerante e la centralina sono condivisi tra le due unità interne.
@@ -39,12 +35,12 @@ Pochi dual split veri (non kit assemblati) sono acquistabili direttamente online
 
 | Modello | Potenza | Classe energetica | Note | Link |
 |---|---|---|---|---|
-| Olimpia Splendid Aryal Dual 14 | 9000+12000 BTU | A++ (raffrescamento) | Una sola unità esterna, fino a 75 m² complessivi, Wi-Fi integrato | [Verificare prezzo su Amazon](https://www.amazon.it/s?k=olimpia+splendid+aryal+dual+14&tag=audiobookit-21) |
-| Haier Trendy Dual | 9000+9000 BTU | A++/A+ | R32, Wi-Fi, fascia economica, venduto da rivenditori online specializzati | [Confronta su Amazon](https://www.amazon.it/s?k=haier+dual+split+9000+9000&tag=audiobookit-21) |
+| Olimpia Splendid Aryal Dual 14 | 9000+12000 BTU | A++ (raffrescamento) | Una sola unità esterna, fino a 75 m² complessivi, Wi-Fi integrato | variabile |
+| Haier Trendy Dual | 9000+9000 BTU | A++/A+ | R32, Wi-Fi, fascia economica, venduto da rivenditori online specializzati | variabile |
 | Hisense Hi Comfort Dual Split | 9000+12000 BTU | A++/A++ | App HiSmart Life, garanzia produttore 3 anni, in vendita tramite rivenditori climatizzazione | [Sito ufficiale Hisense](https://www.hisense.it/climatizzazione) |
 | Mitsubishi Electric Linea Plus Dual | 9000+9000 BTU | A+++/A++ | Fascia alta, silenziosità e durata, acquisto tramite installatore certificato | [Sito ufficiale Mitsubishi Electric](https://www.mitsubishielectric.it/climatizzazione/) |
 
-Il kit Olimpia Splendid costava circa 749 € a fine giugno 2026 secondo un confronto di settore: verificare il prezzo attuale su Amazon, perché questi listini cambiano spesso. Per i marchi premium (Daikin, Mitsubishi Electric, Samsung) il prezzo reale comprende quasi sempre l'installazione fatta dal rivenditore, non è acquistabile a parte.
+Il kit Olimpia Splendid costava circa 749 € a fine giugno 2026 secondo un confronto di settore: verificare il prezzo attuale, perché questi listini cambiano spesso. Per i marchi premium (Daikin, Mitsubishi Electric, Samsung) il prezzo reale comprende quasi sempre l'installazione fatta dal rivenditore, non è acquistabile a parte.
 
 ### Quanto si risparmia davvero
 

@@ -53,7 +53,6 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -62,21 +61,18 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <td>€899-1.099</td>
 <td>Marca affidabile, design compatto, app completa, pieghevole</td>
 <td>Autonomia media, ruote 14"</td>
-<td><a href="https://www.amazon.it/s?k=Xiaomi+Mi+Scooter+Pro+2E&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>EMOVE CityRunner 2.0</strong><br><small>Motore 500W, batteria 48V 13Ah, 60 km autonomia</small></td>
 <td>€1.299-1.499</td>
 <td>Alta autonomia, potenza superiore, fari LED integrati</td>
 <td>Prezzo elevato, peso 28 kg</td>
-<td><a href="https://www.amazon.it/s?k=EMOVE+CityRunner+2.0&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Babboe Curve E2</strong><br><small>Motore centrale Bafang 250W, batteria 418Wh, 70 km</small></td>
 <td>€1.899-2.199</td>
 <td>Design pieghevole, cargo bike, ideale per famiglie</td>
 <td>Prezzo molto elevato, complesso</td>
-<td><a href="https://www.amazon.it/s?k=Babboe+Curve+E2&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +86,6 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -99,21 +94,18 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <td>€1.199-1.399</td>
 <td>Ottimo rapporto qualità-prezzo, freni a disco, robusta</td>
 <td>Peso 26 kg, autonomia media</td>
-<td><a href="https://www.amazon.it/s?k=Nilox+X6+Electric&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Trek Powerfly 5</strong><br><small>Motore Bosch 250W, batteria 625Wh, 100 km</small></td>
 <td>€2.499-2.899</td>
 <td>Marcia premium, autonomia elevata, suspensione completa</td>
 <td>Prezzo molto elevato, complesso</td>
-<td><a href="https://www.amazon.it/s?k=Trek+Powerfly+5&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Specialized Turbo Vado 3.0</strong><br><small>Motore Specialized 250W, batteria 710Wh, 120 km</small></td>
 <td>€2.999-3.499</td>
 <td>Autonomia record, tecnologia avanzata, display touch</td>
 <td>Prezzo premium, complesso</td>
-<td><a href="https://www.amazon.it/s?k=Specialized+Turbo+Vado+3.0&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +119,6 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -136,14 +127,12 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <td>€1.799-2.099</td>
 <td>Potente, pneumatici larghi per sabbia/neve, robusta</td>
 <td>Pesante (32 kg), prezzo elevato</td>
-<td><a href="https://www.amazon.it/s?k=Ride1UP+LTX-500&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Cycleboard Fat 500W</strong><br><small>Motore 500W, batteria 48V 15Ah, 80 km</small></td>
 <td>€1.599-1.899</td>
 <td>Prezzo accessibile, autonomia decente, pneumatici grassi</td>
 <td>Design meno elegante, peso elevato</td>
-<td><a href="https://www.amazon.it/s?k=Cycleboard+Fat+500W&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -157,7 +146,6 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -166,14 +154,12 @@ La **bicicletta elettrica** (e-bike) è un mezzo di mobilità sostenibile che co
 <td>€3.499-3.999</td>
 <td>Capacità cargo elevata, sicurezza bambini, robusta</td>
 <td>Prezzo molto elevato, dimensioni grandi</td>
-<td><a href="https://www.amazon.it/s?k=Urban+Arrow+Family&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>BakPower Plus</strong><br><small>Motore Bafang 500W, cargo anteriore, 120 km</small></td>
 <td>€2.299-2.699</td>
 <td>Ottimo rapporto qualità-prezzo, autonomia elevata</td>
 <td>Completo, peso elevato</td>
-<td><a href="https://www.amazon.it/s?k=BakPower+Plus&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>

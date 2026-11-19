@@ -25,10 +25,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+fotovoltaico+balcone+plug+and+play&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit fotovoltaici da balcone su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Un kit plug and play ("collega e usa") è un piccolo impianto fotovoltaico completo: uno o due pannelli, un microinverter e un cavo con spina. Il pannello produce corrente continua, il microinverter la trasforma in corrente alternata a 230 V e la spinge nell'impianto di casa attraverso la presa. Da quel momento frigorifero, router, congelatore e tutto ciò che è acceso usano prima l'energia del sole e solo per il resto quella della rete.
@@ -49,12 +45,12 @@ Chi vuole il dettaglio delle pratiche, condominio compreso, trova i passaggi nel
 
 Prezzi indicativi ottobre 2026. I marchi seri indicano un microinverter certificato **CEI 0-21**, la norma italiana per collegarsi alla rete: è la prima cosa da controllare nella scheda del prodotto.
 
-| Tipo di kit | Potenza | Prezzo | Per chi | Dove guardarlo |
-|---|---|---|---|---|
-| Kit base con 1 pannello | 300-400 W | 250-500 € | Single o coppia, balcone piccolo | [Kit 400 W su Amazon](https://www.amazon.it/s?k=kit+fotovoltaico+balcone+400W&tag=audiobookit-21) |
-| Kit con 2 pannelli | 800 W | 600-1.400 € | Famiglia con frigo, congelatore e lavori di giorno | [Kit 800 W su Amazon](https://www.amazon.it/s?k=kit+fotovoltaico+balcone+800W&tag=audiobookit-21) |
-| Kit bifacciale (es. Anker SOLIX da 870 W) | 800 W in uscita | 900-1.300 € | Ringhiere chiare o pavimenti riflettenti | [Anker SOLIX balcone](https://www.amazon.it/s?k=anker+solix+balcone&tag=audiobookit-21) |
-| Kit con batteria (es. EcoFlow STREAM, Anker Solarbank) | 800 W + 1,6-3,8 kWh | 1.500-2.000 € | Chi consuma soprattutto la sera | [Kit con accumulo su Amazon](https://www.amazon.it/s?k=fotovoltaico+balcone+con+batteria&tag=audiobookit-21) |
+| Tipo di kit | Potenza | Prezzo | Per chi |
+| --- | --- | --- | --- |
+| Kit base con 1 pannello | 300-400 W | 250-500 € | Single o coppia, balcone piccolo |
+| Kit con 2 pannelli | 800 W | 600-1.400 € | Famiglia con frigo, congelatore e lavori di giorno |
+| Kit bifacciale (es. Anker SOLIX da 870 W) | 800 W in uscita | 900-1.300 € | Ringhiere chiare o pavimenti riflettenti |
+| Kit con batteria (es. EcoFlow STREAM, Anker Solarbank) | 800 W + 1,6-3,8 kWh | 1.500-2.000 € | Chi consuma soprattutto la sera |
 
 Le staffe per la ringhiera non sono sempre incluse: controllalo prima di confrontare i prezzi. Montato in verticale sulla ringhiera, un pannello produce circa il 25-30% in meno rispetto a uno inclinato a 30°: se hai spazio a terra o sul pavimento del balcone, inclinarlo conviene.
 

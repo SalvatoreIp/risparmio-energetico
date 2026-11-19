@@ -16,10 +16,6 @@ cover:
 
 Avere sia un impianto fotovoltaico con accumulo sia una pompa di calore non basta: se i due sistemi lavorano ognuno per conto proprio, senza essere coordinati, si rischia di produrre energia pulita di giorno e di farla scaldare l'acqua o gli ambienti di notte comprandola dalla rete al prezzo pieno. Per una famiglia che ha già entrambi gli impianti, far "dialogare" fotovoltaico e pompa di calore con una centralina di gestione carichi o un semplice automatismo può valere circa 250-300 euro l'anno in più di risparmio, con un investimento aggiuntivo che si ripaga in meno di un anno.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=centralina+gestione+carichi+fotovoltaico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le centraline di gestione carichi su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il fotovoltaico produce energia quando c'è sole, tipicamente tra le 9 e le 17. La pompa di calore, invece, spesso si accende quando serve davvero: al mattino presto per portare in temperatura la casa, o la sera per l'acqua calda sanitaria, cioè proprio nelle ore in cui i pannelli non producono o producono poco. Senza un coordinamento, il risultato è che l'impianto fotovoltaico vende alla rete (a 7-8 centesimi al kWh) l'energia che la pompa di calore poi ricompra dalla rete (a 25-30 centesimi al kWh): un doppio svantaggio economico.
@@ -35,11 +31,11 @@ Il vantaggio pratico riguarda soprattutto la stagione di riscaldamento: una pomp
 
 Non serve sempre sostituire l'impianto: spesso basta aggiungere un dispositivo di monitoraggio o controllo carichi tra il contatore, l'inverter e la pompa di calore.
 
-| Dispositivo | Funzione | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|
-| [Shelly EM + 1 pinza amperometrica](https://www.shelly.com/it/pages/smart-energy-meter) | Monitora produzione fotovoltaico e consumo in tempo reale via app | €40-50 | Economico, facile da installare, dati precisi | Solo monitoraggio, non aziona da solo la pompa di calore | [Amazon](https://www.amazon.it/Shelly-Amperometrica-misurazione-consumo-elettrico/dp/B0BL7VC2H7?tag=audiobookit-21) |
-| [Shelly Pro EM-50](https://www.shelly.com/it/pages/smart-energy-meter) | Misura 2 canali (rete + fotovoltaico) e pilota un contattore per attivare carichi in surplus | €90-100 | Può accendere automaticamente un carico quando c'è surplus solare, integrabile con Home Assistant | Richiede installazione su guida DIN, va abbinato a un contattore per la pompa di calore | [Amazon](https://www.amazon.it/Shelly-Contatore-Contattori-Misurazione-Compatibile/dp/B0CH1JW2CW?tag=audiobookit-21) |
-| [Vemer Solar-3 VE474300](https://www.vemer.it/) | Centralina dedicata: misura il surplus immesso in rete e attiva fino a 3 carichi non prioritari in base a soglie programmate | €180-210 | Pensata specificamente per massimizzare l'autoconsumo fotovoltaico, fino a 60A, made in Italy | Prezzo più alto, va installata da un elettricista nel quadro | [Amazon](https://www.amazon.it/Vemer-VE474300-Centralina-Controllo-Fotovoltaici/dp/B00SKTNRSK?tag=audiobookit-21) |
+| Dispositivo | Funzione | Prezzo indicativo | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| [Shelly EM + 1 pinza amperometrica](https://www.shelly.com/it/pages/smart-energy-meter) | Monitora produzione fotovoltaico e consumo in tempo reale via app | €40-50 | Economico, facile da installare, dati precisi | Solo monitoraggio, non aziona da solo la pompa di calore |
+| [Shelly Pro EM-50](https://www.shelly.com/it/pages/smart-energy-meter) | Misura 2 canali (rete + fotovoltaico) e pilota un contattore per attivare carichi in surplus | €90-100 | Può accendere automaticamente un carico quando c'è surplus solare, integrabile con Home Assistant | Richiede installazione su guida DIN, va abbinato a un contattore per la pompa di calore |
+| [Vemer Solar-3 VE474300](https://www.vemer.it/) | Centralina dedicata: misura il surplus immesso in rete e attiva fino a 3 carichi non prioritari in base a soglie programmate | €180-210 | Pensata specificamente per massimizzare l'autoconsumo fotovoltaico, fino a 60A, made in Italy | Prezzo più alto, va installata da un elettricista nel quadro |
 
 *Prezzi indicativi settembre 2026, solo dispositivo, IVA inclusa; l'installazione (mezza giornata di elettricista) va aggiunta a parte, in genere 100-200 euro.*
 

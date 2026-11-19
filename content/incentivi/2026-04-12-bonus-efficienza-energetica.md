@@ -25,10 +25,6 @@ Nel 2026 le due agevolazioni principali per l'efficienza energetica sono l'Ecobo
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=valvole+termostatiche+smart&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le migliori valvole termostatiche su Amazon</a>
-</div>
-
 ### Cosa sono i bonus per l'efficienza energetica
 
 I bonus per l'efficienza energetica sono detrazioni fiscali (o, nel caso del Conto Termico, un contributo diretto) che permettono di recuperare una parte delle spese per interventi di riqualificazione energetica. La tabella sotto riassume i quattro principali del 2026. Un punto da capire prima di fare i conti: **Bonus Casa ed Ecobonus non si possono richiedere entrambi sulla stessa spesa.** Ogni intervento rientra nell'uno o nell'altro (quello energetico specifico di solito nell'Ecobonus). Si possono invece usare bonus diversi su interventi diversi dello stesso cantiere: per esempio l'Ecobonus sul cappotto termico e il Bonus Mobili sui nuovi elettrodomestici acquistati dopo i lavori.

@@ -14,10 +14,6 @@ cover:
 
 <p class="lead">Con le temperature che superano i 35°C e le notti tropicali, la bolletta dell'aria condizionata ti fa paura? Un ventilatore costa 0,01 euro all'ora, un climatizzatore portatile 0,32-0,38 euro. Scopri come scegliere la soluzione giusta per il tuo portafoglio.</p>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=ventilatore+silenzioso&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi i ventilatori più venduti su Amazon</a>
-</div>
-
 ## Il problema reale: caldo in casa e bolletta che schizza alle stelle
 
 **Oggi a Roma si registrano 38°C, Milano 36°C, Torino 35°C.** Le previsioni parlano di ondate di calore che si protrarranno fino a fine luglio, con picchi che potrebbero superare i 40°C in alcune regioni del nord Italia.
@@ -152,12 +148,6 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 - Nessun cablaggio elettrico (USB)  
 - 12cm di diametro sufficiente per flusso d'aria localizzato
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0BVV39Q2H?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **2. Ventilatore da tavolo con timer 40cm**
@@ -172,12 +162,6 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 - 3 velocità: base (30W), media (40W), alta (55W)  
 - Rotazione oscillante 90°  
 - Piedini anti-vibrazione (riduce rumore a 35dB)
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0G2LZV2ST?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -194,12 +178,6 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 - Serbatoio grande → non devi rabboccare spesso  
 - Silenziosissimo in modalità notturna
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B08V1DF4QX?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **4. Raffrescatore evaporativo 70W**
@@ -214,12 +192,6 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 - 8 litri → 24 ore di autonomia continua  
 - Portata 350m³/h copre stanze fino a 40mq  
 - Controllo remoto incluso
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GYRGLZPY?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -236,12 +208,6 @@ Solo l'aria condizionata reale riduce temperatura in queste condizioni
 - Wifi + app per programmare da remoto  
 - Pompa di calore → diventa riscaldamento d'inverno  
 - Classe A = consumo ottimizzato per potenza erogata
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GS9K9TWM?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 

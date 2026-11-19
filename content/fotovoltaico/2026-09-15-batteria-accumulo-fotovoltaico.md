@@ -16,10 +16,6 @@ cover:
 
 Un impianto fotovoltaico senza accumulo produce energia soprattutto nelle ore centrali della giornata, quando in casa spesso non c'è nessuno: il risultato è che la maggior parte dell'elettricità prodotta finisce venduta in rete a pochi centesimi al kWh, mentre di sera si torna a pagare la bolletta a prezzo pieno. Una batteria di accumulo immagazzina l'energia in eccesso e la restituisce quando serve davvero, alzando l'autoconsumo dal 30% tipico di un impianto senza batteria fino al 65-75%. Nell'esempio di una famiglia con impianto da 6 kW che aggiunge una batteria da 5 kWh, il risparmio aggiuntivo in bolletta è di circa 280 euro l'anno, con un rientro dell'investimento in 6-7 anni.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=batteria+accumulo+fotovoltaico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le batterie di accumulo su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 La batteria di accumulo è collegata all'impianto fotovoltaico tramite un inverter ibrido (o un inverter standard più un accumulo "retrofit" con il proprio convertitore): durante il giorno, l'energia prodotta dai pannelli che non viene consumata subito in casa carica la batteria invece di essere immessa in rete. La sera, o nei momenti di maggiore consumo, la batteria fornisce corrente prima di attingere dalla rete elettrica.
@@ -34,10 +30,10 @@ I prezzi indicati sono del solo modulo batteria (IVA inclusa): vanno sommati inv
 
 | Modello | Capacità | Prezzo indicativo modulo | Pro | Contro | Link |
 |---|---|---|---|---|---|
-| [Pylontech US3000C Plus](https://www.pylontech.com.cn/) | 3,5 kWh | €1.600-2.300 | Tra le più economiche a parità di kWh, molto diffusa e compatibile con la maggior parte degli inverter ibridi | Capacità singola contenuta, va abbinata ad altri moduli per consumi elevati | [Amazon](https://www.amazon.it/Batteria-litio-US3000-Plus-Pylontech/dp/B08WQ468D1?tag=audiobookit-21) |
-| [Pylontech US5000C](https://www.pylontech.com.cn/) | 4,8 kWh | €2.200-3.100 | Buon compromesso capacità/prezzo, espandibile in serie fino a 16 moduli | Serve un inverter compatibile con il protocollo Pylontech | [Amazon](https://www.amazon.it/Pylontech-US5000C-Batteria-Voltacon-Hybrid/dp/B0BFP5JXN4?tag=audiobookit-21) |
-| [Huawei LUNA2000-5-E0](https://solar.huawei.com/it/) | 5 kWh | €2.500-3.000 | Alta efficienza, espandibile fino a 15 kWh, integrazione ottimale con inverter Huawei | Costo a kWh più alto dei moduli LFP generici | [Amazon](https://www.amazon.it/Batteria-Solarus-Huawei-LUNA2000-5-E0-batteria/dp/B0BS18Y8NZ?tag=audiobookit-21) |
-| [Huawei LUNA2000-10-S0](https://solar.huawei.com/it/) | 10 kWh | circa €5.700 | Pacchetto completo con controller integrato, ottimo per consumi medio-alti | Ingombro e peso maggiori, richiede parete portante | [Amazon](https://www.amazon.it/Solarus-Accumulatore-energia-Batteria-LUNA2000-10-S0/dp/B0BS1GBZDL?tag=audiobookit-21) |
+| [Pylontech US3000C Plus](https://www.pylontech.com.cn/) | 3,5 kWh | €1.600-2.300 | Tra le più economiche a parità di kWh, molto diffusa e compatibile con la maggior parte degli inverter ibridi | Capacità singola contenuta, va abbinata ad altri moduli per consumi elevati | — |
+| [Pylontech US5000C](https://www.pylontech.com.cn/) | 4,8 kWh | €2.200-3.100 | Buon compromesso capacità/prezzo, espandibile in serie fino a 16 moduli | Serve un inverter compatibile con il protocollo Pylontech | — |
+| [Huawei LUNA2000-5-E0](https://solar.huawei.com/it/) | 5 kWh | €2.500-3.000 | Alta efficienza, espandibile fino a 15 kWh, integrazione ottimale con inverter Huawei | Costo a kWh più alto dei moduli LFP generici | — |
+| [Huawei LUNA2000-10-S0](https://solar.huawei.com/it/) | 10 kWh | circa €5.700 | Pacchetto completo con controller integrato, ottimo per consumi medio-alti | Ingombro e peso maggiori, richiede parete portante | — |
 | [Tesla Powerwall 3](https://www.tesla.com/it_it/powerwall) | 13,5 kWh | da €6.900 + IVA (solo unità) | Inverter integrato, capacità elevata in un solo blocco, App di monitoraggio molto curata | Non acquistabile online, richiede installatore certificato Tesla e sopralluogo | [Confronta prezzi e installatori](https://www.tesla.com/it_it/powerwall) |
 
 *Prezzi indicativi settembre 2026; il costo finale installato dipende da inverter, distanza dal quadro elettrico e pratiche di connessione GSE.*

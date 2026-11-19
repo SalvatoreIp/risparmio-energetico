@@ -13,26 +13,13 @@ cover:
 
 <p class="lead">Dal 16 luglio 2026 anche l'assicurazione RC diventa obbligatoria per il monopattino elettrico. Chi circola senza casco rischia €50-€250 di multa. Caschi da €25-€60: ecco cosa significa UNI EN 1078, come riconoscerli e quali protezioni servono davvero.</p>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=casco+protezioni+monopattino&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi le migliori offerte su Amazon</a>
-</div>
-
 ## Quali caschi sono a norma per il monopattino (e dove comprarli)
 
 Se cerchi un casco per metterti in regola **subito**, ecco la risposta diretta: servono caschi certificati **UNI EN 1078**, la norma europea obbligatoria per monopattini e biciclette. Trovi l'etichetta di omologazione all'interno del casco. Questi tre modelli sono a norma e tra i più venduti:
 
 - **Casco omologato economico (circa 25€)** — leggero e certificato EN 1078, ideale per l'uso quotidiano in città.
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=casco+monopattino+omologato+en+1078&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
 - **Casco con luce LED integrata (circa 40€)** — aggiunge visibilità serale, utile per chi rientra col buio.
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=casco+monopattino+led&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
 - **Casco premium con sistema MIPS (circa 70€)** — massima protezione contro gli impatti rotazionali.
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=casco+monopattino+mips&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
 
 Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evitare e il confronto dettagliato dei modelli.
 
@@ -54,12 +41,6 @@ Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evit
 **Sanzione evitata:** €50-€250 (senza casco a norma)  
 **ROI:** 1 uso evitato, già ripagato
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CW1Z532H?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **2. Casco con luce integrata GKB LED**
@@ -79,12 +60,6 @@ Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evit
 **ROI:** 1 uso notturno evitato incidente, già ripagato
 
 **Nota:** la luce non sostituisce l'assicurazione, ma aumenta la sicurezza del 30%.
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CPT4Y34F?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -108,12 +83,6 @@ Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evit
 
 **Non sono obbligatori,** ma riducono il rischio infortuni al palmo del 70%.
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GL1QY7SC?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ### **4. Kit protezioni ginocchia e gomiti**
@@ -135,12 +104,6 @@ Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evit
 - **Apprendisti:** le prime 10-20 uscite, prima di prendere confidenza
 
 **Non obbligatori,** ma riducono il rischio infortuni gravi del 60%.
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0BN9NZJP1?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -167,12 +130,6 @@ Sotto trovi la guida completa: obblighi 2026, differenza tra le norme, cosa evit
 - **ROI lungo:** 3-4 anni di uso per ammortizzare
 
 **Per chi è:** per chi usa il monopattino **tutti i giorni**, percorre **>10 km/giorno**, e vuole la **massima sicurezza**.
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GL2JC1JH?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 

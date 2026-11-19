@@ -6,8 +6,8 @@ Uso:
   python3 scripts/controlla_articolo.py --modificati   (articoli nuovi/cambiati rispetto a origin/main)
 
 ERRORI = l'articolo uscirebbe rotto (link interni inesistenti, slug mancante, copertina
-assente, tag Amazon sbagliato, data futura). Exit code 1.
-AVVISI = regole editoriali (lunghezza, CTA, fonti, tono, prezzi vecchi). Non bloccano.
+assente, link Amazon o riquadro cta-box, data futura). Exit code 1.
+AVVISI = regole editoriali (lunghezza, fonti, tono, prezzi vecchi). Non bloccano.
 """
 import datetime
 import os
@@ -103,13 +103,12 @@ def controlla(file):
     if togli_virgolette(fm.get("draft", "false")) == "true":
         avvisi.append("draft: true, l'articolo non verrà pubblicato")
 
-    # Tag affiliato Amazon
-    for tag in re.findall(r"amazon\.it[^\s\"')]*[?&]tag=([A-Za-z0-9-]+)", corpo):
-        if tag != TAG_OK:
-            errori.append(f"link Amazon con tag '{tag}' invece di '{TAG_OK}'")
-    for link in re.findall(r"https?://(?:www\.)?amazon\.it/[^\s\"')]+", corpo):
-        if "tag=" not in link:
-            avvisi.append(f"link Amazon senza tag affiliato: {link[:80]}")
+    # 19/11/2026: niente piu' link Amazon ne' riquadri (affiliazione chiusa, e su Google
+    # fanno sembrare il sito un sito di affiliazione). Sono un ERRORE che blocca.
+    if re.search(r"https?://(?:www\.)?(?:amazon\.[a-z.]+|amzn\.[a-z]+)/", corpo):
+        errori.append("link Amazon nell'articolo: dal 19/11/2026 non si mettono piu'")
+    if 'class="cta-box"' in corpo:
+        errori.append("riquadro arancione cta-box: dal 19/11/2026 non si mette piu'")
 
     # Link interni: solo se public/ esiste (cioè dopo almeno un build)
     if os.path.isdir(os.path.join(ROOT, "public")):
@@ -123,8 +122,6 @@ def controlla(file):
     parole = len(re.findall(r"\w+", senza_html))
     if parole < 800 or parole > 1300:
         avvisi.append(f"{parole} parole (regola: 800-1200)")
-    if 'class="cta-box"' not in corpo:
-        avvisi.append("manca il pulsante arancione cta-box dopo l'introduzione")
     if not re.search(r"\*Fonti", corpo):
         avvisi.append("manca la riga *Fonti: ...* in fondo")
     if "€" not in corpo:

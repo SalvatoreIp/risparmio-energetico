@@ -13,10 +13,6 @@ cover:
 
 <p class="lead">Le notti sono diventate tropicali: ti svegli sudato alle 4 del mattino con le pareti ancora calde del giorno prima. L'aria è ferma, il caldo percepito è 39°C ma senza un condizionatore sembra impossibile dormire. Ecco 8 trucchi che abbassano la temperatura reale fino a 8°C, a partire da 12 euro.</p>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=rinfrescare+casa+senza+condizionatore&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Vedi le migliori offerte su Amazon</a>
-</div>
-
 ## Il problema notturno: le pareti che restano calde e l'umidità che soffoca
 
 **A Milano e Roma le notti estive non scendono sotto i 24°C.** Le previsioni parlano di ondate di calore che si protrarranno per settimane, con picchi di 40°C di giorno e 28°C di notte.
@@ -73,12 +69,6 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 - **Vetrate doppie:** -4°C di differenza
 - **Vetrate triple:** -3°C di differenza (meno effetto ma comunque utile)
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B072FFV15N?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ## 3. Pellicole termoriflettenti sui vetri: bloccano i raggi infrarossi
@@ -103,12 +93,6 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 - **Finestre che ricevono sole diretto:** sud, ovest
 - **Piani bassi:** dove il sole batte più a lungo
 - **Serre, balconi vetrati:** dove il calore entra dalle vetrate
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B08NC2QZWV?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -135,12 +119,6 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 **Limiti:**
 - **Non funziona con umidità alta:** se fuori è già afoso, peggiora la situazione
 - **Richiede ricambio d'aria:** tieni aperta un'altra finestra
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=lenzuola+bianche+cotone+160x200&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -170,12 +148,6 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 
 **Modelli consigliati:** 20-30L/giorno, classe A+, timer programmabile
 
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0FHH2NLPZ?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
-
 ---
 
 ## 6. Ventilatore posizionato strategicamente: spinge aria fresca dentro, non solo muove quella calda
@@ -199,12 +171,6 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 3. **Con lenzuolo bagnato:** dietro i lenzuoli, spinge aria evaporata dentro
 
 **Efficacia:** 4-6°C di differenza percepita a seconda del posizionamento
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0DR2K7GNR?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 
@@ -230,12 +196,6 @@ La risposta: **8 trucchi scientifici, tutti sotto i €100 di investimento, con 
 - **Fuori dalle finestre:** creano ombra naturale
 - **Interno:** posizionale vicino alle finestre soleggiate
 - **Giardino:** creano zone d'ombra e fresco
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0DMSCPMSC?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
-
 
 ---
 

@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+riscaldamento+a+pavimento+elettrico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit di riscaldamento a pavimento su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Esistono due impianti diversi chiamati entrambi "riscaldamento a pavimento".
@@ -39,15 +35,15 @@ La scelta tra le due dipende dall'uso: tutta la casa, o una stanza sola.
 
 ## I migliori modelli
 
-Un impianto radiante ad acqua per tutta la casa è un lavoro da cantiere (massetto, tubi, collettori), non un prodotto online: va chiesto a un installatore insieme al generatore descritto nelle guide dedicate. Su Amazon si trovano invece i kit elettrici per singole stanze, da installare sotto piastrelle nuove in bagni o cucine.
+Un impianto radiante ad acqua per tutta la casa è un lavoro da cantiere (massetto, tubi, collettori), non un prodotto online: va chiesto a un installatore insieme al generatore descritto nelle guide dedicate. Online si trovano invece i kit elettrici per singole stanze, da installare sotto piastrelle nuove in bagni o cucine.
 
-| Prodotto | Potenza | Superficie | Termostato | Link |
-|---|---|---|---|---|
-| Tappetino riscaldante a pavimento 200 W/m² | 200 W/m² | da ritagliare su misura | No (va aggiunto) | [Amazon](https://www.amazon.it/dp/B09PBJ3F62?tag=audiobookit-21) |
-| Warmon Classic 150 W/m² | 150 W/m² | 1 m² | Sì, analogico TS 25 | [Amazon](https://www.amazon.it/dp/B0F7HV6TRH?tag=audiobookit-21) |
-| Kit sottile con termostato digitale E51 | — | 2,5 m² | Sì, digitale | [Amazon](https://www.amazon.it/dp/B08FCNV7KY?tag=audiobookit-21) |
+| Prodotto | Potenza | Superficie | Termostato |
+| --- | --- | --- | --- |
+| Tappetino riscaldante a pavimento 200 W/m² | 200 W/m² | da ritagliare su misura | No (va aggiunto) |
+| Warmon Classic 150 W/m² | 150 W/m² | 1 m² | Sì, analogico TS 25 |
+| Kit sottile con termostato digitale E51 | — | 2,5 m² | Sì, digitale |
 
-*Prezzi non confermati con certezza in tabella: verificare su Amazon. Per l'impianto ad acqua, il generatore va scelto nelle guide [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) e [caldaia a condensazione](/riscaldamento/caldaia-condensazione-prezzi-2026/): entrambi funzionano anche con un impianto radiante, spesso meglio.*
+*Prezzi non confermati con certezza in tabella Per l'impianto ad acqua, il generatore va scelto nelle guide [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/) e [caldaia a condensazione](/riscaldamento/caldaia-condensazione-prezzi-2026/): entrambi funzionano anche con un impianto radiante, spesso meglio.*
 
 Prima di comprare un kit elettrico, controllare la potenza in W/m² (150-200 W/m² è la fascia comune) e se il termostato con sonda a pavimento è incluso: senza, il cavo rischia di scaldare troppo o troppo poco.
 

@@ -16,10 +16,6 @@ cover:
 
 "Impianto con accumulo" significa fotovoltaico e batteria progettati e dimensionati insieme fin dall'inizio, non un pacco pannelli a cui aggiungere una batteria in un secondo momento: cambia il taglio dell'inverter, il cablaggio e spesso anche il prezzo finale, che per una famiglia tipo con un impianto da 6 kW e una batteria da 10 kWh si aggira oggi tra 11.000 e 15.000 euro chiavi in mano. Nell'esempio che segue, questo investimento azzera la bolletta elettrica di una famiglia con pompa di calore e genera anche un piccolo ricavo dalla vendita del surplus, con un rientro stimato in circa 5 anni grazie al Bonus Ristrutturazioni.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=kit+fotovoltaico+con+accumulo&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i kit fotovoltaici con accumulo su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un impianto "chiavi in mano" comprende progettazione, fornitura di pannelli/inverter/batteria, installazione, pratiche burocratiche (comunicazione al Comune, allacciamento) e collaudo: l'azienda installatrice si occupa di tutto, a differenza dei kit fai-da-te o plug and play da balcone, adatti solo a impianti molto piccoli.

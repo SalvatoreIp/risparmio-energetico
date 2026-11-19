@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=climatizzatore+inverter+pompa+di+calore+A%2B%2B%2B&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i climatizzatori reversibili su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Un climatizzatore inverter "reversibile" non è solo un apparecchio che raffredda: d'inverno inverte il ciclo e funziona come una pompa di calore aria-aria, prelevando calore dall'aria esterna e cedendolo all'aria interna. È lo stesso principio della pompa di calore aria-acqua che scalda i radiatori, descritto nella guida alla [pompa di calore per termosifoni](/riscaldamento/pompa-di-calore-per-termosifoni/), ma più semplice perché scambia calore direttamente con l'aria della stanza, senza passare dall'acqua dell'impianto.
@@ -40,13 +36,13 @@ Il vero limite non è l'efficienza, ma cosa scalda: un climatizzatore riscalda s
 
 Per questo uso conviene guardare la classe energetica in riscaldamento (non solo quella in raffrescamento, spesso più alta sulla confezione) e un gas R32 a basso impatto ambientale.
 
-| Modello | Potenza | Classe energetica | Prezzo indicativo | Link |
-|---|---|---|---|---|
-| Daikin Perfera FTXM25A + RXM25A | 9000 BTU | A+++ freddo / A+++ caldo | circa €1.200-1.300 | [Amazon](https://www.amazon.it/Daikin-FTXM25A-RXM25A-Perfera-Season/dp/B0D83HTC3J?tag=audiobookit-21) |
-| Samsung WindFree Elite AR12CXCAAWKNEU | 12000 BTU | A+++ freddo / A+++ caldo | verificare su Amazon | [Amazon](https://www.amazon.it/Climatizzatore-SmartThings-Intelligenza-AR12CXCAAWKNEU-AR12TXCAAWKXEU/dp/B0CB12Z8W6?tag=audiobookit-21) |
-| Diloc Over 12000 BTU D.OVER12W | 12000 BTU | A++ freddo / A+++ caldo (clima mite) | circa €700-800 | [Amazon](https://www.amazon.it/Climatizzatore-inverter-monosplit-D-OVER12W-integrato/dp/B0CL4NK6MT?tag=audiobookit-21) |
+| Modello | Potenza | Classe energetica | Prezzo indicativo |
+| --- | --- | --- | --- |
+| Daikin Perfera FTXM25A + RXM25A | 9000 BTU | A+++ freddo / A+++ caldo | circa €1.200-1.300 |
+| Samsung WindFree Elite AR12CXCAAWKNEU | 12000 BTU | A+++ freddo / A+++ caldo | variabile |
+| Diloc Over 12000 BTU D.OVER12W | 12000 BTU | A++ freddo / A+++ caldo (clima mite) | circa €700-800 |
 
-*Prezzi indicativi ottobre 2026, variabili secondo il rivenditore: verifica sempre la classe energetica in riscaldamento sulla scheda prodotto, perché su Amazon spesso compare solo quella in raffrescamento.*
+*Prezzi indicativi ottobre 2026, variabili secondo il rivenditore: verifica sempre la classe energetica in riscaldamento sulla scheda prodotto, perché spesso compare solo quella in raffrescamento.*
 
 ## Quanto si risparmia davvero
 

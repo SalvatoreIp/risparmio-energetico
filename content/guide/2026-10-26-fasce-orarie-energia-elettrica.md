@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=presa+smart+timer+programmabile&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta prese smart con timer su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Le fasce orarie F1, F2 e F3 sono una divisione della giornata definita da ARERA (l'Autorità di Regolazione per Energia Reti e Ambiente) per calcolare il prezzo dell'energia elettrica in base al momento in cui viene consumata. Sono ancora lo schema di riferimento usato nelle offerte del mercato libero e nelle schede di confrontabilità pubblicate dai fornitori nel 2026.
@@ -45,13 +41,9 @@ Se si vuole davvero spostare l'uso degli elettrodomestici in fascia F3 senza dov
 
 | Prodotto | Tipo | Funzione principale | Prezzo indicativo |
 |---|---|---|---|
-| TP-Link Tapo P100 | Presa smart WiFi | Programmazione orari/settimanale da app, nessun hub richiesto | 9-13 € (verificare su Amazon) |
-| Meross Smart Plug (MSS210/MSS110) | Presa smart WiFi | Timer, programmazione settimanale, compatibile Alexa/Google/HomeKit | 15-25 € (verificare su Amazon) |
-| Timer meccanico a spina (es. REV, Hama) | Timer analogico | Accensione/spegnimento a intervalli fissi, senza app né WiFi | 8-15 € (verificare su Amazon) |
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=meross+presa+smart+timer&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta prese smart Meross su Amazon</a>
-</div>
+| TP-Link Tapo P100 | Presa smart WiFi | Programmazione orari/settimanale da app, nessun hub richiesto | 9-13 € |
+| Meross Smart Plug (MSS210/MSS110) | Presa smart WiFi | Timer, programmazione settimanale, compatibile Alexa/Google/HomeKit | 15-25 € |
+| Timer meccanico a spina (es. REV, Hama) | Timer analogico | Accensione/spegnimento a intervalli fissi, senza app né WiFi | 8-15 € |
 
 Le prese smart hanno un vantaggio in più rispetto al timer meccanico: molte (come quelle già descritte nella guida alle [prese smart con misuratore di consumo](/smart-home/prese-smart-misuratore-consumo-2026/)) mostrano anche quanti kWh ha consumato l'elettrodomestico collegato, così si può verificare con i propri numeri reali quanto si sposta davvero in F3. Attenzione: lavatrice e lavastoviglie **con partenza ritardata integrata** (quasi tutti i modelli recenti la hanno) non hanno bisogno di nessuna presa aggiuntiva: basta la funzione "avvio ritardato" dal pannello comandi o dall'app.
 

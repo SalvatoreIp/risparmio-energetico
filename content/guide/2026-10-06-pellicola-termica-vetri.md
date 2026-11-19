@@ -16,15 +16,11 @@ cover:
 <div class="in-breve">
 <strong>In breve (aggiornato a ottobre 2026)</strong>
 <ul>
-<li><strong>Costo:</strong> pellicola invernale da circa 10 a 30 € a seconda della metratura, pellicola solare/oscurante da circa 15 a 35 € (verificare prezzo su Amazon)</li>
+<li><strong>Costo:</strong> pellicola invernale da circa 10 a 30 € a seconda della metratura, pellicola solare/oscurante da circa 15 a 35 €</li>
 <li><strong>Risparmio d'inverno:</strong> circa 4-6 €/finestra l'anno su un vetro singolo datato, molto meno di un cambio infissi</li>
 <li><strong>Risparmio d'estate:</strong> circa 15-25 €/stagione su una stanza con finestra esposta a sud/ovest e condizionatore acceso</li>
 <li><strong>Per chi conviene:</strong> chi ha vetro singolo o infissi anni '70-'80 e vuole un rimedio tampone a basso costo, non chi si aspetta i risultati di un infisso nuovo</li>
 </ul>
-</div>
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=pellicola+termica+isolante+finestre&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le pellicole termiche per finestre su Amazon</a>
 </div>
 
 ### Cos'è e come funziona
@@ -40,13 +36,13 @@ Chi valuta un intervento più strutturale trova il confronto in [bonus infissi 2
 
 ### I migliori modelli
 
-| Prodotto | Tipo | Dimensioni | Prezzo indicativo | Pro | Contro | Link |
-|---|---|---|---|---|---|---|
-| Frunimall Pellicola Antifreddo PVC | Isolante invernale | 240x120 cm | Verificare su Amazon | Economica, copre una finestra grande, resistente | Richiede asciugacapelli per tendere bene il film, va rifatta ogni stagione | [Amazon](https://www.amazon.it/Frunimall-Pellicola-isolamento-protezione-scalabile/dp/B0BJ8BTB7S?tag=audiobookit-21) |
-| Kit Pellicola Isolante per Finestre 170x200 cm | Isolante invernale, kit multi-finestra | 170x200 cm | Verificare su Amazon | Taglio più grande, adatto a porte-finestra e balconi | Materiale sottile, va maneggiata con cura in fase di applicazione | [Amazon](https://www.amazon.it/Pellicola-Antifreddo-Isolamento-Invernali-Paraspifferi/dp/B0DNWKQ8FJ?tag=audiobookit-21) |
-| rabbitgoo Privacy Window Film Heat Control | Solare/oscurante estiva | 44,5x200 cm | Verificare su Amazon | Blocca una parte dei raggi UV, aggiunge privacy, non lascia residui alla rimozione | Riduzione del calore minore di una schermatura esterna, non adatta all'inverno | [Amazon](https://www.amazon.it/Rabbitgoo-Pellicola-Smerigliata-Autoadesive-Controllo/dp/B01M3RT7MT?tag=audiobookit-21) |
+| Prodotto | Tipo | Dimensioni | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| Frunimall Pellicola Antifreddo PVC | Isolante invernale | 240x120 cm | Economica, copre una finestra grande, resistente | Richiede asciugacapelli per tendere bene il film, va rifatta ogni stagione |
+| Kit Pellicola Isolante per Finestre 170x200 cm | Isolante invernale, kit multi-finestra | 170x200 cm | Taglio più grande, adatto a porte-finestra e balconi | Materiale sottile, va maneggiata con cura in fase di applicazione |
+| rabbitgoo Privacy Window Film Heat Control | Solare/oscurante estiva | 44,5x200 cm | Blocca una parte dei raggi UV, aggiunge privacy, non lascia residui alla rimozione | Riduzione del calore minore di una schermatura esterna, non adatta all'inverno |
 
-*Prezzi indicativi ottobre 2026, verifica sempre il prezzo aggiornato su Amazon al momento dell'acquisto.*
+*Prezzi indicativi ottobre 2026, verifica sempre il prezzo aggiornato al momento dell'acquisto.*
 
 ### Quanto si risparmia davvero
 

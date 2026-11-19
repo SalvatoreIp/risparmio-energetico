@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=termostato+caldaia+ibrida&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i termostati compatibili su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 La caldaia ibrida non è un apparecchio unico, ma due generatori collegati da una centralina che decide quale far lavorare: una pompa di calore aria-acqua e una caldaia a condensazione a metano o GPL. La centralina confronta temperatura esterna e costo dell'energia, e sceglie la combinazione più economica.
@@ -42,14 +38,14 @@ Il vantaggio rispetto a una pompa di calore pura: non serve dimensionare l'impia
 
 ## I migliori modelli del 2026
 
-Impianti installati da un tecnico qualificato: il link del modello porta al sito del produttore, l'ultima colonna ad Amazon per accessori e unità compatibili.
+Impianti installati da un tecnico qualificato: il link del modello porta al sito del produttore.
 
-| Modello | Potenza pompa di calore | Caldaia abbinata | Prezzo indicativo (sistema, senza manodopera) | Link |
-|---|---|---|---|---|
-| [Daikin HPU Hybrid + Multi](https://www.daikin.it) | 5-8 kW | Caldaia a condensazione esistente o nuova | circa 7.000 € | [Amazon](https://www.amazon.it/s?k=Daikin+HPU+Hybrid&tag=audiobookit-21) |
-| [Immergas Magis Combo](https://immergas.com/it) | 6-10 kW | Integrata nell'unità interna | circa 7.800 € | [Amazon](https://www.amazon.it/s?k=Immergas+Magis+Combo&tag=audiobookit-21) |
-| [Baxi CSI IN H Wi-Fi](https://www.baxi.it) | 4-11 kW | Caldaia a condensazione integrata | circa 6.800 € | [Amazon](https://www.amazon.it/s?k=Baxi+CSI+IN+Hybrid&tag=audiobookit-21) |
-| [Vaillant Hybrid-Kit + aroTHERM plus](https://www.vaillant.it) | fino a 12 kW | Caldaia eBUS esistente fino a 30 kW | verificare su Amazon | [Amazon](https://www.amazon.it/s?k=Vaillant+aroTHERM+hybrid&tag=audiobookit-21) |
+| Modello | Potenza pompa di calore | Caldaia abbinata | Prezzo indicativo (sistema, senza manodopera) |
+| --- | --- | --- | --- |
+| [Daikin HPU Hybrid + Multi](https://www.daikin.it) | 5-8 kW | Caldaia a condensazione esistente o nuova | circa 7.000 € |
+| [Immergas Magis Combo](https://immergas.com/it) | 6-10 kW | Integrata nell'unità interna | circa 7.800 € |
+| [Baxi CSI IN H Wi-Fi](https://www.baxi.it) | 4-11 kW | Caldaia a condensazione integrata | circa 6.800 € |
+| [Vaillant Hybrid-Kit + aroTHERM plus](https://www.vaillant.it) | fino a 12 kW | Caldaia eBUS esistente fino a 30 kW | variabile |
 
 *Prezzi indicativi ottobre 2026, solo materiale (caldaia + pompa di calore o kit di collegamento): con installazione, adeguamento idraulico e manodopera il totale sale, come spiegato sopra, a 11.000-20.000 €.*
 

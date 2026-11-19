@@ -15,10 +15,6 @@ cover:
 
 Per capire se il fotovoltaico conviene servono quattro numeri: quanti kWh consumi in un anno, quanto paghi ogni kWh, dove abiti e quanta energia riesci a usare mentre il sole produce. Questo calcolatore li mette insieme e ti dà tre risposte: quanti kW servono, quanto risparmi all'anno e in quanti anni l'impianto si ripaga, contando la detrazione 2026 che torna in 10 rate. Il consumo annuo lo trovi in bolletta, nella sezione "consumi degli ultimi 12 mesi". Tutti i conti avvengono sul tuo telefono: nessun dato viene inviato o salvato.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=misuratore+consumo+energia+elettrica+wifi&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i misuratori di consumo elettrico su Amazon</a>
-</div>
-
 <div class="calc-fv" id="calc-fv">
 <h3>Calcola la convenienza</h3>
 <div class="riga"><label for="fv-consumo">Consumo annuo di luce (kWh)</label><input id="fv-consumo" type="number" inputmode="numeric" min="500" max="20000" step="100" value="2700"><small>In bolletta: "consumo annuo" o somma degli ultimi 12 mesi. Una famiglia di 3 persone consuma in media 2.500-3.000 kWh.</small></div>

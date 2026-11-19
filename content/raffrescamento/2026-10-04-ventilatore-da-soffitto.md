@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=ventilatore+da+soffitto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i ventilatori da soffitto su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il ventilatore da soffitto non abbassa la temperatura dell'aria: la mette in movimento. Il flusso d'aria sulla pelle accelera l'evaporazione del sudore, e questo basta a far percepire 3-5°C in meno a parità di temperatura reale, lo stesso principio che rende più sopportabile una giornata ventosa rispetto a una immobile. È la ragione per cui un ventilatore non è un sostituto diretto del condizionatore quando si superano i 32-33°C: a quel punto serve davvero abbassare la temperatura dell'aria, non solo spostarla. Nei giorni intermedi (26-30°C, la maggioranza dell'estate italiana), invece, il ventilatore basta da solo.
@@ -38,11 +34,11 @@ Il motore è quasi sempre **DC (a corrente continua)** nei modelli recenti, più
 
 ### I migliori modelli
 
-| Modello | Diametro | Potenza | Funzioni | Prezzo indicativo | Link |
-|---|---|---|---|---|---|
-| Klarstein Spin Doctor | 122 cm | 56 W | 3 velocità, funzione inversa estate/inverno dichiarata, corpo in acciaio inox, senza luce | circa 58-75 € | [Amazon](https://www.amazon.it/dp/B07BXM63VD?tag=audiobookit-21) |
-| Ateroll con luce LED | 132 cm | non dichiarata | LED dimmerabile 3000-6500K, 6 velocità, telecomando | circa 76-94 € | [Amazon](https://www.amazon.it/dp/B0GJ5K69BZ?tag=audiobookit-21) |
-| Dreo smart con luce | 132 cm | 65 W | 12 velocità, 3 modalità (Normale/Naturale/Sonno), LED dimmerabile, app e Alexa | circa 135-163 € | [Amazon](https://www.amazon.it/dp/B0GN92CGHW?tag=audiobookit-21) |
+| Modello | Diametro | Potenza | Funzioni | Prezzo indicativo |
+| --- | --- | --- | --- | --- |
+| Klarstein Spin Doctor | 122 cm | 56 W | 3 velocità, funzione inversa estate/inverno dichiarata, corpo in acciaio inox, senza luce | circa 58-75 € |
+| Ateroll con luce LED | 132 cm | non dichiarata | LED dimmerabile 3000-6500K, 6 velocità, telecomando | circa 76-94 € |
+| Dreo smart con luce | 132 cm | 65 W | 12 velocità, 3 modalità (Normale/Naturale/Sonno), LED dimmerabile, app e Alexa | circa 135-163 € |
 
 *Prezzi indicativi ottobre 2026, variabili secondo le promozioni. Per Ateroll e Dreo la funzione inversa non è dichiarata nella scheda consultata: verificala se ti interessa l'uso invernale. L'installazione richiede un punto elettrico al soffitto già predisposto per un lampadario: se non c'è, serve un elettricista.*
 

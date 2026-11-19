@@ -23,10 +23,6 @@ lastmod: 2026-10-10T09:10:32+02:00
 </ul>
 </div>
 
-<div class="cta-box">
-<a href="https://www.amazon.it/s?k=monopattino+elettrico&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i monopattini elettrici su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pensato per tragitti urbani brevi, fino a 10-12 km. Con **due ruote**, motore elettrico, batteria ricaricabile e telaio pieghevole, offre:
@@ -62,7 +58,6 @@ Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pens
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -71,21 +66,18 @@ Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pens
 <td>€260-320</td>
 <td>Prezzo bassissimo, affidabile, ricambi facili</td>
 <td>Autonomia limitata, sospensioni rigide</td>
-<td><a href="https://www.amazon.it/s?k=Xiaomi+Electric+Scooter+4&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Segway-Ninebot F25E II</strong><br><small>250W, 25 km, ruote 10" tubeless</small></td>
 <td>€280-340</td>
 <td>Ruote tubeless (no buchi), peso leggero, affidabile</td>
 <td>Potenza modesta, autonomia base</td>
-<td><a href="https://www.amazon.it/s?k=Segway-Ninebot+F25E+II&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Nilox E-Go City 2</strong><br><small>350W, 30 km, doppio freno</small></td>
 <td>€290-350</td>
 <td>Ottimo rapporto qualità-prezzo, freni doppi</td>
 <td>Design meno elegante, peso medio</td>
-<td><a href="https://www.amazon.it/s?k=Nilox+E-Go+City+2&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +91,6 @@ Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pens
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -108,21 +99,18 @@ Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pens
 <td>€380-450</td>
 <td>Comfort elevato, ruote 8.1" a nido d'ape, pieghevole</td>
 <td>Autonomia media, velocità limitata</td>
-<td><a href="https://www.amazon.it/s?k=Segway-Ninebot+E2+Plus+E+II&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Xiaomi Electric Scooter 4 Pro 2</strong><br><small>700W, 55 km, ruote 10"</small></td>
 <td>€480-580</td>
 <td>Alta autonomia, potenza superiore, display completo</td>
 <td>Prezzo più alto, peso 22 kg</td>
-<td><a href="https://www.amazon.it/s?k=Xiaomi+Electric+Scooter+4+Pro+2&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Ducati e-Moped D10</strong><br><small>500W, 45 km, design premium</small></td>
 <td>€550-650</td>
 <td>Design Ducati, qualità costruttiva, valore mantenuto</td>
 <td>Prezzo elevato, ricambi costosi</td>
-<td><a href="https://www.amazon.it/s?k=Ducati+e-Moped+D10&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -136,7 +124,6 @@ Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pens
 <th>Prezzo (indicativo maggio 2026)</th>
 <th>Pro</th>
 <th>Contro</th>
-<th>Amazon</th>
 </tr>
 </thead>
 <tbody>
@@ -145,21 +132,18 @@ Il **monopattino elettrico** (o e-scooter) è un mezzo elettrico pieghevole pens
 <td>€650-750</td>
 <td>Autonomia record, tecnologia avanzata, comfort max</td>
 <td>Prezzo premium, peso 23 kg</td>
-<td><a href="https://www.amazon.it/s?k=Segway-Ninebot+E2+Pro&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Xiaomi Electric Scooter 4 Ultra</strong><br><small>1000W, 70 km, doppia batteria</small></td>
 <td>€800-900</td>
 <td>Potenza massima, autonomia totale, display HD</td>
 <td>Costoso, pesantissimo (28 kg), difficile da trasportare</td>
-<td><a href="https://www.amazon.it/s?k=Xiaomi+Electric+Scooter+4+Ultra&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Ninebot F65I</strong><br><small>400W, 65 km, indicatori di direzione</small></td>
 <td>€680-750</td>
 <td>Indicatori di direzione, sicurezza elevata, affidabile</td>
 <td>Design meno accattivante, prezzo medio-alto</td>
-<td><a href="https://www.amazon.it/s?k=Ninebot+F65I&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>

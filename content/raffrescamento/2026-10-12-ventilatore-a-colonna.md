@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=ventilatore+a+colonna&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i ventilatori a colonna su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il ventilatore a colonna (o "a torre") ha la stessa funzione del [ventilatore da soffitto](/raffrescamento/ventilatore-da-soffitto/): non abbassa la temperatura dell'aria, la muove. Il flusso sulla pelle accelera l'evaporazione del sudore e fa percepire 3-5°C in meno a parità di temperatura reale. La differenza è tutta nell'installazione: il modello da soffitto richiede un punto elettrico già predisposto e un soffitto non troppo basso, mentre quello a colonna si appoggia semplicemente a terra, si sposta da una stanza all'altra e non richiede alcun lavoro — la scelta pratica per chi vive in affitto o in un appartamento con soffitti bassi.
@@ -37,13 +33,13 @@ Il dato da controllare davvero prima di comprare è la **rumorosità a velocità
 
 ### I migliori modelli
 
-| Modello | Altezza | Potenza | Funzioni | Prezzo indicativo | Link |
-|---|---|---|---|---|---|
-| Cecotec EnergySilence 790 Skyline | 96 cm | 45-50 W | 3 velocità, oscillazione, telecomando, fascia economica | circa 35-44 € | [Amazon](https://www.amazon.it/dp/B092J73VGC?tag=audiobookit-21) |
-| Aigostar senza pale 81 cm | 81 cm | 45 W | design senza pale a vista, oscillazione, timer | circa 39-59 € (verificare disponibilità) | [Amazon](https://www.amazon.it/dp/B0FZ9ZXXZG?tag=audiobookit-21) |
-| DREO ventilatore a torre 106 cm | 106 cm | non dichiarata (8,5 m/s di flusso) | 9 velocità, 4 modalità, telecomando, timer 12h | circa 95-100 € | [Amazon](https://www.amazon.it/dp/B08PDDSDHY?tag=audiobookit-21) |
+| Modello | Altezza | Potenza | Funzioni | Prezzo indicativo |
+| --- | --- | --- | --- | --- |
+| Cecotec EnergySilence 790 Skyline | 96 cm | 45-50 W | 3 velocità, oscillazione, telecomando, fascia economica | circa 35-44 € |
+| Aigostar senza pale 81 cm | 81 cm | 45 W | design senza pale a vista, oscillazione, timer | circa 39-59 € (verificare disponibilità) |
+| DREO ventilatore a torre 106 cm | 106 cm | non dichiarata (8,5 m/s di flusso) | 9 velocità, 4 modalità, telecomando, timer 12h | circa 95-100 € |
 
-*Prezzi indicativi ottobre 2026, variabili secondo le promozioni. Per l'Aigostar la disponibilità su Amazon.it è risultata intermittente al momento della verifica: controllare prima di contare su quel modello specifico. Nessuno dei tre dichiara in scheda un dato di rumorosità verificato in modo indipendente: fidati più delle recensioni con migliaia di voti che del numero in dB sulla confezione.*
+*Prezzi indicativi ottobre 2026, variabili secondo le promozioni. Per l'Aigostar la disponibilità online è risultata intermittente al momento della verifica: controllare prima di contare su quel modello specifico. Nessuno dei tre dichiara in scheda un dato di rumorosità verificato in modo indipendente: fidati più delle recensioni con migliaia di voti che del numero in dB sulla confezione.*
 
 ### Quanto si risparmia davvero
 

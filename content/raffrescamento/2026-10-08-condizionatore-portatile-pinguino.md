@@ -23,30 +23,26 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=condizionatore+portatile+pinguino&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i condizionatori portatili su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Un condizionatore portatile con tubo è una pompa di calore compatta: aspira l'aria della stanza, ne sottrae calore e lo scarica fuori attraverso un tubo flessibile infilato in una finestra. Esistono due architetture, con una differenza tecnica che quasi nessuna scheda prodotto spiega chiaramente.
 
 **Monotubo** (la quasi totalità dei modelli venduti in Italia, inclusi tutti i De'Longhi Pinguino e gli Olimpia Splendid Dolceclima): un solo tubo scarica l'aria calda. L'apparecchio preleva l'aria da espellere dalla stessa stanza che raffresca, creando una leggera depressione che richiama aria calda dall'esterno attraverso spiragli di finestre e porte. Una parte dell'energia spesa viene così "risucchiata" di nuovo dentro.
 
-**Doppio tubo**: un tubo aspira aria direttamente dall'esterno per lo scarico, l'altro raffresca la stanza, evitando la depressione. Il vantaggio tecnico è reale: secondo le analisi di settore l'EER (rapporto tra potenza raffrescante e potenza elettrica assorbita) è tipicamente sotto i 10 per i monotubo e 11-13 per i doppio tubo di qualità. In pratica, però, i veri portatili a doppio tubo per uso domestico sono quasi assenti dal mercato italiano: la ricerca tra i modelli in vendita su Amazon.it restituisce solo monotubo (Pinguino, Dolceclima, Trotec), mentre il doppio tubo resta diffuso soprattutto in ambito professionale.
+**Doppio tubo**: un tubo aspira aria direttamente dall'esterno per lo scarico, l'altro raffresca la stanza, evitando la depressione. Il vantaggio tecnico è reale: secondo le analisi di settore l'EER (rapporto tra potenza raffrescante e potenza elettrica assorbita) è tipicamente sotto i 10 per i monotubo e 11-13 per i doppio tubo di qualità. In pratica, però, i veri portatili a doppio tubo per uso domestico sono quasi assenti dal mercato italiano: tra i modelli in vendita nei grandi negozi online si trovano quasi solo monotubo (Pinguino, Dolceclima, Trotec), mentre il doppio tubo resta diffuso soprattutto in ambito professionale.
 
 Per chi acquista oggi in Italia, la leva di risparmio reale non è quindi "monotubo vs doppio tubo" (opzione quasi inesistente), ma due cose concrete: la **classe energetica** (l'A+ consuma il 10-15% in meno dell'A a pari BTU) e la **taglia corretta** per la stanza, perché un modello sovradimensionato si accende e spegne di continuo sprecando energia senza raffrescare meglio. Chi non può installare un'unità esterna trova un'alternativa più efficiente nel [monoblocco senza unità esterna](/raffrescamento/condizionatore-senza-unita-esterna/); chi ha trovato online un "pinguino senza tubo" sta probabilmente guardando un prodotto diverso, spiegato nella guida al [condizionatore portatile senza tubo](/raffrescamento/condizionatore-portatile-senza-tubo/).
 
 ### I migliori modelli
 
-| Modello | BTU/h | Classe | Pro | Contro | Link |
-|---|---|---|---|---|---|
-| De'Longhi Pinguino PAC EM90 | 9.800 | A | Prezzo contenuto, R290, per stanze fino a 90 m³ | Monotubo, consumo più alto a pari BTU | [Amazon](https://www.amazon.it/DeLonghi-Pinguino-condizionatore-silenzioso-decibel/dp/B094J71QCB?tag=audiobookit-21) |
-| Olimpia Splendid Dolceclima Compact 10 P | 10.000 | A | Compatto, gas R290, kit finestra incluso | Nessun WiFi, classe A | [Amazon](https://www.amazon.it/Olimpia-Splendid-01921-Dolceclima-Climatizzatore/dp/B07NDR71PH?tag=audiobookit-21) |
-| De'Longhi Pinguino PAC EL112 CST WiFi | 11.000 | A+ | Assorbe circa 950 W (dichiarato), controllo WiFi/Alexa, deumidifica | Prezzo più alto | [Amazon](https://www.amazon.it/DeLonghi-PAC-Climatizzatore-portatile-EL112/dp/B083VCSZ92?tag=audiobookit-21) |
-| Trotec PAC 2020 E WiFi | 7.000 | A | Più piccolo, adatto a stanze fino a 65 m³, WiFi incluso | Potenza limitata per stanze medio-grandi | [Amazon](https://www.amazon.it/TROTEC-PAC-2020-WiFi-deumidificatore/dp/B0F9FKNRRD?tag=audiobookit-21) |
+| Modello | BTU/h | Classe | Pro | Contro |
+| --- | --- | --- | --- | --- |
+| De'Longhi Pinguino PAC EM90 | 9.800 | A | Prezzo contenuto, R290, per stanze fino a 90 m³ | Monotubo, consumo più alto a pari BTU |
+| Olimpia Splendid Dolceclima Compact 10 P | 10.000 | A | Compatto, gas R290, kit finestra incluso | Nessun WiFi, classe A |
+| De'Longhi Pinguino PAC EL112 CST WiFi | 11.000 | A+ | Assorbe circa 950 W (dichiarato), controllo WiFi/Alexa, deumidifica | Prezzo più alto |
+| Trotec PAC 2020 E WiFi | 7.000 | A | Più piccolo, adatto a stanze fino a 65 m³, WiFi incluso | Potenza limitata per stanze medio-grandi |
 
-*Prezzi non indicati in tabella perché variano spesso su Amazon: a titolo indicativo, a maggio 2026 il Dolceclima Compact 10 P risultava intorno ai 300 € e il Trotec PAC 2020 E intorno ai 400 €, dato consultato su comparatori di prezzo. Verifica sempre il prezzo aggiornato sulla scheda prodotto.*
+*Prezzi non indicati in tabella perché variano spesso: a titolo indicativo, a maggio 2026 il Dolceclima Compact 10 P risultava intorno ai 300 € e il Trotec PAC 2020 E intorno ai 400 €, dato consultato su comparatori di prezzo. Verifica sempre il prezzo aggiornato sulla scheda prodotto.*
 
 ### Quanto si risparmia davvero
 

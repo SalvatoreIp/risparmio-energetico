@@ -24,10 +24,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=caldaia+a+condensazione&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le caldaie a condensazione su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Una caldaia tradizionale disperde nel camino il calore dei fumi di combustione, che escono ancora a 150-200°C. La caldaia a condensazione raffredda quegli stessi fumi fino a farli condensare, recuperando il calore latente del vapore acqueo: il rendimento, calcolato sul potere calorifico inferiore del gas, arriva così al 94-98%, contro l'85-88% di una caldaia tradizionale di 15-20 anni.
@@ -40,14 +36,14 @@ A differenza della caldaia ibrida descritta nella [guida dedicata](/riscaldament
 
 Prezzi del solo apparecchio: alla cifra va sempre aggiunta la manodopera dell'installatore (600-1.200 €, di più con adeguamenti).
 
-| Modello | Potenza | Tipo | Prezzo indicativo | Link |
-|---|---|---|---|---|
-| Ariston Matis Condens Plus 24 kW | 24 kW | Combinata (riscaldamento + sanitario istantaneo) | verificare su Amazon | [Amazon](https://www.amazon.it/dp/B085V4QTP3?tag=audiobookit-21) |
-| Vaillant ecoTEC pure VMW 246/7-2 | 24 kW | Combinata | verificare su Amazon | [Amazon](https://www.amazon.it/dp/B072KSCT1H?tag=audiobookit-21) |
-| Immergas Victrix Tera V2 28 kW | 28 kW | Combinata | verificare su Amazon | [Amazon](https://www.amazon.it/dp/B0C8JTMPTV?tag=audiobookit-21) |
-| Ariston HS Premium 24 | 24 kW | Combinata, predisposta Wi-Fi | verificare su Amazon | [Amazon](https://www.amazon.it/dp/B09MR1PKMP?tag=audiobookit-21) |
+| Modello | Potenza | Tipo |
+| --- | --- | --- |
+| Ariston Matis Condens Plus 24 kW | 24 kW | Combinata (riscaldamento + sanitario istantaneo) |
+| Vaillant ecoTEC pure VMW 246/7-2 | 24 kW | Combinata |
+| Immergas Victrix Tera V2 28 kW | 28 kW | Combinata |
+| Ariston HS Premium 24 | 24 kW | Combinata, predisposta Wi-Fi |
 
-*Prezzi non confermati con certezza in tabella: variano spesso su Amazon.it. Secondo un confronto di Altroconsumo di febbraio 2026, i modelli con potenza 18-25 kW vanno in genere da circa 885 € a circa 1.900 €. Baxi e Immergas risultano i marchi meglio valutati per assistenza post-vendita.*
+*Prezzi non confermati con certezza in tabella: variano spesso. Secondo un confronto di Altroconsumo di febbraio 2026, i modelli con potenza 18-25 kW vanno in genere da circa 885 € a circa 1.900 €. Baxi e Immergas risultano i marchi meglio valutati per assistenza post-vendita.*
 
 Tutti e quattro sono caldaie "combinate" (riscaldamento + acqua calda istantanea), la scelta più comune per una famiglia con un solo bagno. Chi ha bisogno di più acqua calda in contemporanea valuta invece una caldaia solo riscaldamento con bollitore separato, più cara ma senza cali di pressione.
 

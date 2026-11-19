@@ -39,7 +39,7 @@ Le pompe di calore moderne utilizzano tecnologia inverter per modulare la potenz
 
 ### I migliori modelli del 2026
 
-Sono impianti costosi che richiedono installazione professionale: raramente si trovano in vendita diretta su Amazon come unità complete, quindi la tabella confronta le tipologie con un prezzo installato realistico invece di singoli prodotti. I link rimandano alle schede tecniche ufficiali dei produttori più diffusi in Italia.
+Sono impianti costosi che richiedono installazione professionale: non si comprano come un elettrodomestico qualsiasi, quindi la tabella confronta le tipologie con un prezzo installato realistico invece di singoli prodotti. I link rimandano alle schede tecniche ufficiali dei produttori più diffusi in Italia.
 
 | Tipologia | Potenza tipica | Prezzo installato (IVA 10% inclusa) | Resa (SCOP/COP) | Quando ha senso | Marche diffuse |
 |---|---|---|---|---|---|

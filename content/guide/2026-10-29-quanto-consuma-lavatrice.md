@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=lavatrice+classe+energetica+a&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta le lavatrici in classe A su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Come per il [frigorifero](/guide/quanto-consuma-frigorifero/), anche l'etichetta energetica della lavatrice è cambiata nel marzo 2021: la scala va da A a G, più severa di quella precedente con i simboli "+". Il valore riportato non è più un consumo annuo stimato, ma un dato in kWh per 100 cicli, calcolato sul programma Eco 40-60 (il più efficiente in assoluto, anche se non il più rapido) con carichi misti da un quarto, metà e pieno.
@@ -39,13 +35,13 @@ La parte che pesa di più nel consumo, in ogni caso, non è il motore ma la resi
 
 Confronto tra tre lavatrici reali in commercio, scelte per rappresentare classi ed efficienze diverse:
 
-| Modello | Capacità | Classe | Consumo dichiarato | Costo a ciclo Eco (0,32 €/kWh) | Link |
-|---|---|---|---|---|---|
-| [Midea MF10EW70B](https://www.amazon.it/dp/B0CXSZ2VGZ?tag=audiobookit-21) | 7 kg | A | 44 kWh/100 cicli | ~0,14 €/lavaggio | [Amazon](https://www.amazon.it/dp/B0CXSZ2VGZ?tag=audiobookit-21) |
-| [Hisense WFQE7012EVM](https://www.amazon.it/dp/B0B97C62VW?tag=audiobookit-21) | 7 kg | A | non confermato (verificare etichetta) | da verificare | [Amazon](https://www.amazon.it/dp/B0B97C62VW?tag=audiobookit-21) |
-| [Electrolux EW6S526W](https://www.amazon.it/dp/B0D4DCL6RR?tag=audiobookit-21) | 6 kg | B | 48 kWh/100 cicli | ~0,15 €/lavaggio | [Amazon](https://www.amazon.it/dp/B0D4DCL6RR?tag=audiobookit-21) |
+| Capacità | Classe | Consumo dichiarato | Costo a ciclo Eco (0,32 €/kWh) |
+| --- | --- | --- | --- |
+| 7 kg | A | 44 kWh/100 cicli | ~0,14 €/lavaggio |
+| 7 kg | A | non confermato (verificare etichetta) | da verificare |
+| 6 kg | B | 48 kWh/100 cicli | ~0,15 €/lavaggio |
 
-Prezzi non riportati in tabella: variano spesso su Amazon e vanno verificati al momento dell'acquisto. La differenza di consumo tra il modello in classe A e quello in classe B è minima (4 kWh ogni 100 cicli, circa un centesimo a lavaggio): su una lavatrice tenuta 10 anni non è la voce che decide l'acquisto.
+Prezzi non riportati in tabella: variano spesso e vanno verificati al momento dell'acquisto. La differenza di consumo tra il modello in classe A e quello in classe B è minima (4 kWh ogni 100 cicli, circa un centesimo a lavaggio): su una lavatrice tenuta 10 anni non è la voce che decide l'acquisto.
 
 ### Quanto si risparmia davvero
 

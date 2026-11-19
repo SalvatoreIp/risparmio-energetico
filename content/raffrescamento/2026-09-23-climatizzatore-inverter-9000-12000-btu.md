@@ -16,10 +16,6 @@ cover:
 
 Tra 9000 e 12000 BTU, inverter o on/off, marca premium o modello economico: scegliere un climatizzatore nuovo significa rispondere a più domande insieme, e sbagliarne una (soprattutto la taglia) pesa in bolletta per anni. In questa guida vediamo come scegliere la potenza giusta in base ai metri quadri, quali marche offrono davvero il miglior rapporto qualità-prezzo nel 2026 e quanto si risparmia scegliendo un buon inverter invece di un modello vecchio stile.
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=climatizzatore+inverter+9000+12000+btu&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i climatizzatori inverter su Amazon</a>
-</div>
-
 ### Cos'è e come funziona
 
 Il BTU (British Thermal Unit) misura la potenza frigorifera dell'apparecchio: più BTU, più aria un climatizzatore riesce a raffreddare in un dato tempo. Come regola pratica, un **9000 BTU** (circa 2,6 kW) copre bene una stanza singola fino a 20-25 m² con altezza standard, mentre un **12000 BTU** (circa 3,5 kW) arriva a 25-35 m², utile per un soggiorno o una zona living open space. Scegliere una taglia più piccola del necessario costringe il compressore a lavorare sempre al massimo senza mai raggiungere la temperatura impostata; una taglia troppo grande, invece, fa accendere e spegnere il compressore troppo spesso (soprattutto nei modelli on/off), con più consumi e più usura.
@@ -28,13 +24,13 @@ La differenza tra **inverter** e **on/off** è il vero salto di efficienza. Un c
 
 ### I migliori modelli
 
-I marchi premium — Daikin, Mitsubishi Electric, Samsung WindFree, LG DualCool — restano il riferimento per affidabilità ed efficienza secondo i comparatori di settore (Altroconsumo), ma nella maggior parte dei casi si comprano tramite un installatore certificato, non online, perché il prezzo include quasi sempre la posa in opera. Su Amazon.it si trovano invece brand come Hisense, Ferroli e Beretta, con un buon compromesso tra prezzo e classe energetica, adatti anche a un'installazione fai-da-te per chi ha già dimestichezza o vuole poi far collaudare l'impianto da un tecnico.
+I marchi premium — Daikin, Mitsubishi Electric, Samsung WindFree, LG DualCool — restano il riferimento per affidabilità ed efficienza secondo i comparatori di settore (Altroconsumo), ma nella maggior parte dei casi si comprano tramite un installatore certificato, non online, perché il prezzo include quasi sempre la posa in opera. Online si trovano invece brand come Hisense, Ferroli e Beretta, con un buon compromesso tra prezzo e classe energetica, adatti anche a un'installazione fai-da-te per chi ha già dimestichezza o vuole poi far collaudare l'impianto da un tecnico.
 
-| Modello | Potenza | Classe energetica | Prezzo indicativo | Link |
-|---|---|---|---|---|
-| Hisense Hi Comfort CF25YR04 | 9000 BTU | A++ (raffreddamento) | circa €340 | [Amazon](https://www.amazon.it/Climatizzatore-Comfort-Hisense-inverter-CF25YR04/dp/B0CVRNLG7H?tag=audiobookit-21) |
-| Ferroli Giada S | 12000 BTU | A++, gas R32, Wi-Fi | circa €350 | [Amazon](https://www.amazon.it/Ferroli-Climatizzatore-Monosplit-Inverter-Classe/dp/B0CSPH6855?tag=audiobookit-21) |
-| Beretta Breva IN | 12000 BTU | A++, gas R32 | circa €300-410 (variabile per rivenditore) | [Amazon](https://www.amazon.it/Beretta-Climatizzatore-Monosplit-Inverter-Optional/dp/B0F7RGWJY8?tag=audiobookit-21) |
+| Modello | Potenza | Classe energetica | Prezzo indicativo |
+| --- | --- | --- | --- |
+| Hisense Hi Comfort CF25YR04 | 9000 BTU | A++ (raffreddamento) | circa €340 |
+| Ferroli Giada S | 12000 BTU | A++, gas R32, Wi-Fi | circa €350 |
+| Beretta Breva IN | 12000 BTU | A++, gas R32 | circa €300-410 (variabile per rivenditore) |
 
 *Prezzi indicativi settembre 2026, per la sola unità: verifica sempre il costo aggiornato e ricorda che a questi prezzi va sommata l'installazione con un tecnico frigorista abilitato (in genere 150-350 euro per un monosplit, secondo la complessità).*
 
@@ -51,7 +47,7 @@ Il conto migliora ulteriormente se il climatizzatore vecchio viene usato anche i
 ### Incentivi disponibili 2026
 
 - **Ecobonus**: detrazione **50% per l'abitazione principale** e **36% per le altre unità immobiliari**, ripartita in 10 quote annuali, per l'installazione di un climatizzatore con pompa di calore reversibile. Per accedere all'Ecobonus il modello deve avere classe energetica almeno **A+++** in raffrescamento.
-- **Bonus Ristrutturazioni**: stesse aliquote (50%/36%), ma con requisito tecnico meno stringente: basta la classe **A+**. È l'opzione più semplice per la maggior parte degli acquisti descritti in questa guida, dato che i modelli Amazon citati sopra sono in classe A++.
+- **Bonus Ristrutturazioni**: stesse aliquote (50%/36%), ma con requisito tecnico meno stringente: basta la classe **A+**. È l'opzione più semplice per la maggior parte degli acquisti descritti in questa guida, dato che i modelli economici citati sopra sono in classe A++.
 - In entrambi i casi il limite di spesa è **96.000 euro** per unità immobiliare (48.000 euro per le seconde case), il pagamento va fatto con bonifico parlante e la fattura/scontrino va conservata insieme alla documentazione tecnica del prodotto.
 - Il **Conto Termico 3.0** resta più indicato per impianti di climatizzazione invernale centralizzati che per un singolo monosplit: il quadro completo è nella guida agli [incentivi pompe di calore 2026](/incentivi/incentivi-pompe-di-calore-2026/).
 

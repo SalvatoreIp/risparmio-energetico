@@ -23,10 +23,6 @@ cover:
 </ul>
 </div>
 
-<div class="cta-box">
-  <a href="https://www.amazon.it/s?k=cronotermostato+modulante+opentherm&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Confronta i termostati modulanti OpenTherm su Amazon</a>
-</div>
-
 ## Cos'è e come funziona
 
 Sul pannello della caldaia la manopola con il simbolo del termosifone decide quanto calda parte l'acqua verso i radiatori (temperatura di **mandata**); quella con il rubinetto riguarda l'acqua calda sanitaria.

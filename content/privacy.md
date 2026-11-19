@@ -3,7 +3,7 @@ title: "Privacy e cookie"
 url: "/privacy/"
 date: 2026-10-21T12:00:00Z
 draft: false
-description: "Come Guida Energia tratta i dati dei visitatori: cookie tecnici, Google Analytics solo con consenso, link affiliati Amazon e diritti GDPR."
+description: "Come Guida Energia tratta i dati dei visitatori: cookie tecnici, Google Analytics solo con consenso e diritti GDPR."
 sitemap:
   disable: true
 ShowReadingTime: false
@@ -27,10 +27,6 @@ Il titolare è il gestore del sito guida-energia.com. Per qualsiasi richiesta su
 **Google Analytics 4 (solo con il tuo consenso).** Se accetti i cookie analitici, Google Analytics misura in forma aggregata quante persone visitano il sito, quali pagine leggono e da dove arrivano (motore di ricerca, social, link diretto). Se rifiuti, Google Analytics non salva cookie sul tuo dispositivo e riceve solo segnali anonimi senza identificativi (modalità "Consent Mode" di Google). Il fornitore è Google Ireland Ltd; i dati possono essere trasferiti negli Stati Uniti nell'ambito dell'EU-US Data Privacy Framework. Informativa di Google: [policies.google.com/privacy](https://policies.google.com/privacy).
 
 **Cookie di marketing.** Il sito al momento non usa cookie di marketing o pubblicità personalizzata.
-
-## Link ad Amazon
-
-Alcuni articoli contengono link verso Amazon.it. In qualità di Affiliato Amazon il sito può ricevere un guadagno dagli acquisti idonei. Quando clicchi un link e arrivi su Amazon, i cookie e i dati sono gestiti da Amazon secondo la sua informativa sulla privacy, non da questo sito.
 
 ## Cambiare la tua scelta sui cookie
 
