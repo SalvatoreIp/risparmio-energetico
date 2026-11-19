@@ -28,7 +28,7 @@ cd /home/salvatore/risparmio-energetico && rm -rf public/ && hugo --minify \
 
 - **Articles live in `content/<section>/`**, one Markdown file per article, named `YYYY-MM-DD-slug.md` (or `YYYY-MM-DD-HH-slug.md`). Each section has an `_index.md` for its listing page.
 - **URLs come from `slug:`.** Permalinks (`hugo.toml` `[permalinks]`) are `/<section>/:slug/` — the filename (with its `YYYY-MM-DD(-HH)-` prefix) is NOT used for the URL. With `slug: "pompe-di-calore"` the page is `https://guida-energia.com/smart-home/pompe-di-calore/`; without `slug:` Hugo falls back to the title (see below).
-- **Sections must be registered in three places** to fully work (nav menu, listing behavior, URL structure) — `hugo.toml`'s `[params].mainSections`, `[[menu.main]]` entries, and `[permalinks]`. `content/terrazzi/` currently exists on disk but is not registered in any of these — treat unregistered content directories as broken/orphaned until wired up.
+- **Sections must be registered in three places** to fully work (nav menu, listing behavior, URL structure) — `hugo.toml`'s `[params].mainSections`, `[[menu.main]]` entries, and `[permalinks]`. Since 2026-11-19 the `mobilita-sostenibile` and `terrazzi` sections are gone (off-topic cleanup); treat any unregistered content directory as broken/orphaned.
 - Required frontmatter per article:
   ```yaml
   ---
